@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Brandon 🐼👋</h1>
 <h3 align="center">This is just one of several places where I tinker with ideas, burn the midnight oil, fix bugs, and inadvertently end up creating more of them in the end, but alas… c'est la vie.</h3>
-<div align="center"><a href="https://twitter.com/branmcconnell" target="blank"><img src="https://img.shields.io/twitter/follow/branmcconnell?logo=twitter&style=for-the-badge" alt="branmcconnell" /></a></div>
+<div align="center"><a href="https://twitter.com/branmcconnell" target="blank"><img src="https://img.shields.io/twitter/follow/branmcconnell?logo=twitter&style=for-the-badge" alt="branmcconnell" /></a><br />&nbsp;<br /></div>
 
 <table border="0">
     <tr>
@@ -81,8 +81,7 @@
 <p><a href="https://www.buymeacoffee.com/brandonmcconnell"> <img align="left" src="https://i.imgur.com/7MybuYO.png" height="auto" width="217" alt="brandonmcconnell" /></a></p><br><br>
 <br /><br />
 <details>
-  <summary><h3>GitHub Profile Stats</h3><br /></summary>
-  <div><a href="#"><img src="https://komarev.com/ghpvc/?username=brandonmcconnell&label=Profile%20views&color=0e75b6&style=flat" alt="brandonmcconnell" /><br /><br /></a></div>
+  <summary><h3>GitHub Profile Stats</h3>&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://komarev.com/ghpvc/?username=brandonmcconnell&label=Profile%20views&color=0e75b6&style=flat" alt="brandonmcconnell" /></a><br /><small>☝🏼 Click to expand/collapse detailed stats</small><br />&nbsp;<br /></summary>
   <div><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=brandonmcconnell&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="brandonmcconnell" /><br /><br /></a></div>
   <div><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=brandonmcconnell&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="brandonmcconnell" /><br /><br /></a></div>
   <div><a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=brandonmcconnell&theme=dracula&hide_border=true" alt="brandonmcconnell" /><br /><br /></a></div>
