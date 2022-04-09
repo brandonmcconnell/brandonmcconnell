@@ -9,21 +9,21 @@
 
 - 👔 I’m currently employed at [Carevoyance at H1](https://www.carevoyance.com/)
 
-- 📚 I’m currently learning **Svelte, SvelteKit, D3, LayerCake, PostGreSQL**
+- 📚 I’m currently learning **Svelte**, **SvelteKit**, **D3**, **LayerCake**, **PostGreSQL**.
 
-- 👯 I’m looking to collaborate on **a new idea surrounding git versioning**
+- 👯 I’m looking to collaborate on **a new idea surrounding git versioning**.
 
-- 🤝 I’m looking for help with [Maintaining and growing TypedCSS](https://github.com/brandonmcconnell/typed.css)
+- 🤝 I’m looking for help maintaining and growing [TypedCSS](https://github.com/brandonmcconnell/typed.css).
 
-- 👨‍💻 Explore some of my tinkering at [https://codepen.io/brandonmcconnell](https://codepen.io/brandonmcconnell)
+- 👨‍💻 Explore some of my tinkering on [CodePen](https://codepen.io/brandonmcconnell).
 
-- 💬 Ask me about **CSS, SCSS, JavaScript, React, Svelte**
+- 💬 Ask me about **CSS**, **SCSS**, **JavaScript**, **React**, **Svelte**, or **travel**!
 
-- 📫 How to reach me **brandon@dreamthinkbuild.com**
+- 📫 You can reach me [on Twitter](https://twitter.com/branmcconnell) or via [email](mailto:brandon@dreamthinkbuild.com).
 
-- 📄 Learn more about my professional experience [https://www.linkedin.com/in/brandonmcconnell](https://www.linkedin.com/in/brandonmcconnell)
+- 📄 Learn more about my professional experience on [LinkedIn](https://www.linkedin.com/in/brandonmcconnell) or <a href="" download>download my resume</a>.
 
-- ⚡ About me **When I'm not flushing out lines of code faster than Eminem raps (or occasionally staring at my screen blankly), I enjoy traveling, photography, playing sports, hiking and spending time with my family.**
+- ⚡ When I'm not flushing out lines of code faster than Eminem raps (or occasionally staring at my screen blankly), I enjoy **traveling**, **photography**, **playing sports**, **hiking** and **spending time with friends and family**.
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -51,8 +51,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/brandonmcconnell"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="brandonmcconnell" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brandonmcconnell&show_icons=true&locale=en&layout=compact" alt="brandonmcconnell" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brandonmcconnell&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="brandonmcconnell" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brandonmcconnell&show_icons=true&locale=en" alt="brandonmcconnell" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brandonmcconnell&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true" alt="brandonmcconnell" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brandonmcconnell&" alt="brandonmcconnell" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brandonmcconnell&theme=vision-friendly-dark&hide_border=true" alt="brandonmcconnell" /></p>
