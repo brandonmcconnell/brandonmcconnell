@@ -5,21 +5,21 @@
 
 <p align="left"> <a href="https://twitter.com/branmcconnell" target="blank"><img src="https://img.shields.io/twitter/follow/branmcconnell?logo=twitter&style=for-the-badge" alt="branmcconnell" /></a> </p>
 
-- 👔 I’m currently employed at [Carevoyance at H1](https://www.carevoyance.com/)
+- 👔 I’m currently employed at [**Carevoyance at H1**](https://www.carevoyance.com/).
 
 - 📚 I’m currently learning **Svelte**, **SvelteKit**, **D3**, **LayerCake**, **PostGreSQL**.
 
 - 👯 I’m looking to collaborate on **a new idea surrounding git versioning**.
 
-- 🤝 I’m looking for help maintaining and growing [TypedCSS](https://github.com/brandonmcconnell/typed.css).
+- 🤝 I’m looking for help maintaining and growing [**TypedCSS**](https://github.com/brandonmcconnell/typed.css).
 
-- 👨‍💻 Explore some of my tinkering on [CodePen](https://codepen.io/brandonmcconnell).
+- 👨‍💻 Explore some of my tinkering on [**CodePen**](https://codepen.io/brandonmcconnell).
 
 - 💬 Ask me about **CSS**, **SCSS**, **JavaScript**, **React**, **Svelte**, or **travel**!
 
-- 📫 You can reach me [on Twitter](https://twitter.com/branmcconnell) or via [email](mailto:brandon@dreamthinkbuild.com).
+- 📫 You can reach me [**on Twitter**](https://twitter.com/branmcconnell) or via [**email**](mailto:brandon@dreamthinkbuild.com).
 
-- 📄 Learn more about my professional experience on [LinkedIn](https://www.linkedin.com/in/brandonmcconnell) or <a href="" download>download my resume</a>.
+- 📄 Learn more about my professional experience on [**LinkedIn**](https://www.linkedin.com/in/brandonmcconnell) or <a href="" download>**download my resume**</a>.
 
 - ⚡ When I'm not flushing out lines of code faster than Eminem raps (or occasionally staring at my screen blankly), I enjoy **traveling**, **photography**, **playing sports**, **hiking** and **spending time with friends and family**.
 
