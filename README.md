@@ -8,7 +8,7 @@
 <table border="0">
     <tr>
         <td>👔</td>
-        <td>I’m currently employed at <a href="https://www.carevoyance.com/" target="_blank">Carevoyance at H1</a>.</td>
+        <td>I’m currently employed at <b><a href="https://www.carevoyance.com/" target="_blank">Carevoyance at H1</a></b>.</td>
     </tr>
     <tr>
         <td>📚</td>
@@ -20,11 +20,11 @@
     </tr>
     <tr>
         <td>🤝</td>
-        <td>I’m looking for help maintaining and growing <a href="https://github.com/brandonmcconnell/typed.css" target="_blank">TypedCSS</a>.</td>
+        <td>I’m looking for help maintaining and growing <b><a href="https://github.com/brandonmcconnell/typed.css" target="_blank">TypedCSS</a></b>.</td>
     </tr>
     <tr>
         <td>👨‍💻</td>
-        <td>Explore some of my tinkering on <a href="https://codepen.io/brandonmcconnell" target="_blank">CodePen</a>.</td>
+        <td>Explore some of my tinkering on <b><a href="https://codepen.io/brandonmcconnell" target="_blank">CodePen</a></b>.</td>
     </tr>
     <tr>
         <td>💬</td>
@@ -32,11 +32,11 @@
     </tr>
     <tr>
         <td>📫</td>
-        <td>You can reach me <a href="https://twitter.com/branmcconnell" target="_blank">on Twitter</a> or via <a href="mailto:brandon@dreamthinkbuild.com" target="_blank">email</a>.</td>
+        <td>You can reach me <b><a href="https://twitter.com/branmcconnell" target="_blank">on Twitter</a></b> or via <b><a href="mailto:brandon@dreamthinkbuild.com" target="_blank">email</a></b>.</td>
     </tr>
     <tr>
         <td>📄</td>
-        <td>Learn more about my professional experience on <a href="https://www.linkedin.com/in/brandonmcconnell" target="_blank">LinkedIn</a> or <a href="https://github.com/brandonmcconnell/brandonmcconnell/raw/main/BrandonMcConnell-Resume.pdf">download my resume</a>.</td>
+        <td>Learn more about my professional experience on <b><a href="https://www.linkedin.com/in/brandonmcconnell" target="_blank">LinkedIn</a></b> or <b><a href="https://github.com/brandonmcconnell/brandonmcconnell/raw/main/BrandonMcConnell-Resume.pdf">download my resume</a></b>.</td>
     </tr>
     <tr>
         <td>⚡</td>
