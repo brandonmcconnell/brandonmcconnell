@@ -40,7 +40,7 @@
     </tr>
     <tr>
         <td>⚡</td>
-        <td>When I'm not flushing out lines of code faster than Eminem raps (or occasionally staring at my screen blankly), I enjoy **traveling** 🏔, **photography** 📸, **playing sports** 🏓, **hiking** 🥾, and **spending time with friends and family** 👨‍👩‍👧‍👦.</td>
+        <td>When I'm not flushing out lines of code faster than Eminem raps (or occasionally staring at my screen blankly), I enjoy <b>traveling</b> 🏔, <b>photography</b> 📸, <b>playing sports</b> 🏓, <b>hiking</b> 🥾, and <b>spending time with friends and family</b> 👨‍👩‍👧‍👦.</td>
     </tr>
 </table>
 
