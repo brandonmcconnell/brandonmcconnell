@@ -19,7 +19,7 @@
 
 - 📫 You can reach me [**on Twitter**](https://twitter.com/branmcconnell) or via [**email**](mailto:brandon@dreamthinkbuild.com).
 
-- 📄 Learn more about my professional experience on [**LinkedIn**](https://www.linkedin.com/in/brandonmcconnell) or <a href="" download>**download my resume**</a>.
+- 📄 Learn more about my professional experience on [**LinkedIn**](https://www.linkedin.com/in/brandonmcconnell) or [**download my resume**](https://github.com/brandonmcconnell/brandonmcconnell/raw/main/BrandonMcConnell-Resume.pdf).
 
 - ⚡ When I'm not flushing out lines of code faster than Eminem raps (or occasionally staring at my screen blankly), I enjoy **traveling**, **photography**, **playing sports**, **hiking** and **spending time with friends and family**.
 
