@@ -8,7 +8,7 @@
 <table border="0">
     <tr>
         <td>👔</td>
-        <td>I’m currently employed at [**Carevoyance at H1**](https://www.carevoyance.com/).</td>
+        <td>I’m currently employed at <a href="https://www.carevoyance.com/" target="_blank">Carevoyance at H1</a>.</td>
     </tr>
     <tr>
         <td>📚</td>
@@ -20,11 +20,11 @@
     </tr>
     <tr>
         <td>🤝</td>
-        <td>I’m looking for help maintaining and growing [**TypedCSS**](https://github.com/brandonmcconnell/typed.css).</td>
+        <td>I’m looking for help maintaining and growing <a href="https://github.com/brandonmcconnell/typed.css" target="_blank">TypedCSS</a>.</td>
     </tr>
     <tr>
         <td>👨‍💻</td>
-        <td>Explore some of my tinkering on [**CodePen**](https://codepen.io/brandonmcconnell).</td>
+        <td>Explore some of my tinkering on <a href="https://codepen.io/brandonmcconnell" target="_blank">CodePen</a>.</td>
     </tr>
     <tr>
         <td>💬</td>
@@ -32,11 +32,11 @@
     </tr>
     <tr>
         <td>📫</td>
-        <td>You can reach me [**on Twitter**](https://twitter.com/branmcconnell) or via [**email**](mailto:brandon@dreamthinkbuild.com).</td>
+        <td>You can reach me <a href="https://twitter.com/branmcconnell" target="_blank">on Twitter</a> or via <a href="mailto:brandon@dreamthinkbuild.com" target="_blank">email</a>.</td>
     </tr>
     <tr>
         <td>📄</td>
-        <td>Learn more about my professional experience on [**LinkedIn**](https://www.linkedin.com/in/brandonmcconnell) or [**download my resume**](https://github.com/brandonmcconnell/brandonmcconnell/raw/main/BrandonMcConnell-Resume.pdf).</td>
+        <td>Learn more about my professional experience on <a href="https://www.linkedin.com/in/brandonmcconnell" target="_blank">LinkedIn</a> or <a href="https://github.com/brandonmcconnell/brandonmcconnell/raw/main/BrandonMcConnell-Resume.pdf">download my resume</a>.</td>
     </tr>
     <tr>
         <td>⚡</td>
