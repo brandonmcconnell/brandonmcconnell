@@ -43,6 +43,11 @@
 
 ### My latest StackOverflow activity
 <!-- STACKOVERFLOW:START -->
+- [Prevent merging of branch conditionally based on label](https://stackoverflow.com/questions/71502652/prevent-merging-of-branch-conditionally-based-on-label)
+- [Answer by Brandon McConnell for Converting any string into camel case](https://stackoverflow.com/questions/2970525/converting-any-string-into-camel-case/71426723#71426723)
+- [Global Descendant-Only Styles in Svelte](https://stackoverflow.com/questions/71326906/global-descendant-only-styles-in-svelte)
+- [Accepting different function return types for dynamic property names in TypeScript](https://stackoverflow.com/questions/70971585/accepting-different-function-return-types-for-dynamic-property-names-in-typescri)
+- [Answer by Brandon McConnell for Display none some content and block one element](https://stackoverflow.com/questions/70969138/display-none-some-content-and-block-one-element/70970204#70970204)
 <!-- STACKOVERFLOW:END -->
 
 ### My latest tweets
