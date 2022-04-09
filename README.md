@@ -12,11 +12,11 @@
     </tr>
     <tr>
         <td>📚</td>
-        <td>I’m currently learning **Svelte**, **SvelteKit**, **D3**, **LayerCake**, **PostGreSQL**.</td>
+        <td>I’m currently learning <b>Svelte</b>, <b>SvelteKit</b>, <b>D3</b>, <b>LayerCake</b>, <b>PostGreSQL</b>.</td>
     </tr>
     <tr>
         <td>👯</td>
-        <td>I’m looking to collaborate on **a new idea surrounding git versioning**.</td>
+        <td>I’m looking to collaborate on <b>a new idea surrounding git versioning</b>.</td>
     </tr>
     <tr>
         <td>🤝</td>
@@ -28,7 +28,7 @@
     </tr>
     <tr>
         <td>💬</td>
-        <td>Ask me about **CSS**, **SCSS**, **JavaScript**, **React**, or **Svelte**.</td>
+        <td>Ask me about <b>CSS</b>, <b>SCSS</b>, <b>JavaScript</b>, <b>React</b>, or <b>Svelte</b>.</td>
     </tr>
     <tr>
         <td>📫</td>
