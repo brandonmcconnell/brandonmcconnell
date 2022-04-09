@@ -1,9 +1,7 @@
-<h1 align="center">Hi there 👋, I'm Brandon McConnell</h1>
-<h3 align="center">This is the place where I tinker with ideas, burn the midnight oil, fix bugs, and inadvertently end up creating more of them, but… c'est la vie.</h3>
+<h1 align="center">Hi there 👋 I'm Brandon McConnell</h1>
+<h3 align="center">This is the place where I tinker with ideas, burn the midnight oil, fix bugs, and inadvertently end up creating more of them in the end, but… c'est la vie.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brandonmcconnell&label=Profile%20views&color=0e75b6&style=flat" alt="brandonmcconnell" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brandonmcconnell" alt="brandonmcconnell" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/branmcconnell" target="blank"><img src="https://img.shields.io/twitter/follow/branmcconnell?logo=twitter&style=for-the-badge" alt="branmcconnell" /></a> </p>
 
@@ -31,13 +29,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/brandonmcconnell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="brandonmcconnell" height="30" width="40" /></a>
-<a href="https://dev.to/brandonmcconnell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="brandonmcconnell" height="30" width="40" /></a>
 <a href="https://twitter.com/branmcconnell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="branmcconnell" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/brandonmcconnell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brandonmcconnell" height="30" width="40" /></a>
-<a href="https://codesandbox.com/brandonmcconnell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="brandonmcconnell" height="30" width="40" /></a>
-<a href="https://fb.com/brandonmcconnellsite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="brandonmcconnellsite" height="30" width="40" /></a>
+<a href="https://codepen.io/brandonmcconnell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="brandonmcconnell" height="30" width="40" /></a>
 <a href="https://instagram.com/ourdailybrad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ourdailybrad" height="30" width="40" /></a>
+<a href="https://dev.to/brandonmcconnell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="brandonmcconnell" height="30" width="40" /></a>
 <a href="https://dribbble.com/brandonmcconnell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="brandonmcconnell" height="30" width="40" /></a>
 <a href="https://www.behance.net/brandonmcconnell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="brandonmcconnell" height="30" width="40" /></a>
 <a href="https://hashnode.com/brandonmcconnell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="brandonmcconnell" height="30" width="40" /></a>
