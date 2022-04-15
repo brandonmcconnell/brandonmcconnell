@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: &lt;blink&gt; &lt;font size=&quot;32&quot; color=&quot;#FF0000&quot;&gt; wElCoMe tO mY wEbSiTe¡ &lt;/font&gt;&lt;/blink&gt;](https://twitter.com/branmcconnell/status/1514762139935952899)
 - [@ryanflorence: I’m on a train downtown for a meeting and the idea that people travel miles from home to sit at a computer with headphones on every single day is hilariously ridiculous.](https://twitter.com/ryanflorence/status/1514613009963880462)
 - [@branmcconnell: Am I the only one who actually wants to keep using these @StackOverflow Filters? 😅](https://twitter.com/branmcconnell/status/1509947435321278465)
 - [@branmcconnell: :has&lpar;&rpar; is officially live in Safari &lpar;not just Technology Preview&rpar; 🔥This is arguably the most anticipated feature in CSS in the past 10 years. Thank you to everyone on the Safari and WebKit teams who made this happen!](https://twitter.com/branmcconnell/status/1507544808138715143)
 - [@branmcconnell: If glasses were invented in the 21st century, you’d have to charge them every two hours.](https://twitter.com/branmcconnell/status/1507135737346629633)
-- [@branmcconnell: CSS subgrid and containment are now enabled by default in Safari Technology Preview, among other updates. I can barely keep up with all Safari’s updates these days. 🥳](https://twitter.com/branmcconnell/status/1506906170266632197)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
