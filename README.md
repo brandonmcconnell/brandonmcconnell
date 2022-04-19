@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: I&#39;m the somewhat accidental, now much poorer, proud owner of ! 🎉💸.new domains have to be &quot;actionable&quot; &lpar;see the attached note from Google&rpar;. What do y&#39;all think I should do with it?✨ LOOKING FOR CREATIVE IDEAS ✨How would you like to use it? 🙂](https://twitter.com/branmcconnell/status/1516437695970566157)
 - [@cassidoo: Happy Easter! He is Risen!](https://twitter.com/cassidoo/status/1515698887356518411)
 - [@branmcconnell: Anyone know where I can meet and hire a VSCode extension developer? 👏🏼If you are one, great — let’s talk!](https://twitter.com/branmcconnell/status/1515421428065128449)
 - [@branmcconnell: I’m full #TeamElon especially after this comment. Empower the devs 💪🏼🧑🏻‍💻](https://twitter.com/branmcconnell/status/1515042796750708737)
 - [@branmcconnell: &lt;blink&gt; &lt;font size=&quot;32&quot; color=&quot;#FF0000&quot;&gt; wElCoMe tO mY wEbSiTe¡ &lt;/font&gt;&lt;/blink&gt;](https://twitter.com/branmcconnell/status/1514762139935952899)
-- [@ryanflorence: I’m on a train downtown for a meeting and the idea that people travel miles from home to sit at a computer with headphones on every single day is hilariously ridiculous.](https://twitter.com/ryanflorence/status/1514613009963880462)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
