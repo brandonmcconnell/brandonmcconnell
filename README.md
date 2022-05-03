@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @adamwathan When you have a chance, could you respond to either of these questions?Especially those in the first tweet. Thanks 👏🏼](https://twitter.com/branmcconnell/status/1521616143953416192)
 - [@branmcconnell: Introducing `scrollbar-gutter: stable` 🤩Goodbye unexpected layout shift! 🎉🙉](https://twitter.com/branmcconnell/status/1521151023720673287)
 - [@branmcconnell: Well this just happened… and to think that I almost used my second word first 😪Wordle 317 2/6⬜⬜⬜⬜⬜🟩🟩🟩🟩🟩](https://twitter.com/branmcconnell/status/1520997205431234560)
 - [@branmcconnell: Well this just happened… and to think that I also used my second word first 😪Wordle 317 2/6⬜⬜⬜⬜⬜🟩🟩🟩🟩🟩](https://twitter.com/branmcconnell/status/1520994557512622080)
 - [@branmcconnell: That’s been my one hesitation to buy one for myself. If hydroelectric charging were supported, I’d buy one without hesitation. 👋🏼💸](https://twitter.com/branmcconnell/status/1520458018437189632)
-- [@branmcconnell: It baffles me that @netflix thinks canceling more shows and firing more employees is going to help their business succeed.](https://twitter.com/branmcconnell/status/1520039418530258944)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
