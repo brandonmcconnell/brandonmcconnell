@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Brandon 🐼👋</h1>
-<h3 align="center">This is just one of several places where I tinker with ideas, burn the midnight oil, fix bugs, and inadvertently end up creating more of them in the end, but alas… c'est la vie d'un développeur.</h3>
+<h3 align="center">This is just one of several places where I tinker with ideas, burn the midnight oil, fix bugs and inadvertently end up creating more of them in the end, but alas… c'est la vie d'un développeur.</h3>
 <div align="center"><a href="https://twitter.com/branmcconnell" target="blank"><img src="https://img.shields.io/twitter/follow/branmcconnell?logo=twitter&style=for-the-badge" alt="branmcconnell" /></a><br />&nbsp;<br /></div>
 
 <table border="0">
