@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Brandon 🐼👋</h1>
-<h3 align="center">This is just one of several places where I tinker with ideas, burn the midnight oil, fix bugs, and inadvertently end up creating more of them in the end, but alas… c'est la vie.</h3>
+<h3 align="center">This is just one of several places where I tinker with ideas, burn the midnight oil, fix bugs, and inadvertently end up creating more of them in the end, but alas… c'est la vie d'un développeur.</h3>
 <div align="center"><a href="https://twitter.com/branmcconnell" target="blank"><img src="https://img.shields.io/twitter/follow/branmcconnell?logo=twitter&style=for-the-badge" alt="branmcconnell" /></a><br />&nbsp;<br /></div>
 
 <table border="0">
@@ -56,7 +56,6 @@
 - [@branmcconnell: @adamwathan When you have a chance, could you respond to either of these questions?Especially those in the first tweet. Thanks 👏🏼](https://twitter.com/branmcconnell/status/1521616143953416192)
 - [@branmcconnell: Introducing `scrollbar-gutter: stable` 🤩Goodbye unexpected layout shift! 🎉🙉](https://twitter.com/branmcconnell/status/1521151023720673287)
 - [@branmcconnell: Well this just happened… and to think that I almost used my second word first 😪Wordle 317 2/6⬜⬜⬜⬜⬜🟩🟩🟩🟩🟩](https://twitter.com/branmcconnell/status/1520997205431234560)
-- [@branmcconnell: Well this just happened… and to think that I also used my second word first 😪Wordle 317 2/6⬜⬜⬜⬜⬜🟩🟩🟩🟩🟩](https://twitter.com/branmcconnell/status/1520994557512622080)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
