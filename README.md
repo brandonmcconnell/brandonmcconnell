@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@steventey: Great news - you can now delegate subdomains directly on the @Vercel dashboard / via our REST API 🎉This has been a pain point for a lot of our Platforms on Vercel users and I&#39;m excited to announce that a self-serve option is finally live 🤩Here&#39;s a video of it in action 👇](https://twitter.com/steventey/status/1521880254817599488)
 - [@branmcconnell: @amazon @alexa99 maybe you should get in on this market. It’s the main Alexa blind spot I have in my house where I often want to use Alexa for updates and music. 😁🙏🏼](https://twitter.com/branmcconnell/status/1521636068260564994)
 - [@branmcconnell: @adamwathan When you have a chance, could you respond to either of these questions?Especially those in the first tweet. Thanks 👏🏼](https://twitter.com/branmcconnell/status/1521616143953416192)
 - [@branmcconnell: Introducing `scrollbar-gutter: stable` 🤩Goodbye unexpected layout shift! 🎉🙉](https://twitter.com/branmcconnell/status/1521151023720673287)
 - [@branmcconnell: Well this just happened… and to think that I almost used my second word first 😪Wordle 317 2/6⬜⬜⬜⬜⬜🟩🟩🟩🟩🟩](https://twitter.com/branmcconnell/status/1520997205431234560)
-- [@branmcconnell: Well this just happened… and to think that I also used my second word first 😪Wordle 317 2/6⬜⬜⬜⬜⬜🟩🟩🟩🟩🟩](https://twitter.com/branmcconnell/status/1520994557512622080)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
