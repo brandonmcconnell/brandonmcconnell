@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: However, the current refill policy now appears to lack the &quot;regardless&quot; portion of the old policy. Is that no longer the case?](https://twitter.com/branmcconnell/status/1524882758509600769)
 - [@branmcconnell: Also… – do y’all by any chance have a copy of last night’s set list? I’d love to listen back through – if you guys by any chance recorded the audio from last night’s concert live &lpar;Phoenix&rpar;, I would pay $100 for a copy 🙏🏼](https://twitter.com/branmcconnell/status/1524396570984128512)
 - [@batflashdesign: Spoilers warning : People are really thinking Dr strange 2 was the 1st time John krasinski appeared in the Mcu but he has also been in ant man and wasp and wandavison as jimmy woo #MultiverseOfMadness #DoctorStrange](https://twitter.com/batflashdesign/status/1522763405454569472)
 - [@steventey: Great news - you can now delegate subdomains directly on the @Vercel dashboard / via our REST API 🎉This has been a pain point for a lot of our Platforms on Vercel users and I&#39;m excited to announce that a self-serve option is finally live 🤩Here&#39;s a video of it in action 👇](https://twitter.com/steventey/status/1521880254817599488)
 - [@branmcconnell: @amazon @alexa99 maybe you should get in on this market. It’s the main Alexa blind spot I have in my house where I often want to use Alexa for updates and music. 😁🙏🏼](https://twitter.com/branmcconnell/status/1521636068260564994)
-- [@branmcconnell: @adamwathan When you have a chance, could you respond to either of these questions?Especially those in the first tweet. Thanks 👏🏼](https://twitter.com/branmcconnell/status/1521616143953416192)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
