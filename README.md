@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @SvelteSociety @d3visualization](https://twitter.com/branmcconnell/status/1527412248905494528)
+- [@branmcconnell: Oh and if you know me personally, are well-versed in both Svelte and D3, and think you&#39;d be a great fit, def DM me so we can talk details.I might be able to push your application through more quickly 👋🏼](https://twitter.com/branmcconnell/status/1527411974010720260)
+- [@branmcconnell: My team is hiring for a Senior Front-End Engineer!!!Come work with us! 💼🙌🏼If you enjoy UI &amp; data viz, you might be a great fit 😁Exp in any JS framework &lpar;we use @sveltejs&rpar; or D3.js is a HUGE plus. Post questions in the comments or DM me!Job Desc:](https://twitter.com/branmcconnell/status/1527411637417824259)
 - [@juanbuis: it’s incredible how reading this feels like finally unlocking 100% of your brain&lpar;via @christophepas&rpar;](https://twitter.com/juanbuis/status/1526900107379105793)
 - [@branmcconnell: However, the current refill policy now appears to lack the &quot;regardless&quot; portion of the old policy. Is that no longer the case?](https://twitter.com/branmcconnell/status/1524882758509600769)
-- [@branmcconnell: Also… – do y’all by any chance have a copy of last night’s set list? I’d love to listen back through – if you guys by any chance recorded the audio from last night’s concert live &lpar;Phoenix&rpar;, I would pay $100 for a copy 🙏🏼](https://twitter.com/branmcconnell/status/1524396570984128512)
-- [@batflashdesign: Spoilers warning : People are really thinking Dr strange 2 was the 1st time John krasinski appeared in the Mcu but he has also been in ant man and wasp and wandavison as jimmy woo #MultiverseOfMadness #DoctorStrange](https://twitter.com/batflashdesign/status/1522763405454569472)
-- [@steventey: Great news - you can now delegate subdomains directly on the @Vercel dashboard / via our REST API 🎉This has been a pain point for a lot of our Platforms on Vercel users and I&#39;m excited to announce that a self-serve option is finally live 🤩Here&#39;s a video of it in action 👇](https://twitter.com/steventey/status/1521880254817599488)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
