@@ -55,8 +55,8 @@
 - [@branmcconnell: @SvelteSociety @d3visualization](https://twitter.com/branmcconnell/status/1527412248905494528)
 - [@branmcconnell: Oh and if you know me personally, are well-versed in both Svelte and D3, and think you&#39;d be a great fit, def DM me so we can talk details.I might be able to push your application through more quickly 👋🏼](https://twitter.com/branmcconnell/status/1527411974010720260)
 - [@branmcconnell: My team is hiring for a Senior Front-End Engineer!!!Come work with us! 💼🙌🏼If you enjoy UI &amp; data viz, you might be a great fit 😁Exp in any JS framework &lpar;we use @sveltejs&rpar; or D3.js is a HUGE plus. Post questions in the comments or DM me!Job Desc:](https://twitter.com/branmcconnell/status/1527411637417824259)
+- [@diegohaz: When I started delving into a11y about 6 years ago, I used to consult experts.But my experience was generally frustrating. They had 100 problems for every solution I proposed.Today, for every problem someone presents to me, I&#39;ll research and come back with 100 solutions.](https://twitter.com/diegohaz/status/1527265435623751680)
 - [@juanbuis: it’s incredible how reading this feels like finally unlocking 100% of your brain&lpar;via @christophepas&rpar;](https://twitter.com/juanbuis/status/1526900107379105793)
-- [@branmcconnell: However, the current refill policy now appears to lack the &quot;regardless&quot; portion of the old policy. Is that no longer the case?](https://twitter.com/branmcconnell/status/1524882758509600769)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
