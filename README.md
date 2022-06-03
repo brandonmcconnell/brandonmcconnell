@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@paulo_caelum: Neutral Neutral aqui. Prove o seu diferentão.](https://twitter.com/paulo_caelum/status/1532368420448215040)
 - [@flybayer: Floral Brandon vibes with @branmcconnell! 😁 at @renderatl #render2022](https://twitter.com/flybayer/status/1532221261253853185)
 - [@branmcconnell: :has&lpar;&rpar; is almost here and supported EVERYWHERE 🎉This is amazing!! Been waiting for this day for like 12 years. Can’t wait to test it across all modern browsers 🙏🏼](https://twitter.com/branmcconnell/status/1532051345108258817)
 - [@tabatkins: Aw yeah, we resolved all the remaining blocking questions on :has&lpar;&rpar; at this morning&#39;s call. Need to do some edits to address the resolutions, then we&#39;re golden for shipping it everywhere! &lpar;Safari already has, and has been v helpful in deciding what restrictions we could avoid.&rpar;](https://twitter.com/tabatkins/status/1532047144365924352)
 - [@branmcconnell: How protecting my Wordle streak feels this week162 / 100% / 162 / 162 😮‍💨](https://twitter.com/branmcconnell/status/1531368521602588674)
-- [@branmcconnell: Created with @carbon_app](https://twitter.com/branmcconnell/status/1530789627530969089)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
