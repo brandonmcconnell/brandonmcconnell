@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: I&#39;d like to see standardization of a symbol for &quot;functionally/programmatically equal&quot;Often in JS/CSS comments, when denoting two values as equal, I reach for ===, math/logic symbols ≽ / ~ / ≡, or more randomly `::`Anyone else have a better option for this?](https://twitter.com/branmcconnell/status/1537458245488496649)
 - [@EddyVinckk: Tomorrow, Microsoft ends support for Internet Explorer 11](https://twitter.com/EddyVinckk/status/1536645664804941824)
 - [@arvidkahl: Depicted: a SaaS founder believing that if you build it, they will come.](https://twitter.com/arvidkahl/status/1535704152562667522)
 - [@marbiano3:](https://twitter.com/marbiano3/status/1534975488560709634)
 - [@paulo_caelum: Neutral Neutral aqui. Prove o seu diferentão.](https://twitter.com/paulo_caelum/status/1532368420448215040)
-- [@flybayer: Floral Brandon vibes with @branmcconnell! 😁 at @renderatl #render2022](https://twitter.com/flybayer/status/1532221261253853185)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
