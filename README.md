@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: In JS, we have methods for deep cloning arrays/objects &lpar;not by ref&rpar;.Is there a way to deep clone a function to assign properties to only its copy?let a = &lpar;&rpar; =&gt; {};let b = Object.assign&lpar;new Function&lpar;&rpar;, a&rpar;;a.test = 5;b.test // -&gt; 5a.test // -&gt; undefined](https://twitter.com/branmcconnell/status/1539998386954407936)
 - [@branmcconnell: Grammar question re the Oxford comma— “My wife, Kristina, and I will be there.”Is there a grammatical convention to distinguish in the quoted statement above that I am clarifying who my wife is and not saying, “A, B, and C”?](https://twitter.com/branmcconnell/status/1539995337779298305)
 - [@branmcconnell: Phase 2 of @SweetoothNFTs &lpar;@CATCHERnfts&rpar; is launching today or tomorrow, exclusive to Phase 1 holders. If you haven’t already snagged at least 1 sweetooth, now is the time 👀Secondary market: :](https://twitter.com/branmcconnell/status/1539948635676450818)
 - [@jsjoeio: if I were to start learning Rust today, this is where I&#39;d start](https://twitter.com/jsjoeio/status/1539240325692243968)
 - [@branmcconnell: If you&#39;re active in the NFT sphere and haven&#39;t explored the @SweetoothNFTs community yet, now is the timeThe floor just shot up from 0.8 SOL to 1.5 SOL, and they&#39;re announcing Phase 2 today 👀](https://twitter.com/branmcconnell/status/1538930204982272001)
-- [@branmcconnell: This is largely my problem when building feature PRs 🤦🏻‍♂️](https://twitter.com/branmcconnell/status/1537995769872908289)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
