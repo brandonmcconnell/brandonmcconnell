@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@flybayer: Starting a new social network](https://twitter.com/flybayer/status/1544620791517646851)
 - [@branmcconnell: SUCH a killer feature! Most frontend devs just do this themselves using a &lt;br&gt; and it&#39;s always manually adjusted for responsive and when changing the headlineNo more of this—The best &lt;br class=&quot;below-lg&quot;&gt;headline the &lt;br class=&quot;lg&quot;&gt;world &lt;br class=&quot;below-lg&quot;&gt;has ever seen!](https://twitter.com/branmcconnell/status/1542509626624573441)
 - [@branmcconnell: In JS, we have methods for deep cloning arrays/objects &lpar;not by ref&rpar;.Is there a way to deep clone a function to assign properties to only its copy?let a = &lpar;&rpar; =&gt; {};let b = Object.assign&lpar;new Function&lpar;&rpar;, a&rpar;;a.test = 5;b.test // -&gt; 5a.test // -&gt; undefined](https://twitter.com/branmcconnell/status/1539998386954407936)
 - [@branmcconnell: Grammar question re the Oxford comma— “My wife, Kristina, and I will be there.”Is there a grammatical convention to distinguish in the quoted statement above that I am clarifying who my wife is and not saying, “A, B, and C”?](https://twitter.com/branmcconnell/status/1539995337779298305)
 - [@branmcconnell: Phase 2 of @SweetoothNFTs &lpar;@CATCHERnfts&rpar; is launching today or tomorrow, exclusive to Phase 1 holders. If you haven’t already snagged at least 1 sweetooth, now is the time 👀Secondary market: :](https://twitter.com/branmcconnell/status/1539948635676450818)
-- [@jsjoeio: if I were to start learning Rust today, this is where I&#39;d start](https://twitter.com/jsjoeio/status/1539240325692243968)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
