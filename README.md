@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Some of the coolest CSS art and animation I’ve seen. Definitely give @julia_miocene a follow 👋🏼#CSSArtGoneWild #CSSArt #frontend #html #css](https://twitter.com/branmcconnell/status/1548682189101010944)
 - [@branmcconnell: All engineering in a nutshell](https://twitter.com/branmcconnell/status/1547271363358064641)
 - [@tannerc: Believe it or not, at one point in time this was a symbol of peak digital design.](https://twitter.com/tannerc/status/1546299438687289344)
 - [@branmcconnell: Business idea of the year— 2-sided blinds, so you never have to choose who sees the ugly side, you or your neighbors](https://twitter.com/branmcconnell/status/1545541674201481218)
 - [@flybayer: Starting a new social network](https://twitter.com/flybayer/status/1544620791517646851)
-- [@branmcconnell: SUCH a killer feature! Most frontend devs just do this themselves using a &lt;br&gt; and it&#39;s always manually adjusted for responsive and when changing the headlineNo more of this—The best &lt;br class=&quot;below-lg&quot;&gt;headline the &lt;br class=&quot;lg&quot;&gt;world &lt;br class=&quot;below-lg&quot;&gt;has ever seen!](https://twitter.com/branmcconnell/status/1542509626624573441)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
