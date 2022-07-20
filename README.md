@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @jensimmons @jon_neal @kentcdodds @ChallengesCss @bramus do any of you know of an event I can listen for that will fire when a user taps/clicks an actively scrolling area to stop the scroll?](https://twitter.com/branmcconnell/status/1549733504707076098)
 - [@branmcconnell: Anyone know of a way to listen for a tap/click event used to stop a touch-triggered scroll? If the `touchend` event has already fired and the scroll is still slowing down and then abruptly stopped, no new event appears to fire.btw I&#39;m specifically testing on iOS currently 👋🏼](https://twitter.com/branmcconnell/status/1549415128935849988)
 - [@branmcconnell: Some of the coolest CSS art and animation I’ve seen. Definitely give @julia_miocene a follow 👋🏼#CSSArtGoneWild #CSSArt #frontend #html #css](https://twitter.com/branmcconnell/status/1548682189101010944)
 - [@branmcconnell: All engineering in a nutshell](https://twitter.com/branmcconnell/status/1547271363358064641)
 - [@tannerc: Believe it or not, at one point in time this was a symbol of peak digital design.](https://twitter.com/tannerc/status/1546299438687289344)
-- [@branmcconnell: Business idea of the year— 2-sided blinds, so you never have to choose who sees the ugly side, you or your neighbors](https://twitter.com/branmcconnell/status/1545541674201481218)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
