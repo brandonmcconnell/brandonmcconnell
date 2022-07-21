@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: I feel like I always get to this stage in the idea process and then bottleneck myself with my lack of backend and machine learning experience. 🤷🏻‍♂️](https://twitter.com/branmcconnell/status/1550108500759560192)
+- [@branmcconnell: Say I have a unique SaaS idea and want to pull in addtl devs to co-found it and build it out— something in line with Uber, WeWork, Airbnb, etc.What’s the best way to find and assemble an elite indie-hacking team around that idea?](https://twitter.com/branmcconnell/status/1550107674783662080)
 - [@branmcconnell: @jensimmons @jon_neal @kentcdodds @ChallengesCss @bramus do any of you know of an event I can listen for that will fire when a user taps/clicks an actively scrolling area to stop the scroll?](https://twitter.com/branmcconnell/status/1549733504707076098)
 - [@branmcconnell: Anyone know of a way to listen for a tap/click event used to stop a touch-triggered scroll? If the `touchend` event has already fired and the scroll is still slowing down and then abruptly stopped, no new event appears to fire.btw I&#39;m specifically testing on iOS currently 👋🏼](https://twitter.com/branmcconnell/status/1549415128935849988)
 - [@branmcconnell: Some of the coolest CSS art and animation I’ve seen. Definitely give @julia_miocene a follow 👋🏼#CSSArtGoneWild #CSSArt #frontend #html #css](https://twitter.com/branmcconnell/status/1548682189101010944)
-- [@branmcconnell: All engineering in a nutshell](https://twitter.com/branmcconnell/status/1547271363358064641)
-- [@tannerc: Believe it or not, at one point in time this was a symbol of peak digital design.](https://twitter.com/tannerc/status/1546299438687289344)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
