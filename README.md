@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Some of the most overrated fonts of all time imo #hottake – Helvetica – Proxima Nova – GothamWhat are some fonts you consider overrated? What are some of your favorites?](https://twitter.com/branmcconnell/status/1552782921198616577)
 - [@branmcconnell: What if… 💭 spoken languages were maintained in git and contributors submitted proposals &amp; opened PRs for changes?would there have been tons of pushback when someone proposed switching “hath” to “has”?would American English itself have been a fork of British English? 🤔](https://twitter.com/branmcconnell/status/1550561241722126339)
 - [@branmcconnell: Just like that… any chance of me having interest in @BMW… gone. 💨](https://twitter.com/branmcconnell/status/1550474873956405251)
 - [@buitengebieden: How to fold a fitted sheet.. 😅](https://twitter.com/buitengebieden/status/1550432917884747776)
 - [@branmcconnell: I feel like I always get to this stage in the idea process and then bottleneck myself with my lack of backend and machine learning experience. 🤷🏻‍♂️](https://twitter.com/branmcconnell/status/1550108500759560192)
-- [@branmcconnell: Say I have a unique SaaS idea and want to pull in addtl devs to co-found it and build it out— something in line with Uber, WeWork, Airbnb, etc.What’s the best way to find and assemble an elite indie-hacking team around that idea?](https://twitter.com/branmcconnell/status/1550107674783662080)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
