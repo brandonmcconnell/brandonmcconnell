@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Animated CSS Grid is coming!! Just committed to Chromium 🙉](https://twitter.com/branmcconnell/status/1555795768069554176)
 - [@bramus: 👀 chromium commit 075807e3782c75c944c2afe65471a893d4676f9b[css-grid] Support transitions/animations on grid-template-columns|rowsFixed: 🤩 That means this demo by @MicheBarks now properly animates:  it Chrome Canary!](https://twitter.com/bramus/status/1555195470955298819)
 - [@mattgperry: 👩‍🚀 Ever wanted to transform an element without transforming its child? It&#39;s possible!Once per frame, calculate the inverse of each transform &lpar;100px becomes -100px etc&rpar; and apply to the child in reverse order.Here&#39;s how to do it with Framer Motion:](https://twitter.com/mattgperry/status/1554837915124973572)
 - [@branmcconnell: Some of the most overrated fonts of all time imo #hottake – Helvetica – Proxima Nova – GothamWhat are some fonts you consider overrated? What are some of your favorites?](https://twitter.com/branmcconnell/status/1552782921198616577)
 - [@branmcconnell: What if… 💭 spoken languages were maintained in git and contributors submitted proposals &amp; opened PRs for changes?would there have been tons of pushback when someone proposed switching “hath” to “has”?would American English itself have been a fork of British English? 🤔](https://twitter.com/branmcconnell/status/1550561241722126339)
-- [@branmcconnell: Just like that… any chance of me having interest in @BMW… gone. 💨](https://twitter.com/branmcconnell/status/1550474873956405251)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
