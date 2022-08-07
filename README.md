@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: I&#39;d love to see `:[first/last/nth]-visible-[child/of-type]` pseudo classes added to CSS so we can target perceived first/last/nth items, even if items before or after them in the DOM order are completely hidden from the DOM using `display: none`📣 @csswg @w3ctag 🙏🏼](https://twitter.com/branmcconnell/status/1556375797484716033)
 - [@branmcconnell: In other words, there’s a reason I left IG and came to Twitter 🤷🏻‍♂️](https://twitter.com/branmcconnell/status/1556260977334706186)
 - [@branmcconnell: Dear @Twitter @OfficialPartner @TwitterEng PLEASE don’t go too deep down the video rabbit hole. It’s completely changed every other social app many of us used to like— Facebook, Instagram, etc.](https://twitter.com/branmcconnell/status/1556243472373501953)
 - [@branmcconnell: Any innovators or inventors out there looking for new ideas — us lazy people don’t have auto-brushing toothbrushes or AI-powered barber caps that give pro haircuts yet 👋🏼](https://twitter.com/branmcconnell/status/1555936980336271363)
 - [@branmcconnell: Animated CSS Grid is coming!! Just committed to Chromium 🙉](https://twitter.com/branmcconnell/status/1555795768069554176)
-- [@bramus: 👀 chromium commit 075807e3782c75c944c2afe65471a893d4676f9b[css-grid] Support transitions/animations on grid-template-columns|rowsFixed: 🤩 That means this demo by @MicheBarks now properly animates:  it Chrome Canary!](https://twitter.com/bramus/status/1555195470955298819)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
