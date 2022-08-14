@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: The need for an occasional date night in with bougie pasta, wine, homemade popcorn, and a Netflix binge cannot be understated 🍝🥗🍿🥂👌🏼@netflix #LockeAndKey #LockeandKeySeason3 #Netflix #NetflixAndChill](https://twitter.com/branmcconnell/status/1558625671865421824)
 - [@branmcconnell: CSS buttons🎉🎶 My buttons don&#39;t jiggle-jiggle, they… swivel 🎶Create a button-group with a 3D hover effect✅ Minimal HTML✅ No pseudo-elements✅ Keyboard accessible✅ Dark mode readyDemo:  via @CodePen~ tweet inspired by @ChallengesCss #CSS](https://twitter.com/branmcconnell/status/1558199646375137281)
 - [@branmcconnell: @tabatkins I had this likely-unoriginal idea today that I thought I&#39;d get your thoughts on. I think it&#39;d be really useful, but I&#39;m not sure how difficult the implementation would be](https://twitter.com/branmcconnell/status/1556996848975548416)
 - [@branmcconnell: I&#39;d love to see `:[first/last/nth]-visible-[child/of-type]` pseudo classes added to CSS so we can target perceived first/last/nth items, even if items before or after them in the DOM order are completely hidden from the DOM using `display: none`📣 @csswg @w3ctag 🙏🏼](https://twitter.com/branmcconnell/status/1556375797484716033)
 - [@branmcconnell: In other words, there’s a reason I left IG and came to Twitter 🤷🏻‍♂️](https://twitter.com/branmcconnell/status/1556260977334706186)
-- [@branmcconnell: Dear @Twitter @OfficialPartner @TwitterEng PLEASE don’t go too deep down the video rabbit hole. It’s completely changed every other social app many of us used to like— Facebook, Instagram, etc.](https://twitter.com/branmcconnell/status/1556243472373501953)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
