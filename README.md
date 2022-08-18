@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Taking a stab at how this works behind the scenes—probably with a substring replacement—all I may need is to change the `projectPath` to the top directory shared between both files. Where can I go to change that constant variable value?](https://twitter.com/branmcconnell/status/1560345525282545672)
+- [@branmcconnell: It appears that sometimes, the desired path for VSCode is `${projectPath}${filePath}`, and other times it&#39;s just `${filePath}` that contains the entire desired oath when using an absolute path.](https://twitter.com/branmcconnell/status/1560345318557900800)
+- [@branmcconnell: RELATIVE `filePath`:`src/routes/app/providers/[provider_id]/[...tabId].svelte`ABSOLUTE `filePath`:`Users/brandon.mcconnell/Projects/Code-Monorepo/code/libs/components/TabsHeader.svelte`☝🏼 these both occur for clicks on different components within the same page](https://twitter.com/branmcconnell/status/1560344718218756096)
 - [@Una: Adding focus time to my calendar has been a GAME CHANGER. Highly recommend 💯](https://twitter.com/Una/status/1559200057370484736)
 - [@branmcconnell: The need for an occasional date night in with bougie pasta, wine, homemade popcorn, and a Netflix binge cannot be understated 🍝🥗🍿🥂👌🏼@netflix #LockeAndKey #LockeandKeySeason3 #Netflix #NetflixAndChill](https://twitter.com/branmcconnell/status/1558625671865421824)
-- [@branmcconnell: CSS buttons🎉🎶 My buttons don&#39;t jiggle-jiggle, they… swivel 🎶Create a button-group with a 3D hover effect✅ Minimal HTML✅ No pseudo-elements✅ Keyboard accessible✅ Dark mode readyDemo:  via @CodePen~ tweet inspired by @ChallengesCss #CSS](https://twitter.com/branmcconnell/status/1558199646375137281)
-- [@branmcconnell: @tabatkins I had this likely-unoriginal idea today that I thought I&#39;d get your thoughts on. I think it&#39;d be really useful, but I&#39;m not sure how difficult the implementation would be](https://twitter.com/branmcconnell/status/1556996848975548416)
-- [@branmcconnell: I&#39;d love to see `:[first/last/nth]-visible-[child/of-type]` pseudo classes added to CSS so we can target perceived first/last/nth items, even if items before or after them in the DOM order are completely hidden from the DOM using `display: none`📣 @csswg @w3ctag 🙏🏼](https://twitter.com/branmcconnell/status/1556375797484716033)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
