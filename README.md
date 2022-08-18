@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Ok I think I got it to work, but I basically had to break the &quot;absolute project path&quot; on purpose and then exclude it from the editor link and only use the `${filePath}` which seems to work well.This is my working editor link now:`vscode://file/${filePath}:${line}:${column}`](https://twitter.com/branmcconnell/status/1560351357084868609)
+- [@branmcconnell: @_MichaelMusil Awesome extension btw. I could really use a hand here 🙂](https://twitter.com/branmcconnell/status/1560347523864223744)
+- [@branmcconnell: projectPath:`/Users/brandon.mcconnell/Projects/Code-Monorepo/code/`filePath:`src/routes/app/providers/[provider_id]/[...tabId].svelte`** missing the top 2 dirs for the sub-project under the monorepo: `apps/web/`. I would expect these to appear at the beginning of `filePath`](https://twitter.com/branmcconnell/status/1560347297006948352)
+- [@branmcconnell: Scratch that— I found the option, but when I set the &quot;absolute project path&quot;, now the generated route is missing a few folders I previously included in it.Example below ↓](https://twitter.com/branmcconnell/status/1560346957482278914)
 - [@branmcconnell: Taking a stab at how this works behind the scenes—probably with a substring replacement—all I may need is to change the `projectPath` to the top directory shared between both files. Where can I go to change that constant variable value?](https://twitter.com/branmcconnell/status/1560345525282545672)
-- [@branmcconnell: It appears that sometimes, the desired path for VSCode is `${projectPath}${filePath}`, and other times it&#39;s just `${filePath}` that contains the entire desired oath when using an absolute path.](https://twitter.com/branmcconnell/status/1560345318557900800)
-- [@branmcconnell: RELATIVE `filePath`:`src/routes/app/providers/[provider_id]/[...tabId].svelte`ABSOLUTE `filePath`:`Users/brandon.mcconnell/Projects/Code-Monorepo/code/libs/components/TabsHeader.svelte`☝🏼 these both occur for clicks on different components within the same page](https://twitter.com/branmcconnell/status/1560344718218756096)
-- [@Una: Adding focus time to my calendar has been a GAME CHANGER. Highly recommend 💯](https://twitter.com/Una/status/1559200057370484736)
-- [@branmcconnell: The need for an occasional date night in with bougie pasta, wine, homemade popcorn, and a Netflix binge cannot be understated 🍝🥗🍿🥂👌🏼@netflix #LockeAndKey #LockeandKeySeason3 #Netflix #NetflixAndChill](https://twitter.com/branmcconnell/status/1558625671865421824)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
