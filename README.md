@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@adamwathan: Tailwind CSS isn’t so much a framework as it is a productivity tool for automatically generating the exact CSS you should be writing by hand anyways if you want to rapidly build web projects that will be easy to maintain and update years down the road.](https://twitter.com/adamwathan/status/1560749403131895808)
 - [@branmcconnell: UPDATE: It&#39;s still not working for all components actually 🤷🏻‍♂️](https://twitter.com/branmcconnell/status/1560388018363633669)
 - [@branmcconnell: Ok I think I got it to work, but I basically had to break the &quot;absolute project path&quot; on purpose and then exclude it from the editor link and only use the `${filePath}` which seems to work well.This is my working editor link now:`vscode://file/${filePath}:${line}:${column}`](https://twitter.com/branmcconnell/status/1560351357084868609)
 - [@branmcconnell: @_MichaelMusil Awesome extension btw. I could really use a hand here 🙂](https://twitter.com/branmcconnell/status/1560347523864223744)
 - [@branmcconnell: projectPath:`/Users/brandon.mcconnell/Projects/Code-Monorepo/code/`filePath:`src/routes/app/providers/[provider_id]/[...tabId].svelte`** missing the top 2 dirs for the sub-project under the monorepo: `apps/web/`. I would expect these to appear at the beginning of `filePath`](https://twitter.com/branmcconnell/status/1560347297006948352)
-- [@branmcconnell: Scratch that— I found the option, but when I set the &quot;absolute project path&quot;, now the generated route is missing a few folders I previously included in it.Example below ↓](https://twitter.com/branmcconnell/status/1560346957482278914)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
