@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: One example of this would be where you need to check for the existence of a property before using it. With ternaries, it might look like this…condition &amp;&amp; obj[key] ? obj[key] : &#39;&#39; ❌Using `a &amp;&amp; b || c`, you can remove the redundant `obj[key]`condition &amp;&amp; obj[key] || &#39;&#39; ✅](https://twitter.com/branmcconnell/status/1562115168871616513)
+- [@branmcconnell: JS logical tip 💡I always figured that `a &amp;&amp; b || c` worked the same as a ternary expression, but there&#39;s a key difference…✨ a ? b : c ✨`b` will ALWAYS be used when `a` is truthy✨ a &amp;&amp; b || c ✨`b` will ONLY be used when BOTH `a` and `b` are truthy#javascript](https://twitter.com/branmcconnell/status/1562114201543376896)
 - [@ThePunnyWorld: The Earth is made up of 70% water and it’s uncarbonated..So it’s technically flat.](https://twitter.com/ThePunnyWorld/status/1560995824368336896)
 - [@adamwathan: Tailwind CSS isn’t so much a framework as it is a productivity tool for automatically generating the exact CSS you should be writing by hand anyways if you want to rapidly build web projects that will be easy to maintain and update years down the road.](https://twitter.com/adamwathan/status/1560749403131895808)
 - [@branmcconnell: UPDATE: It&#39;s still not working for all components actually 🤷🏻‍♂️](https://twitter.com/branmcconnell/status/1560388018363633669)
-- [@branmcconnell: Ok I think I got it to work, but I basically had to break the &quot;absolute project path&quot; on purpose and then exclude it from the editor link and only use the `${filePath}` which seems to work well.This is my working editor link now:`vscode://file/${filePath}:${line}:${column}`](https://twitter.com/branmcconnell/status/1560351357084868609)
-- [@branmcconnell: @_MichaelMusil Awesome extension btw. I could really use a hand here 🙂](https://twitter.com/branmcconnell/status/1560347523864223744)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
