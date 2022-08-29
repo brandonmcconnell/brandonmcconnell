@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Dear Astro &lpar;@astrodotbuild&rpar;, if you want to grow, this isn&#39;t the way to do it. @jon_neal is one of the kindest developers I&#39;ve ever met. So bummed. I was curious to give Astro a try, but this gives me a bitter taste for it. 😔](https://twitter.com/branmcconnell/status/1564313671882493966)
 - [@crim_codes: i love how we’re on here arguing about partial hydration and incremental static regeneration but then i talk to people in the real world and they’re like “Oh websites? I remember when we used to use those.”](https://twitter.com/crim_codes/status/1563546213005139974)
 - [@Pranshi7tech: Hey people I&#39;m frontend developer! If you wanted to be one in 2022 here is the thread 💛](https://twitter.com/Pranshi7tech/status/1562629376537411586)
 - [@Apple: Go for launch. Tune in for a special #AppleEvent on September 7 at 10 a.m. PT. Tap the ❤️ and we’ll send you a reminder on event day.](https://twitter.com/Apple/status/1562488692320522241)
 - [@branmcconnell: One example of this would be where you need to check for the existence of a property before using it. With ternaries, it might look like this…condition &amp;&amp; obj[key] ? obj[key] : &#39;&#39; ❌Using `a &amp;&amp; b || c`, you can remove the redundant `obj[key]`condition &amp;&amp; obj[key] || &#39;&#39; ✅](https://twitter.com/branmcconnell/status/1562115168871616513)
-- [@branmcconnell: JS logical tip 💡I always figured that `a &amp;&amp; b || c` worked the same as a ternary expression, but there&#39;s a key difference…✨ a ? b : c ✨`b` will ALWAYS be used when `a` is truthy✨ a &amp;&amp; b || c ✨`b` will ONLY be used when BOTH `a` and `b` are truthy#javascript](https://twitter.com/branmcconnell/status/1562114201543376896)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
