@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: What is an effective way of focus-trapping when a user holds down the tab key &lpar;so you can&#39;t naturally listen for `keydown` of the Tab key&rpar;?](https://twitter.com/branmcconnell/status/1565177082669416448)
 - [@bramus: Do you want @​property support in all browsers?](https://twitter.com/bramus/status/1565067484637560834)
 - [@branmcconnell: Dear Astro &lpar;@astrodotbuild&rpar;, if you want to grow, this isn&#39;t the way to do it. @jon_neal is one of the kindest developers I&#39;ve ever met. So bummed. I was curious to give Astro a try, but this gives me a bitter taste for it. 😔](https://twitter.com/branmcconnell/status/1564313671882493966)
 - [@crim_codes: i love how we’re on here arguing about partial hydration and incremental static regeneration but then i talk to people in the real world and they’re like “Oh websites? I remember when we used to use those.”](https://twitter.com/crim_codes/status/1563546213005139974)
 - [@Pranshi7tech: Hey people I&#39;m frontend developer! If you wanted to be one in 2022 here is the thread 💛](https://twitter.com/Pranshi7tech/status/1562629376537411586)
-- [@Apple: Go for launch. Tune in for a special #AppleEvent on September 7 at 10 a.m. PT. Tap the ❤️ and we’ll send you a reminder on event day.](https://twitter.com/Apple/status/1562488692320522241)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
