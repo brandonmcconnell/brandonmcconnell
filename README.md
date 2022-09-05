@@ -53,9 +53,9 @@
 ### My latest tweets
 <!-- TWITTER:START -->
 - [@branmcconnell: sleep](https://twitter.com/branmcconnell/status/1565582779341049856)
-- [@branmcconnell: looks like Twitter is collapsing the link text so you might have to visit the link to get the full URL to use in the query if you have a chance to look at this. Thanks](https://twitter.com/branmcconnell/status/1565460928807796738)
+- [@branmcconnell: ☝🏼 looks like Twitter is collapsing the link text so you might have to visit the link to get the full URL to use in the query if you have a chance to look at this. Thanks 🙏🏼](https://twitter.com/branmcconnell/status/1565460928807796738)
 - [@branmcconnell: What is an effective way of focus-trapping when a user holds down the tab key &lpar;so you can&#39;t naturally listen for `keydown` of the Tab key&rpar;?](https://twitter.com/branmcconnell/status/1565177082669416448)
-- [@chriscoyier: Oh snap —  …```  overflow-x: clip;  overflow-y: visible;```Finally, a good way to hide overflow in a single direction?That never worked the way it seemed like it should have with the &quot;hidden&quot; value.](https://twitter.com/chriscoyier/status/1565099690449723394)
+- [@chriscoyier: Oh snap — ``` overflow-x: clip; overflow-y: visible;```Finally, a good way to hide overflow in a single direction?That never worked the way it seemed like it should have with the &quot;hidden&quot; value.](https://twitter.com/chriscoyier/status/1565099690449723394)
 - [@bramus: Do you want @​property support in all browsers?](https://twitter.com/bramus/status/1565067484637560834)
 <!-- TWITTER:END -->
 
