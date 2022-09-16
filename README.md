@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: GitHub CoPilot dev &amp; bored with your Spotify mix?Type `spotify:playlist:` to generate suggestions. Press &quot;Tab&quot; to accept it, or repeat the process on the next line&lpar;s&rpar; for more suggestions. Then paste that into your Spotify search bar and press &quot;Enter&quot;… voila ✨🎶](https://twitter.com/branmcconnell/status/1570599043465883649)
 - [@branmcconnell: Had a horse fall over on top of me while I was riding it today… twice. How’s your Labor Day doing?](https://twitter.com/branmcconnell/status/1566856951023255566)
 - [@branmcconnell: sleep](https://twitter.com/branmcconnell/status/1565582779341049856)
 - [@branmcconnell: ☝🏼 looks like Twitter is collapsing the link text so you might have to visit the link to get the full URL to use in the query if you have a chance to look at this. Thanks 🙏🏼](https://twitter.com/branmcconnell/status/1565460928807796738)
 - [@branmcconnell: What is an effective way of focus-trapping when a user holds down the tab key &lpar;so you can&#39;t naturally listen for `keydown` of the Tab key&rpar;?](https://twitter.com/branmcconnell/status/1565177082669416448)
-- [@chriscoyier: Oh snap — ``` overflow-x: clip; overflow-y: visible;```Finally, a good way to hide overflow in a single direction?That never worked the way it seemed like it should have with the &quot;hidden&quot; value.](https://twitter.com/chriscoyier/status/1565099690449723394)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
