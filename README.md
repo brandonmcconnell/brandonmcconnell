@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: For added context, the red areas are absolutely positioned `::before` pseudo-elements. Still also looking into why they only display &quot;below&quot; the element in Chrome &lpar;the intended styling&rpar;, but the height of those elements is the primary question here.](https://twitter.com/branmcconnell/status/1572637651282571265)
+- [@branmcconnell: I know y&#39;all are hard at work on many things and happy to submit an official bug report. Thought I&#39;d ask first to ensure I wasn&#39;t misunderstanding the spec here.Thanks so much!](https://twitter.com/branmcconnell/status/1572637190995197953)
+- [@branmcconnell: It looks like % sizes for absolute-positioned children under sticky elements are sized according to the closest &quot;relative&quot; parent&#39;s height and ignore the sticky parent&#39;s height, whereas other browsers use the sticky element&#39;s height.Do you know if this is the spec, or a bug?](https://twitter.com/branmcconnell/status/1572637189732814848)
 - [@Ash_uxi: Here&#39;s the TLDR of the @figma all hands spaces.🧵...](https://twitter.com/Ash_uxi/status/1570835108210540544)
 - [@branmcconnell: GitHub CoPilot dev &amp; bored with your Spotify mix?Type `spotify:playlist:` to generate suggestions. Press &quot;Tab&quot; to accept it, or repeat the process on the next line&lpar;s&rpar; for more suggestions. Then paste that into your Spotify search bar and press &quot;Enter&quot;… voila ✨🎶](https://twitter.com/branmcconnell/status/1570599043465883649)
-- [@branmcconnell: Had a horse fall over on top of me while I was riding it today… twice. How’s your Labor Day doing?](https://twitter.com/branmcconnell/status/1566856951023255566)
-- [@branmcconnell: sleep](https://twitter.com/branmcconnell/status/1565582779341049856)
-- [@branmcconnell: ☝🏼 looks like Twitter is collapsing the link text so you might have to visit the link to get the full URL to use in the query if you have a chance to look at this. Thanks 🙏🏼](https://twitter.com/branmcconnell/status/1565460928807796738)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
