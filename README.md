@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Does anyone know of any good technical/spec writers? Looking to hire one for a Unicode proposal for a few new charactersrelated:](https://twitter.com/branmcconnell/status/1576677621630644224)
 - [@bramus: From the archives: “What if, instead of having developers try and implement their own Dark Mode Toggle with all its intricacies, the browser would offer this functionality to the user?”](https://twitter.com/bramus/status/1572998431597121537)
 - [@branmcconnell: For added context, the red areas are absolutely positioned `::before` pseudo-elements. Still also looking into why they only display &quot;below&quot; the element in Chrome &lpar;the intended styling&rpar;, but the height of those elements is the primary question here.](https://twitter.com/branmcconnell/status/1572637651282571265)
 - [@branmcconnell: I know y&#39;all are hard at work on many things and happy to submit an official bug report. Thought I&#39;d ask first to ensure I wasn&#39;t misunderstanding the spec here.Thanks so much!](https://twitter.com/branmcconnell/status/1572637190995197953)
 - [@branmcconnell: It looks like % sizes for absolute-positioned children under sticky elements are sized according to the closest &quot;relative&quot; parent&#39;s height and ignore the sticky parent&#39;s height, whereas other browsers use the sticky element&#39;s height.Do you know if this is the spec, or a bug?](https://twitter.com/branmcconnell/status/1572637189732814848)
-- [@Ash_uxi: Here&#39;s the TLDR of the @figma all hands spaces.🧵...](https://twitter.com/Ash_uxi/status/1570835108210540544)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
