@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: I got a 91% knowledge score on this year&#39;s #StateOfCSS survey! Take the survey here:](https://twitter.com/branmcconnell/status/1578764814469373953)
 - [@TansuYegen: Water clock🤩](https://twitter.com/TansuYegen/status/1578399926886834176)
 - [@intenttoship: Blink: Intent to Prototype: CSS Nesting](https://twitter.com/intenttoship/status/1576951638325186565)
 - [@jon_dewitt_ts: What *actually* slows you down is not CSS, but the consequences of breaking these 6 rules:🧵&lpar;not just for juniors, but mid/senior too&rpar;](https://twitter.com/jon_dewitt_ts/status/1576786696158334976)
 - [@branmcconnell: Does anyone know of any good technical/spec writers? Looking to hire one for a Unicode proposal for a few new charactersrelated:](https://twitter.com/branmcconnell/status/1576677621630644224)
-- [@bramus: From the archives: “What if, instead of having developers try and implement their own Dark Mode Toggle with all its intricacies, the browser would offer this functionality to the user?”](https://twitter.com/bramus/status/1572998431597121537)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
