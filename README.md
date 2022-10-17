@@ -25,7 +25,7 @@
     </tr>
     <tr>
         <td>💬</td>
-        <td>Ask me about <b>CSS</b>, <b>SCSS</b>, <b>JavaScript</b>, <b>React</b>, or <b>Svelte</b>.</td>
+        <td>Ask me about <b>CSS</b>, <b>SCSS</b>, <b>Tailwind</b>, <b>JavaScript</b>, <b>React</b>, or <b>Svelte</b>.</td>
     </tr>
     <tr>
         <td>📫</td>
