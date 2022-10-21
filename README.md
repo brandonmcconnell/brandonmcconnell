@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: In this example, the 17px would be injected dynamically, where the same function that handles the interpretation would also handle the announcing to Tailwind, like this…className={twAnnounce&lpar;`pl-[${myPx}]`&rpar;}](https://twitter.com/branmcconnell/status/1583364313439690752)
 - [@argyleink: Estimated for Chrome 110✅ color&lpar;&rpar;, lab, lch, oklab, oklch, etc✅ color-mix&lpar;&rpar;✅ gradients with colorspace support✅ color space animations](https://twitter.com/argyleink/status/1583110952492601345)
 - [@bramus: 🥹 Is that … Custom Property-triggered Style Queries and native CSS Nesting? JUST BEAUTIFUL!&lpar;Requires Chrome Canary 109.0.5370.0 with Experimental Web Platform Features enabled&rpar;🔗](https://twitter.com/bramus/status/1583034412639588416)
 - [@fermatslibrary: A few different indentation styles](https://twitter.com/fermatslibrary/status/1582719971146309632)
 - [@hi__mayank: oh don&#39;t mind me, just musing about media queries and style queries](https://twitter.com/hi__mayank/status/1582133135059615744)
-- [@branmcconnell: Seems legit](https://twitter.com/branmcconnell/status/1581790296400330752)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
