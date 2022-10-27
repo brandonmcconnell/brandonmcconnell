@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [@diegohaz: I guess I’ll have to learn Rust.](https://twitter.com/diegohaz/status/1584977221990555648)
-- [@branmcconnell: Adding support for `:focus-visible-within` &lpar;without `:has&lpar;&rpar;`&rpar; would be a huge win for a11y 👀`:focus-visible-within` would be much easier for developers of all experience levels to reach for, even if they don&#39;t know how to use `:has&lpar;&rpar;`](https://twitter.com/branmcconnell/status/1584950219145629696)
-- [@jon_neal: But if you must use it, whatever you use should probably work like Svelte.](https://twitter.com/jon_neal/status/1584293005019602944)
-- [@branmcconnell: The main issue I&#39;m resolving now &lpar; &rpar; involves the division symbol. Looking for a way, in a single-file SCSS package to divide in such a way that will suffice for both LibSass and Dart Sass.@nex3 I mentioned you in that same issue 👀👇🏼&lpar;2/2&rpar;](https://twitter.com/branmcconnell/status/1584292232953180161)
-- [@branmcconnell: In this example, the 17px would be injected dynamically, where the same function that handles the interpretation would also handle the announcing to Tailwind, like this…className={twAnnounce&lpar;`pl-[${myPx}]`&rpar;}](https://twitter.com/branmcconnell/status/1583364313439690752)
+- [@branmcconnell: This list could easily grow to include widgets, custom results, special integrative functions between the app and Spotlight itself, etc.&lpar;5/5&rpar;](https://twitter.com/branmcconnell/status/1585755649530466305)
+- [@branmcconnell: Multi-faceted Spotlight API proposal: – hook into app search &amp; results via `/` – expose app content to Spotlight so Spotlight can properly scan it and curate relevant results even when `/` is not used – run app-related functions within search, similar to calculator&lpar;4/5&rpar;](https://twitter.com/branmcconnell/status/1585755648159006723)
+- [@branmcconnell: …choose one of the results individually to go to one of that results in the related app immediately, without needing to step through the app&#39;s search first to get there.&lpar;3/5&rpar;](https://twitter.com/branmcconnell/status/1585755646216921088)
+- [@branmcconnell: You could search something like…`/slack deadlines from:jeremy`Instantly, results flow into Spotlight from Slack &lpar;in this example&rpar;, specially curated for Spotlight from Slack. The user can then either click &quot;Enter&quot; to move their search into the app&#39;s native search, or… &lpar;2/5&rpar;](https://twitter.com/branmcconnell/status/1585755644879151106)
+- [@branmcconnell: Hear me out, @Apple @tim_cook — the ability to create apps/plugins for Spotlight on macOS to take advantage of spotlight results via special hooks using `/` similar to other apps.&quot;Spotlight API&quot; — finally, a true universal search.Examples in sub-tweet 👀👇🏼 &lpar;1/5&rpar;](https://twitter.com/branmcconnell/status/1585755643415506944)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
