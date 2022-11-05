@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@jack: Folks at Twitter past and present are strong and resilient. They will always find a way no matter how difficult the moment. I realize many are angry with me. I own the responsibility for why everyone is in this situation: I grew the company size too quickly. I apologize for that.](https://twitter.com/jack/status/1588913276980633600)
 - [@branmcconnell: Them: 28 years of experience? Have any evidence to back up that claim?Me: Oh sure, here you go](https://twitter.com/branmcconnell/status/1586852616935440388)
 - [@maccaw: One of the best uses of GitHub CoPilot is autocompleting your tests. At this point it’s writing the majority of my tests.](https://twitter.com/maccaw/status/1586522019927048193)
 - [@branmcconnell: This list could easily grow to include widgets, custom results, special integrative functions between the app and Spotlight itself, etc.&lpar;5/5&rpar;](https://twitter.com/branmcconnell/status/1585755649530466305)
 - [@branmcconnell: Multi-faceted Spotlight API proposal: – hook into app search &amp; results via `/` – expose app content to Spotlight so Spotlight can properly scan it and curate relevant results even when `/` is not used – run app-related functions within search, similar to calculator&lpar;4/5&rpar;](https://twitter.com/branmcconnell/status/1585755648159006723)
-- [@branmcconnell: …choose one of the results individually to go to one of that results in the related app immediately, without needing to step through the app&#39;s search first to get there.&lpar;3/5&rpar;](https://twitter.com/branmcconnell/status/1585755646216921088)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
