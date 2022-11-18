@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: &amp; for the sake of example, here&#39;s a REPL using the same template that installs both Tailwind AND jQuery 🤷🏻‍♂️🎉](https://twitter.com/branmcconnell/status/1593731747606560768)
+- [@branmcconnell: I put together a Svelte REPL that installs any top-level scripts you need before loading the rest of the app, so you can natively support non-modular deps like Tailwind or even jQuery without a hitch &lpar;&amp; no hate for jQ 👋&rpar; @sveltejs @SvelteSociety👇🏼✨](https://twitter.com/branmcconnell/status/1593731740220080128)
 - [@adamwathan: Every day, decide what you’re going to *finish* that day, not what you’re going to “work on”.A lot of great stuff happens for free if you start by slicing up a big problem into chunks that can each be objectively completed in a short timeframe.](https://twitter.com/adamwathan/status/1593373529768181761)
 - [@hi__mayank: precommit hooks are totally fine if they:- only run on staged files &lpar;needs to be quick&rpar;- are non-blocking &lpar;formatting and autofixable lints&rpar;- are not seen as a replacement for CIand please don&#39;t run `tsc` &lpar;or worse, your entire test suite&rpar; in a pre-commit hook](https://twitter.com/hi__mayank/status/1589678589632389120)
 - [@branmcconnell: @TwitterEng @elonmusk ☝🏼](https://twitter.com/branmcconnell/status/1589033903469522944)
-- [@branmcconnell: So… I’m on Twitter Blue. Where is the button to add my verified badge? 🤷🏻‍♂️](https://twitter.com/branmcconnell/status/1589033712003710978)
-- [@jack: Folks at Twitter past and present are strong and resilient. They will always find a way no matter how difficult the moment. I realize many are angry with me. I own the responsibility for why everyone is in this situation: I grew the company size too quickly. I apologize for that.](https://twitter.com/jack/status/1588913276980633600)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
