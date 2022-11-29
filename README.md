@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Even when clicking the right key, my phone still types the wrong character @Apple @AppleSupport 🤔](https://twitter.com/branmcconnell/status/1597570533050269698)
 - [@branmcconnell: …and on the off-chance you actually want to render a boolean as an else clause:{condition ? &lt;Component /&gt; : &#39;false&#39;}](https://twitter.com/branmcconnell/status/1597080982682673152)
 - [@branmcconnell: .@reactjs Is there a reason React renders booleans but not nullish values? Wouldn’t it be more convenient to just never render boolean values to the DOM, so either of these could be used?:{condition &amp;&amp; &lt;Component /&gt;}{condition ? &lt;Component /&gt; : null}](https://twitter.com/branmcconnell/status/1597080980786884608)
 - [@branmcconnell: I had a pretty drastic drop of almost 600 followers overnight. While it feels a little deflating, I can only hope this was due to the Twitter team finally ruling out some of the bots here on Twitter.So with that said, thanks @TwitterEng 👋🏼](https://twitter.com/branmcconnell/status/1595506711946792994)
 - [@branmcconnell: I got a 94% knowledge score on this year&#39;s #StateOfJS survey. 🥳Take the survey to help shape the future of JavaScript:](https://twitter.com/branmcconnell/status/1595506164007112720)
-- [@branmcconnell: &amp; for the sake of example, here&#39;s a REPL using the same template that installs both Tailwind AND jQuery 🤷🏻‍♂️🎉](https://twitter.com/branmcconnell/status/1593731747606560768)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
