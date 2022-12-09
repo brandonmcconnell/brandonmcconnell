@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@equinusocio: It sounds even worse. We are changing the spec and shaping the future of css around an even older version of jquery](https://twitter.com/equinusocio/status/1601125253601640451)
 - [@branmcconnell: So CSSWG will make a breaking change in the CSS language and spec itself to support an all-but-dated package &lpar;jQuery&rpar;, but the package can&#39;t make a breaking change to support the latest CSS spec?This is so backwards 🤦🏻‍♂️🙃](https://twitter.com/branmcconnell/status/1600977932612038656)
 - [@equinusocio: Is this the first case we change a #css platform spec to support a &lpar;old&rpar; javascript framework?](https://twitter.com/equinusocio/status/1600752770717724672)
 - [@emollick: Look, if everyone is worried about students cheating on essays for AI, instructors can just cheat right back.I asked OpenAI to give me an essay question &amp; make a rubric for grading. I had GPT-3 actually write the essay.I then had the OpenAI grade the essay &amp; give comments. ✅](https://twitter.com/emollick/status/1598745129837281280)
 - [@branmcconnell: Even when clicking the right key, my phone still types the wrong character @Apple @AppleSupport 🤔](https://twitter.com/branmcconnell/status/1597570533050269698)
-- [@branmcconnell: …and on the off-chance you actually want to render a boolean as an else clause:{condition ? &lt;Component /&gt; : &#39;false&#39;}](https://twitter.com/branmcconnell/status/1597080982682673152)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
