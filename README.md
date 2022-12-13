@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@AdamRackis: I don’t normally like to put people on blast, but this is plainly wrong. Many big tech companies have internal referral programs, and you’re often better off applying that way.Including Spotify. If I know you, and you want to apply, do it through me, NOT the website.](https://twitter.com/AdamRackis/status/1602728898684502019)
+- [@marcelpociot: AI-powered PR refactoring is here🔥Comment on some lines of code in a PR and tell the AI what it should refactor.What The Diff will provide you with a code suggestion that you can merge with a single click!Get started for free!](https://twitter.com/marcelpociot/status/1602648406551322630)
 - [@diegohaz: I wish TypeScript had something like `Type?` that would translate to `Type](https://twitter.com/diegohaz/status/1601711381723906049)
 - [@equinusocio: It sounds even worse. We are changing the spec and shaping the future of css around an even older version of jquery](https://twitter.com/equinusocio/status/1601125253601640451)
 - [@branmcconnell: So CSSWG will make a breaking change in the CSS language and spec itself to support an all-but-dated package &lpar;jQuery&rpar;, but the package can&#39;t make a breaking change to support the latest CSS spec?This is so backwards 🤦🏻‍♂️🙃](https://twitter.com/branmcconnell/status/1600977932612038656)
-- [@equinusocio: Is this the first case we change a #css platform spec to support a &lpar;old&rpar; javascript framework?](https://twitter.com/equinusocio/status/1600752770717724672)
-- [@emollick: Look, if everyone is worried about students cheating on essays for AI, instructors can just cheat right back.I asked OpenAI to give me an essay question &amp; make a rubric for grading. I had GPT-3 actually write the essay.I then had the OpenAI grade the essay &amp; give comments. ✅](https://twitter.com/emollick/status/1598745129837281280)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
