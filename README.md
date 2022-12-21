@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@Steve8708: The `satisfies` operator in TypeScript 4.9 is a game changerHere is a quick overview of how it compares to a couple alternative ways of annotating typesLearn more about the `satisfies` operator here:](https://twitter.com/Steve8708/status/1605322303319199744)
 - [@branmcconnell: This is my #GitHubUnwrapped! Get your own at](https://twitter.com/branmcconnell/status/1605289095479316480)
 - [@mikenikles: How to make friends at work](https://twitter.com/mikenikles/status/1604965341314289664)
 - [@Philo01: Trying Copilot Labs extension 🪄 This introduces a range of so-called &quot;brushes&quot;. 1. Select a piece of code.2. Click the type of magic you want to apply.✨](https://twitter.com/Philo01/status/1603520287135391746)
 - [@balazsorban44: Announcing Auth.js! 🔒Authentication for the Web.- Brand new `@​auth/core` package,- Runtime/framework agnostic- Web standard APIs- Builds on NextAuth.js conventions/API- Decoupled from Next.js &amp; Node.js.We&#39;re adding official support for new frameworks...](https://twitter.com/balazsorban44/status/1603082914362986496)
-- [@AdamRackis: I don’t normally like to put people on blast, but this is plainly wrong. Many big tech companies have internal referral programs, and you’re often better off applying that way.Including Spotify. If I know you, and you want to apply, do it through me, NOT the website.](https://twitter.com/AdamRackis/status/1602728898684502019)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
