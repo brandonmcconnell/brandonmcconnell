@@ -53,10 +53,10 @@
 ### My latest tweets
 <!-- TWITTER:START -->
 - [@mattpocockuk: 🔥 TypeScript Tip 🔥Omit and Pick are the gateway to understanding type-level programming.They let you start deriving types, instead of redeclaring them.](https://twitter.com/mattpocockuk/status/1608075511053586432)
+- [@jackieis_online: when i went home for break i found a self-portrait painting i did in high school inspired by &quot;post-internet art&quot;– before i learned anything about making websites. i thought it was fitting to do a reinterpretation of it using javascript and selfies](https://twitter.com/jackieis_online/status/1607879415886938114)
 - [@Steve8708: The `satisfies` operator in TypeScript 4.9 is a game changerHere is a quick overview of how it compares to a couple alternative ways of annotating typesLearn more about the `satisfies` operator here:](https://twitter.com/Steve8708/status/1605322303319199744)
 - [@branmcconnell: This is my #GitHubUnwrapped! Get your own at](https://twitter.com/branmcconnell/status/1605289095479316480)
 - [@mikenikles: How to make friends at work](https://twitter.com/mikenikles/status/1604965341314289664)
-- [@Philo01: Trying Copilot Labs extension 🪄 This introduces a range of so-called &quot;brushes&quot;. 1. Select a piece of code.2. Click the type of magic you want to apply.✨](https://twitter.com/Philo01/status/1603520287135391746)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
