@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @Rich_Harris @SvelteSociety Whenever y&#39;all have time &lpar;I know the team is likely swamped&rpar;, this bwd/fwd functionality is ready to test in preview.Preview: :  recording &lpar;UPDATED&rpar;:](https://twitter.com/branmcconnell/status/1613649352567959553)
 - [@jjenzz: a neat benefit of zod i hadn&#39;t realised before trying it is that it silently filters out data not declared in schema. makes it *perfect* for preventing unnecessary data over the wire or removing personal info in shareable urls:](https://twitter.com/jjenzz/status/1612531220780294174)
 - [@rauchg: Underrated growth tool: playgrounds.Examples:◆ Tailwind &lpar; &rpar;◆ GraphiQL &lpar;e.g.: &rpar;◆ TypeScript &lpar;&rpar;◆ Rust  for URL sharability. Inspired by @ClickHouseDB&#39;s](https://twitter.com/rauchg/status/1609633615511711747)
 - [@mattpocockuk: 🔥 TypeScript Tip 🔥Omit and Pick are the gateway to understanding type-level programming.They let you start deriving types, instead of redeclaring them.](https://twitter.com/mattpocockuk/status/1608075511053586432)
 - [@jackieis_online: when i went home for break i found a self-portrait painting i did in high school inspired by &quot;post-internet art&quot;– before i learned anything about making websites. i thought it was fitting to do a reinterpretation of it using javascript and selfies](https://twitter.com/jackieis_online/status/1607879415886938114)
-- [@Steve8708: The `satisfies` operator in TypeScript 4.9 is a game changerHere is a quick overview of how it compares to a couple alternative ways of annotating typesLearn more about the `satisfies` operator here:](https://twitter.com/Steve8708/status/1605322303319199744)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
