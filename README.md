@@ -52,6 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [branmcconnell: Interop 2023 is officially underway. Lots of exciting things coming to CSS this year!
+
+Many acceptances and rejections, and I wanted to highlight those I proposed as some of you gave been asking me about them
+
+Hopefully, this means better spec&#39;ing for an Interop 2024 proposal 🥳](https://twitter.com/branmcconnell/status/1620843537251328000)
 - [branmcconnell: I&#39;ve tested on multiple devices, browsers, and networks, and my mother even checked at her home. Looks like sometimes it loads and others not.
 
 According to , it&#39;s down for everyone](https://twitter.com/branmcconnell/status/1617609552056438784)
@@ -64,7 +69,6 @@ PR:
 Screen recording &lpar;UPDATED&rpar;:](https://twitter.com/branmcconnell/status/1613649352567959553)
 - [@jjenzz: a neat benefit of zod i hadn&#39;t realised before trying it is that it silently filters out data not declared in schema. makes it *perfect* for preventing unnecessary data over the wire or removing personal info in shareable urls:](https://twitter.com/jjenzz/status/1612531220780294174)
 - [@rauchg: Underrated growth tool: playgrounds.Examples:◆ Tailwind &lpar; &rpar;◆ GraphiQL &lpar;e.g.: &rpar;◆ TypeScript &lpar;&rpar;◆ Rust  for URL sharability. Inspired by @ClickHouseDB&#39;s](https://twitter.com/rauchg/status/1609633615511711747)
-- [@mattpocockuk: 🔥 TypeScript Tip 🔥Omit and Pick are the gateway to understanding type-level programming.They let you start deriving types, instead of redeclaring them.](https://twitter.com/mattpocockuk/status/1608075511053586432)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
