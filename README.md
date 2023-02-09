@@ -52,6 +52,7 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [branmcconnell: Also, the Customer Support page linked to in the documentation does not work for me and instead redirects me back to my company dashboard.](https://twitter.com/branmcconnell/status/1623704476346613761)
 - [branmcconnell: It’d be sick if the @ChromiumDev team introduced something like Arc Boosts into @googlechrome to superpower their browser. 🔥
 
 I already do this using the TamperMonkey extension but would definitely love something native.
@@ -73,7 +74,6 @@ Preview:
 PR: 
 
 Screen recording &lpar;UPDATED&rpar;:](https://twitter.com/branmcconnell/status/1613649352567959553)
-- [@jjenzz: a neat benefit of zod i hadn&#39;t realised before trying it is that it silently filters out data not declared in schema. makes it *perfect* for preventing unnecessary data over the wire or removing personal info in shareable urls:](https://twitter.com/jjenzz/status/1612531220780294174)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
