@@ -52,6 +52,17 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [branmcconnell: Chrome 111 is gonna be a MASSIVE release 🔥🤯
+
+Web APIs
+  – Transitions API
+  – Picture-in-Picture API
+
+CSS
+  – lab/oklab/lch/oklch color spaces
+  – color-mix&lpar;&rpar; function
+  – :nth-child&lpar;an + b of S&rpar; syntax
+  – trig functions &lpar;a bunch&rpar;](https://twitter.com/branmcconnell/status/1623869177319804933)
 - [branmcconnell: You know those code examples people share as images in their tweets?
 
 I&#39;m playing with the idea of exposing the actual *copyable* code as the alt text for those images… and automating doing so via a browser extension.
@@ -69,9 +80,6 @@ cc @ChromeDevTools](https://twitter.com/branmcconnell/status/1621414527312228353
 Many acceptances and rejections, and I wanted to highlight those I proposed as some of you gave been asking me about them
 
 Hopefully, this means better spec&#39;ing for an Interop 2024 proposal 🥳](https://twitter.com/branmcconnell/status/1620843537251328000)
-- [branmcconnell: I&#39;ve tested on multiple devices, browsers, and networks, and my mother even checked at her home. Looks like sometimes it loads and others not.
-
-According to , it&#39;s down for everyone](https://twitter.com/branmcconnell/status/1617609552056438784)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
