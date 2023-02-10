@@ -52,6 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [branmcconnell: You know those code examples people share as images in their tweets?
+
+I&#39;m playing with the idea of exposing the actual *copyable* code as the alt text for those images… and automating doing so via a browser extension.
+
+Would you use it? 👀](https://twitter.com/branmcconnell/status/1623852499303124992)
 - [branmcconnell: Also, the Customer Support page linked to in the documentation does not work for me and instead redirects me back to my company dashboard.](https://twitter.com/branmcconnell/status/1623704476346613761)
 - [branmcconnell: It’d be sick if the @ChromiumDev team introduced something like Arc Boosts into @googlechrome to superpower their browser. 🔥
 
@@ -67,13 +72,6 @@ Hopefully, this means better spec&#39;ing for an Interop 2024 proposal 🥳](htt
 - [branmcconnell: I&#39;ve tested on multiple devices, browsers, and networks, and my mother even checked at her home. Looks like sometimes it loads and others not.
 
 According to , it&#39;s down for everyone](https://twitter.com/branmcconnell/status/1617609552056438784)
-- [@branmcconnell: @Rich_Harris @SvelteSociety Whenever y&#39;all have time &lpar;I know the team is likely swamped&rpar;, this bwd/fwd functionality is ready to test in preview.
-
-Preview: 
-
-PR: 
-
-Screen recording &lpar;UPDATED&rpar;:](https://twitter.com/branmcconnell/status/1613649352567959553)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
