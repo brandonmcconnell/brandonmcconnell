@@ -52,6 +52,7 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @MelkeyDev: These new Twitter features be wild](https://twitter.com/branmcconnell/status/1624126443692376065)
 - [branmcconnell: Chrome 111 is gonna be a MASSIVE release 🔥🤯
 
 Web APIs
@@ -63,23 +64,13 @@ CSS
   – color-mix&lpar;&rpar; function
   – :nth-child&lpar;an + b of S&rpar; syntax
   – trig functions &lpar;a bunch&rpar;](https://twitter.com/branmcconnell/status/1623869177319804933)
+- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @bramus: Big release! Also comes with support for `of S` in `:nth-child&lpar;&rpar;` selections and Style Container Queries for CSS Custom Propert…](https://twitter.com/branmcconnell/status/1623856532101427200)
 - [branmcconnell: You know those code examples people share as images in their tweets?
 
 I&#39;m playing with the idea of exposing the actual *copyable* code as the alt text for those images… and automating doing so via a browser extension.
 
 Would you use it? 👀](https://twitter.com/branmcconnell/status/1623852499303124992)
 - [branmcconnell: Also, the Customer Support page linked to in the documentation does not work for me and instead redirects me back to my company dashboard.](https://twitter.com/branmcconnell/status/1623704476346613761)
-- [branmcconnell: It’d be sick if the @ChromiumDev team introduced something like Arc Boosts into @googlechrome to superpower their browser. 🔥
-
-I already do this using the TamperMonkey extension but would definitely love something native.
-
-
-cc @ChromeDevTools](https://twitter.com/branmcconnell/status/1621414527312228353)
-- [branmcconnell: Interop 2023 is officially underway. Lots of exciting things coming to CSS this year!
-
-Many acceptances and rejections, and I wanted to highlight those I proposed as some of you gave been asking me about them
-
-Hopefully, this means better spec&#39;ing for an Interop 2024 proposal 🥳](https://twitter.com/branmcconnell/status/1620843537251328000)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
