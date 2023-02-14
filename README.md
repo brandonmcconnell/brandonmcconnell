@@ -52,6 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Container queries are now stable in all modern browsers! 🥳
+
+If you’re supporting old browsers, make sure to use this polyfill released by Google: 
+
+@Una covers how to get started with container queries in this great article:](https://twitter.com/branmcconnell/status/1625559145641566208)
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @Una: ❤️ Happy Container Query Day! 🥰
 
 Size container queries and CQ unit values are now stable in all modern browser engines 🚀
@@ -70,11 +75,6 @@ CSS
   – :nth-child&lpar;an + b of S&rpar; syntax
   – trig functions &lpar;a bunch&rpar;](https://twitter.com/branmcconnell/status/1623869177319804933)
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @bramus: Big release! Also comes with support for `of S` in `:nth-child&lpar;&rpar;` selections and Style Container Queries for CSS Custom Propert…](https://twitter.com/branmcconnell/status/1623856532101427200)
-- [branmcconnell: You know those code examples people share as images in their tweets?
-
-I&#39;m playing with the idea of exposing the actual *copyable* code as the alt text for those images… and automating doing so via a browser extension.
-
-Would you use it? 👀](https://twitter.com/branmcconnell/status/1623852499303124992)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
