@@ -52,6 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @Una: ❤️ Happy Container Query Day! 🥰
+
+Size container queries and CQ unit values are now stable in all modern browser engines 🚀
+
+https:/…](https://twitter.com/branmcconnell/status/1625557504183894019)
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @MelkeyDev: These new Twitter features be wild](https://twitter.com/branmcconnell/status/1624126443692376065)
 - [branmcconnell: Chrome 111 is gonna be a MASSIVE release 🔥🤯
 
@@ -70,7 +75,6 @@ CSS
 I&#39;m playing with the idea of exposing the actual *copyable* code as the alt text for those images… and automating doing so via a browser extension.
 
 Would you use it? 👀](https://twitter.com/branmcconnell/status/1623852499303124992)
-- [branmcconnell: Also, the Customer Support page linked to in the documentation does not work for me and instead redirects me back to my company dashboard.](https://twitter.com/branmcconnell/status/1623704476346613761)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
