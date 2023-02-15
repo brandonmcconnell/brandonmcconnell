@@ -52,6 +52,9 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @stackblitz: Today, after years of battle testing by millions of developers, in collaboration with browser vendors:
+
+WebContainer API is…](https://twitter.com/branmcconnell/status/1625721530977239040)
 - [@branmcconnell: Container queries are now stable in all modern browsers! 🥳
 
 If you’re supporting old browsers, make sure to use this polyfill released by Google: 
@@ -74,7 +77,6 @@ CSS
   – color-mix&lpar;&rpar; function
   – :nth-child&lpar;an + b of S&rpar; syntax
   – trig functions &lpar;a bunch&rpar;](https://twitter.com/branmcconnell/status/1623869177319804933)
-- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @bramus: Big release! Also comes with support for `of S` in `:nth-child&lpar;&rpar;` selections and Style Container Queries for CSS Custom Propert…](https://twitter.com/branmcconnell/status/1623856532101427200)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
