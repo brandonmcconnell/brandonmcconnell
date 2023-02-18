@@ -52,6 +52,10 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @dimfeld: New geodata post is up! Covering topics such as
+
+- Converting &quot;shapefile&quot; data into something web apps can actually use](https://twitter.com/branmcconnell/status/1627060518807810048)
+- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @dimfeld: Thinking about writing some more content on working with geographic data. Intro topics would generally include GeoJSON, PostGI…](https://twitter.com/branmcconnell/status/1627060428802244610)
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @stackblitz: Today, after years of battle testing by millions of developers, in collaboration with browser vendors:
 
 WebContainer API is…](https://twitter.com/branmcconnell/status/1625721530977239040)
@@ -65,18 +69,6 @@ If you’re supporting old browsers, make sure to use this polyfill released by 
 Size container queries and CQ unit values are now stable in all modern browser engines 🚀
 
 https:/…](https://twitter.com/branmcconnell/status/1625557504183894019)
-- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @MelkeyDev: These new Twitter features be wild](https://twitter.com/branmcconnell/status/1624126443692376065)
-- [branmcconnell: Chrome 111 is gonna be a MASSIVE release 🔥🤯
-
-Web APIs
-  – Transitions API
-  – Picture-in-Picture API
-
-CSS
-  – lab/oklab/lch/oklch color spaces
-  – color-mix&lpar;&rpar; function
-  – :nth-child&lpar;an + b of S&rpar; syntax
-  – trig functions &lpar;a bunch&rpar;](https://twitter.com/branmcconnell/status/1623869177319804933)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
