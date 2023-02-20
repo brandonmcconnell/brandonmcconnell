@@ -52,6 +52,7 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Reading through its docs, `ts-reset` feels like something every TS project should implement ASAP, whether starting a new project or maintaining an ongoing project 🔥](https://twitter.com/branmcconnell/status/1627709377401733121)
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @dimfeld: New geodata post is up! Covering topics such as
 
 - Converting &quot;shapefile&quot; data into something web apps can actually use](https://twitter.com/branmcconnell/status/1627060518807810048)
@@ -64,11 +65,6 @@ WebContainer API is…](https://twitter.com/branmcconnell/status/162572153097723
 If you’re supporting old browsers, make sure to use this polyfill released by Google: 
 
 @Una covers how to get started with container queries in this great article:](https://twitter.com/branmcconnell/status/1625559145641566208)
-- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @Una: ❤️ Happy Container Query Day! 🥰
-
-Size container queries and CQ unit values are now stable in all modern browser engines 🚀
-
-https:/…](https://twitter.com/branmcconnell/status/1625557504183894019)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
