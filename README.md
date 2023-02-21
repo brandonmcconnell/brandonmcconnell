@@ -52,6 +52,7 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @ThePrimeagen: if you are new to programming, please for everything that is involved in keeping you sane, D O _ N O T _ U S E _ C O P I…](https://twitter.com/branmcconnell/status/1628115960703123456)
 - [@branmcconnell: Reading through its docs, `ts-reset` feels like something every TS project should implement ASAP, whether starting a new project or maintaining an ongoing project 🔥](https://twitter.com/branmcconnell/status/1627709377401733121)
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @dimfeld: New geodata post is up! Covering topics such as
 
@@ -60,11 +61,6 @@
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @stackblitz: Today, after years of battle testing by millions of developers, in collaboration with browser vendors:
 
 WebContainer API is…](https://twitter.com/branmcconnell/status/1625721530977239040)
-- [@branmcconnell: Container queries are now stable in all modern browsers! 🥳
-
-If you’re supporting old browsers, make sure to use this polyfill released by Google: 
-
-@Una covers how to get started with container queries in this great article:](https://twitter.com/branmcconnell/status/1625559145641566208)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
