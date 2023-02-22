@@ -52,15 +52,15 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @MichelleBakels: TIL swapping domains in @vercel is literally _this_ easy.
+
+...and I had a google domains tab already open like an absol…](https://twitter.com/branmcconnell/status/1628191358216474626)
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @ThePrimeagen: if you are new to programming, please for everything that is involved in keeping you sane, D O _ N O T _ U S E _ C O P I…](https://twitter.com/branmcconnell/status/1628115960703123456)
 - [@branmcconnell: Reading through its docs, `ts-reset` feels like something every TS project should implement ASAP, whether starting a new project or maintaining an ongoing project 🔥](https://twitter.com/branmcconnell/status/1627709377401733121)
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @dimfeld: New geodata post is up! Covering topics such as
 
 - Converting &quot;shapefile&quot; data into something web apps can actually use](https://twitter.com/branmcconnell/status/1627060518807810048)
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @dimfeld: Thinking about writing some more content on working with geographic data. Intro topics would generally include GeoJSON, PostGI…](https://twitter.com/branmcconnell/status/1627060428802244610)
-- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @stackblitz: Today, after years of battle testing by millions of developers, in collaboration with browser vendors:
-
-WebContainer API is…](https://twitter.com/branmcconnell/status/1625721530977239040)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
