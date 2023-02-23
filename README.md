@@ -52,15 +52,15 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @ChallengesCss: Demo:   via @CodePen 
+
+#CSS #CodePenChallenge](https://twitter.com/branmcconnell/status/1628801848051396608)
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @dimfeld: My Svelte library for Maplibre is in a basically functional place, so I published v0.1. It supports a lot of basic functionali…](https://twitter.com/branmcconnell/status/1628602286489608192)
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @MichelleBakels: TIL swapping domains in @vercel is literally _this_ easy.
 
 ...and I had a google domains tab already open like an absol…](https://twitter.com/branmcconnell/status/1628191358216474626)
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @ThePrimeagen: if you are new to programming, please for everything that is involved in keeping you sane, D O _ N O T _ U S E _ C O P I…](https://twitter.com/branmcconnell/status/1628115960703123456)
 - [@branmcconnell: Reading through its docs, `ts-reset` feels like something every TS project should implement ASAP, whether starting a new project or maintaining an ongoing project 🔥](https://twitter.com/branmcconnell/status/1627709377401733121)
-- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @dimfeld: New geodata post is up! Covering topics such as
-
-- Converting &quot;shapefile&quot; data into something web apps can actually use](https://twitter.com/branmcconnell/status/1627060518807810048)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
