@@ -52,6 +52,7 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @dimfeld: My Svelte library for Maplibre is in a basically functional place, so I published v0.1. It supports a lot of basic functionali…](https://twitter.com/branmcconnell/status/1628602286489608192)
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @MichelleBakels: TIL swapping domains in @vercel is literally _this_ easy.
 
 ...and I had a google domains tab already open like an absol…](https://twitter.com/branmcconnell/status/1628191358216474626)
@@ -60,7 +61,6 @@
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @dimfeld: New geodata post is up! Covering topics such as
 
 - Converting &quot;shapefile&quot; data into something web apps can actually use](https://twitter.com/branmcconnell/status/1627060518807810048)
-- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @dimfeld: Thinking about writing some more content on working with geographic data. Intro topics would generally include GeoJSON, PostGI…](https://twitter.com/branmcconnell/status/1627060428802244610)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
