@@ -52,6 +52,10 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @marcelpociot: Notion, Raycast, Spotify
+
+They all added AI related features to their apps recently. 
+AI is starting to become an expecte…](https://twitter.com/branmcconnell/status/1628879743704772609)
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @ChallengesCss: Demo:   via @CodePen 
 
 #CSS #CodePenChallenge](https://twitter.com/branmcconnell/status/1628801848051396608)
@@ -60,7 +64,6 @@
 
 ...and I had a google domains tab already open like an absol…](https://twitter.com/branmcconnell/status/1628191358216474626)
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @ThePrimeagen: if you are new to programming, please for everything that is involved in keeping you sane, D O _ N O T _ U S E _ C O P I…](https://twitter.com/branmcconnell/status/1628115960703123456)
-- [@branmcconnell: Reading through its docs, `ts-reset` feels like something every TS project should implement ASAP, whether starting a new project or maintaining an ongoing project 🔥](https://twitter.com/branmcconnell/status/1627709377401733121)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
