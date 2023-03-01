@@ -52,6 +52,7 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @OpenAI: ChatGPT and Whisper are now available through our API &lpar;plus developer policy updates&rpar;. We ❤️ developers:](https://twitter.com/branmcconnell/status/1631047072668368897)
 - [@branmcconnell: Wait.. is he serious? 👀](https://twitter.com/branmcconnell/status/1630386561459146752)
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @marcelpociot: Notion, Raycast, Spotify
 
@@ -61,9 +62,6 @@ AI is starting to become an expecte…](https://twitter.com/branmcconnell/status
 
 #CSS #CodePenChallenge](https://twitter.com/branmcconnell/status/1628801848051396608)
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @dimfeld: My Svelte library for Maplibre is in a basically functional place, so I published v0.1. It supports a lot of basic functionali…](https://twitter.com/branmcconnell/status/1628602286489608192)
-- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @MichelleBakels: TIL swapping domains in @vercel is literally _this_ easy.
-
-...and I had a google domains tab already open like an absol…](https://twitter.com/branmcconnell/status/1628191358216474626)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
