@@ -52,16 +52,18 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Well my first ChatGPT home project is going well
+
+…run for the hills 🤖](https://twitter.com/branmcconnell/status/1631829813940871171)
+- [@branmcconnell: Text balancing via `text-wrap: balance` is finally hitting browsers 🥳
+
+Try it out in Chrome Canary today 🔥](https://twitter.com/branmcconnell/status/1631828056787632130)
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @OpenAI: ChatGPT and Whisper are now available through our API &lpar;plus developer policy updates&rpar;. We ❤️ developers:](https://twitter.com/branmcconnell/status/1631047072668368897)
 - [@branmcconnell: Wait.. is he serious? 👀](https://twitter.com/branmcconnell/status/1630386561459146752)
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @marcelpociot: Notion, Raycast, Spotify
 
 They all added AI related features to their apps recently. 
 AI is starting to become an expecte…](https://twitter.com/branmcconnell/status/1628879743704772609)
-- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @ChallengesCss: Demo:   via @CodePen 
-
-#CSS #CodePenChallenge](https://twitter.com/branmcconnell/status/1628801848051396608)
-- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @dimfeld: My Svelte library for Maplibre is in a basically functional place, so I published v0.1. It supports a lot of basic functionali…](https://twitter.com/branmcconnell/status/1628602286489608192)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
