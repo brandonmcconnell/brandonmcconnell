@@ -52,6 +52,15 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: SvelteGPT …coming soon to a repo near you 👀🎉
+
+✅ full SvelteKit support w/ endpoint decorators
+✅ ChatGPT Turbo 3.5 API
+✅ TailwindCSS support
+✅ session/local storage for chat history and user preferences
+✅ markdown parsing via GitHub&#39;s Markdown API
+
+🤦🏻‍♂️ bonus points if you…](https://twitter.com/branmcconnell/status/1632901733327290368)
 - [@branmcconnell: Well my first ChatGPT home project is going well
 
 …run for the hills 🤖](https://twitter.com/branmcconnell/status/1631829813940871171)
@@ -60,10 +69,6 @@
 Try it out in Chrome Canary today 🔥](https://twitter.com/branmcconnell/status/1631828056787632130)
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @OpenAI: ChatGPT and Whisper are now available through our API &lpar;plus developer policy updates&rpar;. We ❤️ developers:](https://twitter.com/branmcconnell/status/1631047072668368897)
 - [@branmcconnell: Wait.. is he serious? 👀](https://twitter.com/branmcconnell/status/1630386561459146752)
-- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @marcelpociot: Notion, Raycast, Spotify
-
-They all added AI related features to their apps recently. 
-AI is starting to become an expecte…](https://twitter.com/branmcconnell/status/1628879743704772609)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
