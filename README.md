@@ -52,6 +52,17 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: SvelteGPT …coming soon 👀
+
+✅ SvelteKit
+✅ ChatGPT Turbo 3.5 API
+✅ TailwindCSS
+✅ Markdown parsing
+✅ API endpoint decorators
+✅ User auth
+✅ Chat history
+
+#svelte #sveltejs #sveltekit #sveltehack #openai #chatgpt #ai #javascript @sveltejs @SvelteSociety @MadeWithSvelte @OpenAI](https://twitter.com/branmcconnell/status/1633253359900606467)
 - [@branmcconnell: SvelteGPT …coming soon to a repo near you 👀🎉
 
 ✅ full SvelteKit support w/ endpoint decorators
@@ -68,7 +79,6 @@
 
 Try it out in Chrome Canary today 🔥](https://twitter.com/branmcconnell/status/1631828056787632130)
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @OpenAI: ChatGPT and Whisper are now available through our API &lpar;plus developer policy updates&rpar;. We ❤️ developers:](https://twitter.com/branmcconnell/status/1631047072668368897)
-- [@branmcconnell: Wait.. is he serious? 👀](https://twitter.com/branmcconnell/status/1630386561459146752)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
