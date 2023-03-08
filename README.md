@@ -52,6 +52,9 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @AdamRackis: SvelteKit is more fun, effective and simple than all the others but ya&#39;ll not ready for that conversation 
+
+…](https://twitter.com/branmcconnell/status/1633311666451496961)
 - [@branmcconnell: SvelteGPT …coming soon 👀
 
 ✅ SvelteKit
@@ -78,7 +81,6 @@
 - [@branmcconnell: Text balancing via `text-wrap: balance` is finally hitting browsers 🥳
 
 Try it out in Chrome Canary today 🔥](https://twitter.com/branmcconnell/status/1631828056787632130)
-- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @OpenAI: ChatGPT and Whisper are now available through our API &lpar;plus developer policy updates&rpar;. We ❤️ developers:](https://twitter.com/branmcconnell/status/1631047072668368897)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
