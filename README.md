@@ -52,6 +52,9 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Just opened my brand new MacBook Pro 16” M2 Max that came in the mail… wow 🤦🏻‍♂️
+
+@Apple @AppleSupport](https://twitter.com/branmcconnell/status/1633895124743667742)
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @AdamRackis: SvelteKit is more fun, effective and simple than all the others but ya&#39;ll not ready for that conversation 
 
 …](https://twitter.com/branmcconnell/status/1633311666451496961)
@@ -78,9 +81,6 @@
 - [@branmcconnell: Well my first ChatGPT home project is going well
 
 …run for the hills 🤖](https://twitter.com/branmcconnell/status/1631829813940871171)
-- [@branmcconnell: Text balancing via `text-wrap: balance` is finally hitting browsers 🥳
-
-Try it out in Chrome Canary today 🔥](https://twitter.com/branmcconnell/status/1631828056787632130)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
