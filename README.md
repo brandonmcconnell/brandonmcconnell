@@ -52,6 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @SkeletonUI: Version v1.0 of Skeleton is now live! 🎉
+
+🎉 v1.0.0 released!
+📖 Massive documentation overhaul
+🖼️ Many new previews and examp…](https://twitter.com/branmcconnell/status/1634679968067362817)
 - [@branmcconnell: Just opened my brand new MacBook Pro 16” M2 Max that came in the mail… wow 🤦🏻‍♂️
 
 @Apple @AppleSupport](https://twitter.com/branmcconnell/status/1633895124743667742)
@@ -78,9 +83,6 @@
 ✅ markdown parsing via GitHub&#39;s Markdown API
 
 🤦🏻‍♂️ bonus points if you…](https://twitter.com/branmcconnell/status/1632901733327290368)
-- [@branmcconnell: Well my first ChatGPT home project is going well
-
-…run for the hills 🤖](https://twitter.com/branmcconnell/status/1631829813940871171)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
