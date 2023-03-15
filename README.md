@@ -52,6 +52,9 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @frantzfries: Google hits back with a full integration of AI across Google Workspace.
+
+Includes generating images, presentations, emails…](https://twitter.com/branmcconnell/status/1635787157326680070)
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @rauchg: Amazing. A glimpse of how AI will revolutionize code migrations.
  &lpar;h/t @thomasglopes&rpar; …](https://twitter.com/branmcconnell/status/1635042595234783232)
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @SkeletonUI: Version v1.0 of Skeleton is now live! 🎉
@@ -65,17 +68,6 @@
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @AdamRackis: SvelteKit is more fun, effective and simple than all the others but ya&#39;ll not ready for that conversation 
 
 …](https://twitter.com/branmcconnell/status/1633311666451496961)
-- [@branmcconnell: SvelteGPT …coming soon 👀
-
-✅ SvelteKit
-✅ ChatGPT Turbo 3.5 API
-✅ TailwindCSS
-✅ Markdown parsing
-✅ API endpoint decorators
-✅ User auth
-✅ Chat history
-
-#svelte #sveltejs #sveltekit #sveltehack #openai #chatgpt #ai #javascript @sveltejs @SvelteSociety @MadeWithSvelte @OpenAI](https://twitter.com/branmcconnell/status/1633253359900606467)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
