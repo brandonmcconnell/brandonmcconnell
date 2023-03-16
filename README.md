@@ -52,6 +52,9 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: ESM TailwindCSS has arrived 🥳
+
+Available for testing now via their insiders package, and will be publicly released in v3.3 in the coming weeks.](https://twitter.com/branmcconnell/status/1636255613897564160)
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @frantzfries: Google hits back with a full integration of AI across Google Workspace.
 
 Includes generating images, presentations, emails…](https://twitter.com/branmcconnell/status/1635787157326680070)
@@ -65,9 +68,6 @@ Includes generating images, presentations, emails…](https://twitter.com/branmc
 - [@branmcconnell: Just opened my brand new MacBook Pro 16” M2 Max that came in the mail… wow 🤦🏻‍♂️
 
 @Apple @AppleSupport](https://twitter.com/branmcconnell/status/1633895124743667742)
-- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @AdamRackis: SvelteKit is more fun, effective and simple than all the others but ya&#39;ll not ready for that conversation 
-
-…](https://twitter.com/branmcconnell/status/1633311666451496961)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
