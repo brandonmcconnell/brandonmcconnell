@@ -52,6 +52,10 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @transitive_bs: Here&#39;s another example of this type of browser automation from @AdeptAILabs – they also raised $350M yesterday which mos…](https://twitter.com/branmcconnell/status/1636396482051080193)
+- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @dimfeld: Put together a small AsciiDoc live previewer -- it&#39;s great how easy SvelteKit makes it to spin up little things like this.
+
+Al…](https://twitter.com/branmcconnell/status/1636395937697505282)
 - [@branmcconnell: ESM TailwindCSS has arrived 🥳
 
 Available for testing now via their insiders package, and will be publicly released in v3.3 in the coming weeks.](https://twitter.com/branmcconnell/status/1636255613897564160)
@@ -60,14 +64,6 @@ Available for testing now via their insiders package, and will be publicly relea
 Includes generating images, presentations, emails…](https://twitter.com/branmcconnell/status/1635787157326680070)
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @rauchg: Amazing. A glimpse of how AI will revolutionize code migrations.
  &lpar;h/t @thomasglopes&rpar; …](https://twitter.com/branmcconnell/status/1635042595234783232)
-- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @SkeletonUI: Version v1.0 of Skeleton is now live! 🎉
-
-🎉 v1.0.0 released!
-📖 Massive documentation overhaul
-🖼️ Many new previews and examp…](https://twitter.com/branmcconnell/status/1634679968067362817)
-- [@branmcconnell: Just opened my brand new MacBook Pro 16” M2 Max that came in the mail… wow 🤦🏻‍♂️
-
-@Apple @AppleSupport](https://twitter.com/branmcconnell/status/1633895124743667742)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
