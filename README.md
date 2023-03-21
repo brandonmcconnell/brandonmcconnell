@@ -52,6 +52,7 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Qwik is adopting svelte’s magical binding syntax 😁](https://twitter.com/branmcconnell/status/1638045459251093505)
 - [@branmcconnell: Popups &amp; drawers are about to get a lot easier 🔥](https://twitter.com/branmcconnell/status/1637933021600059393)
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @transitive_bs: Here&#39;s another example of this type of browser automation from @AdeptAILabs – they also raised $350M yesterday which mos…](https://twitter.com/branmcconnell/status/1636396482051080193)
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @dimfeld: Put together a small AsciiDoc live previewer -- it&#39;s great how easy SvelteKit makes it to spin up little things like this.
@@ -60,9 +61,6 @@ Al…](https://twitter.com/branmcconnell/status/1636395937697505282)
 - [@branmcconnell: ESM TailwindCSS has arrived 🥳
 
 Available for testing now via their insiders package, and will be publicly released in v3.3 in the coming weeks.](https://twitter.com/branmcconnell/status/1636255613897564160)
-- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @frantzfries: Google hits back with a full integration of AI across Google Workspace.
-
-Includes generating images, presentations, emails…](https://twitter.com/branmcconnell/status/1635787157326680070)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
