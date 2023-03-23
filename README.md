@@ -52,15 +52,13 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: It&#39;s only a matter of time before @Google makes an acquisition bid on @NotionHQ to keep up 👀](https://twitter.com/branmcconnell/status/1638897987517833216)
+- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @LinusEkenstam: Notion Killer from Microsoft 
+
+Loops have been years in the making. MS is just dropping these new apps like hot potatoes…](https://twitter.com/branmcconnell/status/1638895779778813952)
 - [@branmcconnell: Qwik is adopting svelte’s magical binding syntax 😁](https://twitter.com/branmcconnell/status/1638045459251093505)
 - [@branmcconnell: Popups &amp; drawers are about to get a lot easier 🔥](https://twitter.com/branmcconnell/status/1637933021600059393)
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @transitive_bs: Here&#39;s another example of this type of browser automation from @AdeptAILabs – they also raised $350M yesterday which mos…](https://twitter.com/branmcconnell/status/1636396482051080193)
-- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @dimfeld: Put together a small AsciiDoc live previewer -- it&#39;s great how easy SvelteKit makes it to spin up little things like this.
-
-Al…](https://twitter.com/branmcconnell/status/1636395937697505282)
-- [@branmcconnell: ESM TailwindCSS has arrived 🥳
-
-Available for testing now via their insiders package, and will be publicly released in v3.3 in the coming weeks.](https://twitter.com/branmcconnell/status/1636255613897564160)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
