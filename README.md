@@ -52,13 +52,13 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: y&#39;all… if GPT-4 says &quot;Apologies for the confusion&quot; one more time, I&#39;m switching back to 3.5-turbo 😶](https://twitter.com/branmcconnell/status/1639077974975860736)
 - [@branmcconnell: It&#39;s only a matter of time before @Google makes an acquisition bid on @NotionHQ to keep up 👀](https://twitter.com/branmcconnell/status/1638897987517833216)
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @LinusEkenstam: Notion Killer from Microsoft 
 
 Loops have been years in the making. MS is just dropping these new apps like hot potatoes…](https://twitter.com/branmcconnell/status/1638895779778813952)
 - [@branmcconnell: Qwik is adopting svelte’s magical binding syntax 😁](https://twitter.com/branmcconnell/status/1638045459251093505)
 - [@branmcconnell: Popups &amp; drawers are about to get a lot easier 🔥](https://twitter.com/branmcconnell/status/1637933021600059393)
-- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @transitive_bs: Here&#39;s another example of this type of browser automation from @AdeptAILabs – they also raised $350M yesterday which mos…](https://twitter.com/branmcconnell/status/1636396482051080193)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
