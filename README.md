@@ -52,6 +52,13 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @adamwathan: ✨ Just tagged Tailwind CSS v3.3!
+
+Highlights include:
+
+🎨 Extended color palette
+📦 ESM/TS config support
+🧠 Logical propertie…](https://twitter.com/branmcconnell/status/1640807361974796288)
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @surjithctly: And just like that, I hit 10K followers on Twitter.
 
 Announcing 10k MEGA Giveaway ✨
@@ -67,7 +74,6 @@ Check it out!](https://twitter.com/branmcconnell/status/1640443516454322176)
 &lpar;🔈Sound on for narration&rpar;
 
 ht…](https://twitter.com/branmcconnell/status/1640302560589529089)
-- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @drewwilson: In this AI future, I’m not sure we’ll be building UIs as often as in the past. Most folks will prefer to interact with thei…](https://twitter.com/branmcconnell/status/1640252981361905664)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
