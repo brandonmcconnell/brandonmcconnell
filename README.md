@@ -52,6 +52,7 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @adamwathan: Tailwind CSS v3.3 tomorrow 🤘🏻](https://twitter.com/branmcconnell/status/1640584235500335105)
 - [@branmcconnell: One of the most massive browser engine updates I’ve seen in a while 🔥
 
 Tons of CSS and JS &lpar;and more&rpar; goodies in here. I started trying to jot down some of the highlights, but there are too many to list them all here.
@@ -63,7 +64,6 @@ Check it out!](https://twitter.com/branmcconnell/status/1640443516454322176)
 ht…](https://twitter.com/branmcconnell/status/1640302560589529089)
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @drewwilson: In this AI future, I’m not sure we’ll be building UIs as often as in the past. Most folks will prefer to interact with thei…](https://twitter.com/branmcconnell/status/1640252981361905664)
 - [@branmcconnell: this is COOL 👀](https://twitter.com/branmcconnell/status/1639899159473053701)
-- [@branmcconnell: y&#39;all… if GPT-4 says &quot;Apologies for the confusion&quot; one more time, I&#39;m switching back to 3.5-turbo 😶](https://twitter.com/branmcconnell/status/1639077974975860736)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
