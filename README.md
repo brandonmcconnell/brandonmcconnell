@@ -52,6 +52,14 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @ChrisJBakke: GPT-5: can perfectly build any website
+
+GPT-6: can build and run a company
+
+GPT-7: passes Turing test
+
+GPT-8: overthrows w…](https://twitter.com/branmcconnell/status/1641203514318950400)
+- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @phenomnominal: Damn we all really need to turn up the “oh that’s probably Midjourney” setting in our brains eh.](https://twitter.com/branmcconnell/status/1641201366923345921)
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @adamwathan: ✨ Just tagged Tailwind CSS v3.3!
 
 Highlights include:
@@ -65,15 +73,6 @@ Announcing 10k MEGA Giveaway ✨
 
 $2200+ worth of products for 3 lucky…](https://twitter.com/branmcconnell/status/1640611441421193217)
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @adamwathan: Tailwind CSS v3.3 tomorrow 🤘🏻](https://twitter.com/branmcconnell/status/1640584235500335105)
-- [@branmcconnell: One of the most massive browser engine updates I’ve seen in a while 🔥
-
-Tons of CSS and JS &lpar;and more&rpar; goodies in here. I started trying to jot down some of the highlights, but there are too many to list them all here.
-
-Check it out!](https://twitter.com/branmcconnell/status/1640443516454322176)
-- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @karenxcheng: Adobe’s new generative AI art tool, and my thoughts on it @adobe #AdobePartner #AdobeFirefly
-&lpar;🔈Sound on for narration&rpar;
-
-ht…](https://twitter.com/branmcconnell/status/1640302560589529089)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
