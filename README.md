@@ -52,6 +52,7 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @jarredsumner: usually](https://twitter.com/branmcconnell/status/1642779696034353152)
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @ChrisJBakke: GPT-5: can perfectly build any website
 
 GPT-6: can build and run a company
@@ -72,7 +73,6 @@ Highlights include:
 Announcing 10k MEGA Giveaway ✨
 
 $2200+ worth of products for 3 lucky…](https://twitter.com/branmcconnell/status/1640611441421193217)
-- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @adamwathan: Tailwind CSS v3.3 tomorrow 🤘🏻](https://twitter.com/branmcconnell/status/1640584235500335105)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
