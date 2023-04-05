@@ -52,6 +52,7 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @AnimaApp: Introducing design system automation](https://twitter.com/branmcconnell/status/1643519423981182976)
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @jarredsumner: usually](https://twitter.com/branmcconnell/status/1642779696034353152)
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @ChrisJBakke: GPT-5: can perfectly build any website
 
@@ -68,11 +69,6 @@ Highlights include:
 🎨 Extended color palette
 📦 ESM/TS config support
 🧠 Logical propertie…](https://twitter.com/branmcconnell/status/1640807361974796288)
-- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @surjithctly: And just like that, I hit 10K followers on Twitter.
-
-Announcing 10k MEGA Giveaway ✨
-
-$2200+ worth of products for 3 lucky…](https://twitter.com/branmcconnell/status/1640611441421193217)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
