@@ -52,6 +52,9 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @rauchg: &quot;My experience with [ChatGPT] is that the more knowledgeable I am at the domain, the more useful it is&quot;¹
+
+Facts. It reminds me…](https://twitter.com/branmcconnell/status/1645297836156915712)
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @AnimaApp: Introducing design system automation](https://twitter.com/branmcconnell/status/1643519423981182976)
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @jarredsumner: usually](https://twitter.com/branmcconnell/status/1642779696034353152)
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @ChrisJBakke: GPT-5: can perfectly build any website
@@ -62,13 +65,6 @@ GPT-7: passes Turing test
 
 GPT-8: overthrows w…](https://twitter.com/branmcconnell/status/1641203514318950400)
 - [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @phenomnominal: Damn we all really need to turn up the “oh that’s probably Midjourney” setting in our brains eh.](https://twitter.com/branmcconnell/status/1641201366923345921)
-- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @adamwathan: ✨ Just tagged Tailwind CSS v3.3!
-
-Highlights include:
-
-🎨 Extended color palette
-📦 ESM/TS config support
-🧠 Logical propertie…](https://twitter.com/branmcconnell/status/1640807361974796288)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
