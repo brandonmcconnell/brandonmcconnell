@@ -52,17 +52,17 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @PaoloRicciuti: 🚨ANNOUNCING🚨
+- [@branmcconnell: Brandon McConnell Retweeted @PaoloRicciuti: 🚨ANNOUNCING🚨
 
 It&#39;s finally time to announce what @SarcevicAntonio and me were up to for the @SvelteSociety hackaton.
 
 In…](https://twitter.com/branmcconnell/status/1645523075130347520)
-- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @rauchg: &quot;My experience with [ChatGPT] is that the more knowledgeable I am at the domain, the more useful it is&quot;¹
+- [@branmcconnell: Brandon McConnell Retweeted @rauchg: &quot;My experience with [ChatGPT] is that the more knowledgeable I am at the domain, the more useful it is&quot;¹
 
 Facts. It reminds me…](https://twitter.com/branmcconnell/status/1645297836156915712)
-- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @AnimaApp: Introducing design system automation](https://twitter.com/branmcconnell/status/1643519423981182976)
-- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @jarredsumner: usually](https://twitter.com/branmcconnell/status/1642779696034353152)
-- [@branmcconnell: Brandon McConnell 🇺🇦✊ Retweeted @ChrisJBakke: GPT-5: can perfectly build any website
+- [@branmcconnell: Brandon McConnell Retweeted @AnimaApp: Introducing design system automation](https://twitter.com/branmcconnell/status/1643519423981182976)
+- [@branmcconnell: Brandon McConnell Retweeted @jarredsumner: usually](https://twitter.com/branmcconnell/status/1642779696034353152)
+- [@branmcconnell: Brandon McConnell Retweeted @ChrisJBakke: GPT-5: can perfectly build any website
 
 GPT-6: can build and run a company
 
