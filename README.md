@@ -52,6 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Brandon McConnell Retweeted @LinusEkenstam: AutoGPT, less noise more signal 
+
+This is where you should pay attention 
+
+Here is why 🧵](https://twitter.com/branmcconnell/status/1646073915868078080)
 - [@branmcconnell: Brandon McConnell Retweeted @PaoloRicciuti: 🚨ANNOUNCING🚨
 
 It&#39;s finally time to announce what @SarcevicAntonio and me were up to for the @SvelteSociety hackaton.
@@ -62,13 +67,6 @@ In…](https://twitter.com/branmcconnell/status/1645523075130347520)
 Facts. It reminds me…](https://twitter.com/branmcconnell/status/1645297836156915712)
 - [@branmcconnell: Brandon McConnell Retweeted @AnimaApp: Introducing design system automation](https://twitter.com/branmcconnell/status/1643519423981182976)
 - [@branmcconnell: Brandon McConnell Retweeted @jarredsumner: usually](https://twitter.com/branmcconnell/status/1642779696034353152)
-- [@branmcconnell: Brandon McConnell Retweeted @ChrisJBakke: GPT-5: can perfectly build any website
-
-GPT-6: can build and run a company
-
-GPT-7: passes Turing test
-
-GPT-8: overthrows w…](https://twitter.com/branmcconnell/status/1641203514318950400)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
