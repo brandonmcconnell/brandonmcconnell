@@ -52,6 +52,9 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Brandon McConnell Retweeted @frantzfries: People are missing the boat with autonomous agents by trying to hack together AGI.
+
+Find one API you can reliably interact…](https://twitter.com/branmcconnell/status/1646557978932412416)
 - [@branmcconnell: Brandon McConnell Retweeted @LinusEkenstam: AutoGPT, less noise more signal 
 
 This is where you should pay attention 
@@ -66,7 +69,6 @@ In…](https://twitter.com/branmcconnell/status/1645523075130347520)
 
 Facts. It reminds me…](https://twitter.com/branmcconnell/status/1645297836156915712)
 - [@branmcconnell: Brandon McConnell Retweeted @AnimaApp: Introducing design system automation](https://twitter.com/branmcconnell/status/1643519423981182976)
-- [@branmcconnell: Brandon McConnell Retweeted @jarredsumner: usually](https://twitter.com/branmcconnell/status/1642779696034353152)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
