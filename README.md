@@ -52,6 +52,7 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Brandon McConnell Retweeted @dimfeld: We thought that quantum computing was going to bring about a new generation of probabilistic computing but instead we got LLMs…](https://twitter.com/branmcconnell/status/1647011550484627456)
 - [@branmcconnell: testing  testing testing](https://twitter.com/branmcconnell/status/1646689881408811008)
 - [@branmcconnell: Brandon McConnell Retweeted @frantzfries: People are missing the boat with autonomous agents by trying to hack together AGI.
 
@@ -66,9 +67,6 @@ Here is why 🧵](https://twitter.com/branmcconnell/status/1646073915868078080)
 It&#39;s finally time to announce what @SarcevicAntonio and me were up to for the @SvelteSociety hackaton.
 
 In…](https://twitter.com/branmcconnell/status/1645523075130347520)
-- [@branmcconnell: Brandon McConnell Retweeted @rauchg: &quot;My experience with [ChatGPT] is that the more knowledgeable I am at the domain, the more useful it is&quot;¹
-
-Facts. It reminds me…](https://twitter.com/branmcconnell/status/1645297836156915712)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
