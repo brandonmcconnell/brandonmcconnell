@@ -52,6 +52,7 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: testing  testing testing](https://twitter.com/branmcconnell/status/1646689881408811008)
 - [@branmcconnell: Brandon McConnell Retweeted @frantzfries: People are missing the boat with autonomous agents by trying to hack together AGI.
 
 Find one API you can reliably interact…](https://twitter.com/branmcconnell/status/1646557978932412416)
@@ -68,7 +69,6 @@ In…](https://twitter.com/branmcconnell/status/1645523075130347520)
 - [@branmcconnell: Brandon McConnell Retweeted @rauchg: &quot;My experience with [ChatGPT] is that the more knowledgeable I am at the domain, the more useful it is&quot;¹
 
 Facts. It reminds me…](https://twitter.com/branmcconnell/status/1645297836156915712)
-- [@branmcconnell: Brandon McConnell Retweeted @AnimaApp: Introducing design system automation](https://twitter.com/branmcconnell/status/1643519423981182976)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
