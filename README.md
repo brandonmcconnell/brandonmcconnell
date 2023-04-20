@@ -52,6 +52,7 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Brandon McConnell Retweeted @devongovett: CSS has been evolving so fast lately, it&#39;s really hard to keep up! Container queries, color spaces, layers, scoping, new s…](https://twitter.com/branmcconnell/status/1648865015259344897)
 - [@branmcconnell: Brandon McConnell Retweeted @dimfeld: We thought that quantum computing was going to bring about a new generation of probabilistic computing but instead we got LLMs…](https://twitter.com/branmcconnell/status/1647011550484627456)
 - [@branmcconnell: testing  testing testing](https://twitter.com/branmcconnell/status/1646689881408811008)
 - [@branmcconnell: Brandon McConnell Retweeted @frantzfries: People are missing the boat with autonomous agents by trying to hack together AGI.
@@ -62,11 +63,6 @@ Find one API you can reliably interact…](https://twitter.com/branmcconnell/sta
 This is where you should pay attention 
 
 Here is why 🧵](https://twitter.com/branmcconnell/status/1646073915868078080)
-- [@branmcconnell: Brandon McConnell Retweeted @PaoloRicciuti: 🚨ANNOUNCING🚨
-
-It&#39;s finally time to announce what @SarcevicAntonio and me were up to for the @SvelteSociety hackaton.
-
-In…](https://twitter.com/branmcconnell/status/1645523075130347520)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
