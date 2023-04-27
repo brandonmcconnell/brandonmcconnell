@@ -52,15 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [@branmcconnell: Welp… my blue checkmark also got taken away, and I’m still paying and was already verified 😪
-
-sos @TwitterSupport @verified @TwitterBlue @TwitterEng @Twitter](https://twitter.com/branmcconnell/status/1649464357187903488)
-- [@branmcconnell: Brandon McConnell Retweeted @devongovett: CSS has been evolving so fast lately, it&#39;s really hard to keep up! Container queries, color spaces, layers, scoping, new s…](https://twitter.com/branmcconnell/status/1648865015259344897)
-- [@branmcconnell: Brandon McConnell Retweeted @dimfeld: We thought that quantum computing was going to bring about a new generation of probabilistic computing but instead we got LLMs…](https://twitter.com/branmcconnell/status/1647011550484627456)
-- [@branmcconnell: testing  testing testing](https://twitter.com/branmcconnell/status/1646689881408811008)
-- [@branmcconnell: Brandon McConnell Retweeted @frantzfries: People are missing the boat with autonomous agents by trying to hack together AGI.
-
-Find one API you can reliably interact…](https://twitter.com/branmcconnell/status/1646557978932412416)
+- [@branmcconnell: Welp… my blue checkmark also got taken away, and I’m still paying and was already verified 😪 sos @TwitterSupport @verified @TwitterBlue @TwitterEng @Twitter](https://twitter.com/branmcconnell/status/1649464357187903488)
+- [@branmcconnell: testing testing testing](https://twitter.com/branmcconnell/status/1646689881408811008)
+- [@branmcconnell: One of the most massive browser engine updates I’ve seen in a while 🔥 Tons of CSS and JS &lpar;and more&rpar; goodies in here. I started trying to jot down some of the highlights, but there are too many to list them all here. Check it out!](https://twitter.com/branmcconnell/status/1640443516454322176)
+- [@branmcconnell: this is COOL 👀](https://twitter.com/branmcconnell/status/1639899159473053701)
+- [@branmcconnell: y&#39;all… if GPT-4 says &quot;Apologies for the confusion&quot; one more time, I&#39;m switching back to 3.5-turbo 😶](https://twitter.com/branmcconnell/status/1639077974975860736)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
