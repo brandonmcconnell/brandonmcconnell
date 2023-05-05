@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Is there a way to git-lock a single file I&#39;ve added simple troubleshooting edits to, so I don&#39;t accidentally commit them to my branch &lpar;and later merge them into the main branch&rpar;? 👀](https://twitter.com/branmcconnell/status/1654309148912422914)
 - [@branmcconnell: testing testing testing](https://twitter.com/branmcconnell/status/1646689881408811008)
 - [@branmcconnell: One of the most massive browser engine updates I’ve seen in a while 🔥 Tons of CSS and JS &lpar;and more&rpar; goodies in here. I started trying to jot down some of the highlights, but there are too many to list them all here. Check it out!](https://twitter.com/branmcconnell/status/1640443516454322176)
 - [@branmcconnell: this is COOL 👀](https://twitter.com/branmcconnell/status/1639899159473053701)
 - [@branmcconnell: y&#39;all… if GPT-4 says &quot;Apologies for the confusion&quot; one more time, I&#39;m switching back to 3.5-turbo 😶](https://twitter.com/branmcconnell/status/1639077974975860736)
-- [@branmcconnell: It&#39;s only a matter of time before @Google makes an acquisition bid on @NotionHQ to keep up 👀](https://twitter.com/branmcconnell/status/1638897987517833216)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
