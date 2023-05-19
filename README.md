@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Another use case I think GPT &lpar;or some other AI&rpar; LLM be really useful for would be auto-solving git merge conflicts attn @GitKraken @Atlassian 👀](https://twitter.com/branmcconnell/status/1659548722248953858)
 - [@branmcconnell: that’s what I call tailwinning 🏆](https://twitter.com/branmcconnell/status/1659093909958426624)
 - [@branmcconnell: It&#39;s about to get so much easier to manage promise resolutions &amp; rejections in JS 👀](https://twitter.com/branmcconnell/status/1659076182372139008)
 - [@branmcconnell: The first-ever Tailwind live conf is happening next month! 😱🔥](https://twitter.com/branmcconnell/status/1656723103580561408)
 - [@branmcconnell: This React ShadowDOM project &lpar;with newly added TailwindCSS support&rpar; is popping off 🔥 Hoping to play with it sometime soon… maybe even port it to Svelte 👀](https://twitter.com/branmcconnell/status/1655802086309904385)
-- [@branmcconnell: Is there a way to git-lock a single file I&#39;ve added simple troubleshooting edits to, so I don&#39;t accidentally commit them to my branch &lpar;and later merge them into the main branch&rpar;? 👀](https://twitter.com/branmcconnell/status/1654309148912422914)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
