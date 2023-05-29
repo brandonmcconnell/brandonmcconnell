@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Following that up — the ability to create stickers that have our and our friends’ Memojis in them would be great. Bitmoji already does that](https://twitter.com/branmcconnell/status/1663047819702472705)
 - [@branmcconnell: Has anyone begun teaching AI how to design using SVG? I feel like it could apply many of the same techniques it already uses, but vectorized, and not just a simple trace.](https://twitter.com/branmcconnell/status/1662531428989689856)
 - [@branmcconnell: Another use case I think GPT &lpar;or some other AI&rpar; LLM be really useful for would be auto-solving git merge conflicts attn @GitKraken @Atlassian 👀](https://twitter.com/branmcconnell/status/1659548722248953858)
 - [@branmcconnell: that’s what I call tailwinning 🏆](https://twitter.com/branmcconnell/status/1659093909958426624)
 - [@branmcconnell: It&#39;s about to get so much easier to manage promise resolutions &amp; rejections in JS 👀](https://twitter.com/branmcconnell/status/1659076182372139008)
-- [@branmcconnell: The first-ever Tailwind live conf is happening next month! 😱🔥](https://twitter.com/branmcconnell/status/1656723103580561408)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
