@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Always so encouraging to see someone using your code in the wild 🤩 Awesome work and use case @DeyJordan! 🔥 What should I add next— support for more preprocessors like Less and Stylus, JS compiler support, a dedicated TailwindCSS plugin, or a static generator on the demo site?](https://twitter.com/branmcconnell/status/1664650805415165953)
 - [@branmcconnell: @adamwathan @steveschoger @tailwindlabs could I cash in my favor of giving y&#39;all the @tailwindui handle a couple of years ago? 👀](https://twitter.com/branmcconnell/status/1664421622915416068)
 - [@branmcconnell: Is anyone with a ticket to Tailwind Connect 2023 trying to sell? If you&#39;re unable to go, I&#39;d love to and am happy to pay 2-3x the original price 👋🏼 #tailwindconnect #tailwind #tailwindconf #taiwindcss](https://twitter.com/branmcconnell/status/1664421410327101440)
 - [@branmcconnell: Following that up — the ability to create stickers that have our and our friends’ Memojis in them would be great. Bitmoji already does that](https://twitter.com/branmcconnell/status/1663047819702472705)
 - [@branmcconnell: Has anyone begun teaching AI how to design using SVG? I feel like it could apply many of the same techniques it already uses, but vectorized, and not just a simple trace.](https://twitter.com/branmcconnell/status/1662531428989689856)
-- [@branmcconnell: Another use case I think GPT &lpar;or some other AI&rpar; LLM be really useful for would be auto-solving git merge conflicts attn @GitKraken @Atlassian 👀](https://twitter.com/branmcconnell/status/1659548722248953858)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
