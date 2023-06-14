@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: For anyone who found this interesting— I just also announced JS Tool for TailwindCSS, a utility for effortless JS script injection, right inside your everyday TailwindCSS utilities](https://twitter.com/branmcconnell/status/1668959966110289920)
+- [@branmcconnell: For anyone who saw my MultiTool for @tailwindcss tweet and thought, &quot;tailwind plugins can&#39;t get more complicated or meta than this&quot; introducing… JS Tool for TailwindCSS ✨ &lpar;easy build-time JS utility injection&rpar; examples:  npm:  ...…](https://twitter.com/branmcconnell/status/1668959302823059457)
 - [@branmcconnell: It would also be handy to have some sort of way of saving towards goals and setting that money aside](https://twitter.com/branmcconnell/status/1668855203259650048)
 - [@branmcconnell: &amp; start playing with this on Tailwind Play now:](https://twitter.com/branmcconnell/status/1667689640340627462)
 - [@branmcconnell: Who said TailwindCSS utilities couldn&#39;t be grouped? ✨ GREAT for… consolidating utilities under long &amp; unique variants 👏🏼 😬 NOT great for… shrinking the compile size if used with common variants 👀 Introducing: MultiTool for TailwindCSS @ npm:](https://twitter.com/branmcconnell/status/1667689635429122049)
-- [@branmcconnell: Always so encouraging to see someone using your code in the wild 🤩 Awesome work and use case @DeyJordan! 🔥 What should I add next— support for more preprocessors like Less and Stylus, JS compiler support, a dedicated TailwindCSS plugin, or a static generator on the demo site?](https://twitter.com/branmcconnell/status/1664650805415165953)
-- [@branmcconnell: @adamwathan @steveschoger @tailwindlabs could I cash in my favor of giving y&#39;all the @tailwindui handle a couple of years ago? 👀](https://twitter.com/branmcconnell/status/1664421622915416068)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
