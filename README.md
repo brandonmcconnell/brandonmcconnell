@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: I got an 86% knowledge score on this year&#39;s #StateOfCSS survey! Take the survey here:  CSS is growing faster than ever before! Years ago, we could hardly dream of doing all we can now do in CSS alone without relying on JS to some—usually large—degree. 🔥](https://twitter.com/branmcconnell/status/1670837328774938643)
 - [@branmcconnell: .@squarespace @SquarespaceHelp does the new acquisition of Google Domains also mean an acquisition of  and that you&#39;ll be hosting all `.new` TLD domains? @Google @googledevs](https://twitter.com/branmcconnell/status/1669900359266082816)
 - [@branmcconnell: Dear @ATT &lpar;@ATTHelp&rpar;, Almost a year ago, my wife and I purchased new iPhones and specifically coordinated the purchase through the AT&amp;T Office of the President to avoid any complications based on past experiences. As part of our purchase agreement, we traded in our previous…](https://twitter.com/branmcconnell/status/1669874350135349251)
 - [@branmcconnell: Calling CSS wizards 🆘 I&#39;ve got a unique problem I&#39;d really like a CSS-only solution to if possible I have an element after some text that should never get orphaned, so it only wraps when any of the text preceding it also wraps. WIP codepen:  The closest…](https://twitter.com/branmcconnell/status/1669438698826645506)
 - [@branmcconnell: Calling CSS wizards 🆘 I&#39;ve got a unique problem I&#39;d really like a CSS-only solution to if possible I have an element after some text that should never get orphaned, so it only wraps when any of the text preceding it also wraps. WIP codepen:  The closest…](https://twitter.com/branmcconnell/status/1669434594335268864)
-- [@branmcconnell: CSS Subgrid is finally coming! Hitting Chrome in August 👏🏼](https://twitter.com/branmcconnell/status/1669393261319065600)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
