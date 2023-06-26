@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Does anyone have a 32k GPT4 or 100k Claude API key I can use temporarily? I&#39;m happy to pay a premium to borrow access to the API. Just have some heavier content to digest and analyze. Thanks!](https://twitter.com/branmcconnell/status/1673419983085535233)
 - [@branmcconnell: ☝🏼 I’d love to help with this if you’re open to a collab](https://twitter.com/branmcconnell/status/1673367103024558080)
 - [@branmcconnell: The Figma variables game isn’t over until someone builds DOOM](https://twitter.com/branmcconnell/status/1673366462613041153)
 - [@branmcconnell: Will you be adding support for drag-and-dropping/uploading a TailwindCSS config file to…  – generate variables from it &lpar;w/ custom colors names&rpar;  – support custom utilities added via plugins I&#39;m an avid Tailwind plugin dev, and I&#39;d love to see support for custom utils added 🙂](https://twitter.com/branmcconnell/status/1672269984503062530)
 - [@branmcconnell: #TailwindConnect2023 is getting going 👀](https://twitter.com/branmcconnell/status/1671284393137037319)
-- [@branmcconnell: Made it to Cambridge, ON for #TailwindConnect2023 🥳](https://twitter.com/branmcconnell/status/1671284175997992963)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
