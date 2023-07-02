@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: the why is commendable the how is repugnant 🤦🏻‍♂️ iykyk](https://twitter.com/branmcconnell/status/1675393881679216640)
 - [@branmcconnell: @CodePen ☝🏼](https://twitter.com/branmcconnell/status/1674298529991507968)
 - [@branmcconnell: @learnframer @CodePen &amp; s/o to @ChallengesCss for helping me work out a kink in my original animation styles 📣🙏🏼](https://twitter.com/branmcconnell/status/1674167811319681024)
 - [@branmcconnell: Decided to take that animated gradient button with the cut-out text from @learnframer and implement the same pattern in pure HTML and CSS on @CodePen over lunch Supports dark mode out of the box. Check it out:](https://twitter.com/branmcconnell/status/1674167480879833088)
 - [@branmcconnell: What in the world?? Who flagged me for spam? I&#39;ve never spammed anybody 😂](https://twitter.com/branmcconnell/status/1673708287282520064)
-- [@branmcconnell: Does anyone have a 32k GPT4 or 100k Claude API key I can use temporarily? I&#39;m happy to pay a premium to borrow access to the API. Just have some heavier content to digest and analyze. Thanks!](https://twitter.com/branmcconnell/status/1673419983085535233)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
