@@ -53,10 +53,10 @@
 ### My latest tweets
 <!-- TWITTER:START -->
 - [@branmcconnell: I’ve been trying to root for Twitter most of this time, but they’ve gotta figure this rate limiting mess real soon. Feels like the straw that broke the camel’s back](https://twitter.com/branmcconnell/status/1675490806248132611)
-- [@branmcconnell: the why is commendable the how is repugnant 🤦🏻‍♂️ iykyk](https://twitter.com/branmcconnell/status/1675393881679216640)
+- [@branmcconnell: the why is commendablethe how is repugnant 🤦🏻‍♂️iykyk](https://twitter.com/branmcconnell/status/1675393881679216640)
 - [@branmcconnell: @CodePen ☝🏼](https://twitter.com/branmcconnell/status/1674298529991507968)
-- [@branmcconnell: @learnframer @CodePen &amp; s/o to @ChallengesCss for helping me work out a kink in my original animation styles 📣🙏🏼](https://twitter.com/branmcconnell/status/1674167811319681024)
-- [@branmcconnell: Decided to take that animated gradient button with the cut-out text from @learnframer and implement the same pattern in pure HTML and CSS on @CodePen over lunch Supports dark mode out of the box. Check it out:](https://twitter.com/branmcconnell/status/1674167480879833088)
+- [@branmcconnell: &amp; s/o to @ChallengesCss for helping me work out a kink in my original animation styles 📣🙏🏼](https://twitter.com/branmcconnell/status/1674167811319681024)
+- [@branmcconnell: Decided to take that animated gradient button with the cut-out text from @learnframer and implement the same pattern in pure HTML and CSS on @CodePen over lunchSupports dark mode out of the box. Check it out:](https://twitter.com/branmcconnell/status/1674167480879833088)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
