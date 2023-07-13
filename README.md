@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @codesandbox seems like you guys own a plethora of these, so thought I&#39;d @ you 👋🏼](https://twitter.com/branmcconnell/status/1679619314608119808)
+- [@branmcconnell: in other but related news… my $1000/yr](https://twitter.com/branmcconnell/status/1679619152728977408)
+- [@branmcconnell: …once upon a domain search dreary 🥴](https://twitter.com/branmcconnell/status/1679618630227759105)
 - [@branmcconnell: 🤦🏻‍♂️](https://twitter.com/branmcconnell/status/1679375948754595840)
 - [@branmcconnell: @AnkerOfficial Prime day isn’t over yet, but you pulled the deal? @AmazonHelp](https://twitter.com/branmcconnell/status/1679375170832830464)
-- [@branmcconnell: I’ve been trying to root for Twitter most of this time, but they’ve gotta figure this rate limiting mess real soon. Feels like the straw that broke the camel’s back](https://twitter.com/branmcconnell/status/1675490806248132611)
-- [@branmcconnell: the why is commendable the how is repugnant 🤦🏻‍♂️iykyk](https://twitter.com/branmcconnell/status/1675393881679216640)
-- [@branmcconnell: @CodePen ☝🏼](https://twitter.com/branmcconnell/status/1674298529991507968)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
