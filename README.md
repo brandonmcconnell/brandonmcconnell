@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [@branmcconnell: @codesandbox seems like you guys own a plethora of these, so thought I&#39;d @ you 👋🏼](https://twitter.com/branmcconnell/status/1679619314608119808)
-- [@branmcconnell: in other but related news… my $1000/yr](https://twitter.com/branmcconnell/status/1679619152728977408)
-- [@branmcconnell: …once upon a domain search dreary 🥴](https://twitter.com/branmcconnell/status/1679618630227759105)
-- [@branmcconnell: 🤦🏻‍♂️](https://twitter.com/branmcconnell/status/1679375948754595840)
-- [@branmcconnell: @AnkerOfficial Prime day isn’t over yet, but you pulled the deal? @AmazonHelp](https://twitter.com/branmcconnell/status/1679375170832830464)
+- [@branmcconnell: Calling TailwindCSS users 📣 What are ALL the features you feel TailwindCSS is missing? It could be anything— - core CSS properties - CSS functionality - polyfilling future CSS - functions - etc.Cooking up a new plugin 👀✨#tailwind #tailwindcss #css #js #react](https://twitter.com/branmcconnell/status/1682864317958594560)
+- [@saysAaron: RT by Yeah, Messi is great, but look at that gorgeous score bug by the design team at AppleTV 😘](https://twitter.com/saysAaron/status/1682750048315273221)
+- [@TheAnkurTyagi: RT by My Take on low Engineering Salaries in Europe and why EU is still a good enough choice for many Indians who want to immigrate! You can&#39;t compare US/Indian salaries against European salaries.The standard of living and how society works in general in America/India is very much…](https://twitter.com/TheAnkurTyagi/status/1682744616544620544)
+- [@ilyamiskov: RT by Sorry, but this is the best mouse for a Mac, period.](https://twitter.com/ilyamiskov/status/1682600160746979333)
+- [@branmcconnell: This is BIG. We&#39;ve been discussing this one for a LONG TIME, and I&#39;m really happy with where the spec landed Thanks to everyone involved in this PR who made it happen 👏🏼I&#39;m already dreaming about using it sibling-count&lpar;&rpar; and sibling-index&lpar;&rpar; for some cool effects](https://twitter.com/branmcconnell/status/1682519485193007106)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
