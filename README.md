@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: What are the pros and cons of using `create-next-app` vs. `create-t3-app` &lpar;or other options&rpar; these days? I&#39;d love to take a deep dive into what the best ways to start a new full-stack next.js app arecc @rauchg @vercel @t3dotgg](https://twitter.com/branmcconnell/status/1683560337197629443)
+- [@Levidjones: RT by new twitter nav comin in 🔥 content writers nailed the brand-forward language](https://twitter.com/Levidjones/status/1683551449131917312)
 - [@CharlesPattson: RT by Designers turning up to the team all hands to say “no update from me”](https://twitter.com/CharlesPattson/status/1683541053096247327)
 - [@branmcconnell: the best Twitter / X mashup logo I&#39;ve seen yet ❤️‍🔥 created by @amirHiroon](https://twitter.com/branmcconnell/status/1683533129326424064)
 - [@joyofcodedev: RT by I&#39;m excited to release Animotion! 🪄 Animotion is a presentational framework for creating beautiful slides and visualizing ideas with code using Svelte.🌟](https://twitter.com/joyofcodedev/status/1683517512711905285)
-- [@greg16676935420: RT by BREAKING: New social media app, X, has already passed 400 million users in less than 12 hours](https://twitter.com/greg16676935420/status/1683463927596736512)
-- [@branmcconnell: Calling TailwindCSS users 📣 What are ALL the features you feel TailwindCSS is missing? It could be anything— - core CSS properties - CSS functionality - polyfilling future CSS - functions - etc.Cooking up a new plugin 👀✨#tailwind #tailwindcss #css #js #react](https://twitter.com/branmcconnell/status/1682864317958594560)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
