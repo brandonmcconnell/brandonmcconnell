@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@CharlesPattson: RT by Designers turning up to the team all hands to say “no update from me”](https://twitter.com/CharlesPattson/status/1683541053096247327)
 - [@branmcconnell: the best Twitter / X mashup logo I&#39;ve seen yet ❤️‍🔥 created by @amirHiroon](https://twitter.com/branmcconnell/status/1683533129326424064)
+- [@joyofcodedev: RT by I&#39;m excited to release Animotion! 🪄 Animotion is a presentational framework for creating beautiful slides and visualizing ideas with code using Svelte.🌟](https://twitter.com/joyofcodedev/status/1683517512711905285)
 - [@greg16676935420: RT by BREAKING: New social media app, X, has already passed 400 million users in less than 12 hours](https://twitter.com/greg16676935420/status/1683463927596736512)
 - [@branmcconnell: Calling TailwindCSS users 📣 What are ALL the features you feel TailwindCSS is missing? It could be anything— - core CSS properties - CSS functionality - polyfilling future CSS - functions - etc.Cooking up a new plugin 👀✨#tailwind #tailwindcss #css #js #react](https://twitter.com/branmcconnell/status/1682864317958594560)
-- [@saysAaron: RT by Yeah, Messi is great, but look at that gorgeous score bug by the design team at AppleTV 😘](https://twitter.com/saysAaron/status/1682750048315273221)
-- [@TheAnkurTyagi: RT by My Take on low Engineering Salaries in Europe and why EU is still a good enough choice for many Indians who want to immigrate! You can&#39;t compare US/Indian salaries against European salaries.The standard of living and how society works in general in America/India is very much…](https://twitter.com/TheAnkurTyagi/status/1682744616544620544)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
