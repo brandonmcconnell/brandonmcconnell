@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: As of now, I&#39;d prob use the included Table component and make cells editable with something like](https://twitter.com/branmcconnell/status/1683846431029997569)
 - [@branmcconnell: What are the pros and cons of using `create-next-app` vs. `create-t3-app` &lpar;or other options&rpar; these days? I&#39;d love to take a deep dive into what the best ways to start a new full-stack next.js app arecc @rauchg @vercel @t3dotgg](https://twitter.com/branmcconnell/status/1683560337197629443)
 - [@Levidjones: RT by new twitter nav comin in 🔥 content writers nailed the brand-forward language](https://twitter.com/Levidjones/status/1683551449131917312)
 - [@CharlesPattson: RT by Designers turning up to the team all hands to say “no update from me”](https://twitter.com/CharlesPattson/status/1683541053096247327)
 - [@branmcconnell: the best Twitter / X mashup logo I&#39;ve seen yet ❤️‍🔥 created by @amirHiroon](https://twitter.com/branmcconnell/status/1683533129326424064)
-- [@joyofcodedev: RT by I&#39;m excited to release Animotion! 🪄 Animotion is a presentational framework for creating beautiful slides and visualizing ideas with code using Svelte.🌟](https://twitter.com/joyofcodedev/status/1683517512711905285)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
