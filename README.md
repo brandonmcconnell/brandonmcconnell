@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@rileyj_s: RT by I have lost count of the amount of rejections I&#39;ve received. Someone I recently met spoke these words that I hope all can hear when it comes to being rejected in this time of chaotic job hunting &lpar;this is no longer a search&rpar;. It&#39;s not you, it&#39;s them. Sure, we can always…](https://twitter.com/rileyj_s/status/1684193533412929542)
 - [@branmcconnell: As of now, I&#39;d prob use the included Table component and make cells editable with something like](https://twitter.com/branmcconnell/status/1683846431029997569)
 - [@FabianHiller: RT by As part of my thesis, supervised by @mhevery and @RyanCarniato, I&#39;m releasing a new open source project! Valibot is a schema library like @zodtypes, except that Valibot is modular and can be code split to a few hundred bytes. Read more in the announcement:](https://twitter.com/FabianHiller/status/1683841850401251333)
 - [@anatudor: RT by Discovering how much I rely on favicons to find the tab I want to go back to. Twitter used to be easy to spot, now it isn&#39;t anymore...](https://twitter.com/anatudor/status/1683714684854104064)
 - [@branmcconnell: What are the pros and cons of using `create-next-app` vs. `create-t3-app` &lpar;or other options&rpar; these days? I&#39;d love to take a deep dive into what the best ways to start a new full-stack next.js app arecc @rauchg @vercel @t3dotgg](https://twitter.com/branmcconnell/status/1683560337197629443)
-- [@Levidjones: RT by new twitter nav comin in 🔥 content writers nailed the brand-forward language](https://twitter.com/Levidjones/status/1683551449131917312)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
