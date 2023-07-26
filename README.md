@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@rauchg: RT by Too good. The web &gt; native. Don’t @ me.](https://twitter.com/rauchg/status/1684281241259106315)
 - [@branmcconnell: @shadcn sorta related — I started exploring the components, and I was curious if for some components, e.g. Toast, you have any instructions for extending it to support more variants, actions, etc.? Would those sort of extensibility instructions be somewhere else in the docs?](https://twitter.com/branmcconnell/status/1684275445485936640)
 - [@rileyj_s: RT by I have lost count of the amount of rejections I&#39;ve received. Someone I recently met spoke these words that I hope all can hear when it comes to being rejected in this time of chaotic job hunting &lpar;this is no longer a search&rpar;. It&#39;s not you, it&#39;s them. Sure, we can always…](https://twitter.com/rileyj_s/status/1684193533412929542)
 - [@branmcconnell: As of now, I&#39;d prob use the included Table component and make cells editable with something like](https://twitter.com/branmcconnell/status/1683846431029997569)
 - [@FabianHiller: RT by As part of my thesis, supervised by @mhevery and @RyanCarniato, I&#39;m releasing a new open source project! Valibot is a schema library like @zodtypes, except that Valibot is modular and can be code split to a few hundred bytes. Read more in the announcement:](https://twitter.com/FabianHiller/status/1683841850401251333)
-- [@anatudor: RT by Discovering how much I rely on favicons to find the tab I want to go back to. Twitter used to be easy to spot, now it isn&#39;t anymore...](https://twitter.com/anatudor/status/1683714684854104064)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
