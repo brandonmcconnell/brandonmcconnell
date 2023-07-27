@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@GabrielVergnaud: RT by @branmcconnell @mattpocockuk @ecyrbedev There you go 👉](https://twitter.com/branmcconnell/status/1684641541770600450)
 - [@RhysSullivan: RT by This new Stack Overflow AI is crazy powerful](https://twitter.com/branmcconnell/status/1684606249407840256)
 - [@rauchg: RT by Too good. The web &gt; native. Don’t @ me.](https://twitter.com/branmcconnell/status/1684283523484770308)
 - [@rauchg: RT by Too good. The web &gt; native. Don’t @ me.](https://twitter.com/rauchg/status/1684281241259106315)
 - [@branmcconnell: @shadcn sorta related — I started exploring the components, and I was curious if for some components, e.g. Toast, you have any instructions for extending it to support more variants, actions, etc.? Would those sort of extensibility instructions be somewhere else in the docs?](https://twitter.com/branmcconnell/status/1684275445485936640)
-- [@rileyj_s: RT by I have lost count of the amount of rejections I&#39;ve received.   Someone I recently met spoke these words that I hope all can…](https://twitter.com/branmcconnell/status/1684236250205782016)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
