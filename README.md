@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@BenLesh: RT by Folks... this is a BIG DEAL. Things to know: 1. This is NOT &quot;adding RxJS to the browser&quot;. There&#39;s a limited but solid set of…](https://twitter.com/branmcconnell/status/1684991360468987904)
+- [@domfarolino: RT by Hey reactive JS folks! I&#39;m working to bring Observables to the web platform by reviving a @thedomstandard proposal that g…](https://twitter.com/branmcconnell/status/1684991348993318912)
 - [@argyleink: RT by 🆕 post on  Adapting typography to user&#39;s preferences](https://twitter.com/branmcconnell/status/1684701272207925248)
 - [@GabrielVergnaud: RT by @branmcconnell @mattpocockuk @ecyrbedev There you go 👉](https://twitter.com/branmcconnell/status/1684641541770600450)
 - [@RhysSullivan: RT by This new Stack Overflow AI is crazy powerful](https://twitter.com/branmcconnell/status/1684606249407840256)
-- [@rauchg: RT by Too good. The web &gt; native. Don’t @ me.](https://twitter.com/branmcconnell/status/1684283523484770308)
-- [@rauchg: RT by Too good. The web &gt; native. Don’t @ me.](https://twitter.com/rauchg/status/1684281241259106315)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
