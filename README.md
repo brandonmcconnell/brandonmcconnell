@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: stoked to follow @Levidjones as he builds his new portfolio in just three days 👀🍿 … #uiux #ui #ux #design #webdevelopment #webdev #webdesign #portfolio #figma #framer #webflow #nocode](https://twitter.com/branmcconnell/status/1686462190683828225)
 - [@jacobmparis: RT by finally](https://twitter.com/branmcconnell/status/1686381511157899264)
 - [@AdamRackis: RT by Random hot take, but the best thing the Svelte community could do to become a more generally viable alternative to React wo…](https://twitter.com/branmcconnell/status/1686041543189442560)
 - [@supabase: RT by straight to postgres](https://twitter.com/branmcconnell/status/1685934975026388992)
 - [@BenLesh: RT by Folks... this is a BIG DEAL. Things to know: 1. This is NOT &quot;adding RxJS to the browser&quot;. There&#39;s a limited but solid set of…](https://twitter.com/branmcconnell/status/1684991360468987904)
-- [@domfarolino: RT by Hey reactive JS folks! I&#39;m working to bring Observables to the web platform by reviving a @thedomstandard proposal that g…](https://twitter.com/branmcconnell/status/1684991348993318912)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
