@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@joshnuss: RT by Experimental cookie store for Svelte/Kit:](https://twitter.com/branmcconnell/status/1686806553041453056)
+- [@huntabyte: RT by The shadcn-svelte rewrite has begun...](https://twitter.com/branmcconnell/status/1686806437643583489)
 - [@branmcconnell: stoked to follow @Levidjones as he builds his new portfolio in just three days 👀🍿 … #uiux #ui #ux #design #webdevelopment #webdev #webdesign #portfolio #figma #framer #webflow #nocode](https://twitter.com/branmcconnell/status/1686462190683828225)
 - [@jacobmparis: RT by finally](https://twitter.com/branmcconnell/status/1686381511157899264)
 - [@AdamRackis: RT by Random hot take, but the best thing the Svelte community could do to become a more generally viable alternative to React wo…](https://twitter.com/branmcconnell/status/1686041543189442560)
-- [@supabase: RT by straight to postgres](https://twitter.com/branmcconnell/status/1685934975026388992)
-- [@BenLesh: RT by Folks... this is a BIG DEAL. Things to know: 1. This is NOT &quot;adding RxJS to the browser&quot;. There&#39;s a limited but solid set of…](https://twitter.com/branmcconnell/status/1684991360468987904)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
