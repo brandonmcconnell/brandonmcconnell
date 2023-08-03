@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@DanaWoodman: RT by Devs: MODALS ARE THE WORST THING EVER Also devs: OMG I LOVE CMD+K MENUS!!!](https://twitter.com/branmcconnell/status/1687208061113618435)
 - [@branmcconnell: some big GPT updates rolling out next week #gpt #ai #openai #llm #llms #chatgpt #chatgpt4](https://twitter.com/branmcconnell/status/1687149132014653460)
 - [@joshnuss: RT by Experimental cookie store for Svelte/Kit:](https://twitter.com/branmcconnell/status/1686806553041453056)
 - [@huntabyte: RT by The shadcn-svelte rewrite has begun...](https://twitter.com/branmcconnell/status/1686806437643583489)
 - [@branmcconnell: stoked to follow @Levidjones as he builds his new portfolio in just three days 👀🍿 … #uiux #ui #ux #design #webdevelopment #webdev #webdesign #portfolio #figma #framer #webflow #nocode](https://twitter.com/branmcconnell/status/1686462190683828225)
-- [@jacobmparis: RT by finally](https://twitter.com/branmcconnell/status/1686381511157899264)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
