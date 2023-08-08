@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@zenorocha: RT by Today we&#39;re launching an SMTP service! Here&#39;s a bit of background on why we invested in support of a 40-year-old protocol..…](https://twitter.com/branmcconnell/status/1688923826074361857)
 - [@alyssaxuu: RT by Where&#39;s Figma for graphic design? 🤔 Introducing @Modyfi_, a web-based collaborative image-making platform. Design, iterate,…](https://twitter.com/branmcconnell/status/1688575618643099649)
 - [@branmcconnell: My good friend @Levidjones just launched his new portfolio today! He’s one of the best designers I’ve had the pleasure to work with in recent years If you’ve got contract work coming up, a startup in the works, or need an excellent design lead/manager, Levi is the real deal 👏🏼](https://twitter.com/branmcconnell/status/1687698583145844736)
 - [@joyofcodedev: RT by](https://twitter.com/branmcconnell/status/1687559093450424321)
 - [@uxdesigncc: RT by Figma now supports REM units: understanding the use and benefits](https://twitter.com/branmcconnell/status/1687476429762572289)
-- [@DanaWoodman: RT by Devs: MODALS ARE THE WORST THING EVER Also devs: OMG I LOVE CMD+K MENUS!!!](https://twitter.com/branmcconnell/status/1687208061113618435)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
