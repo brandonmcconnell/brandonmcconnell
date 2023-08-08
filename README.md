@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@rauchg: RT by So proud of @shadcn joining the @vercel team.  His work has changed the way we think about building and distributing UI, and i…](https://twitter.com/branmcconnell/status/1688994753319448576)
 - [@shadcn: RT by Introducing Themes. Hand-picked colors that you can copy and paste into your apps.  This builds on top…](https://twitter.com/branmcconnell/status/1688985133540577285)
 - [@shadcn: RT by I’m joining @vercel as a Design Engineer to continue building customizable UI components for the open source community. Someth…](https://twitter.com/branmcconnell/status/1688980754922172416)
 - [@zenorocha: RT by Today we&#39;re launching an SMTP service! Here&#39;s a bit of background on why we invested in support of a 40-year-old protocol..…](https://twitter.com/branmcconnell/status/1688923826074361857)
 - [@alyssaxuu: RT by Where&#39;s Figma for graphic design? 🤔 Introducing @Modyfi_, a web-based collaborative image-making platform. Design, iterate,…](https://twitter.com/branmcconnell/status/1688575618643099649)
-- [@branmcconnell: My good friend @Levidjones just launched his new portfolio today! He’s one of the best designers I’ve had the pleasure to work with in recent years If you’ve got contract work coming up, a startup in the works, or need an excellent design lead/manager, Levi is the real deal 👏🏼](https://twitter.com/branmcconnell/status/1687698583145844736)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
