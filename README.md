@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@supabase: RT by Query your foreign data sources directly from Supabase](https://twitter.com/branmcconnell/status/1689435876533903360)
 - [@Levidjones: RT by The information density and scannability of Slack is what sets it apart from... email... This feels more like Apple Mail t…](https://twitter.com/branmcconnell/status/1689431099343347712)
 - [@supabase: RT by Schema Visualizer now in Supabase Studio!](https://twitter.com/branmcconnell/status/1689398024009875460)
 - [@rauchg: RT by So proud of @shadcn joining the @vercel team.  His work has changed the way we think about building and distributing UI, and i…](https://twitter.com/branmcconnell/status/1688994753319448576)
 - [@shadcn: RT by Introducing Themes. Hand-picked colors that you can copy and paste into your apps.  This builds on top…](https://twitter.com/branmcconnell/status/1688985133540577285)
-- [@shadcn: RT by I’m joining @vercel as a Design Engineer to continue building customizable UI components for the open source community. Someth…](https://twitter.com/branmcconnell/status/1688980754922172416)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
