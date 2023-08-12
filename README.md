@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: A colleague of mine just launched his first SaaS product on Product Hunt, and it’s great! Really impressive tech stack, and a great tool for career developers 🔥](https://twitter.com/branmcconnell/status/1690377365602684928)
 - [@supabase: RT by #SupaLaunchWeek is coming and to celebrate, we&#39;re giving away 3 LW8 Swag Boxes!  👇 How to win... 👇](https://twitter.com/branmcconnell/status/1690046763607166976)
 - [@supabase: RT by We&#39;re adding OAuth2.0 Applications to our Marketplace, with now over 60 integrations! We&#39;ve started with a few partners @Clo…](https://twitter.com/branmcconnell/status/1689875186198421504)
 - [@supabase: RT by Query your foreign data sources directly from Supabase](https://twitter.com/branmcconnell/status/1689435876533903360)
 - [@Levidjones: RT by The information density and scannability of Slack is what sets it apart from... email... This feels more like Apple Mail t…](https://twitter.com/branmcconnell/status/1689431099343347712)
-- [@supabase: RT by Schema Visualizer now in Supabase Studio!](https://twitter.com/branmcconnell/status/1689398024009875460)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
