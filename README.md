@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@rjs: RT by I&#39;m surprised how often I&#39;ve heard the story: &quot;We weren&#39;t shipping. We fired the CTO. Now I&#39;m in charge of strategy. We need to f…](https://twitter.com/branmcconnell/status/1691528362312028160)
 - [@chribjel: RT by With the new and improved @vercel integration, @supabase looks pretty unbeatable for data and auth services. Easy connection…](https://twitter.com/branmcconnell/status/1691297454073995264)
 - [@LinusEkenstam: RT by Hot Dog 🌭  You will not understand what you just watched.  This is beyond AI… it’s art…](https://twitter.com/branmcconnell/status/1691249939144396800)
 - [@rauchg: RT by Git, Slack, Email](https://twitter.com/branmcconnell/status/1691139003108708353)
 - [@branmcconnell: so… I’ve been visiting a lot of coffee shops lately. is lavender &amp; honey just “the thing“ right now?](https://twitter.com/branmcconnell/status/1690864109368336384)
-- [@branmcconnell: A colleague of mine just launched his first SaaS product on Product Hunt, and it’s great! Really impressive tech stack, and a great tool for career developers 🔥](https://twitter.com/branmcconnell/status/1690377365602684928)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
