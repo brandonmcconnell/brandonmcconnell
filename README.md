@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@mckaywrigley: RT by We’re at the point with AI + coding where you can just give the AI a URL to some docs and it will learn the library. Ins…](https://twitter.com/branmcconnell/status/1695100277299523882)
 - [@branmcconnell: This should be implemented regardless to support properly sized iframes across all platforms What would be especially helpful on top of that is if you also created libraries for different frameworks like React and Svelte, so we just pass in the post-id, and it handles the rest](https://twitter.com/branmcconnell/status/1692213251768267172)
 - [@branmcconnell: Supporting research and same/similar concerns: – StackOverflow #1 &lpar;LinkedIn specific&rpar;:  – StackOverflow #2 &lpar;for iframes, generally&rpar;:  – CodePen Example:](https://twitter.com/branmcconnell/status/1692213250598027675)
 - [@branmcconnell: What the multi-team is up to is super impressive. Use my link to get on the waitlist now! 🔥](https://twitter.com/branmcconnell/status/1691631357339029734)
 - [@rjs: RT by I&#39;m surprised how often I&#39;ve heard the story: &quot;We weren&#39;t shipping. We fired the CTO. Now I&#39;m in charge of strategy. We need to f…](https://twitter.com/branmcconnell/status/1691528362312028160)
-- [@chribjel: RT by With the new and improved @vercel integration, @supabase looks pretty unbeatable for data and auth services. Easy connection…](https://twitter.com/branmcconnell/status/1691297454073995264)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
