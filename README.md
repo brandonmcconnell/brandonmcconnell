@@ -43,7 +43,7 @@
 
 ### My latest StackOverflow activity
 <!-- STACKOVERFLOW:START -->
-- [Answer by Brandon McConnell for Array.flat&lpar;&rpar; vs spread operator to flat multiple arrays into one](https://stackoverflow.com/questions/68339718/array-flat-vs-spread-operator-to-flat-multiple-arrays-into-one/76376941#76376941)
+- [Answer by Brandon McConnell for Performance of Array.flat&lpar;&rpar; vs spread operator to flatten multiple arrays into one](https://stackoverflow.com/questions/68339718/performance-of-array-flat-vs-spread-operator-to-flatten-multiple-arrays-into-o/76376941#76376941)
 - [Answer by Brandon McConnell for JavaScript map &amp; find at the same time: findMap?](https://stackoverflow.com/questions/57760111/javascript-map-find-at-the-same-time-findmap/75838962#75838962)
 - [Boolean truthiness narrowing not working in Typescript](https://stackoverflow.com/questions/73677766/boolean-truthiness-narrowing-not-working-in-typescript)
 - [Answer by Brandon McConnell for Adding tabindex dynamically](https://stackoverflow.com/questions/15123054/adding-tabindex-dynamically/73279729#73279729)
