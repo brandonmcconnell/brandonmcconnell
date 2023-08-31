@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: .@AppleSupport I really wish my @Apple Watch would continue recording my ECGs even/especially when my heart does its crazy stuff. This makes it so hard for me to record strange events for my cardiologists, without actually video recording them like this. 😓](https://twitter.com/branmcconnell/status/1697078840756162708)
 - [@d__raptis: RT by All about line height in a perfect website 👌 →](https://twitter.com/branmcconnell/status/1696244139095114018)
 - [@branmcconnell: This marks the second of three big CSS features landing this year — nesting Earlier this year, we saw container queries gain support across all modern browsers, and soon, we’ll see global support for :has&lpar;&rpar; as well It’s a good time to be a CSS dev](https://twitter.com/branmcconnell/status/1696212730607452327)
 - [@wesbos: RT by CSS Nesting just landed in Firefox 117 which puts it at 100% browser support! You can start using it today — here are 11 examp…](https://twitter.com/branmcconnell/status/1696211008476631308)
 - [@mckaywrigley: RT by We’re at the point with AI + coding where you can just give the AI a URL to some docs and it will learn the library. Ins…](https://twitter.com/branmcconnell/status/1695100277299523882)
-- [@branmcconnell: This should be implemented regardless to support properly sized iframes across all platforms What would be especially helpful on top of that is if you also created libraries for different frameworks like React and Svelte, so we just pass in the post-id, and it handles the rest](https://twitter.com/branmcconnell/status/1692213251768267172)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
