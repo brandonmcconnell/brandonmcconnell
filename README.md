@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@chriscoyier: RT by Oooo. Chrome 117 just dropped. The big one for CSS today then is... Subgrid! It&#39;s cross-browser Subgrid day! &lpar;You can se…](https://twitter.com/branmcconnell/status/1701973198768570662)
 - [@Steve8708: RT by we&#39;ve been working on something...](https://twitter.com/branmcconnell/status/1701664945413447804)
 - [@frantzfries: RT by Officially hit product of the week 📈](https://twitter.com/branmcconnell/status/1701615491557793906)
 - [@code_e_pendant: RT by New Tailwind PR just got merged! Thanks to @branmcconnell the base styles will now apply to both html AND :host, enabli…](https://twitter.com/branmcconnell/status/1700258837612335275)
 - [@branmcconnell: .@AppleSupport I really wish my @Apple Watch would continue recording my ECGs even/especially when my heart does its crazy stuff. This makes it so hard for me to record strange events for my cardiologists, without actually video recording them like this. 😓](https://twitter.com/branmcconnell/status/1697078840756162708)
-- [@d__raptis: RT by All about line height in a perfect website 👌 →](https://twitter.com/branmcconnell/status/1696244139095114018)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
