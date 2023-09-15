@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: btw dm&#39;d you, just wanted to follow up here 👋🏼](https://twitter.com/branmcconnell/status/1702497482016743611)
 - [@Una: RT by Short capture trying out @vercel&#39;s new Beta AI product:   &lpar;LOVE the name!&rpar; I don&#39;t think interactions are…](https://twitter.com/branmcconnell/status/1702474234231247338)
 - [@chriscoyier: RT by Oooo. Chrome 117 just dropped. The big one for CSS today then is... Subgrid! It&#39;s cross-browser Subgrid day! &lpar;You can se…](https://twitter.com/branmcconnell/status/1701973198768570662)
 - [@Steve8708: RT by we&#39;ve been working on something...](https://twitter.com/branmcconnell/status/1701664945413447804)
 - [@frantzfries: RT by Officially hit product of the week 📈](https://twitter.com/branmcconnell/status/1701615491557793906)
-- [@code_e_pendant: RT by New Tailwind PR just got merged! Thanks to @branmcconnell the base styles will now apply to both html AND :host, enabli…](https://twitter.com/branmcconnell/status/1700258837612335275)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
