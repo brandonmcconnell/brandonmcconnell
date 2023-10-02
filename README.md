@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@housecor: RT by A common mistake: &quot;Let&#39;s abstract this in case we want to replace it later.&quot; Examples: 🚫 &quot;Let&#39;s abstract React in case we s…](https://twitter.com/branmcconnell/status/1708934410790379539)
 - [@branmcconnell: I had the pleasure of helping send off one of the best bosses and developers I’ve had today, and another not long ago! @dimfeld &amp; @AnatolyG are incredible founders in med-tech. I’m eager to see what they build next. Enjoy your next adventures, guys! Thanks for the mentorship 🙏🏼](https://twitter.com/branmcconnell/status/1707668774126846144)
 - [@LinusEkenstam: RT by Live stream directly from the glasses... sick.  POV streaming will be huge, Smart glasses at $299 October 17th. https:/…](https://twitter.com/branmcconnell/status/1707099031015768197)
 - [@branmcconnell: any update? 🙂](https://twitter.com/branmcconnell/status/1706950485217804372)
 - [@coda_hq: RT by 🪦 R.I.P. to FigJam stickies copy-pasting. The new Coda + FigJam widget syncs @figma FigJam stickies into a rich Coda table in…](https://twitter.com/branmcconnell/status/1704542295503290531)
-- [@branmcconnell: btw dm&#39;d you, just wanted to follow up here 👋🏼](https://twitter.com/branmcconnell/status/1702497482016743611)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
