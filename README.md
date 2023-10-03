@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Is CSS `attr&lpar;&rpar;` finally getting its long-awaited superpowers? 👀🤞🏼 Browsers are starting to implement the fallback value, and I just opened a new Interop 2024 issue for `attr&lpar;&rpar;` If you want `attr&lpar;min TYPE, FALLBACK&rpar;`, voice your support &amp; upvote here:](https://twitter.com/branmcconnell/status/1709319224655802417)
 - [@branmcconnell: I don&#39;t know who at @github broke it, but all headings in READMEs are now automatically rendered as links and styled as such 😐](https://twitter.com/branmcconnell/status/1708949444128096640)
 - [@housecor: RT by A common mistake: &quot;Let&#39;s abstract this in case we want to replace it later.&quot; Examples: 🚫 &quot;Let&#39;s abstract React in case we s…](https://twitter.com/branmcconnell/status/1708934410790379539)
 - [@branmcconnell: I had the pleasure of helping send off one of the best bosses and developers I’ve had today, and another not long ago! @dimfeld &amp; @AnatolyG are incredible founders in med-tech. I’m eager to see what they build next. Enjoy your next adventures, guys! Thanks for the mentorship 🙏🏼](https://twitter.com/branmcconnell/status/1707668774126846144)
 - [@LinusEkenstam: RT by Live stream directly from the glasses... sick.  POV streaming will be huge, Smart glasses at $299 October 17th. https:/…](https://twitter.com/branmcconnell/status/1707099031015768197)
-- [@branmcconnell: any update? 🙂](https://twitter.com/branmcconnell/status/1706950485217804372)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
