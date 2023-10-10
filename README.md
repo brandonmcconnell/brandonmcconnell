@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: DID YOU KNOW you can be a successful CSS developer without posting about matching border-radii?](https://twitter.com/branmcconnell/status/1711779251161293113)
 - [@joyofcodedev: RT by Being able to see changes live as you edit values is crucial for learning which is why I made this awesome Svelte GUI](https://twitter.com/branmcconnell/status/1710749154048430451)
 - [@rauchg: RT by 𝕏 social card rendering changes will likely impact your traffic and conversion. Check out Vercel OG Image generation at the ed…](https://twitter.com/branmcconnell/status/1710492736137351415)
 - [@webkit: RT by Learn about Interop 2024, and how you can contribute to what’s included next year.](https://twitter.com/branmcconnell/status/1710029906309263682)
 - [@branmcconnell: RT by This marks the second of three big CSS features landing this year — nesting Earlier this year, we saw container queries…](https://twitter.com/branmcconnell/status/1709974407198982225)
-- [@branmcconnell: RT by Is CSS `attr&lpar;&rpar;` finally getting its long-awaited superpowers? 👀🤞🏼 Browsers are starting to implement the fallback value…](https://twitter.com/branmcconnell/status/1709518384654885293)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
