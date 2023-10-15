@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@catalinmpit: RT by A friend I haven&#39;t met since last year told me today that he stopped learning how to code because of AI.  He said he hear…](https://twitter.com/branmcconnell/status/1713398753426886678)
 - [@wesbos: RT by Handy!  Use fetch&lpar;&rpar; to check if a file exists without downloading the entire thing.](https://twitter.com/branmcconnell/status/1712784154541388192)
 - [@shadcn: RT by The @OpenAI cookbook is built using shadcn/ui 🖐️🎤](https://twitter.com/branmcconnell/status/1712619535155777669)
 - [@daniel_nguyenx: RT by @shadcn @OpenAI](https://twitter.com/branmcconnell/status/1712619523269181484)
 - [@branmcconnell: this is no joke. the border-radius crowd is out of control this week 😆](https://twitter.com/branmcconnell/status/1711888087436132860)
-- [@ThePrimeagen: RT by i wish i had capability to make change, i have no capacity for enacting justice i can only offer prayers to God for just…](https://twitter.com/branmcconnell/status/1711854422790390241)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
