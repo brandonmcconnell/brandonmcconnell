@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@rileybrown_ai: RT by Create a Midjourney Character, then BECOME that character.](https://twitter.com/branmcconnell/status/1715507560449761771)
+- [@LinusEkenstam: RT by How do we know what’s real anymore?  I’ll let @rpnickson explain, things are about to become wild.   …](https://twitter.com/branmcconnell/status/1715502827592913408)
 - [@branmcconnell: attn @LeaVerou @anatudor @jh3yy @argyleink @Una @csswg @CSSWeekly @ChallengesCss @css](https://twitter.com/branmcconnell/status/1715501991970152577)
 - [@branmcconnell: The intention here would be to match syntaxes of shorthand properties like padding which could match an OR&#39;d list like this: &quot;&lt;length&gt; | &lt;length&gt; &lt;length&gt; | &lt;length&gt; &lt;length&gt; &lt;length&gt; | &lt;length&gt; &lt;length&gt; &lt;length&gt; &lt;length&gt;&quot; So could we use this entire syntax? ☝🏼](https://twitter.com/branmcconnell/status/1715501863616049233)
 - [@branmcconnell: CSS friends, am I reading this right? It sounds like you can create custom properties with @‍property type that use multiple syntaxes &lpar;not just an OR&#39;d list&rpar; If that&#39;s correct, can we use this? 👉🏼 &quot;&lt;length&gt; &lt;length&gt; &lt;length&gt; &lt;length&gt;&quot;](https://twitter.com/branmcconnell/status/1715501405702635856)
-- [@branmcconnell: CSS friends, am I reading this right? It sounds like you can create custom properties with @‍property type that use multiple syntaxes &lpar;not just an OR&#39;d list&rpar; If that&#39;s correct, can we use… 👉🏼 &quot;&lt;length&gt;&quot; &quot;&lt;length&gt;&quot; &quot;&lt;length&gt;&quot; &quot;&lt;length&gt;&quot; 👈🏼](https://twitter.com/branmcconnell/status/1715490096118710473)
-- [@jh3yy: RT by Reminder 📢 If you&#39;re animating numbers, use this line of CSS 👇 .numbers {  font-variant: tabular-nums; } It will make sure y…](https://twitter.com/branmcconnell/status/1715455973396189234)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
