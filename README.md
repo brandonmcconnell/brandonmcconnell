@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: CSS friends, am I reading this right? It sounds like you can create custom properties with @‍property type that use multiple syntaxes &lpar;not just an OR&#39;d list&rpar; If that&#39;s correct, can we use… 👉🏼 &quot;&lt;length&gt;&quot; &quot;&lt;length&gt;&quot; &quot;&lt;length&gt;&quot; &quot;&lt;length&gt;&quot; 👈🏼](https://twitter.com/branmcconnell/status/1715490096118710473)
 - [@jh3yy: RT by Reminder 📢 If you&#39;re animating numbers, use this line of CSS 👇 .numbers {  font-variant: tabular-nums; } It will make sure y…](https://twitter.com/branmcconnell/status/1715455973396189234)
 - [@catalinmpit: RT by A friend I haven&#39;t met since last year told me today that he stopped learning how to code because of AI.  He said he hear…](https://twitter.com/branmcconnell/status/1713398753426886678)
 - [@wesbos: RT by Handy!  Use fetch&lpar;&rpar; to check if a file exists without downloading the entire thing.](https://twitter.com/branmcconnell/status/1712784154541388192)
 - [@shadcn: RT by The @OpenAI cookbook is built using shadcn/ui 🖐️🎤](https://twitter.com/branmcconnell/status/1712619535155777669)
-- [@daniel_nguyenx: RT by @shadcn @OpenAI](https://twitter.com/branmcconnell/status/1712619523269181484)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
