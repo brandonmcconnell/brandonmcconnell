@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Notice they didn’t test the windows this time around 👀](https://twitter.com/branmcconnell/status/1715862230494052472)
 - [@t3dotgg: RT by If I started a full stack app today, I would probably use HTML](https://twitter.com/branmcconnell/status/1715634779599822907)
 - [@rileybrown_ai: RT by Create a Midjourney Character, then BECOME that character.](https://twitter.com/branmcconnell/status/1715507560449761771)
 - [@LinusEkenstam: RT by How do we know what’s real anymore?  I’ll let @rpnickson explain, things are about to become wild.   …](https://twitter.com/branmcconnell/status/1715502827592913408)
 - [@branmcconnell: attn @LeaVerou @anatudor @jh3yy @argyleink @Una @csswg @CSSWeekly @ChallengesCss @css](https://twitter.com/branmcconnell/status/1715501991970152577)
-- [@branmcconnell: The intention here would be to match syntaxes of shorthand properties like padding which could match an OR&#39;d list like this: &quot;&lt;length&gt; | &lt;length&gt; &lt;length&gt; | &lt;length&gt; &lt;length&gt; &lt;length&gt; | &lt;length&gt; &lt;length&gt; &lt;length&gt; &lt;length&gt;&quot; So could we use this entire syntax? ☝🏼](https://twitter.com/branmcconnell/status/1715501863616049233)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
