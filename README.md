@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: When you&#39;ve been on the #v0 waitlist since day 1 &lpar;0?&rpar; but only now got accepted to the private beta… not alpha …fwiw I didn&#39;t add @rauchg&#39;s name, specifically. v0 made that decision 😅🥹🏳️ This is gonna be fun to play with. I recommend signing up for this beta asap 🔥](https://twitter.com/branmcconnell/status/1716013648400011432)
+- [@branmcconnell: the AI she told you not to worry about #v0 👀](https://twitter.com/branmcconnell/status/1716013524995256821)
 - [@branmcconnell: Notice they didn’t test the windows this time around 👀](https://twitter.com/branmcconnell/status/1715862230494052472)
 - [@t3dotgg: RT by If I started a full stack app today, I would probably use HTML](https://twitter.com/branmcconnell/status/1715634779599822907)
 - [@rileybrown_ai: RT by Create a Midjourney Character, then BECOME that character.](https://twitter.com/branmcconnell/status/1715507560449761771)
-- [@LinusEkenstam: RT by How do we know what’s real anymore?  I’ll let @rpnickson explain, things are about to become wild.   …](https://twitter.com/branmcconnell/status/1715502827592913408)
-- [@branmcconnell: attn @LeaVerou @anatudor @jh3yy @argyleink @Una @csswg @CSSWeekly @ChallengesCss @css](https://twitter.com/branmcconnell/status/1715501991970152577)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
