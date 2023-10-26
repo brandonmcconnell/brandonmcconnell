@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@actualTimWilson: RT by Taking this dynamic lighting idea a step further 🪄 Now supporting multiple lights and rounded borders. …](https://twitter.com/branmcconnell/status/1717341431940235269)
 - [@branmcconnell: One crucial feature lacking from the coherence of the &quot;@Apple ecosystem&quot; is the ability to use multiple iCloud accounts on a device, even if limited to work + personal accounts. I have one iPhone and would love to use continuity camera on both my work and personal macs.](https://twitter.com/branmcconnell/status/1716570544261517392)
 - [@branmcconnell: After months of hard work from the @syntaxfm team, their new website is up! Can’t wait to poke around on it later and try to discover some of the Easter eggs Great work @wesbos @stolinski 🔥](https://twitter.com/branmcconnell/status/1716510397409427746)
 - [@LeaVerou: RT by This. For most jobs &lpar;incl. product and SWE&rpar;, being good at interviewing is an almost orthogonal skill. So many companies opti…](https://twitter.com/branmcconnell/status/1716342328510878016)
 - [@JustAnotherPM: RT by This might be shocking: I am not as good at interviewing as I am at doing real product management. If you give me a re…](https://twitter.com/branmcconnell/status/1716342296281784325)
-- [@branmcconnell: When you&#39;ve been on the #v0 waitlist since day 1 &lpar;0?&rpar; but only now got accepted to the private beta… not alpha …fwiw I didn&#39;t add @rauchg&#39;s name, specifically. v0 made that decision 😅🥹🏳️ This is gonna be fun to play with. I recommend signing up for this beta asap 🔥](https://twitter.com/branmcconnell/status/1716013648400011432)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
