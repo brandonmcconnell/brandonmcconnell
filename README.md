@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@cramforce: RT by Next.js 14: No new APIs](https://twitter.com/branmcconnell/status/1717629575839244435)
 - [@branmcconnell: I&#39;ve noticed that colors display differently for me on @figma vs. @googlechrome. I tested this by pasting screenshots from both into Photoshop— Figma shows the correct color; Chrome does not. E8EAED renders in Chrome as F3F4F6 Is there a flag I need to disable in Chrome? attn…](https://twitter.com/branmcconnell/status/1717414879412547678)
 - [@actualTimWilson: RT by Taking this dynamic lighting idea a step further 🪄 Now supporting multiple lights and rounded borders. …](https://twitter.com/branmcconnell/status/1717341431940235269)
 - [@branmcconnell: One crucial feature lacking from the coherence of the &quot;@Apple ecosystem&quot; is the ability to use multiple iCloud accounts on a device, even if limited to work + personal accounts. I have one iPhone and would love to use continuity camera on both my work and personal macs.](https://twitter.com/branmcconnell/status/1716570544261517392)
 - [@branmcconnell: After months of hard work from the @syntaxfm team, their new website is up! Can’t wait to poke around on it later and try to discover some of the Easter eggs Great work @wesbos @stolinski 🔥](https://twitter.com/branmcconnell/status/1716510397409427746)
-- [@LeaVerou: RT by This. For most jobs &lpar;incl. product and SWE&rpar;, being good at interviewing is an almost orthogonal skill. So many companies opti…](https://twitter.com/branmcconnell/status/1716342328510878016)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
