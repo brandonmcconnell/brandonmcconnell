@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@stolinski: RT by Reminder that people just say stuff on this website. 🥴](https://twitter.com/branmcconnell/status/1719546962608029826)
+- [@TheJackForge: RT by Should you buy the M3 MacBook Pro? If you currently own: No MacBook: Yes Intel-based MacBook: Yes M1 MacBook: Maybe M2…](https://twitter.com/branmcconnell/status/1719546268983374209)
 - [@cpojer: RT by Who puts a trackpad to the left and a mouse to the right??](https://twitter.com/branmcconnell/status/1719221333555544298)
 - [@branmcconnell: All that said, the only mythic I’ve been missing FOREVER is the Rytec AMR. Please bring it back 🥲😭🙏🏼](https://twitter.com/branmcconnell/status/1718363472319427022)
 - [@branmcconnell: I think it could also be fun to add a special “birthday mode” that is only available to play in private mode on your verified birthday. That way, when it’s your birthday, you can invite your friends to a private room to play it](https://twitter.com/branmcconnell/status/1718363253951324444)
-- [@cramforce: RT by Next.js 14: No new APIs](https://twitter.com/branmcconnell/status/1717629575839244435)
-- [@branmcconnell: I&#39;ve noticed that colors display differently for me on @figma vs. @googlechrome. I tested this by pasting screenshots from both into Photoshop— Figma shows the correct color; Chrome does not. E8EAED renders in Chrome as F3F4F6 Is there a flag I need to disable in Chrome? attn…](https://twitter.com/branmcconnell/status/1717414879412547678)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
