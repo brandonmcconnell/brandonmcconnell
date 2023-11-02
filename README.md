@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @PlayCODNews @PlayCODMobile @CoDMobileSports @codmobile Check out this suggestions thread](https://twitter.com/branmcconnell/status/1720088300982247560)
 - [@jamonholmgren: RT by 10 years ago nobody would have expected Apple devs to be doing dev for macOS on a Microsoft IDE](https://twitter.com/branmcconnell/status/1719902098895311213)
 - [@stolinski: RT by Reminder that people just say stuff on this website. 🥴](https://twitter.com/branmcconnell/status/1719546962608029826)
 - [@TheJackForge: RT by Should you buy the M3 MacBook Pro? If you currently own: No MacBook: Yes Intel-based MacBook: Yes M1 MacBook: Maybe M2…](https://twitter.com/branmcconnell/status/1719546268983374209)
 - [@cpojer: RT by Who puts a trackpad to the left and a mouse to the right??](https://twitter.com/branmcconnell/status/1719221333555544298)
-- [@branmcconnell: All that said, the only mythic I’ve been missing FOREVER is the Rytec AMR. Please bring it back 🥲😭🙏🏼](https://twitter.com/branmcconnell/status/1718363472319427022)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
