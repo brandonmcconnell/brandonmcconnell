@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Struggling with a #CSS flexbox question. I&#39;m not sure if what I&#39;m trying to do is achievable with only CSS Here is an example using Tailwind CSS &lpar;details below&rpar;  I have a flex column with two children. If both have too much or too little content in them,…](https://twitter.com/branmcconnell/status/1720521726659063962)
+- [@AdamRackis: RT by Web platform added a portal. Sort of. They called it &quot;popover&quot;  And made it borderline useless by constraining only one to…](https://twitter.com/branmcconnell/status/1720521414623817987)
 - [@rauchg: RT by What security features would you like to see added to @vercel?](https://twitter.com/branmcconnell/status/1720479102761857507)
 - [@branmcconnell: @PlayCODNews @PlayCODMobile @CoDMobileSports @codmobile Check out this suggestions thread](https://twitter.com/branmcconnell/status/1720088300982247560)
 - [@jamonholmgren: RT by 10 years ago nobody would have expected Apple devs to be doing dev for macOS on a Microsoft IDE](https://twitter.com/branmcconnell/status/1719902098895311213)
-- [@stolinski: RT by Reminder that people just say stuff on this website. 🥴](https://twitter.com/branmcconnell/status/1719546962608029826)
-- [@TheJackForge: RT by Should you buy the M3 MacBook Pro? If you currently own: No MacBook: Yes Intel-based MacBook: Yes M1 MacBook: Maybe M2…](https://twitter.com/branmcconnell/status/1719546268983374209)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
