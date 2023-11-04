@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@pjausovec: RT by @ericbahn @SlackHQ … we’re back to email!!](https://twitter.com/branmcconnell/status/1720598275357855768)
+- [@branmcconnell: @SlackHQ @SlackHQ at the very least, please account for this on your status page. This is a widespread &lpar;and painful&rpar; outage here:  Tons of us are experiencing this:](https://twitter.com/branmcconnell/status/1720597467119730940)
+- [@branmcconnell: My coworkers and I are experiencing a massive @SlackHQ outage across different states and sides of the country, and yet nothing shows at  Not great. You&#39;d imagine that the Slack System Status should be showing something for this, and a quick way to report…](https://twitter.com/branmcconnell/status/1720596398536790371)
 - [@branmcconnell: Struggling with a #CSS flexbox question. I&#39;m not sure if what I&#39;m trying to do is achievable with only CSS Here is an example using Tailwind CSS &lpar;details below&rpar;  I have a flex column with two children. If both have too much or too little content in them,…](https://twitter.com/branmcconnell/status/1720521726659063962)
 - [@AdamRackis: RT by Web platform added a portal. Sort of. They called it &quot;popover&quot;  And made it borderline useless by constraining only one to…](https://twitter.com/branmcconnell/status/1720521414623817987)
-- [@rauchg: RT by What security features would you like to see added to @vercel?](https://twitter.com/branmcconnell/status/1720479102761857507)
-- [@branmcconnell: @PlayCODNews @PlayCODMobile @CoDMobileSports @codmobile Check out this suggestions thread](https://twitter.com/branmcconnell/status/1720088300982247560)
-- [@jamonholmgren: RT by 10 years ago nobody would have expected Apple devs to be doing dev for macOS on a Microsoft IDE](https://twitter.com/branmcconnell/status/1719902098895311213)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
