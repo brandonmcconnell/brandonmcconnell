@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@0xca0a: RT by this all feels like the beginning of a revolution. if games can be made by anyone, kids, elders, casuals, with so little effort…](https://twitter.com/branmcconnell/status/1720695958667976744)
 - [@branmcconnell: Is @OpenAI&#39;s ChatGPT down along with all these other services like Cloudflare and Slack? It seems to think I don&#39;t have ChatGPT Plus but then proceeds to tell me I do 🥴](https://twitter.com/branmcconnell/status/1720608652871287255)
 - [@pjausovec: RT by @ericbahn @SlackHQ … we’re back to email!!](https://twitter.com/branmcconnell/status/1720598275357855768)
 - [@branmcconnell: @SlackHQ @SlackHQ at the very least, please account for this on your status page. This is a widespread &lpar;and painful&rpar; outage here:  Tons of us are experiencing this:](https://twitter.com/branmcconnell/status/1720597467119730940)
 - [@branmcconnell: My coworkers and I are experiencing a massive @SlackHQ outage across different states and sides of the country, and yet nothing shows at  Not great. You&#39;d imagine that the Slack System Status should be showing something for this, and a quick way to report…](https://twitter.com/branmcconnell/status/1720596398536790371)
-- [@branmcconnell: Struggling with a #CSS flexbox question. I&#39;m not sure if what I&#39;m trying to do is achievable with only CSS Here is an example using Tailwind CSS &lpar;details below&rpar;  I have a flex column with two children. If both have too much or too little content in them,…](https://twitter.com/branmcconnell/status/1720521726659063962)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
