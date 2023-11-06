@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@techniq35: RT by Svelte UX and @LayerChart are the 3rd and 4th trending #svelte repos on #github this week 🤩](https://twitter.com/branmcconnell/status/1721310626331701343)
 - [@rauchg: RT by I love it when I’m done with some computer work so I can do other computer work to relax.](https://twitter.com/branmcconnell/status/1720927061089673346)
 - [@0xca0a: RT by this all feels like the beginning of a revolution. if games can be made by anyone, kids, elders, casuals, with so little effort…](https://twitter.com/branmcconnell/status/1720695958667976744)
 - [@branmcconnell: Is @OpenAI&#39;s ChatGPT down along with all these other services like Cloudflare and Slack? It seems to think I don&#39;t have ChatGPT Plus but then proceeds to tell me I do 🥴](https://twitter.com/branmcconnell/status/1720608652871287255)
 - [@pjausovec: RT by @ericbahn @SlackHQ … we’re back to email!!](https://twitter.com/branmcconnell/status/1720598275357855768)
-- [@branmcconnell: @SlackHQ @SlackHQ at the very least, please account for this on your status page. This is a widespread &lpar;and painful&rpar; outage here:  Tons of us are experiencing this:](https://twitter.com/branmcconnell/status/1720597467119730940)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
