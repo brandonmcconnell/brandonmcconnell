@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: If these leaks are legit, we’ve got some huge wins coming to Open AI’s APIs very soon - GPT-4 Turbo   - Vision &lpar;image processing&rpar;   - Code Interpreter   - 128K context - Text-to-speech - DALL-E 3 API](https://twitter.com/branmcconnell/status/1721582069288206353)
+- [@branmcconnell: It would also be great to be able to add multiple Amazon accounts so I can manage tech sales for both my wife and myself. Loving this app so far btw! Just cashed out my never used max spec’d MBP M2 Max](https://twitter.com/branmcconnell/status/1721580231709098434)
 - [@techniq35: RT by Svelte UX and @LayerChart are the 3rd and 4th trending #svelte repos on #github this week 🤩](https://twitter.com/branmcconnell/status/1721310626331701343)
 - [@rauchg: RT by I love it when I’m done with some computer work so I can do other computer work to relax.](https://twitter.com/branmcconnell/status/1720927061089673346)
 - [@0xca0a: RT by this all feels like the beginning of a revolution. if games can be made by anyone, kids, elders, casuals, with so little effort…](https://twitter.com/branmcconnell/status/1720695958667976744)
-- [@branmcconnell: Is @OpenAI&#39;s ChatGPT down along with all these other services like Cloudflare and Slack? It seems to think I don&#39;t have ChatGPT Plus but then proceeds to tell me I do 🥴](https://twitter.com/branmcconnell/status/1720608652871287255)
-- [@pjausovec: RT by @ericbahn @SlackHQ … we’re back to email!!](https://twitter.com/branmcconnell/status/1720598275357855768)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
