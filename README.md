@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@Levidjones: RT by RSVP is up for the next LA Design Dinner!  Thursday, Nov 30 at 6:30pm Can&#39;t wait to hang with you there!  …](https://twitter.com/branmcconnell/status/1721609035877949462)
 - [@branmcconnell: If these leaks are legit, we’ve got some huge wins coming to Open AI’s APIs very soon - GPT-4 Turbo   - Vision &lpar;image processing&rpar;   - Code Interpreter   - 128K context - Text-to-speech - DALL-E 3 API](https://twitter.com/branmcconnell/status/1721582069288206353)
 - [@branmcconnell: It would also be great to be able to add multiple Amazon accounts so I can manage tech sales for both my wife and myself. Loving this app so far btw! Just cashed out my never used max spec’d MBP M2 Max](https://twitter.com/branmcconnell/status/1721580231709098434)
 - [@techniq35: RT by Svelte UX and @LayerChart are the 3rd and 4th trending #svelte repos on #github this week 🤩](https://twitter.com/branmcconnell/status/1721310626331701343)
 - [@rauchg: RT by I love it when I’m done with some computer work so I can do other computer work to relax.](https://twitter.com/branmcconnell/status/1720927061089673346)
-- [@0xca0a: RT by this all feels like the beginning of a revolution. if games can be made by anyone, kids, elders, casuals, with so little effort…](https://twitter.com/branmcconnell/status/1720695958667976744)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
