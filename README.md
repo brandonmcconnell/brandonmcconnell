@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@OpenAI: RT by We&#39;re rolling out new features and improvements that developers have been asking for: 1. Our new model GPT-4 Turbo supports 12…](https://twitter.com/branmcconnell/status/1721675624568467870)
+- [@LinusEkenstam: RT by Madness, @sama builds a custom GPT using private knowledge in just under 4 minutes.  Then he goes on to share it.  The…](https://twitter.com/branmcconnell/status/1721672727457829325)
 - [@marcelpociot: RT by The new text to speech API from OpenAI is insane! The most realistic TTS result out there](https://twitter.com/branmcconnell/status/1721629261730369926)
 - [@xyflowdev: RT by Allow us to reintroduce ourselves: we are ✨xyflow✨ We’re Christopher, Hayleigh, John, Moritz, and Peter, and we are the cre…](https://twitter.com/branmcconnell/status/1721628518621270101)
 - [@Levidjones: RT by RSVP is up for the next LA Design Dinner!  Thursday, Nov 30 at 6:30pm Can&#39;t wait to hang with you there!  …](https://twitter.com/branmcconnell/status/1721609035877949462)
-- [@branmcconnell: If these leaks are legit, we’ve got some huge wins coming to Open AI’s APIs very soon - GPT-4 Turbo   - Vision &lpar;image processing&rpar;   - Code Interpreter   - 128K context - Text-to-speech - DALL-E 3 API](https://twitter.com/branmcconnell/status/1721582069288206353)
-- [@branmcconnell: It would also be great to be able to add multiple Amazon accounts so I can manage tech sales for both my wife and myself. Loving this app so far btw! Just cashed out my never used max spec’d MBP M2 Max](https://twitter.com/branmcconnell/status/1721580231709098434)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
