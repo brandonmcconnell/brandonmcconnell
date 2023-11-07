@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@shadcn: RT by My most successful project ◆ is a side project of a side project ◆ no domain ◆ logo is just two lines ◆ doesn&#39;t even have a pr…](https://twitter.com/branmcconnell/status/1721993743820329325)
 - [@OpenAI: RT by We&#39;re rolling out new features and improvements that developers have been asking for: 1. Our new model GPT-4 Turbo supports 12…](https://twitter.com/branmcconnell/status/1721675624568467870)
 - [@LinusEkenstam: RT by Madness, @sama builds a custom GPT using private knowledge in just under 4 minutes.  Then he goes on to share it.  The…](https://twitter.com/branmcconnell/status/1721672727457829325)
 - [@marcelpociot: RT by The new text to speech API from OpenAI is insane! The most realistic TTS result out there](https://twitter.com/branmcconnell/status/1721629261730369926)
 - [@xyflowdev: RT by Allow us to reintroduce ourselves: we are ✨xyflow✨ We’re Christopher, Hayleigh, John, Moritz, and Peter, and we are the cre…](https://twitter.com/branmcconnell/status/1721628518621270101)
-- [@Levidjones: RT by RSVP is up for the next LA Design Dinner!  Thursday, Nov 30 at 6:30pm Can&#39;t wait to hang with you there!  …](https://twitter.com/branmcconnell/status/1721609035877949462)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
