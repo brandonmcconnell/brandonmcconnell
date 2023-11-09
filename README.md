@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@DeniTechh: RT by This man is 85 and is learning JavaScript in Starbucks, what’s your excuse?](https://twitter.com/branmcconnell/status/1722693447113662941)
+- [@calebporzio: RT by 🎄 Check this outttt I want to make sure my sites are &quot;accessible&quot; but I really suck at testing things in screen readers a…](https://twitter.com/branmcconnell/status/1722691434581721107)
 - [@chrisbbreuer: RT by Why not simply check your user data? 😄](https://twitter.com/branmcconnell/status/1722525371709665480)
 - [@brotzky_: RT by All the jokes about OpenAI killing startups with each new release have some validity. We just removed Pinecone and Langchain…](https://twitter.com/branmcconnell/status/1722161886387695619)
 - [@TheJackForge: RT by I can&#39;t believe it. I just met a developer who doesn&#39;t use a $5000 MacBook Pro to code.](https://twitter.com/branmcconnell/status/1722021657207058556)
-- [@shadcn: RT by My most successful project ◆ is a side project of a side project ◆ no domain ◆ logo is just two lines ◆ doesn&#39;t even have a pr…](https://twitter.com/branmcconnell/status/1721993743820329325)
-- [@OpenAI: RT by We&#39;re rolling out new features and improvements that developers have been asking for: 1. Our new model GPT-4 Turbo supports 12…](https://twitter.com/branmcconnell/status/1721675624568467870)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
