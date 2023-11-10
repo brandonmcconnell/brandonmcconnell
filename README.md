@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: POV you post a funny quote tweet, then take a peek at the other quote tweets to find that you’re way less original than you thought](https://twitter.com/branmcconnell/status/1722910884362912133)
+- [@branmcconnell: When the senior dev sees a .filter&lpar;&rpar;.map&lpar;&rpar; that could easily be .reduce&lpar;&rpar;](https://twitter.com/branmcconnell/status/1722906226424787422)
 - [@branmcconnell: Dang… @Humane honestly smashed all those privacy concerns. It&#39;s looking better than ever. 🔥 Humane packs loads of features that effortlessly integrate the simplicity of everyday technology with the power of artificial intelligence. I can&#39;t wait to get my hands on one.](https://twitter.com/branmcconnell/status/1722696680745959805)
 - [@DeniTechh: RT by This man is 85 and is learning JavaScript in Starbucks, what’s your excuse?](https://twitter.com/branmcconnell/status/1722693447113662941)
 - [@calebporzio: RT by 🎄 Check this outttt I want to make sure my sites are &quot;accessible&quot; but I really suck at testing things in screen readers a…](https://twitter.com/branmcconnell/status/1722691434581721107)
-- [@chrisbbreuer: RT by Why not simply check your user data? 😄](https://twitter.com/branmcconnell/status/1722525371709665480)
-- [@brotzky_: RT by All the jokes about OpenAI killing startups with each new release have some validity. We just removed Pinecone and Langchain…](https://twitter.com/branmcconnell/status/1722161886387695619)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
