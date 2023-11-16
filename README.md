@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@multikev: RT by I think I need to go lie down.](https://twitter.com/branmcconnell/status/1725079372988891425)
 - [@cramforce: RT by Real artists copy. For example, @github took my slide/quote from July for their recent Universe conference and added a fancy…](https://twitter.com/branmcconnell/status/1724965238846763353)
 - [@adamwathan: RT by Pro-tip: When you think you&#39;re done building something, emulate `forced-colors: active` in dev tools and watch half the ele…](https://twitter.com/branmcconnell/status/1724965093493149904)
 - [@appleintro: RT by Apple will bring side-loading to iPhone letting you install apps outside of App Store 😳 This will happen in 2024 for EU us…](https://twitter.com/branmcconnell/status/1724298041350300059)
 - [@Una: RT by 👋HI! Our team is working on some end-of-year bits. What CSS/UI feature are you most excited about landing this year &amp; why? How wi…](https://twitter.com/branmcconnell/status/1723430685195817296)
-- [@RobertJBye: RT by Can Apple just make Siri good so we can use our Apple Watches for everything in this video, plus so much more.](https://twitter.com/branmcconnell/status/1723023353500336149)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
