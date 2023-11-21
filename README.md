@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: cc @Google @googlemaps @Apple 🤷🏻‍♂️](https://twitter.com/branmcconnell/status/1727002642055074048)
+- [@branmcconnell: I have been a die-hard Google Maps fan and active user ever since getting my first iPhone over a decade ago. Nothing has made me consider switching to Apple Maps faster in all that time than Google’s own recent color palette change.](https://twitter.com/branmcconnell/status/1727002637789536698)
 - [@TrungTPhan: RT by Satya Nadella walking into the Microsoft Monday Morning Meeting after acquiring OpenAI for $0 and 0 regulatory scrutiny htt…](https://twitter.com/branmcconnell/status/1726756456056377813)
 - [@blader: RT by wow. openai staff set a deadline of 5pm tonight for all board members to resign and bring sam and greg back, or else they all…](https://twitter.com/branmcconnell/status/1726061052834763155)
 - [@branmcconnell: it’s a CANON EVENT](https://twitter.com/branmcconnell/status/1726059894238011790)
-- [@Levidjones: RT by Announcing the first Salt Lake City Design Dinner today 🎉](https://twitter.com/branmcconnell/status/1725420550410170587)
-- [@multikev: RT by I think I need to go lie down.](https://twitter.com/branmcconnell/status/1725079372988891425)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
