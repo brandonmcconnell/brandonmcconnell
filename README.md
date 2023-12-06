@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: #SupaLaunchWeek 🆇 is coming December 11-15 🚀 Claim your ticket for a chance to win @supabase swag:](https://twitter.com/branmcconnell/status/1732458730770317682)
 - [@replicate: RT by Businesses are building on open-source AI. But we’ve only reached a tiny fraction. That&#39;s why we raised a $40M Series B. Op…](https://twitter.com/branmcconnell/status/1732182949225787860)
 - [@NathanLands: RT by](https://twitter.com/branmcconnell/status/1731803815588860022)
 - [@branmcconnell: With `react-shadow-scope`, you can now seamlessly integrate traditional CSS or even TailwindCSS within the Shadow DOM using React. This is a game-changer for style encapsulation and component isolation. 🔥 Great work on this, @code_e_pendant! I know you&#39;ve been cooking this up…](https://twitter.com/branmcconnell/status/1731723998117978401)
 - [@mattpocockuk: RT by TypeScript 5.3 dropped last week. And of its most important changes wasn&#39;t even mentioned in the release notes. 🧵 https…](https://twitter.com/branmcconnell/status/1730113000969765119)
-- [@sama: RT by a year ago tonight we were probably just sitting around the office putting the finishing touches on chatgpt before the next morni…](https://twitter.com/branmcconnell/status/1730112431513337883)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
