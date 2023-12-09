@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @zenorocha @bukinoshita would love to hear back on this](https://twitter.com/branmcconnell/status/1733379807646306321)
+- [@ThePrimeagen: RT by chat gpt is incapable of producing code these days](https://twitter.com/branmcconnell/status/1733377056434458866)
 - [@AdamRackis: RT by I genuinely do not understand the hate for nested ternaries. Assuming they&#39;re indented properly &lpar;which Prettier handles&rpar;, t…](https://twitter.com/branmcconnell/status/1732522199775408408)
 - [@branmcconnell: @premium @Support ☝🏼](https://twitter.com/branmcconnell/status/1732462530436399422)
 - [@branmcconnell: #SupaLaunchWeek 🆇 is coming December 11-15 🚀 Claim your ticket for a chance to win @supabase swag:](https://twitter.com/branmcconnell/status/1732458730770317682)
-- [@replicate: RT by Businesses are building on open-source AI. But we’ve only reached a tiny fraction. That&#39;s why we raised a $40M Series B. Op…](https://twitter.com/branmcconnell/status/1732182949225787860)
-- [@NathanLands: RT by](https://twitter.com/branmcconnell/status/1731803815588860022)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
