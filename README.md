@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@CharlesPattson: RT by “What design trends will 2024 bring?” Stripe: hold my beer…](https://twitter.com/branmcconnell/status/1735390406160908750)
 - [@branmcconnell: @zenorocha @bukinoshita would love to hear back on this](https://twitter.com/branmcconnell/status/1733379807646306321)
 - [@ThePrimeagen: RT by chat gpt is incapable of producing code these days](https://twitter.com/branmcconnell/status/1733377056434458866)
 - [@AdamRackis: RT by I genuinely do not understand the hate for nested ternaries. Assuming they&#39;re indented properly &lpar;which Prettier handles&rpar;, t…](https://twitter.com/branmcconnell/status/1732522199775408408)
 - [@branmcconnell: @premium @Support ☝🏼](https://twitter.com/branmcconnell/status/1732462530436399422)
-- [@branmcconnell: #SupaLaunchWeek 🆇 is coming December 11-15 🚀 Claim your ticket for a chance to win @supabase swag:](https://twitter.com/branmcconnell/status/1732458730770317682)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
