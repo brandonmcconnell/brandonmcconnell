@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [@rauchg: RT by What makes great cities great, like SF or Paris, is the high concentration of passion projects per sq ft. In the form of physi…](https://twitter.com/branmcconnell/status/1735465322554232859)
-- [@CharlesPattson: RT by “What design trends will 2024 bring?” Stripe: hold my beer…](https://twitter.com/branmcconnell/status/1735390406160908750)
+- [@rauchg: What makes great cities great, like SF or Paris, is the high concentration of passion projects per sq ft. In the form of physi…](https://twitter.com/branmcconnell/status/1735465322554232859)
+- [@CharlesPattson: “What design trends will 2024 bring?” Stripe: hold my beer…](https://twitter.com/branmcconnell/status/1735390406160908750)
 - [@branmcconnell: @zenorocha @bukinoshita would love to hear back on this](https://twitter.com/branmcconnell/status/1733379807646306321)
-- [@ThePrimeagen: RT by chat gpt is incapable of producing code these days](https://twitter.com/branmcconnell/status/1733377056434458866)
-- [@AdamRackis: RT by I genuinely do not understand the hate for nested ternaries. Assuming they&#39;re indented properly &lpar;which Prettier handles&rpar;, t…](https://twitter.com/branmcconnell/status/1732522199775408408)
+- [@ThePrimeagen: chat gpt is incapable of producing code these days](https://twitter.com/branmcconnell/status/1733377056434458866)
+- [@AdamRackis: I genuinely do not understand the hate for nested ternaries. Assuming they&#39;re indented properly &lpar;which Prettier handles&rpar;, t…](https://twitter.com/branmcconnell/status/1732522199775408408)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
