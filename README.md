@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@levelsio: Hoodmaps is back! Switched to  with  for about $235/months for ~1M views, it s…](https://twitter.com/branmcconnell/status/1737276189008380009)
 - [@fabianarbor: Fuck it.   Reply with a letter / symbol / animal / word and I&#39;ll make some minimalistic logos out of them for the next 24…](https://twitter.com/branmcconnell/status/1737262207878975647)
 - [@branmcconnell: @supabase ☝🏼](https://twitter.com/branmcconnell/status/1736113496394170443)
 - [@branmcconnell: @GraviteeIO ☝🏼](https://twitter.com/branmcconnell/status/1736113369839460657)
 - [@adamwathan: Launching something new Monday, Tuesday, and Wednesday next week 🎄](https://twitter.com/branmcconnell/status/1736107885577269363)
-- [@rauchg: What makes great cities great, like SF or Paris, is the high concentration of passion projects per sq ft. In the form of physi…](https://twitter.com/branmcconnell/status/1735465322554232859)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
