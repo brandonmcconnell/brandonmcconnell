@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@Jonnotie: Me and a few mates almost started a &quot;endless&quot; design subscription but decided against it, in early 2023 …](https://twitter.com/branmcconnell/status/1737460614325277013)
 - [@anatudor: Wake up, wake up, wake up!¹ `background-clip: text` is now supported unprefixed and in the shorthand in all browsers! #tinyC…](https://twitter.com/branmcconnell/status/1737396019040485500)
 - [@soren_iverson: I’m making ANOTHER coffee table book with my unhinged UIs.  Can you imagine? 2 will have 365+ ideas and is now availabl…](https://twitter.com/branmcconnell/status/1737380402917179716)
 - [@levelsio: Hoodmaps is back! Switched to  with  for about $235/months for ~1M views, it s…](https://twitter.com/branmcconnell/status/1737276189008380009)
 - [@fabianarbor: Fuck it.   Reply with a letter / symbol / animal / word and I&#39;ll make some minimalistic logos out of them for the next 24…](https://twitter.com/branmcconnell/status/1737262207878975647)
-- [@branmcconnell: @supabase ☝🏼](https://twitter.com/branmcconnell/status/1736113496394170443)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
