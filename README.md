@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: &#39;\uDF84\uD83C ydobyreve syadiloh fo tseippah&#39;.split&lpar;&#39;&#39;&rpar;.toReversed&lpar;&rpar;.join&lpar;&#39;&#39;&rpar; thanks for the great year, @vercel team 🫶🏼](https://twitter.com/branmcconnell/status/1738412960265994604)
 - [@svpino: AI will be one of the most crucial skills for the next 20 years. If I were starting today, I&#39;d learn these: • Python • LLMs •…](https://twitter.com/branmcconnell/status/1738094507441197543)
 - [@IroncladDev: @fireship_dev 2025: HTML still used on 100% of websites](https://twitter.com/branmcconnell/status/1737486982131880365)
 - [@fireship_dev: The untold history of web development: 1990: HTML invented 1994: CSS invented to fix HTML 1995: JS invented to fix HTML/…](https://twitter.com/branmcconnell/status/1737486894605230530)
 - [@Jonnotie: Me and a few mates almost started a &quot;endless&quot; design subscription but decided against it, in early 2023 …](https://twitter.com/branmcconnell/status/1737460614325277013)
-- [@anatudor: Wake up, wake up, wake up!¹ `background-clip: text` is now supported unprefixed and in the shorthand in all browsers! #tinyC…](https://twitter.com/branmcconnell/status/1737396019040485500)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
