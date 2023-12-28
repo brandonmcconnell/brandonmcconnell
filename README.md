@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: TIL @panda__css blocked me 🙃 I imagine this likely happened a few weeks ago while I was publicly discussing the history of their documentation, specifically how some of it was originally copy &amp; pasted from similar frameworks As a top contributor &lpar;#24 😎✌🏼&rpar; and plugin author to…](https://twitter.com/branmcconnell/status/1740177583319273547)
+- [@branmcconnell: All this and Apple still won’t let us use a truly alternative browser runtime 🤦🏻‍♂️](https://twitter.com/branmcconnell/status/1740172556282495119)
 - [@damengchen: I recently recovered from Covid, and it really got me thinking. Bootstrappers are incredibly vulnerable. When you stop, ev…](https://twitter.com/branmcconnell/status/1739557365895061575)
 - [@branmcconnell: &#39;\uDF84\uD83C ydobyreve syadiloh fo tseippah&#39;.split&lpar;&#39;&#39;&rpar;.toReversed&lpar;&rpar;.join&lpar;&#39;&#39;&rpar; thanks for the great year, @vercel team 🫶🏼](https://twitter.com/branmcconnell/status/1738689505442373784)
 - [@branmcconnell: &#39;\uDF84\uD83C ydobyreve syadiloh fo tseippah&#39;.split&lpar;&#39;&#39;&rpar;.toReversed&lpar;&rpar;.join&lpar;&#39;&#39;&rpar; thanks for the great year, @vercel team 🫶🏼](https://twitter.com/branmcconnell/status/1738412960265994604)
-- [@svpino: AI will be one of the most crucial skills for the next 20 years. If I were starting today, I&#39;d learn these: • Python • LLMs •…](https://twitter.com/branmcconnell/status/1738094507441197543)
-- [@IroncladDev: @fireship_dev 2025: HTML still used on 100% of websites](https://twitter.com/branmcconnell/status/1737486982131880365)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
