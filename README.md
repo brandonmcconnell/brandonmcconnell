@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@EddyVinckk: Every developer when they finally try Tailwind CSS](https://twitter.com/branmcconnell/status/1743710754442985648)
+- [@BenLesh: Sigh. Fine. Tailwind is good. Like... actually good. If you&#39;re reading this and you&#39;re happy... I hate you.](https://twitter.com/branmcconnell/status/1743710737577451955)
 - [@branmcconnell: @AppleSupport @Apple ☝🏼](https://twitter.com/branmcconnell/status/1743314378504749537)
 - [@frantzfries: 2024 is the year we no longer have competition by the end of 2024, our competitors will either be playing catchup to us o…](https://twitter.com/branmcconnell/status/1741837355445547399)
 - [@StevenBoutcher: Intrapreneurship is underrated. &quot;Quit your 9-5&quot; &quot;Don&#39;t work on someone else&#39;s dream&quot; &quot;Jobs won&#39;t make you rich&quot; But m…](https://twitter.com/branmcconnell/status/1740845572096237661)
-- [@branmcconnell: TIL @panda__css blocked me 🙃 I imagine this likely happened a few weeks ago while I was publicly discussing the history of their documentation, specifically how some of it was originally copy &amp; pasted from similar frameworks As a top contributor &lpar;#24 😎✌🏼&rpar; and plugin author to…](https://twitter.com/branmcconnell/status/1740177583319273547)
-- [@branmcconnell: All this and Apple still won’t let us use a truly alternative browser runtime 🤦🏻‍♂️](https://twitter.com/branmcconnell/status/1740172556282495119)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
