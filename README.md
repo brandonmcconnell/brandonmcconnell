@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@benjamincrozat: Earlier today, I asked people about their favorite transactional email service. Here&#39;s the list from the replies I got…](https://twitter.com/branmcconnell/status/1744508053565915251)
 - [@resend: Announcing Resend Forward. A special launch event on Jan 15-19.](https://twitter.com/branmcconnell/status/1744499004975747073)
 - [@gregberge_: Biome now has 97% compatibility with Prettier! 👏 The new version 1.5 brings awesome features: ◆ Format only changed files…](https://twitter.com/branmcconnell/status/1744455558999236831)
 - [@Mokkapps: 🛠️ Better Commits 👉🏻 A CLI for writing better commits, following the conventional commit guidelines. …](https://twitter.com/branmcconnell/status/1743925917255340537)
 - [@EddyVinckk: Every developer when they finally try Tailwind CSS](https://twitter.com/branmcconnell/status/1743710754442985648)
-- [@BenLesh: Sigh. Fine. Tailwind is good. Like... actually good. If you&#39;re reading this and you&#39;re happy... I hate you.](https://twitter.com/branmcconnell/status/1743710737577451955)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
