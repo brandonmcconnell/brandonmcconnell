@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@thekitze: spotify just showed me a giant popup with a price increase. ofc I accepted because there are no alternatives. apple music is…](https://twitter.com/branmcconnell/status/1745176783383826904)
 - [@SullyOmarr: Excited to finally share Cognosys 2.0! An assistant capable of autonomously creating workflows, utilizing tools, and execu…](https://twitter.com/branmcconnell/status/1745015759456108708)
 - [@benjamincrozat: Earlier today, I asked people about their favorite transactional email service. Here&#39;s the list from the replies I got…](https://twitter.com/branmcconnell/status/1744508053565915251)
 - [@resend: Announcing Resend Forward. A special launch event on Jan 15-19.](https://twitter.com/branmcconnell/status/1744499004975747073)
 - [@gregberge_: Biome now has 97% compatibility with Prettier! 👏 The new version 1.5 brings awesome features: ◆ Format only changed files…](https://twitter.com/branmcconnell/status/1744455558999236831)
-- [@Mokkapps: 🛠️ Better Commits 👉🏻 A CLI for writing better commits, following the conventional commit guidelines. …](https://twitter.com/branmcconnell/status/1743925917255340537)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
