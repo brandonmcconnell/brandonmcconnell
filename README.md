@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@techsavvytravvy: chrome extension development is wild, just an absolute carnival ride](https://twitter.com/branmcconnell/status/1745627939742663124)
 - [@daniguardio_la: 🚀 An initial version of Tailwind CSS sorting in @biomejs is about to be merged! Docs preview: …](https://twitter.com/branmcconnell/status/1745615765301264458)
 - [@tannerlinsley: Happy to report that @Tan_Stack Router&#39;s file-based route generation now has every capability &amp; feature as the config-dr…](https://twitter.com/branmcconnell/status/1745615656949527032)
 - [@branmcconnell: @jasonfried @dhh @37signals @heyhey ☝🏼](https://twitter.com/branmcconnell/status/1745248614409216147)
 - [@LinusEkenstam: 🚨Just in 🚨 GPT memory… 🧠  - Keep the conversation going - Improves over time - manage what it should remember  Thi…](https://twitter.com/branmcconnell/status/1745179062417727572)
-- [@thekitze: spotify just showed me a giant popup with a price increase. ofc I accepted because there are no alternatives. apple music is…](https://twitter.com/branmcconnell/status/1745176783383826904)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
