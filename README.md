@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@TheJackForge: No one wants this.](https://twitter.com/branmcconnell/status/1745976782988406808)
 - [@techsavvytravvy: AHHHHHHHHHHHH ps bad performance is bad ux](https://twitter.com/branmcconnell/status/1745961454279458981)
 - [@techsavvytravvy: chrome extension development is wild, just an absolute carnival ride](https://twitter.com/branmcconnell/status/1745627939742663124)
 - [@daniguardio_la: 🚀 An initial version of Tailwind CSS sorting in @biomejs is about to be merged! Docs preview: …](https://twitter.com/branmcconnell/status/1745615765301264458)
 - [@tannerlinsley: Happy to report that @Tan_Stack Router&#39;s file-based route generation now has every capability &amp; feature as the config-dr…](https://twitter.com/branmcconnell/status/1745615656949527032)
-- [@branmcconnell: @jasonfried @dhh @37signals @heyhey ☝🏼](https://twitter.com/branmcconnell/status/1745248614409216147)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
