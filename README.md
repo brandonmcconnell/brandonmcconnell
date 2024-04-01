@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Happy Easter, everybody! Jesus is alive Even as a long-time believer, myself, it’s so good to return to the fundamentals of my faith and give thanks. If you’ve been searching for answers and want to know more about Jesus, feel free to DM me 😊](https://twitter.com/branmcconnell/status/1774598803464781995)
 - [@branmcconnell: jjdjd](https://twitter.com/branmcconnell/status/1746872698859311344)
 - [@branmcconnell: Why only so few people know about this is beyond me.. It’s literally making me like 15 ETH weekly… How:](https://twitter.com/branmcconnell/status/1746499472245354965)
 - [@TheJackForge: No one wants this.](https://twitter.com/branmcconnell/status/1745976782988406808)
 - [@techsavvytravvy: AHHHHHHHHHHHH ps bad performance is bad ux](https://twitter.com/branmcconnell/status/1745961454279458981)
-- [@techsavvytravvy: chrome extension development is wild, just an absolute carnival ride](https://twitter.com/branmcconnell/status/1745627939742663124)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
