@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Introducing Signals for Tailwind CSS, a declarative approach to styling based on an ancestor&#39;s state. 🚀 By leveraging style queries, we can eliminate the need for arbitrary variant chaining, resulting in more maintainable code Check it out on GitHub. 👇🏼 …](https://twitter.com/branmcconnell/status/1775235215516209216)
 - [@branmcconnell: Happy Easter, everybody! Jesus is alive Even as a long-time believer, myself, it’s so good to return to the fundamentals of my faith and give thanks. If you’ve been searching for answers and want to know more about Jesus, feel free to DM me 😊](https://twitter.com/branmcconnell/status/1774598803464781995)
 - [@branmcconnell: jjdjd](https://twitter.com/branmcconnell/status/1746872698859311344)
 - [@branmcconnell: Why only so few people know about this is beyond me.. It’s literally making me like 15 ETH weekly… How:](https://twitter.com/branmcconnell/status/1746499472245354965)
 - [@TheJackForge: No one wants this.](https://twitter.com/branmcconnell/status/1745976782988406808)
-- [@techsavvytravvy: AHHHHHHHHHHHH ps bad performance is bad ux](https://twitter.com/branmcconnell/status/1745961454279458981)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
