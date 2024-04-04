@@ -1,11 +1,11 @@
-<h1 align="center">Hi there, I'm Brandon 🐼👋</h1>
+<h1 align="center">Hi there, I'm Brandon</h1>
 <h3 align="center">This is just one of several places where I tinker with ideas, burn the midnight oil, fix bugs and inadvertently end up creating more of them in the end, but alas… c'est la vie d'un développeur.</h3>
 <div align="center"><a href="https://twitter.com/branmcconnell" target="blank"><img src="https://img.shields.io/twitter/follow/branmcconnell?style=social&logo=x" alt="Follow branmcconnell on X (formerly Twitter)" /></a><br />&nbsp;<br /></div>
 
 <table border="0">
     <tr>
         <td>👔</td>
-        <td>I’m currently employed at <b><a href="https://www.carevoyance.com/" target="_blank">Carevoyance at H1</a></b>.</td>
+        <td>I’m currently employed at <b><a href="https://www.carevoyance.com/" target="_blank">Carevoyance at Definitive Healthcare</a></b>.</td>
     </tr>
     <tr>
         <td>📚</td>
