@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [@steventey: RT @steventey: Vercel&#39;s bandwidth pricing just went from $40/100GB to – *checks notes* – $15/100GB. And you&#39;re now billed in granular incr…](https://twitter.com/steventey/status/1775935849034559606)
+- [@branmcconnell: Hi @CedricDelpoux, I was wondering if you could take a look at this layout issue I&#39;m experiencing with react-responsive-masonry: github.com/cedricdelpoux/… Thanks!](https://twitter.com/branmcconnell/status/1776387360441401440)
+- [@steventey: Vercel&#39;s bandwidth pricing just went from $40/100GB to – *checks notes* – $15/100GB. And you&#39;re now billed in granular increments of $0.15/1GB. We are SO BACK.](https://twitter.com/steventey/status/1775935849034559606)
 - [@branmcconnell: Goodbye, verbose variant chains. Hello, Signals. 🌌🔭 A declarative alternative to styling based on an ancestor&#39;s state. tailwindcss-signals eliminates the need for arbitrary variant chaining, resulting in better DX &amp; more maintainable code. — Check it out on GitHub. 👇🏼](https://twitter.com/branmcconnell/status/1775326213390864792)
 - [@branmcconnell: Introducing Signals for Tailwind CSS, a declarative approach to styling based on an ancestor&#39;s state. 🚀 By leveraging style queries, we can eliminate the need for arbitrary variant chaining, resulting in more maintainable code Check it out on GitHub. 👇🏼 github.com/brandonmcconne…… x.com/i/web/status/1…](https://twitter.com/branmcconnell/status/1775235215516209216)
 - [@branmcconnell: Happy Easter, everybody! Jesus is alive Even as a long-time believer, myself, it’s so good to return to the fundamentals of my faith and give thanks. If you’ve been searching for answers and want to know more about Jesus, feel free to DM me 😊 desiringgod.org/articles/what-…](https://twitter.com/branmcconnell/status/1774598803464781995)
-- [@branmcconnell: So hypothetically… if 5,000 Premium+ accounts all simultaneously followed each other, would they all suddenly get free accounts? 🤔](https://twitter.com/branmcconnell/status/1773213432684110216)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
