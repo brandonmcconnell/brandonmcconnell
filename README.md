@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Multi for Tailwind CSS 🦋👀 Variant-grouped utilities. &lpar;This is not a drill 🚨&rpar; tailwindcss-multi provides a method for applying multiple utilities simultaneously, eliminating the need to repeat lengthy variant chains. — Check it out on GitHub 👇🏼](https://twitter.com/branmcconnell/status/1781303166656774177)
 - [@branmcconnell: Anchor positioning is set to hit Chrome v125 ⚓️🔥 This is gonna be a gamechanger. Check out this thread from @Una to learn more about it 📰 x.com/Una/status/177…](https://twitter.com/branmcconnell/status/1780461911475179935)
 - [@branmcconnell: Another day. Another designer ripping off Refactoring UI… and blocking @steveschoger 🤦🏻‍♂️ I imagine this happens a lot](https://twitter.com/branmcconnell/status/1780385448302616865)
 - [@branmcconnell: Mixins for Tailwind CSS 🧪⚡️ Write classes once. Use them everywhere. tailwindcss-mixins provides a declarative API for creating reusable groups of utilities, reducing code duplication, and improving maintainability. — Check it out on GitHub 👇🏼](https://twitter.com/branmcconnell/status/1778924877392867572)
 - [@branmcconnell: Just checked out curatorx, a new product by @TheRobertAvram that is packed with resources for designers and devs alike— inspiration, colors, typography, tools, templates, and more. Can&#39;t wait to see where this product goes 👏🏼](https://twitter.com/branmcconnell/status/1777980394677383581)
-- [@branmcconnell: Hi @CedricDelpoux, I was wondering if you could take a look at this layout issue I&#39;m experiencing with react-responsive-masonry: github.com/cedricdelpoux/… Thanks!](https://twitter.com/branmcconnell/status/1776387360441401440)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
