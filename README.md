@@ -54,9 +54,9 @@
 <!-- TWITTER:START -->
 - [@branmcconnell: #TIL CSS has been around since 1947](https://twitter.com/branmcconnell/status/1781829137151426724)
 - [@branmcconnell: I wouldn’t spend today any other way](https://twitter.com/branmcconnell/status/1781805059644568030)
-- [@branmcconnell: Help shape the spec for CSS masonry layouts! github.com/w3c/csswg-draf…](https://twitter.com/branmcconnell/status/1781744307093004667)
-- [@branmcconnell: Babe wake up— the Tailwind CSS plugin guy dropped a doozy 😵‍💫 &lt;span class=&quot; max-sm:multi-[&#39;italic;text-[red]&#39;] sm:multi-[&#39;font-bold;text-black&#39;] &quot;&gt; All the Multi, hold the grain 🍞🚫🌾🙅🏻‍♂️ &lt;/span&gt; play.tailwindcss.com/hCFJp1cFUn … 🤦🏻‍♂️ I posted this while y&#39;all were sleeping,…](https://twitter.com/branmcconnell/status/1781469090705736057)
-- [@branmcconnell: Multi for Tailwind CSS 🦋👀 Variant-grouped utilities. &lpar;This is not a drill 🚨&rpar; tailwindcss-multi provides a method for applying multiple utilities simultaneously, eliminating the need to repeat lengthy variant chains. — Check it out on GitHub 👇🏼](https://twitter.com/branmcconnell/status/1781303166656774177)
+- [@branmcconnell: Help shape the spec for CSS masonry layouts!](https://twitter.com/branmcconnell/status/1781744307093004667)
+- [@branmcconnell: StyleX is great. Tailwind CSS is great. Both have their benefits. Both contribute to the greater CSS-in-JS ecosystem. Personally, I tend to use Tailwind CSS for most projects because it operates most closely to design tokens and is highly extensible via plugins.](https://twitter.com/branmcconnell/status/1781581164479996236)
+- [@branmcconnell: Babe wake up— the Tailwind CSS plugin guy dropped a doozy 😵‍💫 &lt;span class=&quot; max-sm:multi-[&#39;italic;text-[red]&#39;] sm:multi-[&#39;font-bold;text-black&#39;]&quot;&gt; All the Multi, hold the grain 🍞🚫🌾🙅🏻‍♂️&lt;/span&gt;](https://twitter.com/branmcconnell/status/1781469090705736057)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
