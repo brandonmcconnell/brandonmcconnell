@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@Zeko369: Brandon is on a roll with tailwind plugins... IDK how but every one seams even more useful than the last one](https://twitter.com/Zeko369/status/1783400853677670868)
 - [@branmcconnell: JSR is starting to look REALLY appealing, especially with these quirks at top-of-mind. @lcasdev How difficult is it to migrate existing NPM packages to JSR? Any official guide on that? @jsr_io #jsr #npm #esm #cjs #javascript #typescript](https://twitter.com/branmcconnell/status/1782302908991844637)
 - [@branmcconnell: The new @unkeydev site is gorgeous. @guilherme_rodz did you have something to do with this? 👀🤩](https://twitter.com/branmcconnell/status/1782298491114623026)
 - [@branmcconnell: #TIL CSS has been around since 1947](https://twitter.com/branmcconnell/status/1781829137151426724)
 - [@branmcconnell: I wouldn’t spend today any other way](https://twitter.com/branmcconnell/status/1781805059644568030)
-- [@branmcconnell: Help shape the spec for CSS masonry layouts! github.com/w3c/csswg-draf…](https://twitter.com/branmcconnell/status/1781744307093004667)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
