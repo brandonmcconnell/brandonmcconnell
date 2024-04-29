@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: .@MBarvian’s fluid-tailwind plugin enables interpolating smoothly between different values Super cool 🔥 Without this, I often resort to a wonky expression like `[--factor:clamp&lpar;42px,6vw,5rem&rpar;]`](https://twitter.com/branmcconnell/status/1784979527371812910)
 - [@branmcconnell: Andrew Branch dives deep into the surprisingly turbulent semantics of supporting default exports in both CJS and ESM. A must-read, especially if you maintain or contribute to open-source libraries 👏🏼 blog.andrewbran.ch/default-export…](https://twitter.com/branmcconnell/status/1784724577395835064)
 - [@branmcconnell: What’s stopping you from coding like this? ✈️🤘🏼](https://twitter.com/branmcconnell/status/1784149721344577825)
 - [@Zeko369: Brandon is on a roll with tailwind plugins... IDK how but every one seams even more useful than the last one](https://twitter.com/Zeko369/status/1783400853677670868)
 - [@branmcconnell: Members for Tailwind CSS ✨👥 Descendant-driven styles. tailwindcss-members simplifies styling an ancestor element based on the state of its descendants. — Check it out on GitHub 👇🏼](https://twitter.com/branmcconnell/status/1783302973571076149)
-- [@branmcconnell: JSR is starting to look REALLY appealing, especially with these quirks at top-of-mind. @lcasdev How difficult is it to migrate existing NPM packages to JSR? Any official guide on that? @jsr_io #jsr #npm #esm #cjs #javascript #typescript](https://twitter.com/branmcconnell/status/1782302908991844637)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
