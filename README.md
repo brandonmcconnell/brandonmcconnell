@@ -52,10 +52,10 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [@branmcconnell: @wesbos @terminaldotshop Just 10x’d my Keurig game 😝](https://twitter.com/branmcconnell/status/1786203227651764376)
-- [@branmcconnell: I just signed up for the free @shiftnudge Figma course buy @mds. Tons of content packed into a single hour. There are only 12 five-minute videos and each one is 🔥 shiftnudge.com/figma](https://twitter.com/branmcconnell/status/1785425597864313178)
-- [@branmcconnell: .@MBarvian’s fluid-tailwind plugin enables interpolating smoothly between different values Super cool 🔥 Without this, I often resort to a wonky expression like `[--factor:clamp&lpar;42px,6vw,5rem&rpar;]`](https://twitter.com/branmcconnell/status/1784979527371812910)
-- [@branmcconnell: Andrew Branch dives deep into the surprisingly turbulent semantics of supporting default exports in both CJS and ESM. A must-read, especially if you maintain or contribute to open-source libraries 👏🏼 blog.andrewbran.ch/default-export…](https://twitter.com/branmcconnell/status/1784724577395835064)
+- [@branmcconnell: Just 10x’d my Keurig game 😝](https://twitter.com/branmcconnell/status/1786203227651764376)
+- [@branmcconnell: I just signed up for the free @shiftnudge Figma course buy @mds. Tons of content packed into a single hour. There are only 12 five-minute videos and each one is 🔥](https://twitter.com/branmcconnell/status/1785425597864313178)
+- [@branmcconnell: .@MBarvian’s fluid-tailwind plugin enables interpolating smoothly between different values Super cool 🔥Without this, I often resort to a wonky expression like `[--factor:clamp&lpar;42px,6vw,5rem&rpar;]`](https://twitter.com/branmcconnell/status/1784979527371812910)
+- [@branmcconnell: Andrew Branch dives deep into the surprisingly turbulent semantics of supporting default exports in both CJS and ESM. A must-read, especially if you maintain or contribute to open-source libraries 👏🏼](https://twitter.com/branmcconnell/status/1784724577395835064)
 - [@branmcconnell: What’s stopping you from coding like this? ✈️🤘🏼](https://twitter.com/branmcconnell/status/1784149721344577825)
 <!-- TWITTER:END -->
 
