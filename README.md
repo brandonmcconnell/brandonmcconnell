@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: There, I fixed it. Was that so hard? — All original audio and picture in the attached video is owned by Apple. I don’t know copyright law well, but I assume I probably have to say this. 🤷🏻‍♂️](https://twitter.com/branmcconnell/status/1788976163462828296)
 - [@simonswiss: Who&#39;s gonna get the **last 2 tickets** for my Pixel Perfect Tailwind workshop next week? Subgrid, Tailwind CSS v4, lots of good stuff! Don&#39;t miss out 🤙 Link to remaining tickets below 👇](https://twitter.com/simonswiss/status/1788824246187446314)
 - [@branmcconnell: There, I fixed it. Was that so hard? — All original audio and picture in the attached video is owned by Apple. I don’t know copyright law well, but I assume I probably have to say this.](https://twitter.com/branmcconnell/status/1788805431818703319)
 - [@stolinski: centering something?](https://twitter.com/stolinski/status/1788649724376936681)
 - [@branmcconnell: @wesbos @terminaldotshop Just 10x’d my Keurig game 😝](https://twitter.com/branmcconnell/status/1786203227651764376)
-- [@branmcconnell: I just signed up for the free @shiftnudge Figma course buy @mds. Tons of content packed into a single hour. There are only 12 five-minute videos and each one is 🔥 shiftnudge.com/figma](https://twitter.com/branmcconnell/status/1785425597864313178)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
