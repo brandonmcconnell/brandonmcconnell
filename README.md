@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: what are you gitpilled on? 💊👀 gitpilled.vercel.app gitpilled.vercel.app/brandonmcconne…](https://twitter.com/branmcconnell/status/1790035891244667113)
 - [@branmcconnell: Attention &quot;Multi for Tailwind CSS&quot; users 📢 Quoted values inside the multi directive are now optional for all values where a colon `:` is not present or is only used in an arbitrary property-value pair. This change should simplify most multi usage, with only rare instances of…](https://twitter.com/branmcconnell/status/1789325291099202016)
 - [@branmcconnell: There, I fixed it. Was that so hard? — All original audio and picture in the attached video is owned by Apple. I don’t know copyright law well, but I assume I probably have to say this. 🤷🏻‍♂️](https://twitter.com/branmcconnell/status/1788976163462828296)
 - [@simonswiss: Who&#39;s gonna get the **last 2 tickets** for my Pixel Perfect Tailwind workshop next week? Subgrid, Tailwind CSS v4, lots of good stuff! Don&#39;t miss out 🤙 Link to remaining tickets below 👇](https://twitter.com/simonswiss/status/1788824246187446314)
 - [@branmcconnell: There, I fixed it. Was that so hard? — All original audio and picture in the attached video is owned by Apple. I don’t know copyright law well, but I assume I probably have to say this.](https://twitter.com/branmcconnell/status/1788805431818703319)
-- [@stolinski: centering something?](https://twitter.com/stolinski/status/1788649724376936681)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
