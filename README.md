@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Gonna tell my kids this was @stolinski](https://twitter.com/branmcconnell/status/1791500194489504167)
 - [@simonswiss: Gather Town is a lot more fun when you have met the person IRL before ✨](https://twitter.com/simonswiss/status/1791307976722334136)
 - [@branmcconnell: Thanks for the awesome epicweb.dev workshop, @simonswiss! I learned some new things about Tailwind CSS and subgrid, and I&#39;m feeling more hyped than ever about the release of #TailwindCSS v4 🚀 cc #EpicWeb @kentcdodds](https://twitter.com/branmcconnell/status/1791276246468358576)
 - [@branmcconnell: Man… @simonswiss is gonna think I only own one set of clothes 🤦🏻‍♂️](https://twitter.com/branmcconnell/status/1791272316959174990)
 - [@branmcconnell: what are you gitpilled on? 💊👀 gitpilled.vercel.app gitpilled.vercel.app/brandonmcconne…](https://twitter.com/branmcconnell/status/1790035891244667113)
-- [@branmcconnell: Attention &quot;Multi for Tailwind CSS&quot; users 📢 Quoted values inside the multi directive are now optional for all values where a colon `:` is not present or is only used in an arbitrary property-value pair. This change should simplify most multi usage, with only rare instances of…](https://twitter.com/branmcconnell/status/1789325291099202016)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
