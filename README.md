@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: CSS is so good 🔥 This is all it takes to add entrance and exit transitions to dialog elements. A single stateful variable --open avoids redundant &amp; inverse styles in @‍starting-style. Toggle between 1 and 0, and the styles just work™ CodePen link 👇🏼](https://twitter.com/branmcconnell/status/1791968584836481189)
 - [@branmcconnell: Gonna tell my kids this was @stolinski](https://twitter.com/branmcconnell/status/1791500194489504167)
 - [@simonswiss: Gather Town is a lot more fun when you have met the person IRL before ✨](https://twitter.com/simonswiss/status/1791307976722334136)
 - [@branmcconnell: Thanks for the awesome epicweb.dev workshop, @simonswiss! I learned some new things about Tailwind CSS and subgrid, and I&#39;m feeling more hyped than ever about the release of #TailwindCSS v4 🚀 cc #EpicWeb @kentcdodds](https://twitter.com/branmcconnell/status/1791276246468358576)
 - [@branmcconnell: Man… @simonswiss is gonna think I only own one set of clothes 🤦🏻‍♂️](https://twitter.com/branmcconnell/status/1791272316959174990)
-- [@branmcconnell: what are you gitpilled on? 💊👀 gitpilled.vercel.app gitpilled.vercel.app/brandonmcconne…](https://twitter.com/branmcconnell/status/1790035891244667113)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
