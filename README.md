@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: Exploring colliders in Three.js tonight. GPT is only getting me so far… 😅 Blame the law of entropy and move on? 🏳️ #js #javascript #threejs #animation #3d #react #reactjs #reactfiber #reactthree #reactthreefiber](https://twitter.com/branmcconnell/status/1794160588157071536)
 - [@aidenybai: We just launched Million Lint 1.0-rc on ProductHunt! producthunt.com/posts/million-2](https://twitter.com/aidenybai/status/1793554010139721883)
 - [@branmcconnell: 🫑 These function/arg conventions are all readable and reusable in TS &amp; JS imo: – consolidated object doFn&lpar;{ value, option: true }&rpar; – original arg + options object doFn&lpar;value, { option: true }&rpar; – same-type spread args add&lpar;1, 2, 3&rpar; Not a comprehensive list. DWYW](https://twitter.com/branmcconnell/status/1792913152046231835)
 - [@branmcconnell: CSS is so good 🔥 This is all it takes to add entrance and exit transitions to dialog elements. A single stateful variable --open avoids redundant &amp; inverse styles in @‍starting-style. Toggle between 1 and 0, and the styles just work™ CodePen link 👇🏼](https://twitter.com/branmcconnell/status/1791968584836481189)
 - [@branmcconnell: Gonna tell my kids this was @stolinski](https://twitter.com/branmcconnell/status/1791500194489504167)
-- [@simonswiss: Gather Town is a lot more fun when you have met the person IRL before ✨](https://twitter.com/simonswiss/status/1791307976722334136)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
