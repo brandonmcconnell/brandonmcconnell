@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: One of the best threads I’ve come across for setting up beautiful progressive blurs in CSS 🔥](https://twitter.com/branmcconnell/status/1802770080037470684)
 - [@branmcconnell: If anyone has questions about code, my life, or literally anything else — ask away! I just consumed roughly 500mg of caffeine via raw cacao, so I’ll be up for the next 168 hours 🫨✌🏼](https://twitter.com/branmcconnell/status/1799896682089599113)
 - [@branmcconnell: Announcing my next big project… Kristina and I are having a baby girl 🎀🥰](https://twitter.com/branmcconnell/status/1799891669669552548)
 - [@branmcconnell: Nobody tell @thdxr about this place 👀 📍 @FruitsnCahoots](https://twitter.com/branmcconnell/status/1799858483065680207)
 - [@branmcconnell: still haven&#39;t gotten the colliders working quite right, but I like where this is heading #threejs #reactfiber not sure about the straw though… I can&#39;t help but see a pen/crayon/stylus when I look at it 🫣](https://twitter.com/branmcconnell/status/1794236347554857460)
-- [@branmcconnell: Exploring colliders in Three.js tonight. GPT is only getting me so far… 😅 Blame the law of entropy and move on? 🏳️#js #javascript #threejs #animation #3d #react #reactjs #reactfiber #reactthree #reactthreefiber](https://twitter.com/branmcconnell/status/1794160588157071536)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
