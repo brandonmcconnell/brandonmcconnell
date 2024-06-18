@@ -52,7 +52,7 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [@branmcconnell: @thdxr i think it&#39;s fine too, but with this many options, i might opt for an obj/ref like this](https://twitter.com/branmcconnell/status/1802790584643367113)
+- [@branmcconnell: RT @thdxr i think it&#39;s fine too, but with this many options, i might opt for an obj/ref like this](https://twitter.com/branmcconnell/status/1802790584643367113)
 - [@branmcconnell: One of the best threads I’ve come across for setting up beautiful progressive blurs in CSS 🔥](https://twitter.com/branmcconnell/status/1802770080037470684)
 - [@branmcconnell: If anyone has questions about code, my life, or literally anything else — ask away! I just consumed roughly 500mg of caffeine via raw cacao, so I’ll be up for the next 168 hours 🫨✌🏼](https://twitter.com/branmcconnell/status/1799896682089599113)
 - [@branmcconnell: Announcing my next big project… Kristina and I are having a baby girl 🎀🥰](https://twitter.com/branmcconnell/status/1799891669669552548)
