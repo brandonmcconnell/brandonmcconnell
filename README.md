@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@mattpocockuk: RT @mattpocockuk: Thanks @branmcconnell!](https://twitter.com/mattpocockuk/status/1803663111158640685)
+- [@jamonholmgren: RT @jamonholmgren: An actually rather elegant solution to inferring the variable type inside a try catch.](https://twitter.com/jamonholmgren/status/1803659829447368966)
 - [@branmcconnell: Purchased 8 new domains today. Am I building an empire or just hoarding digital junk I might never use? The answer is yes. 🤦🏻‍♂️](https://twitter.com/branmcconnell/status/1803590181397692534)
 - [@branmcconnell: @thdxr i think it&#39;s fine too, but with this many options, i might opt for an obj/ref like this](https://twitter.com/branmcconnell/status/1802790584643367113)
 - [@branmcconnell: One of the best threads I’ve come across for setting up beautiful progressive blurs in CSS 🔥](https://twitter.com/branmcconnell/status/1802770080037470684)
-- [@branmcconnell: If anyone has questions about code, my life, or literally anything else — ask away! I just consumed roughly 500mg of caffeine via raw cacao, so I’ll be up for the next 168 hours 🫨✌🏼](https://twitter.com/branmcconnell/status/1799896682089599113)
-- [@branmcconnell: Announcing my next big project… Kristina and I are having a baby girl 🎀🥰](https://twitter.com/branmcconnell/status/1799891669669552548)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
