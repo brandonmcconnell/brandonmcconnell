@@ -52,9 +52,9 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [@branmcconnell: TypeScript question 🙋🏻‍♂️ Why does the first of these two not trigger a type error, though I&#39;d expect one?  attn @typescript @mattpocockuk #TypeScript #TS](https://twitter.com/branmcconnell/status/1803813820369903921)
-- [@mattpocockuk: RT @mattpocockuk: Thanks @branmcconnell!](https://twitter.com/mattpocockuk/status/1803663111158640685)
-- [@jamonholmgren: RT @jamonholmgren: An actually rather elegant solution to inferring the variable type inside a try catch.](https://twitter.com/jamonholmgren/status/1803659829447368966)
+- [@branmcconnell: TypeScript question 🙋🏻‍♂️ Why does the first of these two not trigger a type error, though I&#39;d expect one? tsplay.dev/W4dB7W attn @typescript @mattpocockuk #TypeScript #TS](https://twitter.com/branmcconnell/status/1803813820369903921)
+- [@mattpocockuk: Thanks @branmcconnell! x.com/branmcconnell/…](https://twitter.com/mattpocockuk/status/1803663111158640685)
+- [@jamonholmgren: An actually rather elegant solution to inferring the variable type inside a try catch.](https://twitter.com/jamonholmgren/status/1803659829447368966)
 - [@branmcconnell: Purchased 8 new domains today. Am I building an empire or just hoarding digital junk I might never use? The answer is yes. 🤦🏻‍♂️](https://twitter.com/branmcconnell/status/1803590181397692534)
 - [@branmcconnell: @thdxr i think it&#39;s fine too, but with this many options, i might opt for an obj/ref like this](https://twitter.com/branmcconnell/status/1802790584643367113)
 <!-- TWITTER:END -->
