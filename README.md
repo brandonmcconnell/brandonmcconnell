@@ -52,7 +52,7 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [@branmcconnell: Conditional CSS 🤩 if&lpar;&rpar; is now accepted by the @csswg, but it&#39;ll be a while before it hits browsers. github.com/w3c/csswg-draf… Want to add conditional logic in your CSS now? This new article by @LeaVerou strives to round up all of the powerful workarounds available today. 🔥](https://twitter.com/branmcconnell/status/1804144994103468086)
+- [@branmcconnell: Conditional CSS 🤩 if&lpar;&rpar; is now accepted by the @csswg, but it&#39;ll be a while before it hits browsers.  Want to add conditional logic in your CSS now? This new article by @LeaVerou strives to round up all of the powerful workarounds available today. 🔥](https://twitter.com/branmcconnell/status/1804144994103468086)
 - [@branmcconnell: TypeScript question 🙋🏻‍♂️ Why does the first of these two not trigger a type error, though I&#39;d expect one? tsplay.dev/W4dB7W attn @typescript @mattpocockuk #TypeScript #TS](https://twitter.com/branmcconnell/status/1803813820369903921)
 - [@mattpocockuk: Thanks @branmcconnell! x.com/branmcconnell/…](https://twitter.com/mattpocockuk/status/1803663111158640685)
 - [@jamonholmgren: An actually rather elegant solution to inferring the variable type inside a try catch.](https://twitter.com/jamonholmgren/status/1803659829447368966)
