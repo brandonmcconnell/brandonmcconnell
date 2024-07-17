@@ -53,10 +53,10 @@
 ### My latest tweets
 <!-- TWITTER:START -->
 - [@branmcconnell: What&#39;s the general way to switch between one style and another at an arbitrary breakpoint without leaving out any subpixels using @tailwindcss? I was using `max-[500px]` and `min-[500px]` before realizing that `max-` breakpoints in Tailwind CSS literally use `&lpar;max-width: …&rpar;`…](https://twitter.com/branmcconnell/status/1808289510175711723)
-- [@branmcconnell: Conditional CSS 🤩 if&lpar;&rpar; is now accepted by the @csswg, but it&#39;ll be a while before it hits browsers. github.com/w3c/csswg-draf… Want to add conditional logic in your CSS now? This new article by @LeaVerou strives to round up all of the powerful workarounds available today. 🔥](https://twitter.com/branmcconnell/status/1804144994103468086)
+- [@branmcconnell: Conditional CSS 🤩 if&lpar;&rpar; is now accepted by the @csswg, but it&#39;ll be a while before it hits browsers.](https://twitter.com/branmcconnell/status/1804144994103468086)
 - [@branmcconnell: CSS scrolling question 📜🙋🏻‍♂️ I&#39;m using `scroll-behavior: smooth;` for all links on my sites, but when deep linking to an in-page ID from another site, I&#39;d like the page to load/jump to the specified ID w/o smooth scrolling.I tried `@‍starting-style { scroll-behavior: auto; }`…](https://twitter.com/branmcconnell/status/1803842451477495909)
-- [@branmcconnell: TypeScript question 🙋🏻‍♂️ Why does the first of these two not trigger a type error, though I&#39;d expect one? tsplay.dev/W4dB7W attn @typescript @mattpocockuk #TypeScript #TS](https://twitter.com/branmcconnell/status/1803813820369903921)
-- [@mattpocockuk: Thanks @branmcconnell! x.com/branmcconnell/…](https://twitter.com/mattpocockuk/status/1803663111158640685)
+- [@branmcconnell: TypeScript question 🙋🏻‍♂️ Why does the first of these two not trigger a type error, though I&#39;d expect one?](https://twitter.com/branmcconnell/status/1803813820369903921)
+- [@mattpocockuk: Thanks @branmcconnell!](https://twitter.com/mattpocockuk/status/1803663111158640685)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
