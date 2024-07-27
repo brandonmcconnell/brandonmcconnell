@@ -52,7 +52,7 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [@branmcconnell: it just occurred to me i&#39;ve ever seen `undefined` in a JSON file yup… `undefined` is not valid JSON JSON.stringify&lpar;{ a: undefined }&rpar; ➞ {} 🤯 … i feel like i must&#39;ve known this in the past but totally forgot. i&#39;m glad it seemed sensible to me even before checking 😅](https://twitter.com/branmcconnell/status/1816926303901380667)
+- [@branmcconnell: it just occurred to me i&#39;ve ever seen `undefined` in a JSON file yup… `undefined` is not valid JSONJSON.stringify&lpar;{ a: undefined }&rpar; ➞ {} 🤯…i feel like i must&#39;ve known this in the past but totally forgot. i&#39;m glad it seemed sensible to me even before checking 😅](https://twitter.com/branmcconnell/status/1816926303901380667)
 - [@branmcconnell: What&#39;s the general way to switch between one style and another at an arbitrary breakpoint without leaving out any subpixels using @tailwindcss? I was using `max-[500px]` and `min-[500px]` before realizing that `max-` breakpoints in Tailwind CSS literally use `&lpar;max-width: …&rpar;`…](https://twitter.com/branmcconnell/status/1808289510175711723)
 - [@branmcconnell: Conditional CSS 🤩 if&lpar;&rpar; is now accepted by the @csswg, but it&#39;ll be a while before it hits browsers.](https://twitter.com/branmcconnell/status/1804144994103468086)
 - [@branmcconnell: CSS scrolling question 📜🙋🏻‍♂️ I&#39;m using `scroll-behavior: smooth;` for all links on my sites, but when deep linking to an in-page ID from another site, I&#39;d like the page to load/jump to the specified ID w/o smooth scrolling.I tried `@‍starting-style { scroll-behavior: auto; }`…](https://twitter.com/branmcconnell/status/1803842451477495909)
