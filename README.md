@@ -52,7 +52,7 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [@PavitraGolchha: RT @PavitraGolchha: @drosenwasser @branmcconnell @typescript It&#39;s like Array.groupBy vs Object.groupBy... we can&#39;t have good things](https://twitter.com/PavitraGolchha/status/1816954194781155557)
+- [@PavitraGolchha: @drosenwasser @branmcconnell @typescript It&#39;s like Array.groupBy vs Object.groupBy... we can&#39;t have good things](https://twitter.com/PavitraGolchha/status/1816954194781155557)
 - [@branmcconnell: it just occurred to me i&#39;ve ever seen `undefined` in a JSON file yup… `undefined` is not valid JSON JSON.stringify&lpar;{ a: undefined }&rpar; ➞ {} 🤯 … i feel like i must&#39;ve known this in the past but totally forgot. i&#39;m glad it seemed sensible to me even before checking 😅](https://twitter.com/branmcconnell/status/1816926303901380667)
 - [@branmcconnell: What&#39;s the general way to switch between one style and another at an arbitrary breakpoint without leaving out any subpixels using @tailwindcss? I was using `max-[500px]` and `min-[500px]` before realizing that `max-` breakpoints in Tailwind CSS literally use `&lpar;max-width: …&rpar;`…](https://twitter.com/branmcconnell/status/1808289510175711723)
 - [@branmcconnell: Conditional CSS 🤩 if&lpar;&rpar; is now accepted by the @csswg, but it&#39;ll be a while before it hits browsers. github.com/w3c/csswg-draf… Want to add conditional logic in your CSS now? This new article by @LeaVerou strives to round up all of the powerful workarounds available today. 🔥](https://twitter.com/branmcconnell/status/1804144994103468086)
