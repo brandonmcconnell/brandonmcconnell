@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [@branmcconnell: Hey @ecbos_ 👋🏼 is there an internal timeline for when style queries will drop in Firefox?](https://twitter.com/branmcconnell/status/1821262531286929635)
-- [@k_grajeda: Excited to share the CSS Spring Easing Generator! 🎉 Design dynamic spring-based animations and copy the code straight into your project.Customize bounce and perceptual duration, then use linear&lpar;&rpar; to bring your animations to life in CSS.](https://twitter.com/k_grajeda/status/1820922681962745856)
+- [@branmcconnell: Hey @ecbos_ 👋🏼 is there an internal timeline for when style queries will drop in Firefox? bugzilla.mozilla.org/show_bug.cgi?i… One FF adds support, we&#39;ll finally be able to use style queries across all browsers, a feature that many of us have been waiting years for 🙂 developer.mozilla.org/en-US/docs/Web…](https://twitter.com/branmcconnell/status/1821262531286929635)
+- [@k_grajeda: Excited to share the CSS Spring Easing Generator! 🎉 Design dynamic spring-based animations and copy the code straight into your project. Customize bounce and perceptual duration, then use linear&lpar;&rpar; to bring your animations to life in CSS.](https://twitter.com/k_grajeda/status/1820922681962745856)
 - [@branmcconnell: I just canceled 93 domain names. Easiest but hardest thing I’ve done in a while. 🥲](https://twitter.com/branmcconnell/status/1820093897378587091)
-- [@PavitraGolchha: It&#39;s like Array.groupBy vs Object.groupBy... we can&#39;t have good things](https://twitter.com/PavitraGolchha/status/1816954194781155557)
-- [@branmcconnell: it just occurred to me i&#39;ve ever seen `undefined` in a JSON file yup… `undefined` is not valid JSONJSON.stringify&lpar;{ a: undefined }&rpar; ➞ {} 🤯…i feel like i must&#39;ve known this in the past but totally forgot. i&#39;m glad it seemed sensible to me even before checking 😅](https://twitter.com/branmcconnell/status/1816926303901380667)
+- [@PavitraGolchha: @drosenwasser @branmcconnell @typescript It&#39;s like Array.groupBy vs Object.groupBy... we can&#39;t have good things](https://twitter.com/PavitraGolchha/status/1816954194781155557)
+- [@branmcconnell: it just occurred to me i&#39;ve ever seen `undefined` in a JSON file yup… `undefined` is not valid JSON JSON.stringify&lpar;{ a: undefined }&rpar; ➞ {} 🤯 … i feel like i must&#39;ve known this in the past but totally forgot. i&#39;m glad it seemed sensible to me even before checking 😅](https://twitter.com/branmcconnell/status/1816926303901380667)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
