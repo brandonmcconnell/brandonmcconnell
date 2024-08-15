@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [@branmcconnell: Hey @ecbos_ 👋🏼 is there an internal timeline for when style queries will drop in Firefox?](https://twitter.com/branmcconnell/status/1821262531286929635)
-- [@k_grajeda: Excited to share the CSS Spring Easing Generator! 🎉 Design dynamic spring-based animations and copy the code straight into your project.Customize bounce and perceptual duration, then use linear&lpar;&rpar; to bring your animations to life in CSS.](https://twitter.com/k_grajeda/status/1820922681962745856)
-- [@branmcconnell: I just canceled 93 domain names. Easiest but hardest thing I’ve done in a while. 🥲](https://twitter.com/branmcconnell/status/1820093897378587091)
-- [@PavitraGolchha: It&#39;s like Array.groupBy vs Object.groupBy... we can&#39;t have good things](https://twitter.com/PavitraGolchha/status/1816954194781155557)
-- [@branmcconnell: it just occurred to me i&#39;ve ever seen `undefined` in a JSON file yup… `undefined` is not valid JSONJSON.stringify&lpar;{ a: undefined }&rpar; ➞ {} 🤯…i feel like i must&#39;ve known this in the past but totally forgot. i&#39;m glad it seemed sensible to me even before checking 😅](https://twitter.com/branmcconnell/status/1816926303901380667)
+- [@branmcconnell: @jordanpittman @mattpocockuk @ljharb Would implementing an alternative syntax for `try` like this break any existing functionality?](https://twitter.com/branmcconnell/status/1823856351778676742)
+- [@branmcconnell: @Rich_Harris @dummdidumm_ Is there a way to get a component&#39;s slot prop types, similar to how Svelte exposes standard props via `ComponentProps`? Something like… – ComponentSlotProps&lt;Dialog&gt;[&#39;default&#39;][&#39;data&#39;]](https://twitter.com/branmcconnell/status/1823805752504672570)
+- [@branmcconnell: @adamwathan Awesome work on this tool, @erikdevries_nl!](https://twitter.com/branmcconnell/status/1823557178940113389)
+- [@branmcconnell: @LeaVerou This will always take the full selector, right? So in the below styles… – `if-styles` belong to `.x .a` – `else-styles` essentially belong to `:not&lpar;.x .a&rpar;` and are not scoped to the grandparent `.x`, so it will target anything else on the page that does not match `.x .a`.](https://twitter.com/branmcconnell/status/1823365632039039293)
+- [@branmcconnell: @ptrcknlsn @thdxr Yeah, ideally, I would just pass all those details in the body](https://twitter.com/branmcconnell/status/1822809812335198347)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
