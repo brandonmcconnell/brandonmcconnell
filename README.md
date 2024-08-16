@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @teej_dv my brain hurts](https://twitter.com/branmcconnell/status/1824345890301075610)
+- [@branmcconnell: @t3dotgg They literally would’ve faked it to ensure it wouldn’t happen lol](https://twitter.com/branmcconnell/status/1824344352744706431)
+- [@branmcconnell: @Activision @ATVI_AB @ATVIAssist Somebody tell @PlayCODMobile this ASAP](https://twitter.com/branmcconnell/status/1824215600559952318)
+- [@branmcconnell: @dummdidumm_ @Rich_Harris All good! Turns out svelte-ux exposes one that works beautifully 👏🏼  Thanks as always, @techniq35!](https://twitter.com/branmcconnell/status/1824106980253831450)
 - [@branmcconnell: @jordanpittman @mattpocockuk @ljharb Would implementing an alternative syntax for `try` like this break any existing functionality?](https://twitter.com/branmcconnell/status/1823856351778676742)
-- [@branmcconnell: @Rich_Harris @dummdidumm_ Is there a way to get a component&#39;s slot prop types, similar to how Svelte exposes standard props via `ComponentProps`? Something like… – ComponentSlotProps&lt;Dialog&gt;[&#39;default&#39;][&#39;data&#39;]](https://twitter.com/branmcconnell/status/1823805752504672570)
-- [@branmcconnell: @adamwathan Awesome work on this tool, @erikdevries_nl!](https://twitter.com/branmcconnell/status/1823557178940113389)
-- [@branmcconnell: @LeaVerou This will always take the full selector, right? So in the below styles… – `if-styles` belong to `.x .a` – `else-styles` essentially belong to `:not&lpar;.x .a&rpar;` and are not scoped to the grandparent `.x`, so it will target anything else on the page that does not match `.x .a`.](https://twitter.com/branmcconnell/status/1823365632039039293)
-- [@branmcconnell: @ptrcknlsn @thdxr Yeah, ideally, I would just pass all those details in the body](https://twitter.com/branmcconnell/status/1822809812335198347)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
