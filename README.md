@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @iam_chonchol Once again, another “iPhone 16” post that has NOTHING to do with iPhone 16. Not a single one of these features is related to the new iPhone, and all are already possible in iOS 18 on iPhone 15 Pro.](https://twitter.com/branmcconnell/status/1825238800999780859)
+- [@branmcconnell: @adamwathan Re the problem of “Duplicate utility names”, could you expose some sort of super-like function that allows plugin authors to optionally include whatever the base property-value pair&lpar;s&rpar; is for a utility name and then add to that? If not, I would think a plugin author could](https://twitter.com/branmcconnell/status/1825238385687924865)
 - [@branmcconnell: @mattpocockuk @kentcdodds Would that be equivalent to this? const fetchResult = await fetch&lpar;&quot;https://arthur-place&quot;&rpar; const error ?= fetchResult[0]; const response ?= fetchResult[1];](https://twitter.com/branmcconnell/status/1824632733265457634)
 - [@branmcconnell: @adamwathan Hopefully none of mine 👀 I feel like they’re powerful but rather simple](https://twitter.com/branmcconnell/status/1824575094762680384)
 - [@branmcconnell: @teej_dv my brain hurts](https://twitter.com/branmcconnell/status/1824345890301075610)
-- [@branmcconnell: @t3dotgg They literally would’ve faked it to ensure it wouldn’t happen lol](https://twitter.com/branmcconnell/status/1824344352744706431)
-- [@branmcconnell: @Activision @ATVI_AB @ATVIAssist Somebody tell @PlayCODMobile this ASAP](https://twitter.com/branmcconnell/status/1824215600559952318)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
