@@ -54,7 +54,7 @@
 <!-- TWITTER:START -->
 - [@branmcconnell: @trashh_dev Can’t you just write `const name = ` or destructure the prop? Why the need for an effect at all?](https://twitter.com/branmcconnell/status/1826460146718884006)
 - [@branmcconnell: @Its_Hamiii @iceyburrow @vivek_naskar @Whotfismick 100% this. I couldn’t imagine anyone else playing this role. I never hit the theater for any Statham or Denzel films. Reeves is in a league of his own, and his acting is often a spectacle.](https://twitter.com/branmcconnell/status/1826459168296841225)
-- [@rauchg: nobody will remember: - your salary - how “busy you were” - how many hours you worked people will remember: - &lt;marquee&gt; - &lt;blink&gt; - XMLHttpRequest - Quirks mode - &lt;!--[if IE]&gt; - text-indent: -9999px - ActiveXObject&lpar;&quot;Msxml2.XMLHTTP&quot;&rpar;](https://twitter.com/rauchg/status/1826385774818054622)
+- [@rauchg: nobody will remember: - your salary- how “busy you were” - how many hours you workedpeople will remember:- &lt;marquee&gt;- &lt;blink&gt;- XMLHttpRequest- Quirks mode- &lt;!--[if IE]&gt;- text-indent: -9999px- ActiveXObject&lpar;&quot;Msxml2.XMLHTTP&quot;&rpar;- Array.prototype.smoosh](https://twitter.com/rauchg/status/1826385774818054622)
 - [@branmcconnell: @cursor_ai In fact, the same goes for all my VSCode settings and user prefs](https://twitter.com/branmcconnell/status/1826272717219525001)
 - [@branmcconnell: @joyofcodedev How is the new `spent` calculated when setting `left`?](https://twitter.com/branmcconnell/status/1826268460164558919)
 <!-- TWITTER:END -->
