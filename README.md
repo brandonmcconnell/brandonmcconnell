@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @trashh_dev Can’t you just write `const name = ` or destructure the prop? Why the need for an effect at all?](https://twitter.com/branmcconnell/status/1826460146718884006)
+- [@branmcconnell: @Its_Hamiii @iceyburrow @vivek_naskar @Whotfismick 100% this. I couldn’t imagine anyone else playing this role. I never hit the theater for any Statham or Denzel films. Reeves is in a league of his own, and his acting is often a spectacle.](https://twitter.com/branmcconnell/status/1826459168296841225)
+- [@branmcconnell: @cursor_ai In fact, the same goes for all my VSCode settings and user prefs](https://twitter.com/branmcconnell/status/1826272717219525001)
+- [@branmcconnell: @joyofcodedev How is the new `spent` calculated when setting `left`?](https://twitter.com/branmcconnell/status/1826268460164558919)
 - [@branmcconnell: @levelsio @larry0x Clearly not on par with apples, but 3D nonetheless 🤣](https://twitter.com/branmcconnell/status/1825938972792729959)
-- [@branmcconnell: @jaredpalmer @adamwathan I used to do it that way too, but then I found that it also seems to work if you click it just once and wait a few minutes](https://twitter.com/branmcconnell/status/1825903490662576464)
-- [@branmcconnell: @adamwathan For real, I spend too much time on](https://twitter.com/branmcconnell/status/1825903279605190805)
-- [@branmcconnell: @iam_chonchol Once again, another “iPhone 16” post that has NOTHING to do with iPhone 16. Not a single one of these features is related to the new iPhone, and all are already possible in iOS 18 on iPhone 15 Pro.](https://twitter.com/branmcconnell/status/1825238800999780859)
-- [@branmcconnell: @adamwathan Re the problem of “Duplicate utility names”, could you expose some sort of super-like function that allows plugin authors to optionally include whatever the base property-value pair&lpar;s&rpar; is for a utility name and then add to that? If not, I would think a plugin author could](https://twitter.com/branmcconnell/status/1825238385687924865)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
