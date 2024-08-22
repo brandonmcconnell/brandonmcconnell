@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [@branmcconnell: @trashh_dev Can’t you just write `const name = ` or destructure the prop? Why the need for an effect at all?](https://twitter.com/branmcconnell/status/1826460146718884006)
-- [@branmcconnell: @Its_Hamiii @iceyburrow @vivek_naskar @Whotfismick 100% this. I couldn’t imagine anyone else playing this role. I never hit the theater for any Statham or Denzel films. Reeves is in a league of his own, and his acting is often a spectacle.](https://twitter.com/branmcconnell/status/1826459168296841225)
-- [@rauchg: nobody will remember: - your salary- how “busy you were” - how many hours you workedpeople will remember:- &lt;marquee&gt;- &lt;blink&gt;- XMLHttpRequest- Quirks mode- &lt;!--[if IE]&gt;- text-indent: -9999px- ActiveXObject&lpar;&quot;Msxml2.XMLHTTP&quot;&rpar;- Array.prototype.smoosh](https://twitter.com/rauchg/status/1826385774818054622)
-- [@branmcconnell: @cursor_ai In fact, the same goes for all my VSCode settings and user prefs](https://twitter.com/branmcconnell/status/1826272717219525001)
-- [@branmcconnell: @joyofcodedev How is the new `spent` calculated when setting `left`?](https://twitter.com/branmcconnell/status/1826268460164558919)
+- [@branmcconnell: @mattpocockuk Just think, in five years, we’ll be able to write all our JS in TS and ESM and ship as is.](https://twitter.com/branmcconnell/status/1826691494062985221)
+- [@branmcconnell: @adamwathan @cossssmin Proudly so 😁 Eager to riff new versions of signals, members, and mixins with the new APIs](https://twitter.com/branmcconnell/status/1826672683482055011)
+- [@branmcconnell: @adamwathan Will there still be a way to override the default implementation if we want to, or a way to instruct users to disable defaults, as was supported in v3 using `corePlugins`?](https://twitter.com/branmcconnell/status/1826659993459855764)
+- [@branmcconnell: @robpalmer2 Would the JSX point still be an issue with type args like `function&lt;&gt;&lpar;&rpar;` or `[].reduce&lt;&gt;&lpar;&rpar;`?](https://twitter.com/branmcconnell/status/1826658974835638600)
+- [@branmcconnell: @AdamRackis I couldn&#39;t have said it better. There&#39;s a place for that stack, but for the large majority of devs, especially newer ones, they won&#39;t succeed with it. Even if they all learned PHP, there isn&#39;t enough demand for PHP devs. I should know— I was a PHP dev first, and I&#39;m decent at](https://twitter.com/branmcconnell/status/1826633258760548519)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
