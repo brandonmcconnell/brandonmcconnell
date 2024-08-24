@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @heyshrutimishra NONE OF THESE ARE IPHONE 16-SPECIFIC FEATURES 🤦🏻‍♂️](https://twitter.com/branmcconnell/status/1827169737010209175)
+- [@branmcconnell: @BetaProfiles This is awesome. This should be supported in all countries.](https://twitter.com/branmcconnell/status/1827118104507306362)
+- [@branmcconnell: @hey_madni None of these are related to iPhone 16 🤦🏻‍♂️](https://twitter.com/branmcconnell/status/1826851355434131606)
+- [@branmcconnell: @LeaVerou I was trying to play with `background-position` to align it left to always start with a dot and encountered some weird behavior I don&#39;t think I&#39;ve seen before. Any `background-position` value I set `ol.toc &gt; li &gt; a` to, even `unset` causes it to shift from its natural position.](https://twitter.com/branmcconnell/status/1826757453440028881)
 - [@branmcconnell: @mattpocockuk Just think, in five years, we’ll be able to write all our JS in TS and ESM and ship as is.](https://twitter.com/branmcconnell/status/1826691494062985221)
-- [@branmcconnell: @adamwathan @cossssmin Proudly so 😁 Eager to riff new versions of signals, members, and mixins with the new APIs](https://twitter.com/branmcconnell/status/1826672683482055011)
-- [@branmcconnell: @adamwathan Will there still be a way to override the default implementation if we want to, or a way to instruct users to disable defaults, as was supported in v3 using `corePlugins`?](https://twitter.com/branmcconnell/status/1826659993459855764)
-- [@branmcconnell: @robpalmer2 Would the JSX point still be an issue with type args like `function&lt;&gt;&lpar;&rpar;` or `[].reduce&lt;&gt;&lpar;&rpar;`?](https://twitter.com/branmcconnell/status/1826658974835638600)
-- [@branmcconnell: @AdamRackis I couldn&#39;t have said it better. There&#39;s a place for that stack, but for the large majority of devs, especially newer ones, they won&#39;t succeed with it. Even if they all learned PHP, there isn&#39;t enough demand for PHP devs. I should know— I was a PHP dev first, and I&#39;m decent at](https://twitter.com/branmcconnell/status/1826633258760548519)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
