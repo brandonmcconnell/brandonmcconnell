@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [@branmcconnell: @heyshrutimishra NONE OF THESE ARE IPHONE 16-SPECIFIC FEATURES 🤦🏻‍♂️](https://twitter.com/branmcconnell/status/1827169737010209175)
-- [@branmcconnell: @BetaProfiles This is awesome. This should be supported in all countries.](https://twitter.com/branmcconnell/status/1827118104507306362)
-- [@branmcconnell: @hey_madni None of these are related to iPhone 16 🤦🏻‍♂️](https://twitter.com/branmcconnell/status/1826851355434131606)
-- [@branmcconnell: @LeaVerou I was trying to play with `background-position` to align it left to always start with a dot and encountered some weird behavior I don&#39;t think I&#39;ve seen before. Any `background-position` value I set `ol.toc &gt; li &gt; a` to, even `unset` causes it to shift from its natural position.](https://twitter.com/branmcconnell/status/1826757453440028881)
-- [@branmcconnell: @mattpocockuk Just think, in five years, we’ll be able to write all our JS in TS and ESM and ship as is.](https://twitter.com/branmcconnell/status/1826691494062985221)
+- [@branmcconnell: @DrwiegaMarcin @treylorswift @t3dotgg @levelsio Ah okay, I didn&#39;t see where you mentioned wanting to keep it to yourself. I&#39;ll keep looking. Thanks :&rpar;](https://twitter.com/branmcconnell/status/1827787688214450394)
+- [@branmcconnell: @DrwiegaMarcin @treylorswift @t3dotgg @levelsio Which were you mentioning before in this tweet that you used and also had exceptional quality?](https://twitter.com/branmcconnell/status/1827781829673287931)
+- [@branmcconnell: @RealEmirHan Same 🥲](https://twitter.com/branmcconnell/status/1827772972364673387)
+- [@branmcconnell: @DrwiegaMarcin @treylorswift @t3dotgg @levelsio Is that the one you hosted on EPYC?](https://twitter.com/branmcconnell/status/1827772860963631301)
+- [@branmcconnell: @wesbos step 2: code a receipt scanner that ocr’s those receipts and logs their messages online](https://twitter.com/branmcconnell/status/1827470006835122500)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
