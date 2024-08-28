@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @matiNotFound @nextjs @basementstudio @vercel Is it live yet? Link?](https://twitter.com/branmcconnell/status/1828789164931719570)
 - [@branmcconnell: @DrwiegaMarcin @treylorswift @t3dotgg @levelsio Ah okay, I didn&#39;t see where you mentioned wanting to keep it to yourself. I&#39;ll keep looking. Thanks :&rpar;](https://twitter.com/branmcconnell/status/1827787688214450394)
 - [@branmcconnell: @DrwiegaMarcin @treylorswift @t3dotgg @levelsio Which were you mentioning before in this tweet that you used and also had exceptional quality?](https://twitter.com/branmcconnell/status/1827781829673287931)
 - [@branmcconnell: @RealEmirHan Same 🥲](https://twitter.com/branmcconnell/status/1827772972364673387)
 - [@branmcconnell: @DrwiegaMarcin @treylorswift @t3dotgg @levelsio Is that the one you hosted on EPYC?](https://twitter.com/branmcconnell/status/1827772860963631301)
-- [@branmcconnell: @wesbos step 2: code a receipt scanner that ocr’s those receipts and logs their messages online](https://twitter.com/branmcconnell/status/1827470006835122500)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
