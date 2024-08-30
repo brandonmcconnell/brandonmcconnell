@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @brian_lovin I usually just reload my window, which tends to be quicker in my experience for whatever reason, and it accomplishes the same thing.](https://twitter.com/branmcconnell/status/1829532066645729389)
 - [@branmcconnell: @bramus Can you also use it to track any arbitrarily-named changed/added/removed properties, without specifying the name explicitly, so I can track all changed properties, even those I might not be aware of?](https://twitter.com/branmcconnell/status/1829376438954283370)
 - [@branmcconnell: @wesbos @Flighty integrates with Gmail, pulls flights automatically, and adds flights to your calendar 10/10, iOS and macOS only though](https://twitter.com/branmcconnell/status/1828906503757263257)
 - [@branmcconnell: @Stammy Weird. I use it constantly and never run into any hiccups like that.](https://twitter.com/branmcconnell/status/1828901088688312370)
 - [@branmcconnell: @matiNotFound @nextjs @basementstudio @vercel Is it live yet? Link?](https://twitter.com/branmcconnell/status/1828789164931719570)
-- [@branmcconnell: @DrwiegaMarcin @treylorswift @t3dotgg @levelsio Ah okay, I didn&#39;t see where you mentioned wanting to keep it to yourself. I&#39;ll keep looking. Thanks :&rpar;](https://twitter.com/branmcconnell/status/1827787688214450394)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
