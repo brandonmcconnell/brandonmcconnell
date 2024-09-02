@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @elonmusk I think you could switch this logic to match content that has been forwarded AND liked; don’t assume anything about content that has been forwarded but not liked. Likes are private, so there’s no reason someone would only forward something if they actually liked it.](https://twitter.com/branmcconnell/status/1830616711609077861)
 - [@branmcconnell: @trustless_matt @adamwathan The Tailwind CSS team has historically opted not to introduce this feature as it can lead to code bloat. If you want a solution for those cases where you think it makes sense, check out my Multi for Tailwind CSS plugin:](https://twitter.com/branmcconnell/status/1829951716332392921)
 - [@branmcconnell: @robpalmer2 @wooorm @remcohaszing @ssalbdivad @johnny_reilly @atcb I only really use d.ts files when I need to assert types on an untyped package I’m importing](https://twitter.com/branmcconnell/status/1829932554952090005)
 - [@branmcconnell: @brian_lovin I usually just reload my window, which tends to be quicker in my experience for whatever reason, and it accomplishes the same thing.](https://twitter.com/branmcconnell/status/1829532066645729389)
 - [@branmcconnell: @bramus Can you also use it to track any arbitrarily-named changed/added/removed properties, without specifying the name explicitly, so I can track all changed properties, even those I might not be aware of?](https://twitter.com/branmcconnell/status/1829376438954283370)
-- [@branmcconnell: @wesbos @Flighty integrates with Gmail, pulls flights automatically, and adds flights to your calendar 10/10, iOS and macOS only though](https://twitter.com/branmcconnell/status/1828906503757263257)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
