@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @mryechkin @adamwathan That would possibly resolve my question as well:](https://twitter.com/branmcconnell/status/1831034715601805553)
+- [@branmcconnell: @adamwathan Thanks, that helps! Is there a way we can reset most/all colors but keep a few and even alias them, like this: @import &quot;tailwindcss/colors&quot;; @theme { --color-*: initial; --color-gray: var&lpar;--colors-zinc&rpar;; } and automatically spread the colors into those names behind the](https://twitter.com/branmcconnell/status/1830967494271479892)
 - [@branmcconnell: @adamwathan How can we disable the default colors in the v4 config?](https://twitter.com/branmcconnell/status/1830828468998643884)
 - [@branmcconnell: @elonmusk I think you could switch this logic to match content that has been forwarded AND liked; don’t assume anything about content that has been forwarded but not liked. Likes are private, so there’s no reason someone would only forward something if they actually liked it.](https://twitter.com/branmcconnell/status/1830616711609077861)
 - [@branmcconnell: @trustless_matt @adamwathan The Tailwind CSS team has historically opted not to introduce this feature as it can lead to code bloat. If you want a solution for those cases where you think it makes sense, check out my Multi for Tailwind CSS plugin:](https://twitter.com/branmcconnell/status/1829951716332392921)
-- [@branmcconnell: @robpalmer2 @wooorm @remcohaszing @ssalbdivad @johnny_reilly @atcb I only really use d.ts files when I need to assert types on an untyped package I’m importing](https://twitter.com/branmcconnell/status/1829932554952090005)
-- [@branmcconnell: @brian_lovin I usually just reload my window, which tends to be quicker in my experience for whatever reason, and it accomplishes the same thing.](https://twitter.com/branmcconnell/status/1829532066645729389)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
