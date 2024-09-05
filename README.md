@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [@branmcconnell: @mryechkin @adamwathan That would possibly resolve my question as well:](https://twitter.com/branmcconnell/status/1831034715601805553)
-- [@branmcconnell: @adamwathan Thanks, that helps! Is there a way we can reset most/all colors but keep a few and even alias them, like this: @import &quot;tailwindcss/colors&quot;; @theme { --color-*: initial; --color-gray: var&lpar;--colors-zinc&rpar;; } and automatically spread the colors into those names behind the](https://twitter.com/branmcconnell/status/1830967494271479892)
-- [@branmcconnell: @adamwathan How can we disable the default colors in the v4 config?](https://twitter.com/branmcconnell/status/1830828468998643884)
-- [@branmcconnell: @elonmusk I think you could switch this logic to match content that has been forwarded AND liked; don’t assume anything about content that has been forwarded but not liked. Likes are private, so there’s no reason someone would only forward something if they actually liked it.](https://twitter.com/branmcconnell/status/1830616711609077861)
-- [@branmcconnell: @trustless_matt @adamwathan The Tailwind CSS team has historically opted not to introduce this feature as it can lead to code bloat. If you want a solution for those cases where you think it makes sense, check out my Multi for Tailwind CSS plugin:](https://twitter.com/branmcconnell/status/1829951716332392921)
+- [@branmcconnell: @rauchg Ermmmm moves something that was once a part of one package into its own open-source package that will soon be open to all? e.g. You’re finally *actually* open source-ing the Vercel toolbar?! 👀👀👀🤞](https://twitter.com/branmcconnell/status/1831480207863378279)
+- [@branmcconnell: @rauchg Replaces some hefty datetime library with Intl.DateTimeFormat? 👀](https://twitter.com/branmcconnell/status/1831479775715786937)
+- [@branmcconnell: @lizisraad](https://twitter.com/branmcconnell/status/1831377853704970626)
+- [@branmcconnell: @lizisraad Here is an equivalent example using plain HTML and CSS in case you&#39;re not working with Tailwind CSS  I whipped this up by having GPT covert it and then cleaning up some errors, so it may still have a bug or two I didn&#39;t catch](https://twitter.com/branmcconnell/status/1831376250470031837)
+- [@branmcconnell: @joyofcodedev It is handy, but I&#39;ve started to avoid it because when I see an /‍each I automatically start looking for an #‍‍‍‍if and there isn&#39;t always one](https://twitter.com/branmcconnell/status/1831340332732256546)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
