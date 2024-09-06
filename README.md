@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @peduarte @radix_ui What would you change if you were to rebuild radix today with the same knowledge you have now?](https://twitter.com/branmcconnell/status/1831836479267696672)
+- [@branmcconnell: @SvelteSociety @Rich_Harris @dummdidumm_ @sveltejs @MasterSvelte I was wondering if I would have to resort to that 🫣😆](https://twitter.com/branmcconnell/status/1831732058462290275)
+- [@branmcconnell: @Rich_Harris @dummdidumm_ @sveltejs @SvelteSociety @MasterSvelte cc @joyofcodedev b/c you&#39;re a genius in these parts too 😉](https://twitter.com/branmcconnell/status/1831731534786679055)
 - [@branmcconnell: @rauchg Ermmmm moves something that was once a part of one package into its own open-source package that will soon be open to all? e.g. You’re finally *actually* open source-ing the Vercel toolbar?! 👀👀👀🤞](https://twitter.com/branmcconnell/status/1831480207863378279)
 - [@branmcconnell: @rauchg Replaces some hefty datetime library with Intl.DateTimeFormat? 👀](https://twitter.com/branmcconnell/status/1831479775715786937)
-- [@branmcconnell: @lizisraad](https://twitter.com/branmcconnell/status/1831377853704970626)
-- [@branmcconnell: @lizisraad Here is an equivalent example using plain HTML and CSS in case you&#39;re not working with Tailwind CSS  I whipped this up by having GPT covert it and then cleaning up some errors, so it may still have a bug or two I didn&#39;t catch](https://twitter.com/branmcconnell/status/1831376250470031837)
-- [@branmcconnell: @joyofcodedev It is handy, but I&#39;ve started to avoid it because when I see an /‍each I automatically start looking for an #‍‍‍‍if and there isn&#39;t always one](https://twitter.com/branmcconnell/status/1831340332732256546)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
