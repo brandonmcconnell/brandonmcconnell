@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @leeerob @TheEvanYang So are my vision issues lol](https://twitter.com/branmcconnell/status/1832261586603356496)
 - [@branmcconnell: @steveschoger @adamwathan Looking rad 💅🏼🔥](https://twitter.com/branmcconnell/status/1832196727933116474)
 - [@branmcconnell: @ChaseGiunta @steveschoger ☝🏼 same thoughts lol](https://twitter.com/branmcconnell/status/1832196671398129843)
 - [@branmcconnell: @peduarte @radix_ui What would you change if you were to rebuild radix today with the same knowledge you have now?](https://twitter.com/branmcconnell/status/1831836479267696672)
 - [@branmcconnell: @SvelteSociety @Rich_Harris @dummdidumm_ @sveltejs @MasterSvelte I was wondering if I would have to resort to that 🫣😆](https://twitter.com/branmcconnell/status/1831732058462290275)
-- [@branmcconnell: @Rich_Harris @dummdidumm_ @sveltejs @SvelteSociety @MasterSvelte cc @joyofcodedev b/c you&#39;re a genius in these parts too 😉](https://twitter.com/branmcconnell/status/1831731534786679055)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
