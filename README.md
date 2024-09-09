@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @PaoloRicciuti @Rich_Harris @dummdidumm_ @SvelteSociety Honestly, giving it some more thought, I think the prop approach is probably best, especially if that’s the directions Svelte 5 is taking](https://twitter.com/branmcconnell/status/1833201885681226191)
 - [@branmcconnell: @leeerob @TheEvanYang So are my vision issues lol](https://twitter.com/branmcconnell/status/1832261586603356496)
 - [@branmcconnell: @steveschoger @adamwathan Looking rad 💅🏼🔥](https://twitter.com/branmcconnell/status/1832196727933116474)
 - [@branmcconnell: @ChaseGiunta @steveschoger ☝🏼 same thoughts lol](https://twitter.com/branmcconnell/status/1832196671398129843)
 - [@branmcconnell: @peduarte @radix_ui What would you change if you were to rebuild radix today with the same knowledge you have now?](https://twitter.com/branmcconnell/status/1831836479267696672)
-- [@branmcconnell: @SvelteSociety @Rich_Harris @dummdidumm_ @sveltejs @MasterSvelte I was wondering if I would have to resort to that 🫣😆](https://twitter.com/branmcconnell/status/1831732058462290275)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
