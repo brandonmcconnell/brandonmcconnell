@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @terminaldotshop](https://twitter.com/branmcconnell/status/1833630584372899896)
+- [@branmcconnell: @mattpocockuk I’ll often do this: const addToCache3 = &lpar;index: number, newItem: string&rpar; =&gt; { cache[index] ??= new Set&lpar;&rpar;; cache[index].add&lpar;newItem&rpar;; }; I do like the one-liner as well, but I’ve had other devs on my team complain about it sometimes, so this is the best of both worlds imo](https://twitter.com/branmcconnell/status/1833501823014957154)
 - [@branmcconnell: @PaoloRicciuti @Rich_Harris @dummdidumm_ @SvelteSociety Honestly, giving it some more thought, I think the prop approach is probably best, especially if that’s the directions Svelte 5 is taking](https://twitter.com/branmcconnell/status/1833201885681226191)
 - [@branmcconnell: @leeerob @TheEvanYang So are my vision issues lol](https://twitter.com/branmcconnell/status/1832261586603356496)
 - [@branmcconnell: @steveschoger @adamwathan Looking rad 💅🏼🔥](https://twitter.com/branmcconnell/status/1832196727933116474)
-- [@branmcconnell: @ChaseGiunta @steveschoger ☝🏼 same thoughts lol](https://twitter.com/branmcconnell/status/1832196671398129843)
-- [@branmcconnell: @peduarte @radix_ui What would you change if you were to rebuild radix today with the same knowledge you have now?](https://twitter.com/branmcconnell/status/1831836479267696672)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
