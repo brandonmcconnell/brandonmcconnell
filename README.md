@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @adamwathan col 5, with col-end prioritized over col-span](https://twitter.com/branmcconnell/status/1834002573692375349)
+- [@branmcconnell: @bedesqui @adamwathan 100% this ☝🏼](https://twitter.com/branmcconnell/status/1834002337976692857)
+- [@branmcconnell: @joshnuss 🎓](https://twitter.com/branmcconnell/status/1833928840923566574)
 - [@branmcconnell: @Flighty Ready for it!](https://twitter.com/branmcconnell/status/1833920324267901290)
 - [@branmcconnell: @StripeDev @stripe @stripesupport @devinjacoviello It&#39;s worth noting this optimization shouldn&#39;t conflict with the themes easter egg you posted about](https://twitter.com/branmcconnell/status/1833904907403071955)
-- [@branmcconnell: @argyleink What is Canvas doing here?](https://twitter.com/branmcconnell/status/1833895784330240285)
-- [@branmcconnell: @aarondfrancis @steve_tenuto @xata Perfect. Sign me up 😎 Figuratively, but also literally lol](https://twitter.com/branmcconnell/status/1833869482072105188)
-- [@branmcconnell: @aarondfrancis @steve_tenuto @xata Is this course “zero to master” or does it require prior knowledge?](https://twitter.com/branmcconnell/status/1833738087429448086)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
