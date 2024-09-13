@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @leeerob Wow! Congrats Lee! Ours is coming in a few days 🙉](https://twitter.com/branmcconnell/status/1834584665518141942)
+- [@branmcconnell: @Una How nicely will `selectedoption` play with multiselect?](https://twitter.com/branmcconnell/status/1834298012652228708)
 - [@branmcconnell: @adamwathan col 5, with col-end prioritized over col-span](https://twitter.com/branmcconnell/status/1834002573692375349)
 - [@branmcconnell: @bedesqui @adamwathan 100% this ☝🏼](https://twitter.com/branmcconnell/status/1834002337976692857)
 - [@branmcconnell: @joshnuss 🎓](https://twitter.com/branmcconnell/status/1833928840923566574)
-- [@branmcconnell: @Flighty Ready for it!](https://twitter.com/branmcconnell/status/1833920324267901290)
-- [@branmcconnell: @StripeDev @stripe @stripesupport @devinjacoviello It&#39;s worth noting this optimization shouldn&#39;t conflict with the themes easter egg you posted about](https://twitter.com/branmcconnell/status/1833904907403071955)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
