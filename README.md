@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @usamaClick @PaddleHQ @MaxPrilutskiy @DmytroKrasun What reason did they give you for closing your account? Did they explain in the email?](https://twitter.com/branmcconnell/status/1835064426719850904)
+- [@branmcconnell: @netflix WOW. One of the best seasons of #EmilyInParis so far. My wife and I cannot stop talking about it. Love the expected turns this season took and can’t wait to see what happens next. 🙉😳 I have so many spoiler-ridden questions. #GenevieveForJail2025](https://twitter.com/branmcconnell/status/1835061623457038592)
 - [@branmcconnell: @leeerob Wow! Congrats Lee! Ours is coming in a few days 🙉](https://twitter.com/branmcconnell/status/1834584665518141942)
 - [@branmcconnell: @Una How nicely will `selectedoption` play with multiselect?](https://twitter.com/branmcconnell/status/1834298012652228708)
 - [@branmcconnell: @adamwathan col 5, with col-end prioritized over col-span](https://twitter.com/branmcconnell/status/1834002573692375349)
-- [@branmcconnell: @bedesqui @adamwathan 100% this ☝🏼](https://twitter.com/branmcconnell/status/1834002337976692857)
-- [@branmcconnell: @joshnuss 🎓](https://twitter.com/branmcconnell/status/1833928840923566574)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
