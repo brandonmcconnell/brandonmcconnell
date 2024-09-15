@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @jamonholmgren Interesting! I’m curious what you consider emotional vs. intelligent. I’m very pro-AI, but most arguments I’ve seen against it seem rational, like its short-term effect on unemployment, academic adoption &lpar;e.g. cheating, pseudo-plagiarism&rpar;, and the decline of original thought.](https://twitter.com/branmcconnell/status/1835343378558411191)
+- [@branmcconnell: Nvm I was on a poor connection and it was showing an empty state and then later loaded in. It might be better to show a loading state rather than an empty state before it’s loaded, as it appears to show the same results for loading and empty states now.](https://twitter.com/branmcconnell/status/1835336937499922457)
 - [@branmcconnell: @ericdalessandro thanks for the great show tonight, man! never experienced such dark comedy before](https://twitter.com/branmcconnell/status/1835144085201461487)
 - [@branmcconnell: @usamaClick @PaddleHQ @MaxPrilutskiy @DmytroKrasun What reason did they give you for closing your account? Did they explain in the email?](https://twitter.com/branmcconnell/status/1835064426719850904)
 - [@branmcconnell: @netflix WOW. One of the best seasons of #EmilyInParis so far. My wife and I cannot stop talking about it. Love the expected turns this season took and can’t wait to see what happens next. 🙉😳 I have so many spoiler-ridden questions. #GenevieveForJail2025](https://twitter.com/branmcconnell/status/1835061623457038592)
-- [@branmcconnell: @leeerob Wow! Congrats Lee! Ours is coming in a few days 🙉](https://twitter.com/branmcconnell/status/1834584665518141942)
-- [@branmcconnell: @Una How nicely will `selectedoption` play with multiselect?](https://twitter.com/branmcconnell/status/1834298012652228708)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
