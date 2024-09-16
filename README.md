@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [@branmcconnell: Typical case of things customers care about but the developers don’t:](https://twitter.com/branmcconnell/status/1835386776283943272)
-- [@branmcconnell: @jamonholmgren Interesting! I’m curious what you consider emotional vs. intelligent. I’m very pro-AI, but most arguments I’ve seen against it seem rational, like its short-term effect on unemployment, academic adoption &lpar;e.g. cheating, pseudo-plagiarism&rpar;, and the decline of original thought.](https://twitter.com/branmcconnell/status/1835343378558411191)
-- [@branmcconnell: Nvm I was on a poor connection and it was showing an empty state and then later loaded in. It might be better to show a loading state rather than an empty state before it’s loaded, as it appears to show the same results for loading and empty states now.](https://twitter.com/branmcconnell/status/1835336937499922457)
-- [@branmcconnell: @ericdalessandro thanks for the great show tonight, man! never experienced such dark comedy before](https://twitter.com/branmcconnell/status/1835144085201461487)
-- [@branmcconnell: @usamaClick @PaddleHQ @MaxPrilutskiy @DmytroKrasun What reason did they give you for closing your account? Did they explain in the email?](https://twitter.com/branmcconnell/status/1835064426719850904)
+- [@branmcconnell: @XeZrunner Probably. I’ve been eyeing alternative multi-model clients, and now I have a reason to switch 🤷🏻‍♂️](https://twitter.com/branmcconnell/status/1835535766320984247)
+- [@branmcconnell: @Xhoni00 @phuctm97 @v0 @shadcn When you need to upgrade what? When you control the code, you control what changes, and you never run into breaking changes or overhead for a surplus of features you don’t need. You want to change something or refactor the entire API? You can 🤌🏼](https://twitter.com/branmcconnell/status/1835535245573022130)
+- [@branmcconnell: @leeerob @nextjs Weird. It was there &lpar;when focusing into the address bar&rpar;, but it works now! Looking good 🙌🏼](https://twitter.com/branmcconnell/status/1835534701739515935)
+- [@branmcconnell: @XeZrunner Oh did they fix it?? 👀](https://twitter.com/branmcconnell/status/1835487856199979469)
+- [@branmcconnell: @ericdalessandro Ofc. I was that first awkward flashlight 5 rows back lol You played it off so well like it was part of the bit. I just wish I had it all recorded now 🤣](https://twitter.com/branmcconnell/status/1835487687832195363)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
