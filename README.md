@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [@branmcconnell: @XeZrunner Probably. I’ve been eyeing alternative multi-model clients, and now I have a reason to switch 🤷🏻‍♂️](https://twitter.com/branmcconnell/status/1835535766320984247)
-- [@branmcconnell: @Xhoni00 @phuctm97 @v0 @shadcn When you need to upgrade what? When you control the code, you control what changes, and you never run into breaking changes or overhead for a surplus of features you don’t need. You want to change something or refactor the entire API? You can 🤌🏼](https://twitter.com/branmcconnell/status/1835535245573022130)
-- [@branmcconnell: @leeerob @nextjs Weird. It was there &lpar;when focusing into the address bar&rpar;, but it works now! Looking good 🙌🏼](https://twitter.com/branmcconnell/status/1835534701739515935)
-- [@branmcconnell: @XeZrunner Oh did they fix it?? 👀](https://twitter.com/branmcconnell/status/1835487856199979469)
-- [@branmcconnell: @ericdalessandro Ofc. I was that first awkward flashlight 5 rows back lol You played it off so well like it was part of the bit. I just wish I had it all recorded now 🤣](https://twitter.com/branmcconnell/status/1835487687832195363)
+- [@branmcconnell: Also, is there any feature/spec in the works to more easily implement UI patterns like a carousel natively?](https://twitter.com/branmcconnell/status/1836942568824705477)
+- [@branmcconnell: @marckohlbrugge @adamwathan One key difference is that AVP-like devices support a sort of hover state—when you look at something before clicking it—where traditional touch devices do not.](https://twitter.com/branmcconnell/status/1836901666538291480)
+- [@branmcconnell: @robpalmer2 Couldn’t parameter properties be replaced with whitespace too?](https://twitter.com/branmcconnell/status/1836900714208997379)
+- [@branmcconnell: @adamwathan Could we also get hover-touch: and hover-pointer variants to granularity control which hover effects work when? Or hover-pointer the default as hover, and optionally expose hover-all if you also want to match hover on touch devices? Is this already the default behavior in v4?](https://twitter.com/branmcconnell/status/1836879064147116289)
+- [@branmcconnell: @bramus @argyleink Ah okay! Will do 😁](https://twitter.com/branmcconnell/status/1836844196659147241)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
