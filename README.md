@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @gripper3099 @lyeuhm @8810cfw Not sure what you mean. I buy the latest iPhone every year from AT&amp;T. Just received my new iPhone 16 Pro.](https://twitter.com/branmcconnell/status/1837483460966957468)
+- [@branmcconnell: @lyeuhm @8810cfw I would definitely love if it didn’t do it 🤦🏻‍♂️ I brought it Apple to fix that twice and both times they had me factory reset, but it still happens. This has persisted over the past ~8 iPhones I’ve had 🤷🏻‍♂️](https://twitter.com/branmcconnell/status/1837292063475343682)
 - [@branmcconnell: Also, is there any feature/spec in the works to more easily implement UI patterns like a carousel natively?](https://twitter.com/branmcconnell/status/1836942568824705477)
 - [@branmcconnell: @marckohlbrugge @adamwathan One key difference is that AVP-like devices support a sort of hover state—when you look at something before clicking it—where traditional touch devices do not.](https://twitter.com/branmcconnell/status/1836901666538291480)
 - [@branmcconnell: @robpalmer2 Couldn’t parameter properties be replaced with whitespace too?](https://twitter.com/branmcconnell/status/1836900714208997379)
-- [@branmcconnell: @adamwathan Could we also get hover-touch: and hover-pointer variants to granularity control which hover effects work when? Or hover-pointer the default as hover, and optionally expose hover-all if you also want to match hover on touch devices? Is this already the default behavior in v4?](https://twitter.com/branmcconnell/status/1836879064147116289)
-- [@branmcconnell: @bramus @argyleink Ah okay! Will do 😁](https://twitter.com/branmcconnell/status/1836844196659147241)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
