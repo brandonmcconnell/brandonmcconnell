@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: We wouldn’t be in nearly as good of shape as we are without plenty of support from friends and family. We’re thankful to God, our family, and our friends for helping us get through this. Thank you to everyone who has supported us or kept us in prayer recently. 🙏🏼](https://twitter.com/branmcconnell/status/1837974577894269418)
+- [@branmcconnell: @adamwathan What would your ideal usage API be?](https://twitter.com/branmcconnell/status/1837918138853171546)
 - [@branmcconnell: @looknowires What adapter are you using to connect it? I tried plugging my iPhone directly into my ethernet-equipped docking station to no avail lol](https://twitter.com/branmcconnell/status/1837800915446690089)
 - [@branmcconnell: @DThompsonDev I’ve been using one like this for a few months now and 100% recommend](https://twitter.com/branmcconnell/status/1837647315022008720)
 - [@branmcconnell: @gripper3099 @lyeuhm @8810cfw Not sure what you mean. I buy the latest iPhone every year from AT&amp;T. Just received my new iPhone 16 Pro.](https://twitter.com/branmcconnell/status/1837483460966957468)
-- [@branmcconnell: @lyeuhm @8810cfw I would definitely love if it didn’t do it 🤦🏻‍♂️ I brought it Apple to fix that twice and both times they had me factory reset, but it still happens. This has persisted over the past ~8 iPhones I’ve had 🤷🏻‍♂️](https://twitter.com/branmcconnell/status/1837292063475343682)
-- [@branmcconnell: Also, is there any feature/spec in the works to more easily implement UI patterns like a carousel natively?](https://twitter.com/branmcconnell/status/1836942568824705477)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
