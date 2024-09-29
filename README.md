@@ -53,7 +53,7 @@
 ### My latest tweets
 <!-- TWITTER:START -->
 - [@branmcconnell: We wouldn’t be in nearly as good of shape as we are without plenty of support from friends and family. We’re thankful to God, our family, and our friends for helping us get through this. Thank you to everyone who has supported us or kept us in prayer recently. 🙏🏼](https://twitter.com/branmcconnell/status/1837974577894269418)
-- [@branmcconnell: Elena Jane ♡ Joined the dad club this past week, and my wife and I are finally home and recovering.We are so in love with our daughter and this new season; we can hardly believe she’s finally here.What a wild ride so far. I need your best parenting tips!ridtin](https://twitter.com/branmcconnell/status/1837974567153029167)
+- [@branmcconnell: Elena Jane ♡ Joined the dad club this past week, and my wife and I are finally home and recovering. We are so in love with our daughter and this new season; we can hardly believe she’s finally here. What a wild ride so far. I need your best parenting tips!ridtin](https://twitter.com/branmcconnell/status/1837974567153029167)
 - [@branmcconnell: @adamwathan What would your ideal usage API be?](https://twitter.com/branmcconnell/status/1837918138853171546)
 - [@branmcconnell: @looknowires What adapter are you using to connect it? I tried plugging my iPhone directly into my ethernet-equipped docking station to no avail lol](https://twitter.com/branmcconnell/status/1837800915446690089)
 - [@branmcconnell: @DThompsonDev I’ve been using one like this for a few months now and 100% recommend](https://twitter.com/branmcconnell/status/1837647315022008720)
