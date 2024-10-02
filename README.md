@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [@branmcconnell: We wouldn’t be in nearly as good of shape as we are without plenty of support from friends and family. We’re thankful to God, our family, and our friends for helping us get through this. Thank you to everyone who has supported us or kept us in prayer recently. 🙏🏼](https://twitter.com/branmcconnell/status/1837974577894269418)
-- [@branmcconnell: Elena Jane ♡ Joined the dad club this past week, and my wife and I are finally home and recovering. We are so in love with our daughter and this new season; we can hardly believe she’s finally here. What a wild ride so far. I need your best parenting tips!ridtin](https://twitter.com/branmcconnell/status/1837974567153029167)
-- [@branmcconnell: @adamwathan What would your ideal usage API be?](https://twitter.com/branmcconnell/status/1837918138853171546)
-- [@branmcconnell: @looknowires What adapter are you using to connect it? I tried plugging my iPhone directly into my ethernet-equipped docking station to no avail lol](https://twitter.com/branmcconnell/status/1837800915446690089)
-- [@branmcconnell: @DThompsonDev I’ve been using one like this for a few months now and 100% recommend](https://twitter.com/branmcconnell/status/1837647315022008720)
+- [@branmcconnell: @adamwathan @bramus @argyleink @Una @container @tabatkins @adamwathan One more question here— would the behavior be different when using the scheme utility &lpar;`color-scheme` property&rpar; directly vs. the container query version `--color-scheme`? If I apply the class-string `dark dark:block` to an element, the `dark` applies to the same](https://twitter.com/branmcconnell/status/1841357107544662189)
+- [@branmcconnell: @BENF4CE @adamwathan I’m not at my computer right now to validate this, but it’s something like that 😪](https://twitter.com/branmcconnell/status/1841270473415430166)
+- [@branmcconnell: @adamwathan I’ve started adding this to all of my resets. I think someone gave me a viable reason not to at one point, but I can’t remember it now and usually include it anyway 😅](https://twitter.com/branmcconnell/status/1841269854247985175)
+- [@branmcconnell: @aarondfrancis Just in time for my bday lol 🥵💦](https://twitter.com/branmcconnell/status/1841218107324711059)
+- [@branmcconnell: @aarondfrancis Eagerly awaiting  🙌🏼](https://twitter.com/branmcconnell/status/1841216868679348629)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
