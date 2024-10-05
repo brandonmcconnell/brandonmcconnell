@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [@branmcconnell: @fabianarbor Sauce](https://twitter.com/branmcconnell/status/1841712941025894507)
-- [@branmcconnell: @josephpalbanese I would love an API version of this, and even a plain URL params version of this possibly 👀](https://twitter.com/branmcconnell/status/1841709676192530918)
-- [@branmcconnell: @mattpocockuk Am I dreaming? How long has `crypto` been available?](https://twitter.com/branmcconnell/status/1841603465514008765)
-- [@branmcconnell: @adamwathan @bramus @argyleink @Una @container @tabatkins @adamwathan One more question here— would the behavior be different when using the scheme utility &lpar;`color-scheme` property&rpar; directly vs. the container query version `--color-scheme`? If I apply the class-string `dark dark:block` to an element, the `dark` applies to the same](https://twitter.com/branmcconnell/status/1841357107544662189)
-- [@branmcconnell: @BENF4CE @adamwathan I’m not at my computer right now to validate this, but it’s something like that 😪](https://twitter.com/branmcconnell/status/1841270473415430166)
+- [@branmcconnell: @alexmahan @holman Is it on Vue?](https://twitter.com/branmcconnell/status/1842331630033117359)
+- [@branmcconnell: @mattpocockuk Wow. TIL Is there no way to opt into this deno-like like behavior in node?](https://twitter.com/branmcconnell/status/1842282837992432102)
+- [@branmcconnell: @adamwathan Fair enough! Fortunately, the changelogs have been awesome, and I feel pretty confident about upgrading. Probably safest to upgrade my personal site for now and my team’s app once I’m back. I may do that next week. Something to keep me sharp on paternity leave. 😄](https://twitter.com/branmcconnell/status/1842273224027193600)
+- [@branmcconnell: @k_grajeda …although your spring plugin is dope too so I guess you’ve already been in this game awhile 😉](https://twitter.com/branmcconnell/status/1842218113741340819)
+- [@branmcconnell: @natebirdman I’m digging this. Is it compatible with Tailwind?](https://twitter.com/branmcconnell/status/1842199445019984118)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
