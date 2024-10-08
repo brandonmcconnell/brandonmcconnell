@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [@branmcconnell: @adamwathan @k_grajeda So nice that it&#39;s making think I probably need to create a website just for my plugins too 😅](https://twitter.com/branmcconnell/status/1842704619174060320)
-- [@branmcconnell: @alexmahan @holman Is it on Vue?](https://twitter.com/branmcconnell/status/1842331630033117359)
-- [@branmcconnell: @mattpocockuk Wow. TIL Is there no way to opt into this deno-like like behavior in node?](https://twitter.com/branmcconnell/status/1842282837992432102)
-- [@branmcconnell: @adamwathan Fair enough! Fortunately, the changelogs have been awesome, and I feel pretty confident about upgrading. Probably safest to upgrade my personal site for now and my team’s app once I’m back. I may do that next week. Something to keep me sharp on paternity leave. 😄](https://twitter.com/branmcconnell/status/1842273224027193600)
-- [@branmcconnell: @k_grajeda …although your spring plugin is dope too so I guess you’ve already been in this game awhile 😉](https://twitter.com/branmcconnell/status/1842218113741340819)
+- [@branmcconnell: @k_grajeda @romboHQ This looks so good 🤩 In a couple of years, you could totally ditch `--delay` for some internal tooling around `sibling-index&lpar;&rpar;`  Something like `motion-delay-nth-[100*n]`](https://twitter.com/branmcconnell/status/1843436102826258687)
+- [@branmcconnell: @k_grajeda @adamwathan no promises it’ll be even half nice as yours though 🤣 that’ll be hard to compete with 🙌🏼](https://twitter.com/branmcconnell/status/1843434124385878301)
+- [@branmcconnell: @robpalmer2 Got it! Thanks This community event was awesome btw. I really loved hearing about all the new Intl stuff coming soon 🔥](https://twitter.com/branmcconnell/status/1843348779833143415)
+- [@branmcconnell: @LeaVerou Is the select expanded by default when using it this way? Can we style the options to look more like buttons then? 👀](https://twitter.com/branmcconnell/status/1843320391072464983)
+- [@branmcconnell: @dan_abramov2 What would it take to “actually” fix controlled inputs?](https://twitter.com/branmcconnell/status/1843012563648536846)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
