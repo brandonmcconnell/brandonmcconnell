@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @jacobmparis I can’t deny that the lucide icons look great though 😩👌🏼](https://twitter.com/branmcconnell/status/1843687954574913952)
 - [@branmcconnell: @devagrawal09 @stolinski and classes themselves are basically syntactic sugar for functions via prototypal inheritance 😄](https://twitter.com/branmcconnell/status/1843536171105714335)
 - [@branmcconnell: @stolinski This looks slick 🔥 Would it be useful to make the status and error_message private or exposed as getters similar to the right side? Not sure if they’d technically be explicitly settable as is. Maybe that’s a value-add 🤷🏻‍♂️ let form = new AuthForm&lpar;&rpar;; form.status = &quot;ERROR&quot;;](https://twitter.com/branmcconnell/status/1843534897006424118)
 - [@branmcconnell: @k_grajeda @romboHQ This looks so good 🤩 In a couple of years, you could totally ditch `--delay` for some internal tooling around `sibling-index&lpar;&rpar;`  Something like `motion-delay-nth-[100*n]`](https://twitter.com/branmcconnell/status/1843436102826258687)
 - [@branmcconnell: @k_grajeda @adamwathan no promises it’ll be even half nice as yours though 🤣 that’ll be hard to compete with 🙌🏼](https://twitter.com/branmcconnell/status/1843434124385878301)
-- [@branmcconnell: @robpalmer2 Got it! Thanks This community event was awesome btw. I really loved hearing about all the new Intl stuff coming soon 🔥](https://twitter.com/branmcconnell/status/1843348779833143415)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
