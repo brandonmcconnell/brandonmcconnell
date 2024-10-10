@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @robpalmer2 @rbuckton](https://twitter.com/branmcconnell/status/1844385770809024547)
+- [@branmcconnell: @shvr93 @robpalmer2 @rbuckton @TC39 @drosenwasser @ljharb @mpcsh_ @rkirsling @tabatkins This could potentially make it less complicated BEFORE &lpar;&lpar;fullObj&rpar; =&gt; { const { propA } = fullObj; // … }&rpar; AFTER &lpar;&lpar;fullObj &amp; { propA }&rpar; =&gt; { // … }&rpar; — This would be especially useful in templating syntaxes, where you](https://twitter.com/branmcconnell/status/1844139319520317920)
+- [@branmcconnell: @jacobmparis @rauchg @shadcn who are we kidding… @shadcn prob runs that too](https://twitter.com/branmcconnell/status/1844011965355810861)
 - [@branmcconnell: @rauchg @shadcn You want to know as bad as us??](https://twitter.com/branmcconnell/status/1843908879417270406)
 - [@branmcconnell: @robpalmer2 @rbuckton @TC39 @rbuckton would the below be possible with extractors? const x &amp; { a } = something; — or — &lpar;&lpar;fullObj &amp; { propA }&rpar; =&gt; &lpar;…&rpar;&rpar; …or would this sort of destructuring rely on pattern matching, cc @drosenwasser @ljharb @mpcsh_ @rkirsling @tabatkins](https://twitter.com/branmcconnell/status/1843886624259874941)
-- [@branmcconnell: @jacobmparis I can’t deny that the lucide icons look great though 😩👌🏼](https://twitter.com/branmcconnell/status/1843687954574913952)
-- [@branmcconnell: @devagrawal09 @stolinski and classes themselves are basically syntactic sugar for functions via prototypal inheritance 😄](https://twitter.com/branmcconnell/status/1843536171105714335)
-- [@branmcconnell: @stolinski This looks slick 🔥 Would it be useful to make the status and error_message private or exposed as getters similar to the right side? Not sure if they’d technically be explicitly settable as is. Maybe that’s a value-add 🤷🏻‍♂️ let form = new AuthForm&lpar;&rpar;; form.status = &quot;ERROR&quot;;](https://twitter.com/branmcconnell/status/1843534897006424118)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
