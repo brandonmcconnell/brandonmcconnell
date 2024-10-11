@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @AlPalVipond @vuejs Ah yeah, probably wouldn’t work for portals following that traditional pattern Really hope WHATWG adds some form of DOM-respecting &lt;portal&gt; at some point that we can pass variables through Closest open issue I can find:](https://twitter.com/branmcconnell/status/1844576748437950823)
+- [@branmcconnell: @AlPalVipond @vuejs We may be able to create numeric strings using random&lpar;&rpar; at a higher scope and then assign those those the same way you are here](https://twitter.com/branmcconnell/status/1844564849931505728)
+- [@branmcconnell: @astrodotbuild @sveltejs @SvelteSociety I would love to see this hit svelte 👀](https://twitter.com/branmcconnell/status/1844557395378286884)
 - [@branmcconnell: @robpalmer2 @rbuckton](https://twitter.com/branmcconnell/status/1844385770809024547)
 - [@branmcconnell: @shvr93 @robpalmer2 @rbuckton @TC39 @drosenwasser @ljharb @mpcsh_ @rkirsling @tabatkins This could potentially make it less complicated BEFORE &lpar;&lpar;fullObj&rpar; =&gt; { const { propA } = fullObj; // … }&rpar; AFTER &lpar;&lpar;fullObj &amp; { propA }&rpar; =&gt; { // … }&rpar; — This would be especially useful in templating syntaxes, where you](https://twitter.com/branmcconnell/status/1844139319520317920)
-- [@branmcconnell: @jacobmparis @rauchg @shadcn who are we kidding… @shadcn prob runs that too](https://twitter.com/branmcconnell/status/1844011965355810861)
-- [@branmcconnell: @rauchg @shadcn You want to know as bad as us??](https://twitter.com/branmcconnell/status/1843908879417270406)
-- [@branmcconnell: @robpalmer2 @rbuckton @TC39 @rbuckton would the below be possible with extractors? const x &amp; { a } = something; — or — &lpar;&lpar;fullObj &amp; { propA }&rpar; =&gt; &lpar;…&rpar;&rpar; …or would this sort of destructuring rely on pattern matching, cc @drosenwasser @ljharb @mpcsh_ @rkirsling @tabatkins](https://twitter.com/branmcconnell/status/1843886624259874941)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
