@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @WebReflection @LeaVerou @MozDevNet Out of curiosity, to @LeaVerou’s point, have you tried submitting this PR to core-js, which would then trickle into MDN? I can understand your frustration here, but if they’ve built up trust in one library, contributing your findings to that repo seems like a great solution.](https://twitter.com/branmcconnell/status/1845093160516481310)
 - [@branmcconnell: @AlPalVipond @vuejs Ah yeah, probably wouldn’t work for portals following that traditional pattern Really hope WHATWG adds some form of DOM-respecting &lt;portal&gt; at some point that we can pass variables through Closest open issue I can find:](https://twitter.com/branmcconnell/status/1844576748437950823)
 - [@branmcconnell: @AlPalVipond @vuejs We may be able to create numeric strings using random&lpar;&rpar; at a higher scope and then assign those those the same way you are here](https://twitter.com/branmcconnell/status/1844564849931505728)
 - [@branmcconnell: @astrodotbuild @sveltejs @SvelteSociety I would love to see this hit svelte 👀](https://twitter.com/branmcconnell/status/1844557395378286884)
 - [@branmcconnell: @robpalmer2 @rbuckton](https://twitter.com/branmcconnell/status/1844385770809024547)
-- [@branmcconnell: @shvr93 @robpalmer2 @rbuckton @TC39 @drosenwasser @ljharb @mpcsh_ @rkirsling @tabatkins This could potentially make it less complicated BEFORE &lpar;&lpar;fullObj&rpar; =&gt; { const { propA } = fullObj; // … }&rpar; AFTER &lpar;&lpar;fullObj &amp; { propA }&rpar; =&gt; { // … }&rpar; — This would be especially useful in templating syntaxes, where you](https://twitter.com/branmcconnell/status/1844139319520317920)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
