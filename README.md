@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @aarondfrancis @xata I went ahead and purchased this as well as your SQLite course. Starting with Postgres, but I’m looking forward to taking both and learning their nuances. Congrats on the launch 🎉](https://twitter.com/branmcconnell/status/1847089066996912175)
+- [@branmcconnell: @LeaVerou afaik— cyan is electric blue moving blue and green but without any green in it, itself. teal is between cyan and green.](https://twitter.com/branmcconnell/status/1846677237594030331)
+- [@branmcconnell: @argyleink @DanHollick @adamwathan @Media Just the gamut fallbacks, which appear to be supported by most browsers by default according to @DanHollick — thanks for the extra context!](https://twitter.com/branmcconnell/status/1846654417321578653)
+- [@branmcconnell: @DanHollick @adamwathan @argyleink @Media Awesome. Will all of the colors in the TW palette fall back when unsupported? That’d be super useful](https://twitter.com/branmcconnell/status/1846648382452126098)
 - [@branmcconnell: @adamwathan Ever since I saw this tweet, I’ve been getting ads for the new Orbi 970 Series Wi-Fi 7 system, which appears to meet the criteria you mentioned.  Mesh Quad-Band 6,000 ft² 27 Gbps Dedicated backhaul Wi-Fi 7 200 simultaneous devices 10G ethernet port](https://twitter.com/branmcconnell/status/1846178742969696405)
-- [@branmcconnell: @sdw Personally, the left. It’s not objectively better, but it feels a bit more processed, bright, and warm. The photo on the right feels more raw and realistic.](https://twitter.com/branmcconnell/status/1845918420337897867)
-- [@branmcconnell: @WebReflection @LeaVerou @MozDevNet Out of curiosity, to @LeaVerou’s point, have you tried submitting this PR to core-js, which would then trickle into MDN? I can understand your frustration here, but if they’ve built up trust in one library, contributing your findings to that repo seems like a great solution.](https://twitter.com/branmcconnell/status/1845093160516481310)
-- [@branmcconnell: @AlPalVipond @vuejs Ah yeah, probably wouldn’t work for portals following that traditional pattern Really hope WHATWG adds some form of DOM-respecting &lt;portal&gt; at some point that we can pass variables through Closest open issue I can find:](https://twitter.com/branmcconnell/status/1844576748437950823)
-- [@branmcconnell: @AlPalVipond @vuejs We may be able to create numeric strings using random&lpar;&rpar; at a higher scope and then assign those those the same way you are here](https://twitter.com/branmcconnell/status/1844564849931505728)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
