@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [@branmcconnell: @aarondfrancis @xata I went ahead and purchased this as well as your SQLite course. Starting with Postgres, but I’m looking forward to taking both and learning their nuances. Congrats on the launch 🎉](https://twitter.com/branmcconnell/status/1847089066996912175)
-- [@branmcconnell: @LeaVerou afaik— cyan is electric blue moving blue and green but without any green in it, itself. teal is between cyan and green.](https://twitter.com/branmcconnell/status/1846677237594030331)
-- [@branmcconnell: @argyleink @DanHollick @adamwathan @Media Just the gamut fallbacks, which appear to be supported by most browsers by default according to @DanHollick — thanks for the extra context!](https://twitter.com/branmcconnell/status/1846654417321578653)
-- [@branmcconnell: @DanHollick @adamwathan @argyleink @Media Awesome. Will all of the colors in the TW palette fall back when unsupported? That’d be super useful](https://twitter.com/branmcconnell/status/1846648382452126098)
-- [@branmcconnell: @adamwathan Ever since I saw this tweet, I’ve been getting ads for the new Orbi 970 Series Wi-Fi 7 system, which appears to meet the criteria you mentioned.  Mesh Quad-Band 6,000 ft² 27 Gbps Dedicated backhaul Wi-Fi 7 200 simultaneous devices 10G ethernet port](https://twitter.com/branmcconnell/status/1846178742969696405)
+- [@branmcconnell: @NanouuSymeon Happily loving the married &amp; parent life! 😁](https://twitter.com/branmcconnell/status/1848108277415981412)
+- [@branmcconnell: @shadcn Can we control the collapsed state via a boolean prop like `collapsed`? That way, we can trigger collapsing/expanding from other components using global state.](https://twitter.com/branmcconnell/status/1847670988751650965)
+- [@branmcconnell: @rabois @mattsilv @cory Please do clarify if I’ve misunderstood your argument here. Not trying to heckle. 😉](https://twitter.com/branmcconnell/status/1847459920766972031)
+- [@branmcconnell: @SaxeMauricede @adamwathan Of course. This would be intentionally to avoid the brackets for simpler cases like this.](https://twitter.com/branmcconnell/status/1847397523842805882)
+- [@branmcconnell: @KaneJamison @adamwathan Exactly this ☝🏼](https://twitter.com/branmcconnell/status/1847372889609425288)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
