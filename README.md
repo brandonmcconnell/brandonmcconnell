@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @adamwathan For a sec, I thought you wrote scones, and I got really excited about your new pastry wall](https://twitter.com/branmcconnell/status/1848780027867107634)
+- [@branmcconnell: @webkit How would instantiate a new horizontal masonry layout using the New Masonry Layout? Is there another property to simply change the direction? At that point, both options yield the same amount of properties required.](https://twitter.com/branmcconnell/status/1848440281583992948)
+- [@branmcconnell: @mattpocockuk @tannerlinsley One of the most interesting talks I’ve watched in a while. Can’t wait to dive into TanStack Start soon. Incredible job on this framework &lpar;and talk&rpar; @tannerlinsley! Any chance you have a TanStack Start + @supabase template in the works on Vercel? 👀 &lpar;cc @kiwicopple&rpar;](https://twitter.com/branmcconnell/status/1848243776038355369)
 - [@branmcconnell: @NanouuSymeon Happily loving the married &amp; parent life! 😁](https://twitter.com/branmcconnell/status/1848108277415981412)
 - [@branmcconnell: @shadcn Can we control the collapsed state via a boolean prop like `collapsed`? That way, we can trigger collapsing/expanding from other components using global state.](https://twitter.com/branmcconnell/status/1847670988751650965)
-- [@branmcconnell: @rabois @mattsilv @cory Please do clarify if I’ve misunderstood your argument here. Not trying to heckle. 😉](https://twitter.com/branmcconnell/status/1847459920766972031)
-- [@branmcconnell: @SaxeMauricede @adamwathan Of course. This would be intentionally to avoid the brackets for simpler cases like this.](https://twitter.com/branmcconnell/status/1847397523842805882)
-- [@branmcconnell: @KaneJamison @adamwathan Exactly this ☝🏼](https://twitter.com/branmcconnell/status/1847372889609425288)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
