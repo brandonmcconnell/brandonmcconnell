@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [@branmcconnell: @adamwathan For a sec, I thought you wrote scones, and I got really excited about your new pastry wall](https://twitter.com/branmcconnell/status/1848780027867107634)
-- [@branmcconnell: @webkit How would instantiate a new horizontal masonry layout using the New Masonry Layout? Is there another property to simply change the direction? At that point, both options yield the same amount of properties required.](https://twitter.com/branmcconnell/status/1848440281583992948)
-- [@branmcconnell: @mattpocockuk @tannerlinsley One of the most interesting talks I’ve watched in a while. Can’t wait to dive into TanStack Start soon. Incredible job on this framework &lpar;and talk&rpar; @tannerlinsley! Any chance you have a TanStack Start + @supabase template in the works on Vercel? 👀 &lpar;cc @kiwicopple&rpar;](https://twitter.com/branmcconnell/status/1848243776038355369)
-- [@branmcconnell: @NanouuSymeon Happily loving the married &amp; parent life! 😁](https://twitter.com/branmcconnell/status/1848108277415981412)
-- [@branmcconnell: @shadcn Can we control the collapsed state via a boolean prop like `collapsed`? That way, we can trigger collapsing/expanding from other components using global state.](https://twitter.com/branmcconnell/status/1847670988751650965)
+- [@branmcconnell: First look at some of the awesome Tailwind CSS code mod stuff the Tailwind Labs team has been cooking up 👀](https://twitter.com/branmcconnell/status/1849888874979295587)
+- [@branmcconnell: @mazewinther1 @adamwathan Oh and the quotes shown in the images attached to that tweet thread are no longer necessary in like 90% of cases. So you could just do sm:max-lg:multi-[flex;items-end;gap-4;border]](https://twitter.com/branmcconnell/status/1849865891166756946)
+- [@branmcconnell: @davidwebca @adamwathan fwiw the quotes in the screenshots are no longer required for like 90%+ of cases. Notes in the repo](https://twitter.com/branmcconnell/status/1849864866301083998)
+- [@branmcconnell: @PatricioOnCode @adamwathan Check out my Multi plugin that does exactly this, with slightly longer syntax 😜](https://twitter.com/branmcconnell/status/1849864573375090767)
+- [@branmcconnell: @mazewinther1 @adamwathan In the meantime, you can use my Multi plugin that does exactly this, with slightly longer syntax 😜](https://twitter.com/branmcconnell/status/1849864485827395889)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
