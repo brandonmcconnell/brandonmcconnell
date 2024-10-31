@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @BrettFromDJ 90](https://twitter.com/branmcconnell/status/1851869142791434466)
 - [@branmcconnell: This is an absolute game changer 🔥 Possibly the coolest animation-related work to ever hit the Tailwind CSS scene](https://twitter.com/branmcconnell/status/1851261326758129857)
 - [@branmcconnell: @joshm @browsercompany Love where this is going for friends &amp; family 😁 Is there an option for power users that would enable us to make use of Arc’s great features but with top tabs? I dig a lot about Arc, and I’ve tried switching like three times, but the sidebar of tabs keeps doing me in](https://twitter.com/branmcconnell/status/1849946368304922714)
 - [@branmcconnell: First look at some of the awesome Tailwind CSS code mod stuff the Tailwind Labs team has been cooking up 👀](https://twitter.com/branmcconnell/status/1849888874979295587)
 - [@branmcconnell: @mazewinther1 @adamwathan Oh and the quotes shown in the images attached to that tweet thread are no longer necessary in like 90% of cases. So you could just do sm:max-lg:multi-[flex;items-end;gap-4;border]](https://twitter.com/branmcconnell/status/1849865891166756946)
-- [@branmcconnell: @davidwebca @adamwathan fwiw the quotes in the screenshots are no longer required for like 90%+ of cases. Notes in the repo](https://twitter.com/branmcconnell/status/1849864866301083998)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
