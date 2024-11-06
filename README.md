@@ -55,7 +55,7 @@
 - [@branmcconnell: @_anniebabannie_ Sailwind 😋 so good 🔥](https://twitter.com/branmcconnell/status/1853960523554926674)
 - [@branmcconnell: @_anniebabannie_ * I’ve gotta see one for tailwind 👀](https://twitter.com/branmcconnell/status/1853895813069418877)
 - [@branmcconnell: @argyleink Can you make them repeat infinitely without JS? As in, go from last to first?](https://twitter.com/branmcconnell/status/1853865573949874588)
-- [@shadcn: RT @shadcn: 🎉 shadcn/ui is now fully compatible with React 19 &lpar;and Next.js 15&rpar;.](https://twitter.com/shadcn/status/1852989121519816740)
+- [@shadcn: 🎉 shadcn/ui is now fully compatible with React 19 &lpar;and Next.js 15&rpar;.](https://twitter.com/shadcn/status/1852989121519816740)
 - [@branmcconnell: @levelsio @adamwathan 100% this](https://twitter.com/branmcconnell/status/1852167214192845065)
 <!-- TWITTER:END -->
 
