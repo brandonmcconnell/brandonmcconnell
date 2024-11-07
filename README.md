@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @adamwathan Related issue:  The verdict so far has been that table borders are a bit removed from the usual DOM flow and have strange side effects like this. Related bug reports: – Chrome/Blink:  – Firefox/Gecko:  –](https://twitter.com/branmcconnell/status/1854597728569115016)
 - [@branmcconnell: @Levidjones @soren_iverson Congrats man! You deserve it](https://twitter.com/branmcconnell/status/1854595311995429093)
 - [@branmcconnell: @shadcn @theo Curious what your best-practice recommendations would be now that Next.js 15 and React 19 are both stable now? Are those latest versions included in `create t3-app@latest`? Would you still opt for PNPM over Bun re the compact issues with Drizzle, or are those mostly](https://twitter.com/branmcconnell/status/1854578470623625592)
 - [@branmcconnell: @adamwathan I do exactly this one of my plugins. Love it. 👏🏼](https://twitter.com/branmcconnell/status/1854567535649169489)
 - [@branmcconnell: @equinusocio @argyleink That’d be great so we can finally have working news ticker-style components again 🥳](https://twitter.com/branmcconnell/status/1854528675556835529)
-- [@branmcconnell: @raycastapp How’s markdown support?](https://twitter.com/branmcconnell/status/1854253127668498672)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
