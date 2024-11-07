@@ -56,7 +56,7 @@
 - [@branmcconnell: @adamwathan I do exactly this one of my plugins. Love it. 👏🏼](https://twitter.com/branmcconnell/status/1854567535649169489)
 - [@branmcconnell: @equinusocio @argyleink That’d be great so we can finally have working news ticker-style components again 🥳](https://twitter.com/branmcconnell/status/1854528675556835529)
 - [@branmcconnell: @raycastapp How’s markdown support?](https://twitter.com/branmcconnell/status/1854253127668498672)
-- [@branmcconnell: @_anniebabannie_ Sailwind 😋 so good 🔥](https://twitter.com/branmcconnell/status/1853960523554926674)
+- [@branmcconnell: @_anniebabannie_ Sailwind ���� so good 🔥](https://twitter.com/branmcconnell/status/1853960523554926674)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
