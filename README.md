@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @KorothArjun Great app though. I’ve had to use it plenty of times to support third-party monitor resolutions.](https://twitter.com/branmcconnell/status/1855033377000214913)
 - [@branmcconnell: @EmilTholin @CedricHolmgren So true ☝🏼 I used to make this mistake all the time with setTimeout](https://twitter.com/branmcconnell/status/1854998015523602771)
 - [@branmcconnell: @CedricHolmgren Ah nvm this explained it](https://twitter.com/branmcconnell/status/1854997558554509813)
 - [@branmcconnell: @jamonholmgren @CedricHolmgren Congrats man 🥹](https://twitter.com/branmcconnell/status/1854995620072747064)
 - [@branmcconnell: @wesbos @AMcClinchey or wish you happy birthday](https://twitter.com/branmcconnell/status/1854995490409992584)
-- [@branmcconnell: @LeaVerou oof been there too many times](https://twitter.com/branmcconnell/status/1854727644375318964)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
