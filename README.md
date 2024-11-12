@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @adamwathan Not ideal, but I believe using `:root, :root *` would work here until the issue @BENF4CE mentioned is patched](https://twitter.com/branmcconnell/status/1856246518614819016)
 - [@branmcconnell: @MatteoRigoni @joyofcodedev or p:has&lpar;img:only-child&rpar;](https://twitter.com/branmcconnell/status/1855969348021600588)
 - [@branmcconnell: @dmarksbarber @adamwathan what if you enable the forms plugin by default with the ability to opt out?](https://twitter.com/branmcconnell/status/1855321676331860427)
 - [@branmcconnell: @KorothArjun Great app though. I’ve had to use it plenty of times to support third-party monitor resolutions.](https://twitter.com/branmcconnell/status/1855033377000214913)
 - [@branmcconnell: @EmilTholin @CedricHolmgren So true ☝🏼 I used to make this mistake all the time with setTimeout](https://twitter.com/branmcconnell/status/1854998015523602771)
-- [@branmcconnell: @CedricHolmgren Ah nvm this explained it](https://twitter.com/branmcconnell/status/1854997558554509813)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
