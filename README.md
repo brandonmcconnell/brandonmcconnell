@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @Amtrak Any ETA for when we’ll see service to the Sunset Limited service restored? I’d love to make it from Miami to Los Angeles without going all the way up to Chicago 🙏🏼](https://twitter.com/branmcconnell/status/1859198548434100281)
+- [@branmcconnell: @terminaldotshop jagterm. I dig.](https://twitter.com/branmcconnell/status/1859197928990028026)
 - [@branmcconnell: @mrtechsense @CommunityNotes ☝🏼](https://twitter.com/branmcconnell/status/1858911414523502903)
 - [@branmcconnell: @CodeBanger @shadcn @vite_js psst @ryanflorence ☝🏼](https://twitter.com/branmcconnell/status/1858784188427555286)
 - [@branmcconnell: @adamwathan Not ideal, but I believe using `:root, :root *` would work here until the issue @BENF4CE mentioned is patched](https://twitter.com/branmcconnell/status/1856246518614819016)
-- [@branmcconnell: @MatteoRigoni @joyofcodedev or p:has&lpar;img:only-child&rpar;](https://twitter.com/branmcconnell/status/1855969348021600588)
-- [@branmcconnell: @dmarksbarber @adamwathan what if you enable the forms plugin by default with the ability to opt out?](https://twitter.com/branmcconnell/status/1855321676331860427)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
