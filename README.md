@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @perplexity_ai Awesome. What happens if it buys something from a scam website?](https://twitter.com/branmcconnell/status/1859222272591970335)
+- [@branmcconnell: @CostaKapo @brianbeers Cancel and buy a Tesla](https://twitter.com/branmcconnell/status/1859220193060229399)
+- [@branmcconnell: @payloadcms @nextjs @DrizzleORM @prisma oh and any way to integrate it with @supabase to keep all our data in one place?](https://twitter.com/branmcconnell/status/1859219450781667394)
 - [@branmcconnell: @Amtrak Any ETA for when we’ll see service to the Sunset Limited service restored? I’d love to make it from Miami to Los Angeles without going all the way up to Chicago 🙏🏼](https://twitter.com/branmcconnell/status/1859198548434100281)
 - [@branmcconnell: @terminaldotshop jagterm. I dig.](https://twitter.com/branmcconnell/status/1859197928990028026)
-- [@branmcconnell: @mrtechsense @CommunityNotes ☝🏼](https://twitter.com/branmcconnell/status/1858911414523502903)
-- [@branmcconnell: @CodeBanger @shadcn @vite_js psst @ryanflorence ☝🏼](https://twitter.com/branmcconnell/status/1858784188427555286)
-- [@branmcconnell: @adamwathan Not ideal, but I believe using `:root, :root *` would work here until the issue @BENF4CE mentioned is patched](https://twitter.com/branmcconnell/status/1856246518614819016)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
