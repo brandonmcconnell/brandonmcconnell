@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @peterValadez @payloadcms @nextjs @DrizzleORM @prisma @supabase Dang y’all really pulled all the stops!](https://twitter.com/branmcconnell/status/1859418716066177177)
 - [@branmcconnell: @DrizzleORM @payloadcms @nextjs @prisma 🙌🏼](https://twitter.com/branmcconnell/status/1859307085273637130)
 - [@branmcconnell: @perplexity_ai Awesome. What happens if it buys something from a scam website?](https://twitter.com/branmcconnell/status/1859222272591970335)
 - [@branmcconnell: @CostaKapo @brianbeers Cancel and buy a Tesla](https://twitter.com/branmcconnell/status/1859220193060229399)
 - [@branmcconnell: @payloadcms @nextjs @DrizzleORM @prisma oh and any way to integrate it with @supabase to keep all our data in one place?](https://twitter.com/branmcconnell/status/1859219450781667394)
-- [@branmcconnell: @Amtrak Any ETA for when we’ll see service to the Sunset Limited service restored? I’d love to make it from Miami to Los Angeles without going all the way up to Chicago 🙏🏼](https://twitter.com/branmcconnell/status/1859198548434100281)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
