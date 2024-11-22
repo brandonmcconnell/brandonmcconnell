@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @v_pradeilles What lang is this?](https://twitter.com/branmcconnell/status/1860095184228470958)
+- [@branmcconnell: @levelsio This looks dope regardless but just fyi if you hadn’t seen that](https://twitter.com/branmcconnell/status/1860094739229573295)
+- [@branmcconnell: He’s also very fresh on X/Twitter, so his profile is all but empty, but I know he’d be down for a call with any company hiring remotely to demonstrate his knowledge 🙂](https://twitter.com/branmcconnell/status/1860094154271007012)
 - [@branmcconnell: @kentcdodds Oh wow! Not sure how I missed it. Congrats on all the sales so far!](https://twitter.com/branmcconnell/status/1859997761867026547)
 - [@branmcconnell: @adamwathan @joshmanders Which different classes did you have to use?](https://twitter.com/branmcconnell/status/1859997657579798858)
-- [@branmcconnell: @kentcdodds Is the early bird already sold out?](https://twitter.com/branmcconnell/status/1859782772958822753)
-- [@branmcconnell: @peterValadez @payloadcms @nextjs @DrizzleORM @prisma @supabase Dang y’all really pulled all the stops!](https://twitter.com/branmcconnell/status/1859418716066177177)
-- [@branmcconnell: @DrizzleORM @payloadcms @nextjs @prisma 🙌🏼](https://twitter.com/branmcconnell/status/1859307085273637130)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
