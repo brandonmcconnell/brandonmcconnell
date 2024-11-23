@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @cossssmin There’s a really good lightweight and dependency-less package I saw recently. I’ll try to dig it up.](https://twitter.com/branmcconnell/status/1860163682648621155)
 - [@branmcconnell: @v_pradeilles What lang is this?](https://twitter.com/branmcconnell/status/1860095184228470958)
 - [@branmcconnell: @levelsio This looks dope regardless but just fyi if you hadn’t seen that](https://twitter.com/branmcconnell/status/1860094739229573295)
 - [@branmcconnell: He’s also very fresh on X/Twitter, so his profile is all but empty, but I know he’d be down for a call with any company hiring remotely to demonstrate his knowledge 🙂](https://twitter.com/branmcconnell/status/1860094154271007012)
 - [@branmcconnell: A friend of mine, @lvke_j, spent the past year learning full-stack development, focused on React and Expo, after leaving food service to dive into tech full-time. He’s now looking for his first developer role. Luke is a hard worker and a fast learner. Any leads or recs? Thanks!](https://twitter.com/branmcconnell/status/1860093835969462491)
-- [@branmcconnell: @kentcdodds Oh wow! Not sure how I missed it. Congrats on all the sales so far!](https://twitter.com/branmcconnell/status/1859997761867026547)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
