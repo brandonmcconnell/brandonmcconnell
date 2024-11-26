@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @soubiran_ @wesbos @adamwathan Of course! Granted, I haven’t tried the one you shared, so I can’t compare from experience](https://twitter.com/branmcconnell/status/1861455818391957952)
+- [@branmcconnell: @wesbos @soubiran_ @adamwathan They both look great! Just fyi — the one I mentioned does both comments and template literals.](https://twitter.com/branmcconnell/status/1861449394551156764)
 - [@branmcconnell: @adamwathan Supports via template literals or even just comments like /*html*/](https://twitter.com/branmcconnell/status/1861159093441802347)
 - [@branmcconnell: @BHolmesDev I tried it out, but it doesn’t do half of what 1Password does, so I’m sticking with 1P. Auto-generated security question answers, completely custom fields, SSH keys, etc. For simple use cases, Apple Passwords is pretty great. But for power users, 1Password is a must.](https://twitter.com/branmcconnell/status/1861105389753745593)
 - [@branmcconnell: @adamwathan Any other special ways we can throw money at you if we already own both of those?](https://twitter.com/branmcconnell/status/1861103583724187753)
-- [@branmcconnell: @cossssmin There’s a really good lightweight and dependency-less package I saw recently. I’ll try to dig it up.](https://twitter.com/branmcconnell/status/1860163682648621155)
-- [@branmcconnell: @v_pradeilles What lang is this?](https://twitter.com/branmcconnell/status/1860095184228470958)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
