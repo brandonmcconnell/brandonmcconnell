@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @ianlandsman @jeffrey_way Aren’t most platforms some billionaire’s play thing? At least here, you’re not being catered to by government corroboration](https://twitter.com/branmcconnell/status/1861799744432992473)
+- [@branmcconnell: @luciascarlet fwiw I own the fully spec’d up M3 Max, and it’s the biggest laptop I’ve ever used](https://twitter.com/branmcconnell/status/1861741225411264524)
+- [@branmcconnell: @wesbos @soubiran_ @adamwathan Ah that is a huge deal. I might have to switch, myself 😄](https://twitter.com/branmcconnell/status/1861740347123962062)
 - [@branmcconnell: @soubiran_ @wesbos @adamwathan Of course! Granted, I haven’t tried the one you shared, so I can’t compare from experience](https://twitter.com/branmcconnell/status/1861455818391957952)
 - [@branmcconnell: @wesbos @soubiran_ @adamwathan They both look great! Just fyi — the one I mentioned does both comments and template literals.](https://twitter.com/branmcconnell/status/1861449394551156764)
-- [@branmcconnell: @adamwathan Supports via template literals or even just comments like /*html*/](https://twitter.com/branmcconnell/status/1861159093441802347)
-- [@branmcconnell: @BHolmesDev I tried it out, but it doesn’t do half of what 1Password does, so I’m sticking with 1P. Auto-generated security question answers, completely custom fields, SSH keys, etc. For simple use cases, Apple Passwords is pretty great. But for power users, 1Password is a must.](https://twitter.com/branmcconnell/status/1861105389753745593)
-- [@branmcconnell: @adamwathan Any other special ways we can throw money at you if we already own both of those?](https://twitter.com/branmcconnell/status/1861103583724187753)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
