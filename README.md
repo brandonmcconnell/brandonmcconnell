@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @adamwathan @jjenzz Makes sense! Thanks](https://twitter.com/branmcconnell/status/1862166032623755770)
+- [@branmcconnell: @adamwathan @jjenzz Is this one of those situations where all iPhones running a firmware older than iOS 18 inevitably run Safari &lt; 18?](https://twitter.com/branmcconnell/status/1862164650768384240)
 - [@branmcconnell: @adamwathan @vladyslavmoroz Safari is littered with table-border-related bugs. I’ve opened a couple, and there are plenty of others. If your efforts can resolve any of these, we’ll all owe you a debt gratitude. 🫡](https://twitter.com/branmcconnell/status/1861984176548745611)
 - [@branmcconnell: @ianlandsman @jeffrey_way Though in this case, the government isn’t deciding what you can and cannot say on this platform or promoting/demoting posts based on content. The algorithm is open sourced. Is the same true of bluesky? &lpar;I’m genuinely not sure&rpar;](https://twitter.com/branmcconnell/status/1861849290982707453)
 - [@branmcconnell: @ianlandsman @jeffrey_way Aren’t most platforms some billionaire’s play thing? At least here, you’re not being catered to by government corroboration](https://twitter.com/branmcconnell/status/1861799744432992473)
-- [@branmcconnell: @luciascarlet fwiw I own the fully spec’d up M3 Max, and it’s the biggest laptop I’ve ever used](https://twitter.com/branmcconnell/status/1861741225411264524)
-- [@branmcconnell: @wesbos @soubiran_ @adamwathan Ah that is a huge deal. I might have to switch, myself 😄](https://twitter.com/branmcconnell/status/1861740347123962062)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
