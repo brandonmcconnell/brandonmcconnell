@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @pie6k Was the issue ever fixed that caused the cursor position mismatch?](https://twitter.com/branmcconnell/status/1862380125771186553)
 - [@branmcconnell: @jaredpalmer @v0 @pranathiperii](https://twitter.com/branmcconnell/status/1862361956155379770)
 - [@branmcconnell: If this means what I think it means, new component development is about to get 10x faster. Bake in codebase-awareness via Cursor &lpar;or similar&rpar; and we can design new components from Figma straight into our codebases. 🤯](https://twitter.com/branmcconnell/status/1862361926388379666)
 - [@branmcconnell: @adamwathan @jjenzz Makes sense! Thanks](https://twitter.com/branmcconnell/status/1862166032623755770)
 - [@branmcconnell: @adamwathan @jjenzz Is this one of those situations where all iPhones running a firmware older than iOS 18 inevitably run Safari &lt; 18?](https://twitter.com/branmcconnell/status/1862164650768384240)
-- [@branmcconnell: @adamwathan @vladyslavmoroz Safari is littered with table-border-related bugs. I’ve opened a couple, and there are plenty of others. If your efforts can resolve any of these, we’ll all owe you a debt gratitude. 🫡](https://twitter.com/branmcconnell/status/1861984176548745611)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
