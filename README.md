@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @iamrachelgraves @kentcdodds I’m sure discussions will become just as political on that platform, unless they lean heavily into censorship and disallow certain views or topics.](https://twitter.com/branmcconnell/status/1862882714199671011)
 - [@branmcconnell: @DominikFilkus @theo frfr 📝👀](https://twitter.com/branmcconnell/status/1862730419428315458)
 - [@branmcconnell: @aidenybai @JNYBGR he always has been 🔥](https://twitter.com/branmcconnell/status/1862686822549062143)
 - [@branmcconnell: @theo I met one of these at RenderATL. He held like 4 different senior positions making over $300k each. Insane.](https://twitter.com/branmcconnell/status/1862686642311397646)
 - [@branmcconnell: @kentcdodds Yeah, sad how polarizing it is. If people enjoy a different platform, that’s great. I just wish they could enjoy it without making it all political and causing divisions. People on one platform should be able to talk to you and respect people on any other&lpar;s&rpar;.](https://twitter.com/branmcconnell/status/1862626643510022485)
-- [@branmcconnell: @artman @linear Bouncing back-and-forth between linear and GitHub can be cumbersome at times. I writing definitely love this feature. Tracking linked/stacked PRs is also extremely painful, though that may be outside the scope of what you’re building.](https://twitter.com/branmcconnell/status/1862599118851350736)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
