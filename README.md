@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @adamwathan For most CSS properties, I know I can just type the property name in the URL bar and in &gt; 90% of cases, I’ll end up at the right page… or a 404 😉](https://twitter.com/branmcconnell/status/1862934290515795972)
+- [@branmcconnell: @adatrolls @adamwathan It’s been primarily helpful ime to override uses of importance declared in frameworks So, only really needed because it was included in CSS and can be used by others](https://twitter.com/branmcconnell/status/1862933493480632788)
 - [@branmcconnell: @iamrachelgraves @kentcdodds I’m sure discussions will become just as political on that platform, unless they lean heavily into censorship and disallow certain views or topics.](https://twitter.com/branmcconnell/status/1862882714199671011)
 - [@branmcconnell: @DominikFilkus @theo frfr 📝👀](https://twitter.com/branmcconnell/status/1862730419428315458)
 - [@branmcconnell: @aidenybai @JNYBGR he always has been 🔥](https://twitter.com/branmcconnell/status/1862686822549062143)
-- [@branmcconnell: @theo I met one of these at RenderATL. He held like 4 different senior positions making over $300k each. Insane.](https://twitter.com/branmcconnell/status/1862686642311397646)
-- [@branmcconnell: @kentcdodds Yeah, sad how polarizing it is. If people enjoy a different platform, that’s great. I just wish they could enjoy it without making it all political and causing divisions. People on one platform should be able to talk to you and respect people on any other&lpar;s&rpar;.](https://twitter.com/branmcconnell/status/1862626643510022485)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
