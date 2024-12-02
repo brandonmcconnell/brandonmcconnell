@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @zaidmukaddam @leeerob 👀👀👀👀👀👀👀👀👀👀👀](https://twitter.com/branmcconnell/status/1863442275457482804)
+- [@branmcconnell: @leeerob I’m sold.](https://twitter.com/branmcconnell/status/1863441751404433605)
 - [@branmcconnell: @hypeddev @CanadaHonk Thanks for tagging me in this! Things are finally starting to move along Hopefully, we can get it accepted into the next Interop round 🔥](https://twitter.com/branmcconnell/status/1863248884765478928)
 - [@branmcconnell: @adamwathan For most CSS properties, I know I can just type the property name in the URL bar and in &gt; 90% of cases, I’ll end up at the right page… or a 404 😉](https://twitter.com/branmcconnell/status/1862934290515795972)
 - [@branmcconnell: @adatrolls @adamwathan It’s been primarily helpful ime to override uses of importance declared in frameworks So, only really needed because it was included in CSS and can be used by others](https://twitter.com/branmcconnell/status/1862933493480632788)
-- [@branmcconnell: @iamrachelgraves @kentcdodds I’m sure discussions will become just as political on that platform, unless they lean heavily into censorship and disallow certain views or topics.](https://twitter.com/branmcconnell/status/1862882714199671011)
-- [@branmcconnell: @DominikFilkus @theo frfr 📝👀](https://twitter.com/branmcconnell/status/1862730419428315458)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
