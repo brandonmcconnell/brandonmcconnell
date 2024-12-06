@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @Humane @elonmusk @Tesla @grok @Humane nice work on this 🙌🏼](https://twitter.com/branmcconnell/status/1864997755174707426)
 - [@branmcconnell: @thdxr yeah dude CSS is the best](https://twitter.com/branmcconnell/status/1864346282292080872)
 - [@branmcconnell: @elonmusk can @DOGE please do something about the Sunset Limited train route between Florida and Louisiana that’s been closed for 20 years due to hurricane damage but approved for rebuild for the past ~10?](https://twitter.com/branmcconnell/status/1863806820688531747)
 - [@branmcconnell: @zaidmukaddam @leeerob 👀👀👀👀👀👀👀👀👀👀👀](https://twitter.com/branmcconnell/status/1863442275457482804)
 - [@branmcconnell: @leeerob I’m sold.](https://twitter.com/branmcconnell/status/1863441751404433605)
-- [@branmcconnell: @hypeddev @CanadaHonk Thanks for tagging me in this! Things are finally starting to move along Hopefully, we can get it accepted into the next Interop round 🔥](https://twitter.com/branmcconnell/status/1863248884765478928)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
