@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @theo @shadcn Thanks! I appreciate the thorough response and quick turnaround 👏🏼](https://twitter.com/branmcconnell/status/1866781705992015957)
 - [@branmcconnell: @theo @shadcn ok take 2 🎬](https://twitter.com/branmcconnell/status/1866633486276116522)
 - [@branmcconnell: @VertigoWarrior All that, and they still respect traffic signs](https://twitter.com/branmcconnell/status/1865994058247651806)
 - [@branmcconnell: @Android My mother-in-law refuses to move to RCS because… “It sounds great but it doesn&#39;t solve my problem. It doesn&#39;t have the categories and lists that I use all the time for the many group texts I send out. Samsung texting is very organized that way.”](https://twitter.com/branmcconnell/status/1865785760898539591)
 - [@branmcconnell: @Humane @elonmusk @Tesla @grok @Humane nice work on this 🙌🏼](https://twitter.com/branmcconnell/status/1864997755174707426)
-- [@branmcconnell: @thdxr yeah dude CSS is the best](https://twitter.com/branmcconnell/status/1864346282292080872)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
