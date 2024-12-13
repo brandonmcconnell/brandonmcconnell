@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell: @kiwicopple @supabase @TigrisData @Microsoft @stackblitz @vercel 📄 ➞ @branmcconnell 👨🏻‍💻](https://twitter.com/branmcconnell/status/1867614686188896521)
 - [@branmcconnell: @Nespresso Can you please implement some system for third-party coffee makers to produce Vertuo pods? Maybe a royalty system? 🤷🏻‍♂️ I would love to try plenty of different coffees of my choice with the convenience of Nespresso, but the Vertuo patent create a walled garden that](https://twitter.com/branmcconnell/status/1867419408525615446)
 - [@branmcconnell: @wesbos It’s a solid tool, but I often still reach for relative + absolute positioning for this sort of thing](https://twitter.com/branmcconnell/status/1866926717996003821)
 - [@branmcconnell: @surface ❄️](https://twitter.com/branmcconnell/status/1866919473216946482)
 - [@branmcconnell: @theo @shadcn Thanks! I appreciate the thorough response and quick turnaround 👏🏼](https://twitter.com/branmcconnell/status/1866781705992015957)
-- [@branmcconnell: @theo @shadcn ok take 2 🎬](https://twitter.com/branmcconnell/status/1866633486276116522)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
