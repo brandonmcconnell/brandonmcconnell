@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [@branmcconnell: @adamwathan I dig it Sidenote Q — does that doc suggest we can now use shorthand CSS variables via parentheses? e.g. aspect-&lpar;--example&rpar; 👀](https://twitter.com/branmcconnell/status/1868870799266136264)
-- [@branmcconnell: @Nespresso Of course. I’m sure most distributors would be game to even pay an extra $0.25-$0.50 royalty to Nespresso to be able to enter the scene. Game changer for coffee drinkers like me too. 👋🏼](https://twitter.com/branmcconnell/status/1867688619798147330)
-- [@branmcconnell: @kiwicopple @supabase @TigrisData @Microsoft @stackblitz @vercel 📄 ➞ @branmcconnell 👨🏻‍💻](https://twitter.com/branmcconnell/status/1867614686188896521)
-- [@branmcconnell: @Nespresso Can you please implement some system for third-party coffee makers to produce Vertuo pods? Maybe a royalty system? 🤷🏻‍♂️ I would love to try plenty of different coffees of my choice with the convenience of Nespresso, but the Vertuo patent create a walled garden that](https://twitter.com/branmcconnell/status/1867419408525615446)
-- [@branmcconnell: @wesbos It’s a solid tool, but I often still reach for relative + absolute positioning for this sort of thing](https://twitter.com/branmcconnell/status/1866926717996003821)
+- [@branmcconnell: @pie6k Does the new update fix that age-old cursor tracking bug?](https://twitter.com/branmcconnell/status/1869079891783913704)
+- [@branmcconnell: @IntoGalaxyy fwiw iPhone doesn’t have swipe gestures for all those buttons There’s no universal “back swipe” and there’s no swipe that takes you to your options or apps screens](https://twitter.com/branmcconnell/status/1869078017613746641)
+- [@branmcconnell: @adamwathan Nice! Adjacently related— here’s a PR you requested &lpar;in #13594&rpar; that fixes some hyphen issues in v3: #13605  we already merged the v4 equivalent: #13596](https://twitter.com/branmcconnell/status/1869077557326520525)
+- [@branmcconnell: @theo I’ve had this happen several times 🤦🏻‍♂️](https://twitter.com/branmcconnell/status/1869052685376504059)
+- [@branmcconnell: @adamwathan Oh snap! Game changer. I changed all my [--test] to [var&lpar;--test&rpar;], but I will gladly change those all to &lpar;--test&rpar; 😁 Does the parentheses syntax apply to any other features, or is it unique to variables?](https://twitter.com/branmcconnell/status/1869043353813479912)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
