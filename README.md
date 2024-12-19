@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [@branmcconnell: @pie6k Does the new update fix that age-old cursor tracking bug?](https://twitter.com/branmcconnell/status/1869079891783913704)
-- [@branmcconnell: @IntoGalaxyy fwiw iPhone doesn’t have swipe gestures for all those buttons There’s no universal “back swipe” and there’s no swipe that takes you to your options or apps screens](https://twitter.com/branmcconnell/status/1869078017613746641)
-- [@branmcconnell: @adamwathan Nice! Adjacently related— here’s a PR you requested &lpar;in #13594&rpar; that fixes some hyphen issues in v3: #13605  we already merged the v4 equivalent: #13596](https://twitter.com/branmcconnell/status/1869077557326520525)
-- [@branmcconnell: @theo I’ve had this happen several times 🤦🏻‍♂️](https://twitter.com/branmcconnell/status/1869052685376504059)
-- [@branmcconnell: @adamwathan Oh snap! Game changer. I changed all my [--test] to [var&lpar;--test&rpar;], but I will gladly change those all to &lpar;--test&rpar; 😁 Does the parentheses syntax apply to any other features, or is it unique to variables?](https://twitter.com/branmcconnell/status/1869043353813479912)
+- [@copilotmoney FEATURE SUGGESTION As much as my wife and I use Copilot, it currently only helps us to track when we’re approaching and over budget, but not actually limit our spending. I would like to propose Copilot Cards, similar to what Qube Money does to help budget where you have a different digital or even physical card for each category, so when I spend, I can spend for that category and it only goes through if I have budget for it. This follows the age-old practice of budget envelopes per category. I figure Copilot can revolutionize this even further digitally by creating digital cards via the app that can be added to Apple Pay that directly pull from our banks but only if the budget](https://x.com/branmcconnell/status/1869816788084764685)
+- [@xTRYB_Media @InterestingSTEM In all these years, it’s crazy this hasn’t become a common feature in modern cars](https://x.com/branmcconnell/status/1869805576030695476)
+- [@pie6k @rexan_wong @cursor_ai I still use Screen Studio occasionally, not nearly as much as I did before this bug started occurring.](https://x.com/branmcconnell/status/1869802943928770964)
+- [@InterestingSTEM I’ve played this game hundreds of times since my youth, and the werewolves—or the mafia as we called them—probably win less than half the time. It’s the exact same concept behind the game, Among Us.](https://x.com/branmcconnell/status/1869801457991725299)
+- [Neat app idea! I think we can make it better is to not generate the essay text in real time, but wait until after you finish “yapping”. With the current limitation of generating text in real time, most of us don’t have our full thoughts formulated in the beginning. Often times, I’ll add a thought later which might be better included near the beginning of the essay.](https://x.com/branmcconnell/status/1869795937888968893)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
