@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [@branmcconnell: @pie6k Does the new update fix that age-old cursor tracking bug?](https://twitter.com/branmcconnell/status/1869079891783913704)
-- [@branmcconnell: @IntoGalaxyy fwiw iPhone doesn’t have swipe gestures for all those buttons There’s no universal “back swipe” and there’s no swipe that takes you to your options or apps screens](https://twitter.com/branmcconnell/status/1869078017613746641)
-- [@branmcconnell: @adamwathan Nice! Adjacently related— here’s a PR you requested &lpar;in #13594&rpar; that fixes some hyphen issues in v3: #13605  we already merged the v4 equivalent: #13596](https://twitter.com/branmcconnell/status/1869077557326520525)
-- [@branmcconnell: @theo I’ve had this happen several times 🤦🏻‍♂️](https://twitter.com/branmcconnell/status/1869052685376504059)
-- [@branmcconnell: @adamwathan Oh snap! Game changer. I changed all my [--test] to [var&lpar;--test&rpar;], but I will gladly change those all to &lpar;--test&rpar; 😁 Does the parentheses syntax apply to any other features, or is it unique to variables?](https://twitter.com/branmcconnell/status/1869043353813479912)
+- [@pie6k Does the new update fix that age-old cursor tracking bug?](https://x.com/branmcconnell/status/1869079891783913704)
+- [@IntoGalaxyy fwiw iPhone doesn’t have swipe gestures for all those buttons There’s no universal “back swipe” and there’s no swipe that takes you to your options or apps screens](https://x.com/branmcconnell/status/1869078017613746641)
+- [@adamwathan Nice! Adjacently related— here’s a PR you requested &lpar;in #13594&rpar; that fixes some hyphen issues in v3: #13605 https://t.co/hJa8tCfFhD we already merged the v4 equivalent: #13596](https://x.com/branmcconnell/status/1869077557326520525)
+- [@theo I’ve had this happen several times 🤦🏻‍♂️](https://x.com/branmcconnell/status/1869052685376504059)
+- [@adamwathan Oh snap! Game changer. I changed all my [--test] to [var&lpar;--test&rpar;], but I will gladly change those all to &lpar;--test&rpar; 😁 Does the parentheses syntax apply to any other features, or is it unique to variables?](https://x.com/branmcconnell/status/1869043353813479912)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
