@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@Kacccha_aam Brandon McConnell](https://x.com/branmcconnell/status/1870581295115600374)
+- [@ChickfilA what’s the best way to report an issue with a pickup order? The help center online says to go to the order in the transaction history in the app to report the issue, but I don’t see any such button.](https://x.com/branmcconnell/status/1870581261028458858)
 - [@copilotmoney FEATURE SUGGESTION As much as my wife and I use Copilot, it currently only helps us to track when we’re approaching and over budget, but not actually limit our spending. I would like to propose Copilot Cards, similar to what Qube Money does to help budget where you have a different digital or even physical card for each category, so when I spend, I can spend for that category and it only goes through if I have budget for it. This follows the age-old practice of budget envelopes per category. I figure Copilot can revolutionize this even further digitally by creating digital cards via the app that can be added to Apple Pay that directly pull from our banks but only if the budget](https://x.com/branmcconnell/status/1869816788084764685)
 - [@xTRYB_Media @InterestingSTEM In all these years, it’s crazy this hasn’t become a common feature in modern cars](https://x.com/branmcconnell/status/1869805576030695476)
 - [@pie6k @rexan_wong @cursor_ai I still use Screen Studio occasionally, not nearly as much as I did before this bug started occurring.](https://x.com/branmcconnell/status/1869802943928770964)
-- [@InterestingSTEM I’ve played this game hundreds of times since my youth, and the werewolves—or the mafia as we called them—probably win less than half the time. It’s the exact same concept behind the game, Among Us.](https://x.com/branmcconnell/status/1869801457991725299)
-- [Neat app idea! I think we can make it better is to not generate the essay text in real time, but wait until after you finish “yapping”. With the current limitation of generating text in real time, most of us don’t have our full thoughts formulated in the beginning. Often times, I’ll add a thought later which might be better included near the beginning of the essay.](https://x.com/branmcconnell/status/1869795937888968893)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
