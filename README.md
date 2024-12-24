@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@LeaVerou That’s good to hear. My wife and I have only done one tasting menu, but as soon as we left, we went and got a big frito chili pie from an eatery across the street. Maybe not the norm, but we’d never heard of that rumor, and we were still very hungry. 🤷🏻‍♂️](https://x.com/branmcconnell/status/1871598751145677074)
 - [@Kacccha_aam Brandon McConnell](https://x.com/branmcconnell/status/1870581295115600374)
 - [@ChickfilA what’s the best way to report an issue with a pickup order? The help center online says to go to the order in the transaction history in the app to report the issue, but I don’t see any such button.](https://x.com/branmcconnell/status/1870581261028458858)
 - [@copilotmoney FEATURE SUGGESTION As much as my wife and I use Copilot, it currently only helps us to track when we’re approaching and over budget, but not actually limit our spending. I would like to propose Copilot Cards, similar to what Qube Money does to help budget where you have a different digital or even physical card for each category, so when I spend, I can spend for that category and it only goes through if I have budget for it. This follows the age-old practice of budget envelopes per category. I figure Copilot can revolutionize this even further digitally by creating digital cards via the app that can be added to Apple Pay that directly pull from our banks but only if the budget](https://x.com/branmcconnell/status/1869816788084764685)
 - [@xTRYB_Media @InterestingSTEM In all these years, it’s crazy this hasn’t become a common feature in modern cars](https://x.com/branmcconnell/status/1869805576030695476)
-- [@pie6k @rexan_wong @cursor_ai I still use Screen Studio occasionally, not nearly as much as I did before this bug started occurring.](https://x.com/branmcconnell/status/1869802943928770964)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
