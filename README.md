@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@Levidjones So excited for you guys and baby girl 🙏🏼 she’s blessed with an amazing mom and dad #girldads](https://x.com/branmcconnell/status/1872836879835631656)
+- [@argyleink I would sign up for that kind of role in a heartbeat 😁 no better fit &lpar;or more fun role&rpar; in the world](https://x.com/branmcconnell/status/1872836074147594355)
 - [@adamwathan @jordanpittman Oh snap! Wouldn’t even have to fly this time 🌴😎 I’ll keep an eye out for that post](https://x.com/branmcconnell/status/1872804986574520376)
 - [@elonmusk @Tesla Coincidentally, I was just thinking about the company’s connection to Nikola yesterday](https://x.com/branmcconnell/status/1872804027941175403)
 - [@LeaVerou That’s good to hear. My wife and I have only done one tasting menu, but as soon as we left, we went and got a big frito chili pie from an eatery across the street. Maybe not the norm, but we’d never heard of that rumor, and we were still very hungry. 🤷🏻‍♂️](https://x.com/branmcconnell/status/1871598751145677074)
-- [@Kacccha_aam Brandon McConnell](https://x.com/branmcconnell/status/1870581295115600374)
-- [@ChickfilA what’s the best way to report an issue with a pickup order? The help center online says to go to the order in the transaction history in the app to report the issue, but I don’t see any such button.](https://x.com/branmcconnell/status/1870581261028458858)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
