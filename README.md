@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@adamwathan Google Workspace Enterprise Plus &lpar;formerly Google 360&rpar; - over $100,000 per year 😬](https://x.com/branmcconnell/status/1873828872963375368)
 - [@kapehe_ok @adamwathan @chris__sev My best use case exactly ☝🏼](https://x.com/branmcconnell/status/1873812484555182259)
 - [@jordanpittman @samselikoff iiuc you can also just start Apple Intelligence by long-pressing the power button, and then once it’s active, hold down the volume down button &lpar;side button&rpar; This volume gauge is separate from system volume](https://x.com/branmcconnell/status/1873811854700798099)
 - [@adamwathan Often times, I want to catch my 3 month old daughter saying new words &lpar;or doing other cute things&rpar;, but if I take out my phone camera, she suddenly gets distracted with the camera and stops talking. She doesn’t get distracted that way with smart glasses.](https://x.com/branmcconnell/status/1873810344436785557)
 - [@ngl5000 @adamwathan @calebporzio To clarify, I do not personally work for Tailwind Labs. I usually use Tailwind UI for inspiration, though I have never actually used any of the components in projects, so I suppose I can empathize with some of this. I would love Tailwind UI pursue parity with Flux or Shadcn.](https://x.com/branmcconnell/status/1873440859431342197)
-- [@ngl5000 @adamwathan @calebporzio Even if you don’t use it, what better way to support its growth as well as the team at Tailwind Labs that makes our lives easier day in and day out?](https://x.com/branmcconnell/status/1873404142892224558)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
