@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@m1guelpf How do you pass this location back to your website? What’s the API request look like— some sort of webhook?](https://x.com/branmcconnell/status/1873902612942381197)
+- [@StoredValue411 looks like your “Add to Apple Wallet” button broke. None of my gift cards give me that option anymore. Last time I saw it work was a few weeks ago.](https://x.com/branmcconnell/status/1873901636713890049)
 - [@argyleink Oh my bad. Didn’t even see the link. THAT’S AMAZING ✨🤩✨](https://x.com/branmcconnell/status/1873871707154596341)
 - [@argyleink Not bad though. Do you have a minimal repro?](https://x.com/branmcconnell/status/1873862566470181314)
 - [@argyleink Left, personally I still wish there was an easier way to do something like :stuck but I understand the reasoning behind not doing it In my own codebase, I actually support :stuck in tailwind via a custom `stuck` variant that uses JS IntersectionObserver API behind the scenes 😁](https://x.com/branmcconnell/status/1873853928225595794)
-- [@productive_will @adamwathan Like ~50 hours of dedicated support from certified reps and access to some enterprise-only features. Honestly, it’s not worlds apart from the free versions of their tools, but I guess that’s the idea— it’s for enterprises that don’t blink at that kind of money. 🤷🏻‍♂️](https://x.com/branmcconnell/status/1873853133786681789)
-- [@adamwathan Google Workspace Enterprise Plus &lpar;formerly Google 360&rpar; - over $100,000 per year 😬](https://x.com/branmcconnell/status/1873828872963375368)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
