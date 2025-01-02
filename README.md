@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@calebporzio I think all of these variants hold value in different contexts. No room for a `variant` prop?](https://x.com/branmcconnell/status/1874863588588114174)
 - [@theo C’mon they didn’t even get the stache right](https://x.com/branmcconnell/status/1874368943017910310)
 - [@ste_bau No need to refresh? The buttons just appear once the classes are available?](https://x.com/branmcconnell/status/1874092210943385938)
 - [@ahmiq @adamwathan I had no idea. What are the Canva alternatives to GA and GTM? Is there an A/B experimentation alternative too?](https://x.com/branmcconnell/status/1874091998162149849)
 - [@m1guelpf How do you pass this location back to your website? What’s the API request look like— some sort of webhook?](https://x.com/branmcconnell/status/1873902612942381197)
-- [@StoredValue411 looks like your “Add to Apple Wallet” button broke. None of my gift cards give me that option anymore. Last time I saw it work was a few weeks ago.](https://x.com/branmcconnell/status/1873901636713890049)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
