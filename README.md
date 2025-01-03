@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@themarcba Would you just do this? I assume it would be something like this, but I’ve never used Vue. &lt;footer&gt; Copyright &lt;span&gt;{new Date&lpar;&rpar;.getFullYear&lpar;&rpar;}&lt;/span&gt; &lt;/footer&gt;](https://x.com/branmcconnell/status/1875214399352500547)
 - [@calebporzio I think all of these variants hold value in different contexts. No room for a `variant` prop?](https://x.com/branmcconnell/status/1874863588588114174)
 - [@theo C’mon they didn’t even get the stache right](https://x.com/branmcconnell/status/1874368943017910310)
 - [@ste_bau No need to refresh? The buttons just appear once the classes are available?](https://x.com/branmcconnell/status/1874092210943385938)
 - [@ahmiq @adamwathan I had no idea. What are the Canva alternatives to GA and GTM? Is there an A/B experimentation alternative too?](https://x.com/branmcconnell/status/1874091998162149849)
-- [@m1guelpf How do you pass this location back to your website? What’s the API request look like— some sort of webhook?](https://x.com/branmcconnell/status/1873902612942381197)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
