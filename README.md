@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@jacobmparis Would it just resolve to undefined? Would love to stop writing `items ?? 0 &gt; 0`](https://x.com/branmcconnell/status/1876387997647528330)
+- [@brotzky_ Enough to tell the real ones apart, for sure 👀](https://x.com/branmcconnell/status/1876385166572372231)
 - [@mattpocockuk Ummm where do I pay? 👀](https://x.com/branmcconnell/status/1876306092487311702)
 - [@HumansNoContext @simonswiss how accurate is this from 1-10? 👀](https://x.com/branmcconnell/status/1876293016861937821)
 - [@resend We currently use both https://t.co/RQUdpmnjQl &amp; @loops](https://x.com/branmcconnell/status/1876291230730244372)
-- [@theo this you? https://t.co/mQowSDdzsz https://t.co/XXAgCzLcn7](https://x.com/branmcconnell/status/1876290876701618319)
-- [@leeerob Just think… one day, the idea of “software on demand” might be a reality for most consumers, even non-programmers](https://x.com/branmcconnell/status/1876145288676774256)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
