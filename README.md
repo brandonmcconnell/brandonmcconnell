@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [What in the name of @Apple is going on here?! 🤦🏻‍♂️ I’ve been having this issue for YEARS, and quite constantly. When I type the letters I intend to, even though you can see those keys get pressed, my phone still types something different. I’ve reported this to Apple over and over and over for years, and the best they’ve been able to tell me is to fully reset my phone to factory settings, which has never fixed the issue. I upgrade my phone every year, and that never fixes it either.](https://x.com/branmcconnell/status/1876389772073058741)
 - [@jacobmparis Would it just resolve to undefined? Would love to stop writing `items ?? 0 &gt; 0`](https://x.com/branmcconnell/status/1876387997647528330)
 - [@brotzky_ Enough to tell the real ones apart, for sure 👀](https://x.com/branmcconnell/status/1876385166572372231)
 - [@mattpocockuk Ummm where do I pay? 👀](https://x.com/branmcconnell/status/1876306092487311702)
 - [@HumansNoContext @simonswiss how accurate is this from 1-10? 👀](https://x.com/branmcconnell/status/1876293016861937821)
-- [@resend We currently use both https://t.co/RQUdpmnjQl &amp; @loops](https://x.com/branmcconnell/status/1876291230730244372)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
