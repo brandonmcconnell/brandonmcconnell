@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@leeerob Just think… one day, the idea of “software on demand” might be a reality for most consumers, even non-programmers](https://x.com/branmcconnell/status/1876145288676774256)
+- [@sama Strange. I would definitely save money by using an API key with a client. I pay for both but even my Plus subscription is hardly worth it.](https://x.com/branmcconnell/status/1876144796517179582)
+- [@natension @Una Same 😅](https://x.com/branmcconnell/status/1876144459802636625)
+- [@Una I regularly maintain a queue in Pocket, but sadly, I never make it back to most of the articles I save 🥹](https://x.com/branmcconnell/status/1876144376675721519)
 - [@namedobject @n0w00j @ZachWarunek I find the arrow to be better than the info icon here. The info icon implies that you can click or hover the icon to get more information. The arrow makes it obvious the entire tile is clickable. Great work.](https://x.com/branmcconnell/status/1875910930258956610)
-- [@Betraydan I did not notice this until you just pointed it out. This will forever haunt me. 💀](https://x.com/branmcconnell/status/1875214796536373320)
-- [@themarcba Would you just do this? I assume it would be something like this, but I’ve never used Vue. &lt;footer&gt; Copyright &lt;span&gt;{new Date&lpar;&rpar;.getFullYear&lpar;&rpar;}&lt;/span&gt; &lt;/footer&gt;](https://x.com/branmcconnell/status/1875214399352500547)
-- [@calebporzio I think all of these variants hold value in different contexts. No room for a `variant` prop?](https://x.com/branmcconnell/status/1874863588588114174)
-- [@theo C’mon they didn’t even get the stache right](https://x.com/branmcconnell/status/1874368943017910310)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
