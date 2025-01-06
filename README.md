@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@mattpocockuk Ummm where do I pay? 👀](https://x.com/branmcconnell/status/1876306092487311702)
 - [@HumansNoContext @simonswiss how accurate is this from 1-10? 👀](https://x.com/branmcconnell/status/1876293016861937821)
 - [@resend We currently use both https://t.co/RQUdpmnjQl &amp; @loops](https://x.com/branmcconnell/status/1876291230730244372)
 - [@theo this you? https://t.co/mQowSDdzsz https://t.co/XXAgCzLcn7](https://x.com/branmcconnell/status/1876290876701618319)
 - [@leeerob Just think… one day, the idea of “software on demand” might be a reality for most consumers, even non-programmers](https://x.com/branmcconnell/status/1876145288676774256)
-- [@sama Strange. I would definitely save money by using an API key with a client. I pay for both but even my Plus subscription is hardly worth it.](https://x.com/branmcconnell/status/1876144796517179582)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
