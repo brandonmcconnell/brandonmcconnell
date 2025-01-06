@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@HumansNoContext @simonswiss how accurate is this from 1-10? 👀](https://x.com/branmcconnell/status/1876293016861937821)
+- [@resend We currently use both https://t.co/RQUdpmnjQl &amp; @loops](https://x.com/branmcconnell/status/1876291230730244372)
+- [@theo this you? https://t.co/mQowSDdzsz https://t.co/XXAgCzLcn7](https://x.com/branmcconnell/status/1876290876701618319)
 - [@leeerob Just think… one day, the idea of “software on demand” might be a reality for most consumers, even non-programmers](https://x.com/branmcconnell/status/1876145288676774256)
 - [@sama Strange. I would definitely save money by using an API key with a client. I pay for both but even my Plus subscription is hardly worth it.](https://x.com/branmcconnell/status/1876144796517179582)
-- [@natension @Una Same 😅](https://x.com/branmcconnell/status/1876144459802636625)
-- [@Una I regularly maintain a queue in Pocket, but sadly, I never make it back to most of the articles I save 🥹](https://x.com/branmcconnell/status/1876144376675721519)
-- [@namedobject @n0w00j @ZachWarunek I find the arrow to be better than the info icon here. The info icon implies that you can click or hover the icon to get more information. The arrow makes it obvious the entire tile is clickable. Great work.](https://x.com/branmcconnell/status/1875910930258956610)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
