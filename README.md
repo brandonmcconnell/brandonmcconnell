@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@adamwathan Is this valid CSS in the arbitrary value or TW magic happening behind the scenes? Just curious if this would cause any conflicts down the road once CSS functions &amp; mixins gain mainstream support and are implemented https://t.co/tw44vPsGGO](https://x.com/branmcconnell/status/1876720412576317844)
+- [FINALLY 🙉🎉 attr&lpar;&rpar; has been the most upvoted interop feature 3 years in a row but was never included in the roadmap Thanks to everyone @googlechrome @ChromeDevTools who made this happen 💯 By far one of the most important CSS features in years 🔥](https://x.com/branmcconnell/status/1876719088963121280)
 - [What in the name of @Apple is going on here?! 🤦🏻‍♂️ I’ve been having this issue for YEARS, and quite constantly. When I type the letters I intend to, even though you can see those keys get pressed, my phone still types something different. I’ve reported this to Apple over and over and over for years, and the best they’ve been able to tell me is to fully reset my phone to factory settings, which has never fixed the issue. I upgrade my phone every year, and that never fixes it either.](https://x.com/branmcconnell/status/1876389772073058741)
 - [@jacobmparis Would it just resolve to undefined? Would love to stop writing `items ?? 0 &gt; 0`](https://x.com/branmcconnell/status/1876387997647528330)
 - [@brotzky_ Enough to tell the real ones apart, for sure 👀](https://x.com/branmcconnell/status/1876385166572372231)
-- [@mattpocockuk Ummm where do I pay? 👀](https://x.com/branmcconnell/status/1876306092487311702)
-- [@HumansNoContext @simonswiss how accurate is this from 1-10? 👀](https://x.com/branmcconnell/status/1876293016861937821)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
