@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@bramus oof about to return to the office after 5 months off](https://x.com/branmcconnell/status/1876786217011864018)
+- [Ah nice 👌🏼 still needed for regular variables though, right? mx-&lpar;--custom&rpar; ✅ mx-[var&lpar;--custom&rpar;] ✅ mx-[--custom] ❌ Just special treatment when the parser encounters the function syntax? Would this possibly break plugins that include parentheses in arbitrary values? 👀 … Sorry I realize I’m hitting you with like 2-3 questions here 😅🙏🏼 I’ll prob just need to test it, myself. Is this live in alpha?](https://x.com/branmcconnell/status/1876785930109080051)
+- [@BrianRoemmele If this is real, can you make it compatible with Lapse?](https://x.com/branmcconnell/status/1876784261400842738)
+- [@adamwathan Awesome. Any expected support for using the functional syntax mixed with tw’s special variable syntax? mx-&lpar;--custom-spacing&rpar; mx-&lpar;--spacing&lpar;2&rpar;&rpar;](https://x.com/branmcconnell/status/1876783540169261388)
 - [@adamwathan Is this valid CSS in the arbitrary value or TW magic happening behind the scenes? Just curious if this would cause any conflicts down the road once CSS functions &amp; mixins gain mainstream support and are implemented https://t.co/tw44vPsGGO](https://x.com/branmcconnell/status/1876720412576317844)
-- [FINALLY 🙉🎉 attr&lpar;&rpar; has been the most upvoted interop feature 3 years in a row but was never included in the roadmap Thanks to everyone @googlechrome @ChromeDevTools who made this happen 💯 By far one of the most important CSS features in years 🔥](https://x.com/branmcconnell/status/1876719088963121280)
-- [What in the name of @Apple is going on here?! 🤦🏻‍♂️ I’ve been having this issue for YEARS, and quite constantly. When I type the letters I intend to, even though you can see those keys get pressed, my phone still types something different. I’ve reported this to Apple over and over and over for years, and the best they’ve been able to tell me is to fully reset my phone to factory settings, which has never fixed the issue. I upgrade my phone every year, and that never fixes it either.](https://x.com/branmcconnell/status/1876389772073058741)
-- [@jacobmparis Would it just resolve to undefined? Would love to stop writing `items ?? 0 &gt; 0`](https://x.com/branmcconnell/status/1876387997647528330)
-- [@brotzky_ Enough to tell the real ones apart, for sure 👀](https://x.com/branmcconnell/status/1876385166572372231)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
