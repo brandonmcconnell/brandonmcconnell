@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@adamwathan Ah true. Thanks for clarifying!](https://x.com/branmcconnell/status/1876802760940597478)
 - [@bramus oof about to return to the office after 5 months off](https://x.com/branmcconnell/status/1876786217011864018)
 - [Ah nice 👌🏼 still needed for regular variables though, right? mx-&lpar;--custom&rpar; ✅ mx-[var&lpar;--custom&rpar;] ✅ mx-[--custom] ❌ Just special treatment when the parser encounters the function syntax? Would this possibly break plugins that include parentheses in arbitrary values? 👀 … Sorry I realize I’m hitting you with like 2-3 questions here 😅🙏🏼 I’ll prob just need to test it, myself. Is this live in alpha?](https://x.com/branmcconnell/status/1876785930109080051)
 - [@BrianRoemmele If this is real, can you make it compatible with Lapse?](https://x.com/branmcconnell/status/1876784261400842738)
 - [@adamwathan Awesome. Any expected support for using the functional syntax mixed with tw’s special variable syntax? mx-&lpar;--custom-spacing&rpar; mx-&lpar;--spacing&lpar;2&rpar;&rpar;](https://x.com/branmcconnell/status/1876783540169261388)
-- [@adamwathan Is this valid CSS in the arbitrary value or TW magic happening behind the scenes? Just curious if this would cause any conflicts down the road once CSS functions &amp; mixins gain mainstream support and are implemented https://t.co/tw44vPsGGO](https://x.com/branmcconnell/status/1876720412576317844)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
