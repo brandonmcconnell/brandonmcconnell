@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@jayneildalal @zach__johnston @magicaltome @figma This is do impressive but also crazy. If @figma would just allow us to connect Figma Variables to TS string properties like .length, all of this could be streamlined. Been asking for this for years 🙏🏼](https://x.com/branmcconnell/status/1877454640251326818)
+- [@aidenybai Twitter/X does use virtualization for posts in a feed, but I wonder how much more complicated this is for text in a post since text nodes don’t have their own boundingClientRec and cannot—themselves—be tracked with IntersectionObserver API afaik](https://x.com/branmcconnell/status/1877451680301658130)
 - [@adamwathan Super flexible and extendable plugin architecture Being able to craft and share my own plugins has given my projects new superpowers and allowed me to help so many others 🐐](https://x.com/branmcconnell/status/1877408610726060450)
 - [@adamwathan I don’t even have to fly to Canada this time?? SO DOWN.](https://x.com/branmcconnell/status/1877177444064452771)
 - [@adamwathan Ah true. Thanks for clarifying!](https://x.com/branmcconnell/status/1876802760940597478)
-- [@bramus oof about to return to the office after 5 months off](https://x.com/branmcconnell/status/1876786217011864018)
-- [Ah nice 👌🏼 still needed for regular variables though, right? mx-&lpar;--custom&rpar; ✅ mx-[var&lpar;--custom&rpar;] ✅ mx-[--custom] ❌ Just special treatment when the parser encounters the function syntax? Would this possibly break plugins that include parentheses in arbitrary values? 👀 … Sorry I realize I’m hitting you with like 2-3 questions here 😅🙏🏼 I’ll prob just need to test it, myself. Is this live in alpha?](https://x.com/branmcconnell/status/1876785930109080051)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
