@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@adamwathan Super flexible and extendable plugin architecture Being able to craft and share my own plugins has given my projects new superpowers and allowed me to help so many others 🐐](https://x.com/branmcconnell/status/1877408610726060450)
 - [@adamwathan I don’t even have to fly to Canada this time?? SO DOWN.](https://x.com/branmcconnell/status/1877177444064452771)
 - [@adamwathan Ah true. Thanks for clarifying!](https://x.com/branmcconnell/status/1876802760940597478)
 - [@bramus oof about to return to the office after 5 months off](https://x.com/branmcconnell/status/1876786217011864018)
 - [Ah nice 👌🏼 still needed for regular variables though, right? mx-&lpar;--custom&rpar; ✅ mx-[var&lpar;--custom&rpar;] ✅ mx-[--custom] ❌ Just special treatment when the parser encounters the function syntax? Would this possibly break plugins that include parentheses in arbitrary values? 👀 … Sorry I realize I’m hitting you with like 2-3 questions here 😅🙏🏼 I’ll prob just need to test it, myself. Is this live in alpha?](https://x.com/branmcconnell/status/1876785930109080051)
-- [@BrianRoemmele If this is real, can you make it compatible with Lapse?](https://x.com/branmcconnell/status/1876784261400842738)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
