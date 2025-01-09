@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@CodeByPoonam This has been in production for years](https://x.com/branmcconnell/status/1877458970710831427)
 - [@jayneildalal @zach__johnston @magicaltome @figma This is do impressive but also crazy. If @figma would just allow us to connect Figma Variables to TS string properties like .length, all of this could be streamlined. Been asking for this for years 🙏🏼](https://x.com/branmcconnell/status/1877454640251326818)
 - [@aidenybai Twitter/X does use virtualization for posts in a feed, but I wonder how much more complicated this is for text in a post since text nodes don’t have their own boundingClientRec and cannot—themselves—be tracked with IntersectionObserver API afaik](https://x.com/branmcconnell/status/1877451680301658130)
 - [@adamwathan Super flexible and extendable plugin architecture Being able to craft and share my own plugins has given my projects new superpowers and allowed me to help so many others 🐐](https://x.com/branmcconnell/status/1877408610726060450)
 - [@adamwathan I don’t even have to fly to Canada this time?? SO DOWN.](https://x.com/branmcconnell/status/1877177444064452771)
-- [@adamwathan Ah true. Thanks for clarifying!](https://x.com/branmcconnell/status/1876802760940597478)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
