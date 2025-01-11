@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@theo This looks so good. It’s crazy to me that this has to exist, but I’m so glad it does.](https://x.com/branmcconnell/status/1877873117193740407)
+- [@youmakeai @CodeByPoonam Sure, but I don’t see why this was announced if it’s not new.](https://x.com/branmcconnell/status/1877872416019337445)
 - [@simonswiss https://t.co/IR4nSiRPVT](https://x.com/branmcconnell/status/1877769496477192690)
 - [@hasantoxr Sounds like a great idea until they start getting sponsored to prioritize certain events or restaurants or hotels over others](https://x.com/branmcconnell/status/1877524039310156084)
 - [@tdinh_me Apparently quite a few insurance companies canceled policies months before this happened. Should be criminal.](https://x.com/branmcconnell/status/1877469501215674753)
-- [@CodeByPoonam This has been in production for years](https://x.com/branmcconnell/status/1877458970710831427)
-- [@jayneildalal @zach__johnston @magicaltome @figma This is do impressive but also crazy. If @figma would just allow us to connect Figma Variables to TS string properties like .length, all of this could be streamlined. Been asking for this for years 🙏🏼](https://x.com/branmcconnell/status/1877454640251326818)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
