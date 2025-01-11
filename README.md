@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@youmakeai @CodeByPoonam But that’s my point — it’s not new. The Y brush has been around for years. What’s new?](https://x.com/branmcconnell/status/1877913535205822587)
 - [@theo This looks so good. It’s crazy to me that this has to exist, but I’m so glad it does.](https://x.com/branmcconnell/status/1877873117193740407)
 - [@youmakeai @CodeByPoonam Sure, but I don’t see why this was announced if it’s not new.](https://x.com/branmcconnell/status/1877872416019337445)
 - [@simonswiss https://t.co/IR4nSiRPVT](https://x.com/branmcconnell/status/1877769496477192690)
 - [@hasantoxr Sounds like a great idea until they start getting sponsored to prioritize certain events or restaurants or hotels over others](https://x.com/branmcconnell/status/1877524039310156084)
-- [@tdinh_me Apparently quite a few insurance companies canceled policies months before this happened. Should be criminal.](https://x.com/branmcconnell/status/1877469501215674753)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
