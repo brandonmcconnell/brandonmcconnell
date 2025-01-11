@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@kentcdodds I have one that works ok via the Paste app. Same thing I use on my MacBook. https://t.co/hBRE480php Still more complicated than it should be, it doesn’t always work](https://x.com/branmcconnell/status/1878116535320928741)
+- [I still feel like you’re not understanding my question. What would be more equivalent to my question is – “Apple came out with iOS 15 three years ago. Today, they announced iOS 15 &lpar;again&rpar;.” My question is, literally, what new thing did they announce? The product they announced has been out for years. The exact same product by the exact same company.](https://x.com/branmcconnell/status/1878116148597682681)
 - [This happens to me all the time and has been for as long as I can remember, probably ever since they released iMessage. Anytime I log into my MacBook after a while, it slowly starts syncing some iMessages, and everything is out of sync for a while. Sometimes, it’s taken multiple logins over multiple days to fully sync. So weird.](https://x.com/branmcconnell/status/1878115729825779798)
 - [@youmakeai @CodeByPoonam But that’s my point — it’s not new. The Y brush has been around for years. What’s new?](https://x.com/branmcconnell/status/1877913535205822587)
 - [@theo This looks so good. It’s crazy to me that this has to exist, but I’m so glad it does.](https://x.com/branmcconnell/status/1877873117193740407)
-- [@youmakeai @CodeByPoonam Sure, but I don’t see why this was announced if it’s not new.](https://x.com/branmcconnell/status/1877872416019337445)
-- [@simonswiss https://t.co/IR4nSiRPVT](https://x.com/branmcconnell/status/1877769496477192690)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
