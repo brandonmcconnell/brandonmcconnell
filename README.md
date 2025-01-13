@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@elonmusk That’s great. Can he now rebuild the sunset limited track that was destroyed 20 years ago?](https://x.com/branmcconnell/status/1878873654525939718)
 - [@arnill_dev Kind of hilarious that similar charges were not made during the Twitter sale even though a huge chunk of its users are fake](https://x.com/branmcconnell/status/1878872823361638864)
 - [@terminaldotshop How do I know I’m not? 😶‍🌫️](https://x.com/branmcconnell/status/1878688257548124558)
 - [@aidenybai When does the official suite of tools release? AidenStack 🔥👀](https://x.com/branmcconnell/status/1878687450874442164)
 - [@aidenybai I just got the Elgato Wave DX last week. I’ll let you know soon https://t.co/XC8pjuWgAl Years ago, I used this other cheap mic I found on Amazon and got tons of compliments on how good it sounded, capturing and balancing bass tones in my voice https://t.co/CbYciGd3d5](https://x.com/branmcconnell/status/1878684097801027873)
-- [@BHolmesDev Woah. Is there an npm package version of this?](https://x.com/branmcconnell/status/1878647580600762607)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
