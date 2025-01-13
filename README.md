@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@RhysSullivan Don’t forget the camera capture button on iPhone!](https://x.com/branmcconnell/status/1878896920162341335)
+- [@shadcn @theo Definitely looking forward to this. I’ve been a Pro TypingMind user for years, but little quirks like Cmd+N not working have always been kinda painful. Very impressive software for being written by a small team, but I think https://t.co/sE9PlcjLPE will be a win for everybody.](https://x.com/branmcconnell/status/1878896775857328263)
 - [@jh3yy Looks great 🔥 could you avoid :has&lpar;&rpar; altogether &lpar;for perf reasons, if needed&rpar; with the hidden checkbox trick?](https://x.com/branmcconnell/status/1878891252831363163)
 - [@elonmusk That’s great. Can he now rebuild the sunset limited track that was destroyed 20 years ago?](https://x.com/branmcconnell/status/1878873654525939718)
 - [@arnill_dev Kind of hilarious that similar charges were not made during the Twitter sale even though a huge chunk of its users are fake](https://x.com/branmcconnell/status/1878872823361638864)
-- [@terminaldotshop How do I know I’m not? 😶‍🌫️](https://x.com/branmcconnell/status/1878688257548124558)
-- [@aidenybai When does the official suite of tools release? AidenStack 🔥👀](https://x.com/branmcconnell/status/1878687450874442164)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
