@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@peduarte Releasing a browser to absorb all the transient Arc hype? 👀](https://x.com/branmcconnell/status/1879549454820511759)
 - [@AdamRackis You going to both this year?](https://x.com/branmcconnell/status/1879532191837004138)
 - [@OpenAI After what happened with plugins, I’m not too sure I want to get dependent on any beta features like this 😅](https://x.com/branmcconnell/status/1879531988685861155)
 - [@RhysSullivan Don’t forget the camera capture button on iPhone!](https://x.com/branmcconnell/status/1878896920162341335)
 - [@shadcn @theo Definitely looking forward to this. I’ve been a Pro TypingMind user for years, but little quirks like Cmd+N not working have always been kinda painful. Very impressive software for being written by a small team, but I think https://t.co/sE9PlcjLPE will be a win for everybody.](https://x.com/branmcconnell/status/1878896775857328263)
-- [@jh3yy Looks great 🔥 could you avoid :has&lpar;&rpar; altogether &lpar;for perf reasons, if needed&rpar; with the hidden checkbox trick?](https://x.com/branmcconnell/status/1878891252831363163)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
