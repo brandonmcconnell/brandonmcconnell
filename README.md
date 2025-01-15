@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@rauchg @aisdk this + https://t.co/TW9dGHtgMk would be a match made in dev heaven @brotzky_](https://x.com/branmcconnell/status/1879647921483985342)
 - [@AdamRackis I’ll see you MIA-side 😎](https://x.com/branmcconnell/status/1879580751664226801)
 - [@peduarte Releasing a browser to absorb all the transient Arc hype? 👀](https://x.com/branmcconnell/status/1879549454820511759)
 - [@AdamRackis You going to both this year?](https://x.com/branmcconnell/status/1879532191837004138)
 - [@OpenAI After what happened with plugins, I’m not too sure I want to get dependent on any beta features like this 😅](https://x.com/branmcconnell/status/1879531988685861155)
-- [@RhysSullivan Don’t forget the camera capture button on iPhone!](https://x.com/branmcconnell/status/1878896920162341335)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
