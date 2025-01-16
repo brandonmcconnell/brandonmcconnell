@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [@rauchg @aisdk this + https://t.co/TW9dGHtgMk would be a match made in dev heaven @brotzky_](https://x.com/branmcconnell/status/1879647921483985342)
-- [@AdamRackis I’ll see you MIA-side 😎](https://x.com/branmcconnell/status/1879580751664226801)
-- [@peduarte Releasing a browser to absorb all the transient Arc hype? 👀](https://x.com/branmcconnell/status/1879549454820511759)
-- [@AdamRackis You going to both this year?](https://x.com/branmcconnell/status/1879532191837004138)
-- [@OpenAI After what happened with plugins, I’m not too sure I want to get dependent on any beta features like this 😅](https://x.com/branmcconnell/status/1879531988685861155)
+- [@SteelSeries @SteelSupport any plans to add companion app support for the Arctis Nova 7 and Nova Pro series?](https://x.com/branmcconnell/status/1879939958414487932)
+- [@InterestingSTEM No wonder Hughie quit his job](https://x.com/branmcconnell/status/1879938410565214613)
+- [@jordienr I don’t think this is possible, actually… GitHub blocks the target attribute on links iirc](https://x.com/branmcconnell/status/1879937634933563508)
+- [@raycastapp This looks so good. Does it also block web push notifications from blocked websites?](https://x.com/branmcconnell/status/1879937224680304721)
+- [@adamwathan Oh wow 👀 I’ve been using the Session Pomodoro app forever Gonna have to give Raycast’s a try https://t.co/v0OxPLLvbN](https://x.com/branmcconnell/status/1879936888028778787)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
