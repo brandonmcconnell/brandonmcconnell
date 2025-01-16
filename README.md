@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@pawelkarniej @theo I think the real advantage is the library of Switch-exclusive games you can’t play on PC or Steam](https://x.com/branmcconnell/status/1879982314811519426)
 - [@philipyoungg @adamwathan It looks so intuitive too! So simple to block different apps, websites, and activity types](https://x.com/branmcconnell/status/1879963809135358282)
 - [@SteelSeries @SteelSupport any plans to add companion app support for the Arctis Nova 7 and Nova Pro series?](https://x.com/branmcconnell/status/1879939958414487932)
 - [@InterestingSTEM No wonder Hughie quit his job](https://x.com/branmcconnell/status/1879938410565214613)
 - [@jordienr I don’t think this is possible, actually… GitHub blocks the target attribute on links iirc](https://x.com/branmcconnell/status/1879937634933563508)
-- [@raycastapp This looks so good. Does it also block web push notifications from blocked websites?](https://x.com/branmcconnell/status/1879937224680304721)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
