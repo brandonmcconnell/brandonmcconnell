@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@SteelSupport Sweet! One more question – is there a way to switch the muffs on the Nova Pro for the same muffs used on the Nova 7X? I know the leather is more premium, but it’s not quite as breathable and makes my head hot sometimes. If so, do you sell the muffs separately?](https://x.com/branmcconnell/status/1880302812397203739)
 - [@LeaVerou I am SO excited for this 🎉 been throwing this in the interop proposals every year for years too 😭 it’s finally happening If only value attributes synced with the actual values of fields &lpar;without JS&rpar; and those values could be passed up to global CSS variables… daydreaming 😪](https://x.com/branmcconnell/status/1880145090666275158)
 - [@MaxRovensky @frederikRiedel I used to use that, but it was even more buggy for me and only worked half the time 🥲](https://x.com/branmcconnell/status/1880066243425882388)
 - [@emilkowalski_ If I registered for your course a year ago but haven’t taken it yet, I can still access the course &amp; resources, right? 👀](https://x.com/branmcconnell/status/1880001813983965206)
 - [@SteelSupport Also, there’s no way to wirelessly charge the Arctis Nova Pro headset, right? The primary way to charge the headphones is using the extra battery in the dock?](https://x.com/branmcconnell/status/1879995283523903676)
-- [@pawelkarniej @theo I think the real advantage is the library of Switch-exclusive games you can’t play on PC or Steam](https://x.com/branmcconnell/status/1879982314811519426)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
