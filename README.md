@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@niccruzpatane I can only imagine how long the boarding procedures and safety instructions would take for these flights lol Arrival at port ➞ security &amp; boarding Arrival at bay station ➞ 2nd security &amp; boarding ➞ Bag checks &amp; transfers ➞ Safety checks &amp; instructions Still a huge win](https://x.com/branmcconnell/status/1880475586503798839)
 - [@azizansari Nothing in FL? 🥺](https://x.com/branmcconnell/status/1880462197962535328)
 - [@SteelSupport No worries. Is there another headset that has the same pro -style USB dock but with the other type of muffs?](https://x.com/branmcconnell/status/1880432369871785989)
 - [@SteelSupport Sweet! One more question – is there a way to switch the muffs on the Nova Pro for the same muffs used on the Nova 7X? I know the leather is more premium, but it’s not quite as breathable and makes my head hot sometimes. If so, do you sell the muffs separately?](https://x.com/branmcconnell/status/1880302812397203739)
 - [@LeaVerou I am SO excited for this 🎉 been throwing this in the interop proposals every year for years too 😭 it’s finally happening If only value attributes synced with the actual values of fields &lpar;without JS&rpar; and those values could be passed up to global CSS variables… daydreaming 😪](https://x.com/branmcconnell/status/1880145090666275158)
-- [@MaxRovensky @frederikRiedel I used to use that, but it was even more buggy for me and only worked half the time 🥲](https://x.com/branmcconnell/status/1880066243425882388)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
