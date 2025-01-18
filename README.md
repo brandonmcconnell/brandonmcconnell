@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@jeffrey_way @adamwathan I’m here and going 🙋🏻‍♂️ I was considering heading into the area earlier that day for lunch if anyone is down](https://x.com/branmcconnell/status/1880738744560759214)
 - [@wordpressdotcom Done](https://x.com/branmcconnell/status/1880711203716219360)
 - [@wordpressdotcom my sister-in-law recently moved from one domain to another and is concerned about her SEO. However, it shows that her site is index, but blocked by robots.txt. Is she able to manually make those fixes in her https://t.co/6S5VN2yFtd site? She already worked through Google’s Change of Address tool and got all the redirects set up and validated by Google Search Console.](https://x.com/branmcconnell/status/1880698763284463953)
 - [@niccruzpatane I can only imagine how long the boarding procedures and safety instructions would take for these flights lol Arrival at port ➞ security &amp; boarding Arrival at bay station ➞ 2nd security &amp; boarding ➞ Bag checks &amp; transfers ➞ Safety checks &amp; instructions Still a huge win](https://x.com/branmcconnell/status/1880475586503798839)
 - [@azizansari Nothing in FL? 🥺](https://x.com/branmcconnell/status/1880462197962535328)
-- [@SteelSupport No worries. Is there another headset that has the same pro -style USB dock but with the other type of muffs?](https://x.com/branmcconnell/status/1880432369871785989)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
