@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@wesbos Amazing! Working on my desk setup now, and your cable management is downright enviable What webcam is that?](https://x.com/branmcconnell/status/1881335218025693254)
 - [@wordpressdotcom Thanks! Responded again](https://x.com/branmcconnell/status/1881328122005733461)
 - [@OfficialLoganK @ryanchenkie Did you also fix whatever was causing it to show the legitimate URL next to the scam link? That’s probably the most incriminating piece.](https://x.com/branmcconnell/status/1881182132879622571)
 - [@theo Went ahead and posted my first-ever gaming clip anyway, though admittedly, it feels reactive now lol https://t.co/FPm7T1Iqh1](https://x.com/branmcconnell/status/1880875600875032797)
 - [cc @CallofDuty @CallofDutyComms @BO6CODInformer](https://x.com/branmcconnell/status/1880874701884637676)
-- [@theo As I read through your thread, it’s possible I’m not deep enough in the gaming community to realize any hatred for game devs. I play games now and again and have been getting into COD B06 lately. Several of my friends are Unity devs, and I’ve only ever had awe for game devs.](https://x.com/branmcconnell/status/1880781122067660892)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
