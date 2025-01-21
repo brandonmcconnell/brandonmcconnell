@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@JNYBGR How soon can I ditch https://t.co/rZBLAJkSN1 altogether? 👀](https://x.com/branmcconnell/status/1881606082839384376)
 - [@elmascarado310 Svelte + Tailwind is the way! Tailwind is great with all three of those— React, Vue, and Svelte, bus Svelte is my personal favorite :&rpar;](https://x.com/branmcconnell/status/1881590762992984244)
 - [@sutusebastian @adamwathan The JS config will still work, but they’ve introduced a new default CSS-based config](https://x.com/branmcconnell/status/1881589737326301644)
 - [@adamwathan Let’s goooo 🔥 can’t wait to get all my plugins upgraded for v4](https://x.com/branmcconnell/status/1881589516496261187)
 - [@zeusinsight @creem_io This is way more expensive than stripe lol](https://x.com/branmcconnell/status/1881399741805949122)
-- [@wesbos Amazing! Working on my desk setup now, and your cable management is downright enviable What webcam is that?](https://x.com/branmcconnell/status/1881335218025693254)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
