@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@aidenybai TLC lied to us https://t.co/nEy8BNmR4U](https://x.com/branmcconnell/status/1882091578728276175)
 - [@thdxr Have you by chance posted a video/article/tweet before on how you, specifically, implement sockets &lpar;and reconnecting them&rpar;? Would love to see that 👀🙏🏼](https://x.com/branmcconnell/status/1882075093687529607)
 - [@QitTools @tailwindcss True, v4.0.0 has been tagged but isn’t on @latest yet, so I guess I’m awaiting the official-official release 👀🍿](https://x.com/branmcconnell/status/1882072051604922582)
 - [@vashishtaditya_ @KevinNaughtonJr Next.js, though I’ve heard good things about Nest.js :&rpar;](https://x.com/branmcconnell/status/1882069723325907157)
 - [@thdxr @FruitsnCahoots Great finally meeting you tonight, Dax! Lmk if you ever want to talk shop](https://x.com/branmcconnell/status/1881969393107980414)
-- [Thanks for making this happen. Enjoy the rest of your time down here in soflo 👏🏼 @adamwathan @steveschoger @reinink @malfaitrobin @jordanpittman @DanHollick @PhilippSpiess](https://x.com/branmcconnell/status/1881967406987579395)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
