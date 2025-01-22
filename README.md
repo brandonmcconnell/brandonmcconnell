@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@thdxr @FruitsnCahoots Great finally meeting you tonight, Dax! Lmk if you ever want to talk shop](https://x.com/branmcconnell/status/1881969393107980414)
+- [Thanks for making this happen. Enjoy the rest of your time down here in soflo 👏🏼 @adamwathan @steveschoger @reinink @malfaitrobin @jordanpittman @DanHollick @PhilippSpiess](https://x.com/branmcconnell/status/1881967406987579395)
 - [@guilherme_rodz @firecrawl_dev Looks great, as always 🔥 With tailwind v4, you might be able do all these transforms using built-in utilities without relying on any plugins or arbitrary styles 💯](https://x.com/branmcconnell/status/1881963072522444998)
 - [@KevinNaughtonJr Vercel &lpar;host&rpar; Next.js &lpar;BE framework&rpar; React &lpar;FE framework&rpar; Tailwind CSS &lpar;CSS framework&rpar; Typescript &lpar;JS minus the fuss&rpar; Supabase &lpar;database, auth, storage&rpar;](https://x.com/branmcconnell/status/1881961221165133898)
 - [@argyleink I mean… it functions well, and it’s a programming language, so one could make the argument 🤭](https://x.com/branmcconnell/status/1881957023828594977)
-- [@JNYBGR How soon can I ditch https://t.co/rZBLAJkSN1 altogether? 👀](https://x.com/branmcconnell/status/1881606082839384376)
-- [@elmascarado310 Svelte + Tailwind is the way! Tailwind is great with all three of those— React, Vue, and Svelte, bus Svelte is my personal favorite :&rpar;](https://x.com/branmcconnell/status/1881590762992984244)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
