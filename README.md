@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@_coopergadd @jh3yy @raycastapp Figures haha. That display is unparalleled. Did you get the nano-textured glass?](https://x.com/branmcconnell/status/1882116916824961079)
+- [@_coopergadd @jh3yy @raycastapp What monitor is it? I&#39;m in the market now 👀](https://x.com/branmcconnell/status/1882115459795079578)
 - [@aidenybai TLC lied to us https://t.co/nEy8BNmR4U](https://x.com/branmcconnell/status/1882091578728276175)
 - [@thdxr Have you by chance posted a video/article/tweet before on how you, specifically, implement sockets &lpar;and reconnecting them&rpar;? Would love to see that 👀🙏🏼](https://x.com/branmcconnell/status/1882075093687529607)
-- [@QitTools @tailwindcss True, v4.0.0 has been tagged but isn’t on @latest yet, so I guess I’m awaiting the official-official release 👀��](https://x.com/branmcconnell/status/1882072051604922582)
-- [@vashishtaditya_ @KevinNaughtonJr Next.js, though I’ve heard good things about Nest.js :&rpar;](https://x.com/branmcconnell/status/1882069723325907157)
-- [@thdxr @FruitsnCahoots Great finally meeting you tonight, Dax! Lmk if you ever want to talk shop](https://x.com/branmcconnell/status/1881969393107980414)
+- [@QitTools @tailwindcss True, v4.0.0 has been tagged but isn’t on @latest yet, so I guess I’m awaiting the official-official release 👀🍿](https://x.com/branmcconnell/status/1882072051604922582)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
