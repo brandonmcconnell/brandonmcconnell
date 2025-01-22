@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@guilherme_rodz @firecrawl_dev Looks great, as always 🔥 With tailwind v4, you might be able do all these transforms using built-in utilities without relying on any plugins or arbitrary styles 💯](https://x.com/branmcconnell/status/1881963072522444998)
+- [@KevinNaughtonJr Vercel &lpar;host&rpar; Next.js &lpar;BE framework&rpar; React &lpar;FE framework&rpar; Tailwind CSS &lpar;CSS framework&rpar; Typescript &lpar;JS minus the fuss&rpar; Supabase &lpar;database, auth, storage&rpar;](https://x.com/branmcconnell/status/1881961221165133898)
+- [@argyleink I mean… it functions well, and it’s a programming language, so one could make the argument 🤭](https://x.com/branmcconnell/status/1881957023828594977)
 - [@JNYBGR How soon can I ditch https://t.co/rZBLAJkSN1 altogether? 👀](https://x.com/branmcconnell/status/1881606082839384376)
 - [@elmascarado310 Svelte + Tailwind is the way! Tailwind is great with all three of those— React, Vue, and Svelte, bus Svelte is my personal favorite :&rpar;](https://x.com/branmcconnell/status/1881590762992984244)
-- [@sutusebastian @adamwathan The JS config will still work, but they’ve introduced a new default CSS-based config](https://x.com/branmcconnell/status/1881589737326301644)
-- [@adamwathan Let’s goooo 🔥 can’t wait to get all my plugins upgraded for v4](https://x.com/branmcconnell/status/1881589516496261187)
-- [@zeusinsight @creem_io This is way more expensive than stripe lol](https://x.com/branmcconnell/status/1881399741805949122)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
