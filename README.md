@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [RT @adamwathan: ✨ Tailwind CSS v4.0 is here! Huge performance improvements, radically simplified setup experience, CSS-first configuration…](https://x.com/adamwathan/status/1882219476600635677)
+- [@chuga Hi, Andres! I have an idea in mind which I think could really enhance the experience for the lives of those using Copilot, but as a 3rd-party app. Is there a way I can integrate with Copilot via an API to perform queries like: – get list of categories &lpar;with spent &amp; budget figures&rpar; – recurring payment details – list of transactions – etc. I could build this with Plaid directly, but much of my idea involves budgeting, and I would rather partner with Copilot and allow users to craft those budgets in Copilot and then be able to reference them in my app than to compete and have users redefine their budgets all over again. Thanks, and keep up the awesome work! My wife and I are long-time us](https://x.com/branmcconnell/status/1882222674602008630)
 - [@The8uff3r @adamwathan Everything you did in v3 still works 99% the same. The Tailwind Labs team is just adding additional CSS features natively into v4. In v3, the same rule would’ve looked like this: supports-[not_&lpar;hanging-punctation:var&lpar;--tw&rpar;&rpar;]:px-4 This is drastically simplified now 🙂](https://x.com/branmcconnell/status/1882185333313560720)
 - [@_coopergadd @jh3yy @raycastapp Figures haha. That display is unparalleled. Did you get the nano-textured glass?](https://x.com/branmcconnell/status/1882116916824961079)
 - [@_coopergadd @jh3yy @raycastapp What monitor is it? I&#39;m in the market now 👀](https://x.com/branmcconnell/status/1882115459795079578)
-- [@aidenybai TLC lied to us https://t.co/nEy8BNmR4U](https://x.com/branmcconnell/status/1882091578728276175)
-- [@thdxr Have you by chance posted a video/article/tweet before on how you, specifically, implement sockets &lpar;and reconnecting them&rpar;? Would love to see that 👀🙏🏼](https://x.com/branmcconnell/status/1882075093687529607)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
