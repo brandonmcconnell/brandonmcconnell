@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@kentcdodds Thanks!](https://x.com/branmcconnell/status/1882639053914599591)
 - [@kentcdodds I don’t see my courses listed on https://t.co/sb8QFbvxAR, though I did purchase the Pixel Perfect Figma to Tailwind workshop and was told I’d have access after the workshop concluded. Help? :&rpar; https://t.co/t7Fq7dutio](https://x.com/branmcconnell/status/1882628424138989860)
 - [@jh3yy snazzy! i’ve been meaning to get around to prototyping the same concept inspired by dropbox your creative touch on the transforms is so nice 👌🏼](https://x.com/branmcconnell/status/1882623715038618077)
 - [@steveschoger See THIS is what I was talking about the other night 😆🤘](https://x.com/branmcconnell/status/1882507674572697604)
 - [@Qu_ntin_ @Una Same. I’m honestly more excited about this than I was about :has&lpar;&rpar; and nesting lol](https://x.com/branmcconnell/status/1882302580887588885)
-- [@mancow_ @KevinNaughtonJr JS is beautiful, but TS has saved me so many headaches since adopting it 😜](https://x.com/branmcconnell/status/1882288987370553542)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
