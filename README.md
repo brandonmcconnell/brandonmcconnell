@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@kentcdodds I don’t see my courses listed on https://t.co/sb8QFbvxAR, though I did purchase the Pixel Perfect Figma to Tailwind workshop and was told I’d have access after the workshop concluded. Help? :&rpar; https://t.co/t7Fq7dutio](https://x.com/branmcconnell/status/1882628424138989860)
+- [@jh3yy snazzy! i’ve been meaning to get around to prototyping the same concept inspired by dropbox your creative touch on the transforms is so nice 👌🏼](https://x.com/branmcconnell/status/1882623715038618077)
 - [@steveschoger See THIS is what I was talking about the other night 😆🤘](https://x.com/branmcconnell/status/1882507674572697604)
 - [@Qu_ntin_ @Una Same. I’m honestly more excited about this than I was about :has&lpar;&rpar; and nesting lol](https://x.com/branmcconnell/status/1882302580887588885)
 - [@mancow_ @KevinNaughtonJr JS is beautiful, but TS has saved me so many headaches since adopting it 😜](https://x.com/branmcconnell/status/1882288987370553542)
-- [RT @adamwathan: ✨ Tailwind CSS v4.0 is here! Huge performance improvements, radically simplified setup experience, CSS-first configuration…](https://x.com/adamwathan/status/1882219476600635677)
-- [@chuga Hi, Andres! I have an idea in mind which I think could really enhance the experience for the lives of those using Copilot, but as a 3rd-party app. Is there a way I can integrate with Copilot via an API to perform queries like: – get list of categories &lpar;with spent &amp; budget figures&rpar; – recurring payment details – list of transactions – etc. I could build this with Plaid directly, but much of my idea involves budgeting, and I would rather partner with Copilot and allow users to craft those budgets in Copilot and then be able to reference them in my app than to compete and have users redefine their budgets all over again. Thanks, and keep up the awesome work! My wife and I are long-time us](https://x.com/branmcconnell/status/1882222674602008630)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
