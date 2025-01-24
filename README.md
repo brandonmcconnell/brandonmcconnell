@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@wesbos This is so cool. I’ve been loving following this journey. 😄 Now… can you tap into the lidar sensor and render it live? 👀](https://x.com/branmcconnell/status/1882897017896399089)
 - [@mattpocockuk @itaythepriest Is it still possible to correctly and fully type classes without that?](https://x.com/branmcconnell/status/1882881656186630203)
 - [@kentcdodds Thanks!](https://x.com/branmcconnell/status/1882639053914599591)
 - [@kentcdodds I don’t see my courses listed on https://t.co/sb8QFbvxAR, though I did purchase the Pixel Perfect Figma to Tailwind workshop and was told I’d have access after the workshop concluded. Help? :&rpar; https://t.co/t7Fq7dutio](https://x.com/branmcconnell/status/1882628424138989860)
 - [@jh3yy snazzy! i’ve been meaning to get around to prototyping the same concept inspired by dropbox your creative touch on the transforms is so nice 👌🏼](https://x.com/branmcconnell/status/1882623715038618077)
-- [@steveschoger See THIS is what I was talking about the other night 😆🤘](https://x.com/branmcconnell/status/1882507674572697604)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
