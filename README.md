@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@wesbos I’d love to see that. You could drive it around while rendering the canvas like a video game, maybe even use different colors or thicknesses for depth mapping 🤷🏻‍♂️](https://x.com/branmcconnell/status/1882904799966106027)
+- [I didn’t use them for the longest time, but now they’re one of my favorite features 🥲 I love being able to reference enum values like `let someVar: MyEnum = MyEnum.A` You can sort of replace it with `const … as const` but it necessitates using `keyof` iirc const MyEnum = { A: 1, B: 2, }; let someVar: MyEnum[keyof MyEnum] = MyEnum.A; This approach also allows people to pass in explicit primitives like 1 or 2 instead of forcing them to use the enum-like &lpar;e.g. MyEnum.A&rpar; I think there’s some trick with “branding” an object to add that additional requirement, but I’m not 100% sure. If there is, I might just need to add some type helpers to achieve at least this: const MyEnum = createEnumLike&lpar;{ A](https://x.com/branmcconnell/status/1882904025080754660)
 - [@wesbos This is so cool. I’ve been loving following this journey. 😄 Now… can you tap into the lidar sensor and render it live? 👀](https://x.com/branmcconnell/status/1882897017896399089)
 - [@mattpocockuk @itaythepriest Is it still possible to correctly and fully type classes without that?](https://x.com/branmcconnell/status/1882881656186630203)
 - [@kentcdodds Thanks!](https://x.com/branmcconnell/status/1882639053914599591)
-- [@kentcdodds I don’t see my courses listed on https://t.co/sb8QFbvxAR, though I did purchase the Pixel Perfect Figma to Tailwind workshop and was told I’d have access after the workshop concluded. Help? :&rpar; https://t.co/t7Fq7dutio](https://x.com/branmcconnell/status/1882628424138989860)
-- [@jh3yy snazzy! i’ve been meaning to get around to prototyping the same concept inspired by dropbox your creative touch on the transforms is so nice 👌🏼](https://x.com/branmcconnell/status/1882623715038618077)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
