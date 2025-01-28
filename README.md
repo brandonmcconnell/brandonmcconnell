@@ -52,7 +52,7 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [@thdxr Not for anything serious but for this random VSCode extension https://t.co/K1gpY8ipFM](https://x.com/branmcconnell/status/1884044505499971969)
+- [@thdxr Not for anything serious but for this random VSCode extension](https://x.com/branmcconnell/status/1884044505499971969)
 - [@aidenybai I’ve gotta check out this library! I’ve done this sort of thing before, but only from scratch using canvas](https://x.com/branmcconnell/status/1884010712424669355)
 - [@chrisparkX Every mainstream social media app pivoting to reels is what soiled them all for me in the first place and brought me here](https://x.com/branmcconnell/status/1883360326986748159)
 - [@theysaymaurya @theo Isn’t edge still chromium based?](https://x.com/branmcconnell/status/1883244906485047503)
