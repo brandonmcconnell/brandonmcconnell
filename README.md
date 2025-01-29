@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@PrayagBhakar @aidenybai It’s possible with JS – syncing the value attribute and property, as well as watching for new characters. You just can’t detect CSS selector changes for repeated chars, &amp; you can’t detect value attribute changes, since the value attr doesn’t inherently reflect input changes.](https://x.com/branmcconnell/status/1884620709952967076)
 - [@aidenybai I think this would still require JS, since the value attribute doesn’t change when the value property does. This also wouldn’t account for repeated letters &lpar;e.g. &quot;aaa&quot; would all trigger the same background URL and thus not trigger a new hit to the keylogger hook IIUC&rpar;.](https://x.com/branmcconnell/status/1884333708368576899)
 - [@brotzky_ Did you build yours from the ground up, or did you use a package like atlassian/pragmatic-drag-and-drop?](https://x.com/branmcconnell/status/1884331884622352700)
 - [@brotzky_ @theo I haven’t actually tried DeepSeek yet, but everything I’ve seen so far claims that it far surpasses o1. Is that not true?](https://x.com/branmcconnell/status/1884331551258992745)
 - [@thdxr Not for anything serious but for this random VSCode extension](https://x.com/branmcconnell/status/1884044505499971969)
-- [@aidenybai I’ve gotta check out this library! I’ve done this sort of thing before, but only from scratch using canvas](https://x.com/branmcconnell/status/1884010712424669355)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
