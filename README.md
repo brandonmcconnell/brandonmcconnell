@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@adamwathan Love it. One of the simplest and easiest auth &amp; db setups I’ve ever used, and it comes packed with features. Not to mention, the built-in AI features are actually super useful and practical. Useful that they offer storage and RLS too. cc @kiwicopple](https://x.com/branmcconnell/status/1885076288307659125)
 - [@RhysSullivan I have a shortcut installed on my Mac that superpowers the context menu with features like that Some options: XtraFinder  Right Click Booster  DIY:  or you could use](https://x.com/branmcconnell/status/1885027828359369111)
 - [@soren_iverson This isn’t a half bad idea lol](https://x.com/branmcconnell/status/1884783880747536867)
 - [I think it would respond if the value attribute were updated, but it would rely on JS in order to be updated, since the HTML value attribute don’t sync with user-entered values &lpar;value property vs. value attribute&rpar;](https://x.com/branmcconnell/status/1884783433764708787)
 - [@adamwathan @jh3yy @brotzky_ Sounds like you’ve probably already tried that though](https://x.com/branmcconnell/status/1884688178528813074)
-- [@ryanflorence I think you’re onto something here](https://x.com/branmcconnell/status/1884640321805648073)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
