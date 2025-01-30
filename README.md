@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@startupbaniya @kiwicopple @adamwathan Sounds fair to me!](https://x.com/branmcconnell/status/1885087745002893480)
 - [@simonswiss @joshcirre @chris__sev I just started using mine last week, and I’m loving it so far! I haven’t used it for anything serious yet, but it was a breeze to set up and works exactly as I’d expect](https://x.com/branmcconnell/status/1885078914369781811)
 - [@startupbaniya @adamwathan I haven’t run into that with my own apps yet](https://x.com/branmcconnell/status/1885076770342244838)
 - [@adamwathan Love it. One of the simplest and easiest auth &amp; db setups I’ve ever used, and it comes packed with features. Not to mention, the built-in AI features are actually super useful and practical. Useful that they offer storage and RLS too. cc @kiwicopple](https://x.com/branmcconnell/status/1885076288307659125)
 - [@RhysSullivan I have a shortcut installed on my Mac that superpowers the context menu with features like that Some options: XtraFinder  Right Click Booster  DIY:  or you could use](https://x.com/branmcconnell/status/1885027828359369111)
-- [@soren_iverson This isn’t a half bad idea lol](https://x.com/branmcconnell/status/1884783880747536867)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
