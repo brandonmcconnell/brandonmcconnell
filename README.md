@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@soren_iverson This isn’t a half bad idea lol](https://x.com/branmcconnell/status/1884783880747536867)
+- [I think it would respond if the value attribute were updated, but it would rely on JS in order to be updated, since the HTML value attribute don’t sync with user-entered values &lpar;value property vs. value attribute&rpar;](https://x.com/branmcconnell/status/1884783433764708787)
 - [@adamwathan @jh3yy @brotzky_ Sounds like you’ve probably already tried that though](https://x.com/branmcconnell/status/1884688178528813074)
 - [@ryanflorence I think you’re onto something here](https://x.com/branmcconnell/status/1884640321805648073)
 - [@wesbos What are some of the most key differences you’ve noticed so far?](https://x.com/branmcconnell/status/1884638627742744670)
-- [attn @copilotmoney 👨🏻‍💻👋🏼](https://x.com/branmcconnell/status/1884636111600796044)
-- [@PrayagBhakar @aidenybai It’s possible with JS – syncing the value attribute and property, as well as watching for new characters. You just can’t detect CSS selector changes for repeated chars, &amp; you can’t detect value attribute changes, since the value attr doesn’t inherently reflect input changes.](https://x.com/branmcconnell/status/1884620709952967076)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
