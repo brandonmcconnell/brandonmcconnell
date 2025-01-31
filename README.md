@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [@theo oooooooooo ty 🥹](https://x.com/branmcconnell/status/1885186391996326168)
-- [@theo Beyond excited for this one Gonna make a day of watching through it and recommend it to all my junior friends who keep hitting me up for full-stack app dev tutorials](https://x.com/branmcconnell/status/1885185961203527877)
-- [@steventey @dubdotco Did he just up and delete his account permanently?? 🫢](https://x.com/branmcconnell/status/1885183888156242398)
-- [@startupbaniya @kiwicopple @adamwathan Sounds fair to me!](https://x.com/branmcconnell/status/1885087745002893480)
-- [@simonswiss @joshcirre @chris__sev I just started using mine last week, and I’m loving it so far! I haven’t used it for anything serious yet, but it was a breeze to set up and works exactly as I’d expect](https://x.com/branmcconnell/status/1885078914369781811)
+- [@AppleTV @AppleBooks Where can I snag the innie version? I have specific verbiajjjjje I respond best to.](https://x.com/branmcconnell/status/1885390296575345076)
+- [@zephilim @RhysSullivan Even better ☝🏼 though I’d probably just add a custom item to my context menu to make it simpler](https://x.com/branmcconnell/status/1885387569766060352)
+- [@JaceOSweet @MrBeast His content is not made for children lol. So much of it is actually more geared for 20-30 y/o’s](https://x.com/branmcconnell/status/1885387346813571178)
+- [@JaceOSweet @MrBeast Adult here 🙋🏻‍♂️ this show slaps](https://x.com/branmcconnell/status/1885387202449858886)
+- [@MrBeast Brutal 😜 Best reality game show I’ve watched in years. Keep killing it 🔥](https://x.com/branmcconnell/status/1885386636604661920)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
