@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@TonyAdams1893 @Noxofn1 @ANICONTEXT @JaceOSweet @MrBeast All that success and still nothing better to do with all that time saved than troll people on social media lol](https://x.com/branmcconnell/status/1885780471398662283)
+- [@Defaltrz @JaceOSweet @MrBeast that date in your bio must be your bday lol](https://x.com/branmcconnell/status/1885458483052511666)
+- [@TMDuze @JaceOSweet @MrBeast 👴🏼👋🏼](https://x.com/branmcconnell/status/1885458173470924823)
+- [@J_Will904 @JaceOSweet @MrBeast &lpar;1&rpar; glad you know your rights &lpar;2&rpar; b/c you’re the adult police lol &lpar;3&rpar; 😘](https://x.com/branmcconnell/status/1885458000942383369)
 - [@AppleTV @AppleBooks Where can I snag the innie version? I have specific verbiajjjjje I respond best to.](https://x.com/branmcconnell/status/1885390296575345076)
-- [@zephilim @RhysSullivan Even better ☝🏼 though I’d probably just add a custom item to my context menu to make it simpler](https://x.com/branmcconnell/status/1885387569766060352)
-- [@JaceOSweet @MrBeast His content is not made for children lol. So much of it is actually more geared for 20-30 y/o’s](https://x.com/branmcconnell/status/1885387346813571178)
-- [@JaceOSweet @MrBeast Adult here 🙋🏻‍♂️ this show slaps](https://x.com/branmcconnell/status/1885387202449858886)
-- [@MrBeast Brutal 😜 Best reality game show I’ve watched in years. Keep killing it 🔥](https://x.com/branmcconnell/status/1885386636604661920)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
