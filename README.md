@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@leeerob I really admire Solomon ZurSchmiede’s work solomon@illustratedbee.com illustrated.bee on ig](https://x.com/branmcconnell/status/1886173243049963611)
+- [@0xferruccio It’d be neat for the popover to automatically downsize when it doesn’t need the full height](https://x.com/branmcconnell/status/1886172040727556378)
+- [@simonswiss @shadcn 🤮🧥🤰🏼🍝](https://x.com/branmcconnell/status/1886171572169220538)
 - [@TonyAdams1893 @Noxofn1 @ANICONTEXT @JaceOSweet @MrBeast All that success and still nothing better to do with all that time saved than troll people on social media lol](https://x.com/branmcconnell/status/1885780471398662283)
 - [@Defaltrz @JaceOSweet @MrBeast that date in your bio must be your bday lol](https://x.com/branmcconnell/status/1885458483052511666)
-- [@TMDuze @JaceOSweet @MrBeast 👴🏼👋🏼](https://x.com/branmcconnell/status/1885458173470924823)
-- [@J_Will904 @JaceOSweet @MrBeast &lpar;1&rpar; glad you know your rights &lpar;2&rpar; b/c you’re the adult police lol &lpar;3&rpar; 😘](https://x.com/branmcconnell/status/1885458000942383369)
-- [@AppleTV @AppleBooks Where can I snag the innie version? I have specific verbiajjjjje I respond best to.](https://x.com/branmcconnell/status/1885390296575345076)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
