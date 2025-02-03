@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@simonswiss @laracasts She’s doing so well. We were looking at photos from her first month here, and it’s amazing to see how much she’s changed in just a few months. I can’t keep up! 🤗](https://x.com/branmcconnell/status/1886332290315288835)
+- [@0xferruccio Exactly 😁 maybe do that by default unless the client has reduce-motion enabled](https://x.com/branmcconnell/status/1886331393585639875)
 - [@joshmanders @simonswiss @laracasts Jones away](https://x.com/branmcconnell/status/1886253065789231191)
 - [@simonswiss @laracasts Amazing! Officially starting my first day back at work from parentally in 10 hours 😁](https://x.com/branmcconnell/status/1886253011757871200)
 - [@simonswiss fwiw I did manage to get them both working as expected and the control center app usually works &lpar;99% of the time&rpar; I also purchased the Elgato light remote for them which really helps to adjust them in a pinch. Also helpful enough to be able to manage them using a Stream Deck](https://x.com/branmcconnell/status/1886252784816926852)
-- [@leeerob I really admire Solomon ZurSchmiede’s work solomon@illustratedbee.com illustrated.bee on ig](https://x.com/branmcconnell/status/1886173243049963611)
-- [@0xferruccio It’d be neat for the popover to automatically downsize when it doesn’t need the full height](https://x.com/branmcconnell/status/1886172040727556378)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
