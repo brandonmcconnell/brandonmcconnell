@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@joshmanders @simonswiss @laracasts Jones away](https://x.com/branmcconnell/status/1886253065789231191)
+- [@simonswiss @laracasts Amazing! Officially starting my first day back at work from parentally in 10 hours 😁](https://x.com/branmcconnell/status/1886253011757871200)
+- [@simonswiss fwiw I did manage to get them both working as expected and the control center app usually works &lpar;99% of the time&rpar; I also purchased the Elgato light remote for them which really helps to adjust them in a pinch. Also helpful enough to be able to manage them using a Stream Deck](https://x.com/branmcconnell/status/1886252784816926852)
 - [@leeerob I really admire Solomon ZurSchmiede’s work solomon@illustratedbee.com illustrated.bee on ig](https://x.com/branmcconnell/status/1886173243049963611)
 - [@0xferruccio It’d be neat for the popover to automatically downsize when it doesn’t need the full height](https://x.com/branmcconnell/status/1886172040727556378)
-- [@simonswiss @shadcn 🤮🧥🤰🏼🍝](https://x.com/branmcconnell/status/1886171572169220538)
-- [@TonyAdams1893 @Noxofn1 @ANICONTEXT @JaceOSweet @MrBeast All that success and still nothing better to do with all that time saved than troll people on social media lol](https://x.com/branmcconnell/status/1885780471398662283)
-- [@Defaltrz @JaceOSweet @MrBeast that date in your bio must be your bday lol](https://x.com/branmcconnell/status/1885458483052511666)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
