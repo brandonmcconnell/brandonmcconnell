@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [TS quirk of the day— Why does TS complain about this? typeof label === &#39;string&#39; &amp;&amp; `${label}s` || label.plural …but accept this? typeof label === &#39;string&#39; ? `${label}s` : label.plural Example: tsplay.dev/weYZBw — afaict the first will also always be truthy…](https://x.com/branmcconnell/status/1890511899420418099)
 - [@simonswiss @laracasts She’s doing so well. We were looking at photos from her first month here, and it’s amazing to see how much she’s changed in just a few months. I can’t keep up! 🤗](https://x.com/branmcconnell/status/1886332290315288835)
 - [@0xferruccio Exactly 😁 maybe do that by default unless the client has reduce-motion enabled](https://x.com/branmcconnell/status/1886331393585639875)
 - [@joshmanders @simonswiss @laracasts Jones away](https://x.com/branmcconnell/status/1886253065789231191)
 - [@simonswiss @laracasts Amazing! Officially starting my first day back at work from parentally in 10 hours 😁](https://x.com/branmcconnell/status/1886253011757871200)
-- [@simonswiss fwiw I did manage to get them both working as expected and the control center app usually works &lpar;99% of the time&rpar; I also purchased the Elgato light remote for them which really helps to adjust them in a pinch. Also helpful enough to be able to manage them using a Stream Deck](https://x.com/branmcconnell/status/1886252784816926852)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
