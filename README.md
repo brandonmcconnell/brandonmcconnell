@@ -52,7 +52,7 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [TS quirk of the day— Why does TS complain about this? typeof label === &#39;string&#39; &amp;&amp; `${label}s` || label.plural …but accept this? typeof label === &#39;string&#39; ? `${label}s` : label.plural Example: tsplay.dev/weYZBw — afaict the first will also always be truthy…](https://x.com/branmcconnell/status/1890511899420418099)
+- [TS quirk of the day— Why does TS complain about this? typeof label === &#39;string&#39; &amp;&amp; `${label}s` || label.plural …but accept this? typeof label === &#39;string&#39; ? `${label}s` : label.plural Example:  — afaict the first will also always be truthy…](https://x.com/branmcconnell/status/1890511899420418099)
 - [@simonswiss @laracasts She’s doing so well. We were looking at photos from her first month here, and it’s amazing to see how much she’s changed in just a few months. I can’t keep up! 🤗](https://x.com/branmcconnell/status/1886332290315288835)
 - [@0xferruccio Exactly 😁 maybe do that by default unless the client has reduce-motion enabled](https://x.com/branmcconnell/status/1886331393585639875)
 - [@joshmanders @simonswiss @laracasts Jones away](https://x.com/branmcconnell/status/1886253065789231191)
