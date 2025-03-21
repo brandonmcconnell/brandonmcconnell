@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [It&#39;s so satisfying to encounter a problem and realize you built the perfect fix for it ages ago that still works like magic Imagine writing every style over and over again for every condition you need to target tailwindcss-signals 📡 simplifying and de-duping tailwind utility…](https://x.com/branmcconnell/status/1903128516704735567)
 - [I&#39;m a long-time typeface—and now, AI—enthusiast and frontend engineer. Hmu if you want to collab on this. I probably can&#39;t build the core AI tooling around training and building constructing the fonts, but I can make this product look irresistible. 🔥](https://x.com/branmcconnell/status/1902399429585342938)
 - [I&#39;m looking at you, @glyphsapp @Fontlab @roboFontEditor @FontForge @highlogic @FontStruct @glyphrstudio @fontself Maybe even discount subscriptions for those who opt into training models on their usage. Essentially  for fonts.](https://x.com/branmcconnell/status/1902399428280860712)
 - [Big AI idea here — Generative fonts AI tool you prompt to design and iterate typefaces – owned by you – hosted on lightning fast™ CDNs – easily distributable on JS registries – trained on OSS/MIT-licensed fonts and participating foundries Why does this not exist?](https://x.com/branmcconnell/status/1902399426867364007)
 - [Mix this with sibling-count&lpar;&rpar;, sibling-index&lpar;&rpar;, and CSS functions, and soon, we&#39;ll be able to build utilities like… --in-first-column&lpar;&rpar; --in-last-column&lpar;&rpar; --in-nth-column&lpar;N&rpar; --in-first-row&lpar;&rpar; --in-last-row&lpar;&rpar; --in-nth-row&lpar;N&rpar; We can get close with CSS vars, but this is better 🙌](https://x.com/branmcconnell/status/1902030988416520609)
-- [TS quirk of the day— Why does TS complain about this? typeof label === &#39;string&#39; &amp;&amp; `${label}s` || label.plural …but accept this? typeof label === &#39;string&#39; ? `${label}s` : label.plural Example: tsplay.dev/weYZBw — afaict the first will also always be truthy…](https://x.com/branmcconnell/status/1890511899420418099)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
