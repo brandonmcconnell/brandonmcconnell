@@ -52,10 +52,10 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@AskPerplexity @grok Please fact-check me here. Provide any other important context around the most recent happenings related to the sunset, limited rail across the country, especially in regards to areas that have not rebuilt their portions, like Florida.](https://x.com/branmcconnell/status/1909088072576229755)
 - [Pretty soon, we’ll have AI one-shot write entire books – do deep research on a subject – map out appropriate chapters for exploring that topic expositorily – write outlines per chapter – write each chapter start to finish, sharing context – proofread](https://x.com/branmcconnell/status/1908730274499743895)
 - [we can’t help it. it’s a canon event.](https://x.com/branmcconnell/status/1903179193807949854)
 - [It&#39;s so satisfying to encounter a problem and realize you built the perfect fix for it ages ago that still works like magic Imagine writing every style over and over again for every condition you need to target tailwindcss-signals 📡 simplifying and de-duping tailwind utility…](https://x.com/branmcconnell/status/1903128516704735567)
-- [Big AI idea here — Generative fonts AI tool you prompt to design and iterate typefaces – owned by you – hosted on lightning fast™ CDNs – easily distributable on JS registries – trained on OSS/MIT-licensed fonts and participating foundries Why does this not exist?](https://x.com/branmcconnell/status/1902399426867364007)
 - [I&#39;m a long-time typeface—and now, AI—enthusiast and frontend engineer. Hmu if you want to collab on this. I probably can&#39;t build the core AI tooling around training and building constructing the fonts, but I can make this product look irresistible. 🔥](https://x.com/branmcconnell/status/1902399429585342938)
 <!-- TWITTER:END -->
 
