@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [tfw you interrupt a windsurf dev during a zoom meeting. total accident… probably just blew this whole acquisition 🤦🏻‍♂️](https://x.com/branmcconnell/status/1913344958875967950)
 - [.@AskPerplexity Is there some law against trademarking generic terms &lpar;e.g. chicken nuggets&rpar;? Relate this to the ongoing debate about @figma’s cease-and-desist to @lovable_dev re their trademark of “Dev Mode” and whether the term should be trademark-able in that domain or not.](https://x.com/branmcconnell/status/1912371693965689039)
 - [@AskPerplexity @grok Please fact-check me here. Provide any other important context around the most recent happenings related to the sunset, limited rail across the country, especially in regards to areas that have not rebuilt their portions, like Florida.](https://x.com/branmcconnell/status/1909088072576229755)
 - [Pretty soon, we’ll have AI one-shot write entire books – do deep research on a subject – map out appropriate chapters for exploring that topic expositorily – write outlines per chapter – write each chapter start to finish, sharing context – proofread](https://x.com/branmcconnell/status/1908730274499743895)
 - [we can’t help it. it’s a canon event.](https://x.com/branmcconnell/status/1903179193807949854)
-- [It&#39;s so satisfying to encounter a problem and realize you built the perfect fix for it ages ago that still works like magic Imagine writing every style over and over again for every condition you need to target tailwindcss-signals 📡 simplifying and de-duping tailwind utility…](https://x.com/branmcconnell/status/1903128516704735567)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
