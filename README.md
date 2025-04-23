@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [Possible timeline anomaly identified 🚨 [WHAT IF…?] @Adobe acquires @splinetool and builds it into the ultimate Adobe Flash successor ✅ web-native &lpar;no plugin required&rpar; ✅ unified 3D + 2D animation ✅ collaborative real-time editing ✅ first-class WebGL support ✅ built-in…](https://x.com/branmcconnell/status/1915127360615059519)
 - [React Miami 2025 was one of the best conferences I’ve been to in a long time I already purchased my ticket for next year, and I couldn’t be more pumped 🙌🏼 Don’t miss this](https://x.com/branmcconnell/status/1914360690804187335)
 - [This is sad. I was just talking about this. I use em dashes constantly, but now, people regularly ask me if I used AI to generate something I wrote. AI is literally-literally changing the way I write, and I’m less than thrilled. 😒](https://x.com/branmcconnell/status/1914044752783376753)
 - [React conf audiences be like](https://x.com/branmcconnell/status/1913468988002075053)
 - [tfw you interrupt a windsurf dev during a zoom meeting. total accident… probably just blew this whole acquisition 🤦🏻‍♂️](https://x.com/branmcconnell/status/1913344958875967950)
-- [.@AskPerplexity Is there some law against trademarking generic terms &lpar;e.g. chicken nuggets&rpar;? Relate this to the ongoing debate about @figma’s cease-and-desist to @lovable_dev re their trademark of “Dev Mode” and whether the term should be trademark-able in that domain or not.](https://x.com/branmcconnell/status/1912371693965689039)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
