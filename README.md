@@ -52,7 +52,7 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [Thanks to @branmcconnell’s amazing suggestion I’ve shipped a toggle HDR button. Try going here three-hdr-support.vercel.app/examples/#webg… and toggling on/off to see what a difference HDR makes to light sources!](https://x.com/samddenty/status/1916157742907101671)
+- [Thanks to @branmcconnell’s amazing suggestion I’ve shipped a toggle HDR button. Try going here  and toggling on/off to see what a difference HDR makes to light sources!](https://x.com/samddenty/status/1916157742907101671)
 - [Possible timeline anomaly identified 🚨 [WHAT IF…?] @Adobe acquires @splinetool and builds it into the ultimate Adobe Flash successor ✅ web-native &lpar;no plugin required&rpar; ✅ unified 3D + 2D animation ✅ collaborative real-time editing ✅ first-class WebGL support ✅ built-in…](https://x.com/branmcconnell/status/1915127360615059519)
 - [React Miami 2025 was one of the best conferences I’ve been to in a long time I already purchased my ticket for next year, and I couldn’t be more pumped 🙌🏼 Don’t miss this](https://x.com/branmcconnell/status/1914360690804187335)
 - [This is sad. I was just talking about this. I use em dashes constantly, but now, people regularly ask me if I used AI to generate something I wrote. AI is literally-literally changing the way I write, and I’m less than thrilled. 😒](https://x.com/branmcconnell/status/1914044752783376753)
