@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [If you&#39;ve ever rolled tooltips from scratch—oof—you know what a pain they can be to implement Recently, CSS made it much easier and today… that&#39;s coming to Tailwind CSS. Anchors for Tailwind CSS 🌻 — unlocking the full CSS Anchor Positioning spec with sensible syntax 🔗👇](https://x.com/branmcconnell/status/1917397916265628048)
 - [Thanks to @branmcconnell’s amazing suggestion I’ve shipped a toggle HDR button. Try going here three-hdr-support.vercel.app/examples/#webg… and toggling on/off to see what a difference HDR makes to light sources!](https://x.com/samddenty/status/1916157742907101671)
 - [Possible timeline anomaly identified 🚨 [WHAT IF…?] @Adobe acquires @splinetool and builds it into the ultimate Adobe Flash successor ✅ web-native &lpar;no plugin required&rpar; ✅ unified 3D + 2D animation ✅ collaborative real-time editing ✅ first-class WebGL support ✅ built-in…](https://x.com/branmcconnell/status/1915127360615059519)
 - [React Miami 2025 was one of the best conferences I’ve been to in a long time I already purchased my ticket for next year, and I couldn’t be more pumped 🙌🏼 Don’t miss this](https://x.com/branmcconnell/status/1914360690804187335)
 - [This is sad. I was just talking about this. I use em dashes constantly, but now, people regularly ask me if I used AI to generate something I wrote. AI is literally-literally changing the way I write, and I’m less than thrilled. 😒](https://x.com/branmcconnell/status/1914044752783376753)
-- [React conf audiences be like](https://x.com/branmcconnell/status/1913468988002075053)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
