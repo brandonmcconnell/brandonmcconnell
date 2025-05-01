@@ -53,10 +53,10 @@
 ### My latest tweets
 <!-- TWITTER:START -->
 - [If the web stops growing, so does AI&#39;s ability to develop on it. The easier it is for AI to build with certain tools, APIs, or other abstractions, the better AI performs at such tasks. So yes, the more capable and comprehensible the web is, the better. This is deeply relevant.](https://x.com/branmcconnell/status/1917808089832608106)
+- [If you&#39;ve ever rolled tooltips from scratch—oof—you know what a pain they can be to implement Recently, CSS made it much easier and today… that&#39;s coming to Tailwind CSS. Anchors for Tailwind CSS 🌻 — unlocking the full CSS Anchor Positioning spec with sensible syntax 🔗👇](https://x.com/branmcconnell/status/1917397916265628048)
 - [As always, CSS is growing at a crazy pace. Keep an eye out for more plugins from me in the near future. — CSS-wise, I can&#39;t wait for random&lpar;&rpar; to hit browsers everywhere, but we&#39;re still a ways off. We may even see custom CSS functions first! 💯 What a time to live 🙉](https://x.com/branmcconnell/status/1917397932728541570)
 - [Lastly—not leastly—I want to give a huge thank you to @Una for getting me and so many others so pumped about the CSS Anchor Positioning spec, which ultimately led to me releasing this plugin today. Check out her !](https://x.com/branmcconnell/status/1917397929524068859)
 - [In terms of syntax, I can&#39;t get over just how simple it is for the most common use cases. You want to stick one thing to another thing? BAM You want it to change positions on group hover? No problemo You want it to completely match the size of your element to the size of your…](https://x.com/branmcconnell/status/1917397925724053721)
-- [First off, this project has been on my mind for months, and I wanted to get it just right. Packing the power of the CSS Anchor Positioning API into a lightweight, easy-to-use Tailwind plugin, that anyone can just pick up and use? Magic. …I can&#39;t wait to start using it 😆](https://x.com/branmcconnell/status/1917397921550721066)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
