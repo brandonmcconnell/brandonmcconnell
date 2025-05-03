@@ -53,7 +53,7 @@
 ### My latest tweets
 <!-- TWITTER:START -->
 - [how much runway should a startup have](https://x.com/nizzyabi/status/1918483413742637317)
-- [One of my best friends just launched a game on Steam for the first time and I’m SO impressed. 😱 starting to think I chose the wrong career… 👀 @AlexVollmann what you’re doing at @SimmeringStudio is super cool and inspiring Go check out Sipssassin! ☕️ store.steampowered.com/app/2820190/Si…](https://x.com/branmcconnell/status/1918456543839764549)
+- [One of my best friends just launched a game on Steam for the first time and I’m SO impressed. 😱 starting to think I chose the wrong career… 👀@AlexVollmann what you’re doing at @SimmeringStudio is super cool and inspiring Go check out Sipssassin! ☕️](https://x.com/branmcconnell/status/1918456543839764549)
 - [nvm Gemini is humble and apparently innocent, my b](https://x.com/branmcconnell/status/1918359674761498676)
 - [hold up… did Gemini just BLAME SHIFT](https://x.com/branmcconnell/status/1918356718159057198)
 - [If the web stops growing, so does AI&#39;s ability to develop on it. The easier it is for AI to build with certain tools, APIs, or other abstractions, the better AI performs at such tasks. So yes, the more capable and comprehensible the web is, the better. This is deeply relevant.](https://x.com/branmcconnell/status/1917808089832608106)
