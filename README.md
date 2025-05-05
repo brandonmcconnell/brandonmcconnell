@@ -53,10 +53,10 @@
 ### My latest tweets
 <!-- TWITTER:START -->
 - [So… Gemini is down.](https://x.com/branmcconnell/status/1919442893116195099)
+- [clocking in for another shift at the &quot;product hunt killer&quot; factory](https://x.com/ProductHunt/status/1919432509768560890)
 - [I discovered a few bugs related to how I’m parsing arbitrary value syntax in Tailwind v3 vs. v4. I’ll have a fix released for that tomorrow, bundled into the next major release &lpar;1.0&rpar;, packed with new features and full backwards compatibility for Tailwind v3. Thanks everybody 🫡](https://x.com/branmcconnell/status/1919251485533098038)
 - [It&#39;s wild how much more motivated I feel to build something once I’ve locked down the perfect domain name.](https://x.com/branmcconnell/status/1919140171787759826)
 - [how much runway should a startup have](https://x.com/nizzyabi/status/1918483413742637317)
-- [One of my best friends just launched a game on Steam for the first time and I’m SO impressed. 😱 starting to think I chose the wrong career… 👀 @AlexVollmann what you’re doing at @SimmeringStudio is super cool and inspiring Go check out Sipssassin! ☕️ store.steampowered.com/app/2820190/Si…](https://x.com/branmcconnell/status/1918456543839764549)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
