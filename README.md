@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [Modern HTML &amp; CSS are growing fast, and JS frameworks are building around web-native APIs: ✅ anchoring: anchor&lpar;&rpar; ✅ page transitions: @‍view-transition ✅ dialogs: &lt;dialog&gt; ✅ popovers: [popover] ✅ parallax: animation-timeline: scroll&lpar;&rpar; This is SO GOOD for the web](https://x.com/branmcconnell/status/1919816263838400859)
 - [Anchors v1.0.0 is ready for release. ⚓ The announcement will go out later today after I run some final tests. This includes bug fixes and new features. If you want to test the changes before then, check out the sandbox here: play.tailwindcss.com/o8Owa6SIuh](https://x.com/branmcconnell/status/1919769077335126020)
 - [Just feeling inspired by @IroncladDev tbh](https://x.com/branmcconnell/status/1919444489397010566)
 - [The idea of boosting posts about tech I&#39;m building never sits well with me. It feels like cheating. But a meme I whipped up in 2 sec? 🚀💸](https://x.com/branmcconnell/status/1919444280365502914)
 - [So… Gemini is down.](https://x.com/branmcconnell/status/1919442893116195099)
-- [clocking in for another shift at the &quot;product hunt killer&quot; factory](https://x.com/ProductHunt/status/1919432509768560890)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
