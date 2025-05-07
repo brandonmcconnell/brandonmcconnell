@@ -56,7 +56,7 @@
 - [Modern HTML &amp; CSS are growing fast, and JS frameworks are building around web-native APIs: ✅ anchoring: anchor&lpar;&rpar; ✅ page transitions: @‍view-transition ✅ dialogs: &lt;dialog&gt; ✅ popovers: [popover] ✅ parallax: animation-timeline: scroll&lpar;&rpar; This is SO GOOD for the web](https://x.com/branmcconnell/status/1919816263838400859)
 - [[No Title] - 1919769228023894475](https://x.com/branmcconnell/status/1919769228023894475)
 - [[No Title] - 1919769140094488773](https://x.com/branmcconnell/status/1919769140094488773)
-- [Anchors v1.0.0 is ready for release. ⚓ The announcement will go out later today after I run some final tests. This includes bug fixes and new features. If you want to test the changes before then, check out the sandbox here:](https://x.com/branmcconnell/status/1919769077335126020)
+- [Anchors v1.0.0 is ready for release. ⚓ The announcement will go out later today after I run some final tests. This includes bug fixes and new features. If you want to test the changes before then, check out the sandbox here: play.tailwindcss.com/o8Owa6SIuh](https://x.com/branmcconnell/status/1919769077335126020)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
