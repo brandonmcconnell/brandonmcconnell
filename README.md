@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [If @windsurf_ai is worth $3B, @zeddotdev&#39;s gotta be worth at least $10B, likely more. Who could even afford that?](https://x.com/branmcconnell/status/1920549012228247864)
+- [can&#39;t believe this app is free](https://x.com/steventey/status/1920530979338531225)
 - [if you’re not delusional, you’re ngmi](https://x.com/branmcconnell/status/1920506964557123883)
 - [Waves by Fiji Blue just came on, and when he sang &quot;Like a star that slowly disappears in the night&quot;… I thought he said &quot;Like a startup slowly disappears in the night&quot; …and I felt that 🥹](https://x.com/branmcconnell/status/1920251893684605237)
 - [Dude. If @remix_run and @solid_js had a framework baby, they&#39;d have to call it mixed signals.](https://x.com/toolwind/status/1919905157409575016)
-- [Modern HTML &amp; CSS are growing fast, and JS frameworks are building around web-native APIs: ✅ anchoring: anchor&lpar;&rpar; ✅ page transitions: @‍view-transition ✅ dialogs: &lt;dialog&gt; ✅ popovers: [popover] ✅ parallax: animation-timeline: scroll&lpar;&rpar; This is SO GOOD for the web](https://x.com/branmcconnell/status/1919816263838400859)
-- [[No Title] - 1919769228023894475](https://x.com/branmcconnell/status/1919769228023894475)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
