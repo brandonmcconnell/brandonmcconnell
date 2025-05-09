@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [this is fine. 🙂🔥](https://x.com/branmcconnell/status/1920653053939552306)
 - [If @windsurf_ai is worth $3B, @zeddotdev&#39;s gotta be worth at least $10B, likely more. Who could even afford that?](https://x.com/branmcconnell/status/1920549012228247864)
 - [can&#39;t believe this app is free](https://x.com/steventey/status/1920530979338531225)
 - [if you’re not delusional, you’re ngmi](https://x.com/branmcconnell/status/1920506964557123883)
 - [Waves by Fiji Blue just came on, and when he sang &quot;Like a star that slowly disappears in the night&quot;… I thought he said &quot;Like a startup slowly disappears in the night&quot; …and I felt that 🥹](https://x.com/branmcconnell/status/1920251893684605237)
-- [Dude. If @remix_run and @solid_js had a framework baby, they&#39;d have to call it mixed signals.](https://x.com/toolwind/status/1919905157409575016)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
