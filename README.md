@@ -53,10 +53,10 @@
 ### My latest tweets
 <!-- TWITTER:START -->
 - [The Tailwind CSS team COOKED 👨🏻‍🍳🥘 with their latest improvements to the @tailwindcss upgrade tool npx @tailwindcss/upgrade@latest Go run this on your codebase now, even if you’re already on Tailwind v4 👀💦 Actually, **ESPECIALLY if you’re on v4**](https://x.com/branmcconnell/status/1920899706688884924)
+- [Ah, I got it working! I just had to use a button for that submenu trigger. Makes sense. Thanks for your work on that. Your demo made this exploration much easier.](https://x.com/branmcconnell/status/1920889241690607824)
 - [this is fine. 🙂🔥](https://x.com/branmcconnell/status/1920653053939552306)
 - [If @windsurf_ai is worth $3B, @zeddotdev&#39;s gotta be worth at least $10B, likely more. Who could even afford that?](https://x.com/branmcconnell/status/1920549012228247864)
 - [can&#39;t believe this app is free](https://x.com/steventey/status/1920530979338531225)
-- [if you’re not delusional, you’re ngmi](https://x.com/branmcconnell/status/1920506964557123883)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
