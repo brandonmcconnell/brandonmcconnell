@@ -52,7 +52,7 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [@kentcdodds I think all the features they show are great, but I agree that they might be able to organize this a bit better to make the UI less distracting. Now that this idea is out there, I&#39;m sure someone will build upon it and make it fully automated. Using the same example, during a…](https://x.com/branmcconnell/status/1922818859272147455)
+- [I think all the features they show are great, but I agree that they might be able to organize this a bit better to make the UI less distracting. Now that this idea is out there, I&#39;m sure someone will build upon it and make it fully automated. Using the same example, during a…](https://x.com/branmcconnell/status/1922818859272147455)
 - [My wife asked me today why anyone builds anything open source. What would you respond to this?](https://x.com/branmcconnell/status/1921676464644030740)
 - [The Tailwind CSS team COOKED 👨🏻‍🍳🥘 with their latest improvements to the @tailwindcss upgrade tool npx @tailwindcss/upgrade@latest Go run this on your codebase now, even if you’re already on Tailwind v4 👀💦 Actually, **ESPECIALLY if you’re on v4**](https://x.com/branmcconnell/status/1920899706688884924)
 - [Ah, I got it working! I just had to use a button for that submenu trigger. Makes sense. Thanks for your work on that. Your demo made this exploration much easier.](https://x.com/branmcconnell/status/1920889241690607824)
