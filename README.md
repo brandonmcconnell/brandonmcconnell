@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@branmcconnell this is genius and everyone who says its &quot;cursed&quot; and &quot;breaks hook rules&quot; is a fool](https://x.com/ccccjjjjeeee/status/1923498724380078540)
 - [This is cursed, but I like it](https://x.com/lanrecooper/status/1923491795616530702)
 - [Is it a good take? Is it an awful one? I&#39;m waiting for proof either way. I&#39;m seeing green in all my local manual &amp; automated testing ✅ tests pass ✅ demos work ✅ automatic memoization works &lpar;I think&rpar; ✅ no eslint-plugin-react-hooks plugin error ✅ no &quot;Hooks can only…&quot; error](https://x.com/branmcconnell/status/1923474135625122208)
 - [🕦🗽](https://x.com/branmcconnell/status/1923377906262143332)
 - [@marcelpociot Today, I&#39;m gonna change the way we write React](https://x.com/branmcconnell/status/1923316646455751049)
-- [@kentcdodds I think all the features they show are great, but I agree that they might be able to organize this a bit better to make the UI less distracting. Now that this idea is out there, I&#39;m sure someone will build upon it and make it fully automated. Using the same example, during a…](https://x.com/branmcconnell/status/1922818859272147455)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
