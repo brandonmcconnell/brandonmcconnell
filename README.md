@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [🚨 $200 #RenderHooks Contest I’m awarding the most cursed, chaotic, and unhinged **single-component app** built on RenderHooks. I am the judge. No rules of reason apply — just vibes. One winner takes all. 📜 Rules &lpar;expand this post to see the full list&rpar; ☐ The entire app must…](https://x.com/branmcconnell/status/1923551461515960812)
 - [@branmcconnell This is nice but it feels so wrong. It&#39;s like a sin](https://x.com/_sakharov/status/1923519673775096058)
 - [@ccccjjjjeeee RenderHooks is new &lpar;not even v1 yet&rpar;, but I legitimately think this sets the stage for more flexible composition across the ecosystem.](https://x.com/branmcconnell/status/1923513297476681878)
 - [@branmcconnell this is genius and everyone who says its &quot;cursed&quot; and &quot;breaks hook rules&quot; is a fool](https://x.com/ccccjjjjeeee/status/1923498724380078540)
 - [This is cursed, but I like it](https://x.com/lanrecooper/status/1923491795616530702)
-- [Is it a good take? Is it an awful one? I&#39;m waiting for proof either way. I&#39;m seeing green in all my local manual &amp; automated testing ✅ tests pass ✅ demos work ✅ automatic memoization works &lpar;I think&rpar; ✅ no eslint-plugin-react-hooks plugin error ✅ no &quot;Hooks can only…&quot; error](https://x.com/branmcconnell/status/1923474135625122208)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
