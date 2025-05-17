@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [.@Outlook @Apple @gmail @AOL @Yahoo I know this would likely require significant refactoring and come with a fair amount of tech debt, but addressing the mail features and interoperability now could make a real difference for the future. Consider forming a team of advocates to…](https://x.com/branmcconnell/status/1923632881051595010)
 - [🚨 $200 #RenderHooks Contest I’m awarding the most cursed, chaotic, and unhinged **single-component app** built on RenderHooks. I am the judge. No rules of reason apply — just vibes. One winner takes all. 📜 Rules &lpar;expand this post to see the full list&rpar; ☐ The entire app must…](https://x.com/branmcconnell/status/1923551461515960812)
 - [@branmcconnell This is nice but it feels so wrong. It&#39;s like a sin](https://x.com/_sakharov/status/1923519673775096058)
 - [@ccccjjjjeeee RenderHooks is new &lpar;not even v1 yet&rpar;, but I legitimately think this sets the stage for more flexible composition across the ecosystem.](https://x.com/branmcconnell/status/1923513297476681878)
 - [@branmcconnell this is genius and everyone who says its &quot;cursed&quot; and &quot;breaks hook rules&quot; is a fool](https://x.com/ccccjjjjeeee/status/1923498724380078540)
-- [This is cursed, but I like it](https://x.com/lanrecooper/status/1923491795616530702)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
