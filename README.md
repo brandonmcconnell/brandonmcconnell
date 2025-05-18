@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [I’m exploring what it would look like to refactor RenderHooks as a build step, so instead of requiring additional imports, components, or the use of render props, you could just… &#39;use render-hooks&#39;; BEFORE vs. AFTER](https://x.com/branmcconnell/status/1924165786664378847)
 - [You know you&#39;ve got it bad when &quot;Fast Hydration&quot; is trending and you immediately think @vercel must&#39;ve announced something new for @nextjs #react](https://x.com/branmcconnell/status/1924160959024669162)
 - [I’m exploring what it would look like to refactor RenderHooks as a build step, so instead of requiring additional imports, components, or the use of render props, you could just… &#39;use render-hooks&#39;; If you have experience developing FAST build tools and want to help make this…](https://x.com/branmcconnell/status/1924158432514318432)
 - [every time I see this *specific* thumbnail for the upcoming Superman movie… …at first glance, I think it’s @theo don’t @ me](https://x.com/branmcconnell/status/1923919001941377307)
 - [My notifs are blowing up, but I’m pushing pause for a bit to go touch water. Try not to destroy my reputation before I get back, y’all. Ok thanks](https://x.com/branmcconnell/status/1923838756550787357)
-- [$200 💸 I’m literally paying $200 for someone to purposely write arguably the worst code of their life. Who else can say that? Rules 👇](https://x.com/branmcconnell/status/1923836659772149937)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
