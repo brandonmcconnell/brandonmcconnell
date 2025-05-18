@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [every time I see this *specific* thumbnail for the upcoming Superman movie… …at first glance, I think it’s @theo don’t @ me](https://x.com/branmcconnell/status/1923919001941377307)
 - [My notifs are blowing up, but I’m pushing pause for a bit to go touch water. Try not to destroy my reputation before I get back, y’all. Ok thanks](https://x.com/branmcconnell/status/1923838756550787357)
 - [$200 💸 I’m literally paying $200 for someone to purposely write arguably the worst code of their life. Who else can say that? Rules 👇](https://x.com/branmcconnell/status/1923836659772149937)
 - [.@Outlook @Apple @gmail @AOL @Yahoo I know this would likely require significant refactoring and come with a fair amount of tech debt, but addressing the mail features and interoperability now could make a real difference for the future. Consider forming a team of advocates to…](https://x.com/branmcconnell/status/1923632881051595010)
 - [🚨 $200 #RenderHooks Contest I’m awarding the most cursed, chaotic, and unhinged **single-component app** built on RenderHooks. I am the judge. No rules of reason apply — just vibes. One winner takes all. 📜 Rules &lpar;expand this post to see the full list&rpar; ☐ The entire app must…](https://x.com/branmcconnell/status/1923551461515960812)
-- [@branmcconnell This is nice but it feels so wrong. It&#39;s like a sin](https://x.com/_sakharov/status/1923519673775096058)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
