@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [“I designed this” If…vibe coders are engineers If…Katy Perry is an astronaut …Are we all artists now?](https://x.com/branmcconnell/status/1924848339276743161)
 - [for anyone asking… yes, I designed this.](https://x.com/branmcconnell/status/1924645313307926728)
-- [@TimSweeneyEpic so… awkward day in the Apple office “the Apple official who is personally responsible for ensuring compliance shall personally appear at the hearing”](https://x.com/branmcconnell/status/1924553928374427716)
+- [so… awkward day in the Apple office “the Apple official who is personally responsible for ensuring compliance shall personally appear at the hearing”](https://x.com/branmcconnell/status/1924553928374427716)
 - [so… awkward day in the Apple office “the Apple official who is personally responsible for ensuring compliance shall personally appear at the hearing”](https://x.com/branmcconnell/status/1924545790288011677)
 - [If a RenderHooks &lpar;build-tool&rpar; code scanner and parser gets fast enough, we could drop the &#39;use render-hooks&#39; directive entirely, and it would just work™ Somewhere out there on the horizon…… 🦀](https://x.com/branmcconnell/status/1924167769542754476)
-- [I’m exploring what it would look like to refactor RenderHooks as a build step, so instead of requiring additional imports, components, or the use of render props, you could just… &#39;use render-hooks&#39;; BEFORE vs. AFTER](https://x.com/branmcconnell/status/1924165786664378847)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
