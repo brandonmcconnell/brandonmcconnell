@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [@TimSweeneyEpic so… awkward day in the Apple office “the Apple official who is personally responsible for ensuring compliance shall personally appear at the hearing”](https://x.com/branmcconnell/status/1924553928374427716)
+- [so… awkward day in the Apple office “the Apple official who is personally responsible for ensuring compliance shall personally appear at the hearing”](https://x.com/branmcconnell/status/1924553928374427716)
 - [so… awkward day in the Apple office “the Apple official who is personally responsible for ensuring compliance shall personally appear at the hearing”](https://x.com/branmcconnell/status/1924545790288011677)
 - [If a RenderHooks &lpar;build-tool&rpar; code scanner and parser gets fast enough, we could drop the &#39;use render-hooks&#39; directive entirely, and it would just work™ Somewhere out there on the horizon…… 🦀](https://x.com/branmcconnell/status/1924167769542754476)
-- [I’m exploring what it would look like to refactor RenderHooks as a build step, so instead of requiring additional imports, components, or the use of render props, you could just… &#39;use render-hooks&#39;; BEFORE vs. AFTER](https://x.com/branmcconnell/status/1924165786664378847)
 - [This… ✅ simplifies the syntax ✅ resolves conflicts with Rules of Hooks ✅ is more optimized &lpar;no callbacks&rpar; ✅ opens the door to RSC &#39;use render-hooks/server&#39;; If you have experience developing FAST build tools and want to help make this a reality, hit me up! 🔥](https://x.com/branmcconnell/status/1924165790284104139)
+- [This actually works better with React, since RenderHooks currently bends the Rules of Hooks. It works fine for simpler use cases, but with a build step, I can break nested components into separate functions at build-time and give React exactly what it expects.](https://x.com/branmcconnell/status/1924165789046722650)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
