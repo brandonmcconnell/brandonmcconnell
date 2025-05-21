@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [“Hello, may I interest you in some Neovim”](https://x.com/branmcconnell/status/1925154235991081264)
 - [@wesbos You can&#39;t convince me these aren&#39;t the same picture.](https://x.com/branmcconnell/status/1924861758029664527)
 - [“I designed this” If…vibe coders are engineers If…Katy Perry is an astronaut …Are we all artists now?](https://x.com/branmcconnell/status/1924848339276743161)
 - [for anyone asking… yes, I designed this.](https://x.com/branmcconnell/status/1924645313307926728)
 - [@TimSweeneyEpic so… awkward day in the Apple office “the Apple official who is personally responsible for ensuring compliance shall personally appear at the hearing”](https://x.com/branmcconnell/status/1924553928374427716)
-- [so… awkward day in the Apple office “the Apple official who is personally responsible for ensuring compliance shall personally appear at the hearing”](https://x.com/branmcconnell/status/1924545790288011677)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
