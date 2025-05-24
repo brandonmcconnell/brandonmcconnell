@@ -54,9 +54,9 @@
 <!-- TWITTER:START -->
 - [How is it that X is even worse today than yesterday?](https://x.com/branmcconnell/status/1926268459945468159)
 - [Here are some ideas to get the wheels turning: “Open source ___ alternative” – Slack – Zoom – X/Discord 🤭 – Spotify – Raycast – Warp – Figma – Chrome – Dropbox](https://x.com/branmcconnell/status/1926084609759936840)
+- [2025 is the year of AI-driven open-source alternatives – Email: @nizzyabi → @zerodotemail – Notes: @rincidium → @LucidEditor – Calendar: @initjean → @analogdotnow – ____? 👀 What&#39;s next? How do you get started joining this revolution? Read on… 👇🧵](https://x.com/branmcconnell/status/1926082936966717521)
 - [Shameless plug: Toolwind 🔥 Building the definitive registry of Tailwind CSS tools — crafted, curated, and trusted by developers who care about the details. Waitlist:  Follow on X: @toolwind Coming very soon.](https://x.com/branmcconnell/status/1926082963113922980)
 - [There&#39;s no &quot;one correct way&quot; to start or run a business. Find what works best for you. Stay humble &amp; teachable. Don&#39;t lose sight of where &amp; why you started. — This post is NOT sponsored by anybody. These are my genuine opinions. Started as a joke, then got real. 👨🏻‍💻](https://x.com/branmcconnell/status/1926082961499189353)
-- [In conclusion, there is so much untapped potential in the world of open-source startups right now. Find something you&#39;re passionate about. Gauge market potential. Surround yourself with talented people. Build together. You decide what success looks like to you. Make it real.](https://x.com/branmcconnell/status/1926082959951446223)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
