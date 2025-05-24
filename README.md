@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [2025 is the year of AI-driven open-source alternatives – Email: @nizzyabi → @zerodotemail – Notes: @rincidium → @LucidEditor – Calendar: @initjean → @analogdotnow – ____? 👀 What&#39;s next? How do you get started joining this revolution? Read on… 👇🧵](https://x.com/branmcconnell/status/1926082936966717521)
 - [I can&#39;t wait for v0-1.5-2xl 🤯](https://x.com/branmcconnell/status/1925995053488447989)
 - [if you’re not using a trackpad, you’re ngmi](https://x.com/branmcconnell/status/1925515333198033289)
 - [I’ve only been awake 30 mins, and I’ve already purchased 3 domains. At this pace, I’ll blow my budget by 2pm. Somebody help me.](https://x.com/branmcconnell/status/1925514687900180619)
 - [My mind changed re: programming with AI as soon as I realized how much of the stuff I do when &quot;programming&quot; is just tedious grunt work. Programming with AI actually frees me up to do more programming, not less.](https://x.com/adamwathan/status/1925298260891082845)
-- [“Hello, may I interest you in some Neovim”](https://x.com/branmcconnell/status/1925154235991081264)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
