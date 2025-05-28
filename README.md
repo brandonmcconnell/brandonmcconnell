@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [I asked poke.cx from @interaction to text me whenever I receive email verification, password reset, OTP, or 2FA emails. I&#39;m already seeing REAL productivity gains since signing up yesterday. 🔥](https://x.com/branmcconnell/status/1927796906073194994)
 - [Does this technically make me an investor?](https://x.com/branmcconnell/status/1927549680877281385)
 - [incredible things are happening at interaction](https://x.com/nepalsamyok/status/1927542426014449827)
 - [Also @interaction… I technically promised a pizza party during my onboarding. Let me know what kind and where you want it sent. 🍕](https://x.com/branmcconnell/status/1927501652216439222)
 - [I’ve only been using  from @interaction 10-15 mins, and it’s already one of the coolest AI conversations I’ve ever had. It’s the dream assistant— handling general requests, checking your email, setting up automations, creating events, you name it.](https://x.com/branmcconnell/status/1927501352839655867)
-- [How is it that X is even worse today than yesterday?](https://x.com/branmcconnell/status/1926268459945468159)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
