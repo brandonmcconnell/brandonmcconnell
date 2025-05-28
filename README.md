@@ -54,9 +54,9 @@
 <!-- TWITTER:START -->
 - [Does this technically make me an investor?](https://x.com/branmcconnell/status/1927549680877281385)
 - [incredible things are happening at interaction](https://x.com/nepalsamyok/status/1927542426014449827)
+- [Also @interaction… I technically promised a pizza party during my onboarding. Let me know what kind and where you want it sent. 🍕](https://x.com/branmcconnell/status/1927501652216439222)
+- [I’ve only been using poke.cx from @interaction 10-15 mins, and it’s already one of the coolest AI conversations I’ve ever had. It’s the dream assistant— handling general requests, checking your email, setting up automations, creating events, you name it.](https://x.com/branmcconnell/status/1927501352839655867)
 - [How is it that X is even worse today than yesterday?](https://x.com/branmcconnell/status/1926268459945468159)
-- [Here are some ideas to get the wheels turning: “Open source ___ alternative” – Slack – Zoom – X/Discord 🤭 – Spotify – Raycast – Warp – Figma – Chrome – Dropbox](https://x.com/branmcconnell/status/1926084609759936840)
-- [2025 is the year of AI-driven open-source alternatives – Email: @nizzyabi → @zerodotemail – Notes: @rincidium → @LucidEditor – Calendar: @initjean → @analogdotnow – ____? 👀 What&#39;s next? How do you get started joining this revolution? Read on… 👇🧵](https://x.com/branmcconnell/status/1926082936966717521)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
