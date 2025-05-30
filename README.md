@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [tfw you’re about to hit ‘em with the… “fine, i&#39;ll build it myself”](https://x.com/branmcconnell/status/1928299443465400612)
 - [Could Cursor&#39;s comments sound any more human?](https://x.com/branmcconnell/status/1927896037227725075)
 - [Open source presentation builder spotted! @YonatanLavy is cooking 🔥 Watch out PowerPoint &amp; Google/Figma Slides](https://x.com/branmcconnell/status/1927804713388413386)
 - [I asked poke.cx from @interaction to text me whenever I receive email verification, password reset, OTP, or 2FA emails. I&#39;m already seeing REAL productivity gains since signing up yesterday. 🔥](https://x.com/branmcconnell/status/1927796906073194994)
 - [Does this technically make me an investor?](https://x.com/branmcconnell/status/1927549680877281385)
-- [incredible things are happening at interaction](https://x.com/nepalsamyok/status/1927542426014449827)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
