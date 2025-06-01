@@ -53,10 +53,10 @@
 ### My latest tweets
 <!-- TWITTER:START -->
 - [It’s our first time getting to see Messi play in-person, tonight. One of the best games I’ve ever seen.](https://x.com/branmcconnell/status/1928973959115985053)
-- [that site goes hard](https://x.com/rauchg/status/1928613323827765584)
+- [@evilrabbit_ that site goes hard](https://x.com/rauchg/status/1928613323827765584)
 - [tfw you’re about to hit ‘em with the… “fine, i&#39;ll build it myself”](https://x.com/branmcconnell/status/1928299443465400612)
 - [Could Cursor&#39;s comments sound any more human?](https://x.com/branmcconnell/status/1927896037227725075)
-- [Open source presentation builder spotted!@YonatanLavy is cooking 🔥 Watch out PowerPoint &amp; Google/Figma Slides](https://x.com/branmcconnell/status/1927804713388413386)
+- [Open source presentation builder spotted! @YonatanLavy is cooking 🔥 Watch out PowerPoint &amp; Google/Figma Slides](https://x.com/branmcconnell/status/1927804713388413386)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
