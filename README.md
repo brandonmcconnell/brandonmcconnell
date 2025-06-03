@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [Ah now I understand. Thanks, Google 💯](https://x.com/branmcconnell/status/1929955388130021613)
 - [This guy seriously reinvented email just to use “USPS APIs” @nizzyabi](https://x.com/branmcconnell/status/1929761998759219580)
 - [This guy seriously reinvented email just to use “USPS APIs” @nizzyabi](https://x.com/branmcconnell/status/1929753097137795073)
 - [It’s our first time getting to see Messi play in-person, tonight. One of the best games I’ve ever seen.](https://x.com/branmcconnell/status/1928973959115985053)
 - [@evilrabbit_ that site goes hard](https://x.com/rauchg/status/1928613323827765584)
-- [tfw you’re about to hit ‘em with the… “fine, i&#39;ll build it myself”](https://x.com/branmcconnell/status/1928299443465400612)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
