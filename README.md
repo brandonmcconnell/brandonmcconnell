@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [I started project planning in ChatGPT and want to add that conversation as context in @cursor_ai to… – all chats in a certain project – a single new/existing chat thread What&#39;s the best way to achieve that, comprehensively? attn @mntruell @amanrsanger @sualehasif996](https://x.com/branmcconnell/status/1931525491929895019)
 - [are there really no open source 12 step programs to help me quit my domain buying addicition?????](https://x.com/branmcconnell/status/1930826559251738745)
 - [Three hours later, finally headed home!](https://x.com/branmcconnell/status/1930501708263629270)
 - [I picked the worst possible time to forget my AirPods. In line for 2 hours and counting. 😮‍💨](https://x.com/branmcconnell/status/1930491445191856136)
 - [Ah now I understand. Thanks, Google 💯](https://x.com/branmcconnell/status/1929955388130021613)
-- [@nizzyabi I learned my lesson 😅](https://x.com/branmcconnell/status/1929954801036489101)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
