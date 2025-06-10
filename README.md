@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [Redesigned Vercel Projects dashboard 🤩 @vercel COOKED big-time 🔥🔥](https://x.com/branmcconnell/status/1931819049807430139)
+- [And yes… I have a lot of apps](https://x.com/branmcconnell/status/1932448173613601187)
+- [Want to get rid of the distracting liquid glass style on @Apple iOS 26? Turn on “Reduce Motion” on your iPhone under Settings &gt; Accessibility &gt; Motion. Everything becomes simpler and more readable, like the traditional translucency we‘re used to. It kills transitions though…](https://x.com/branmcconnell/status/1932447217513537786)
+- [Redesigned Vercel Projects dashboard 🤩@vercel COOKED big-time 🔥🔥](https://x.com/branmcconnell/status/1931819049807430139)
 - [Just a thought — if @Nintendo uses Tailwind CSS on the Switch 2, it’s plausible they natively support DOM rendering. Could we ship web-based games and UI soon? Three.js, React Fiber, etc. Imagine a section of the Store for community apps. Game changer 👋 @NintendoAmerica](https://x.com/branmcconnell/status/1931785368434520338)
 - [Also, any option to bookmark messages &lpar;for easy ref/return&rpar; or fork conversations at certain points? I would use these features ALL THE TIME. Currently, I&#39;m on a 200+ message thread@ericzakariasson do you know? ^](https://x.com/branmcconnell/status/1931619214919340096)
-- [I started project planning in ChatGPT and want to add that conversation as context in @cursor_ai to… – all chats in a certain project – a single new/existing chat thread What&#39;s the best way to achieve that, comprehensively? attn @mntruell @amanrsanger @sualehasif996](https://x.com/branmcconnell/status/1931525491929895019)
-- [are there really no open source 12 step programs to help me quit my domain buying addicition?????](https://x.com/branmcconnell/status/1930826559251738745)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
