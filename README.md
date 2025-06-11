@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [For custom utilities, I sometimes depend on the raw decimal values in plugins. Other times, I want the bare value. More critically, `prop-[--value]` should typically be preserved &lpar;except migrating v3 ➞ v4&rpar;, for custom ident values like `anchor-name’ and `view-transition-name`.](https://x.com/branmcconnell/status/1932828712778465499)
 - [how do i even pick which shirt to wear day 1 of a conf? feat @trashh_dev / @RenderATL #renderatl](https://x.com/branmcconnell/status/1932821250616758718)
 - [And yes… I have a lot of apps](https://x.com/branmcconnell/status/1932448173613601187)
 - [Want to get rid of the distracting liquid glass style on @Apple iOS 26? Turn on “Reduce Motion” on your iPhone under Settings &gt; Accessibility &gt; Motion. Everything becomes simpler and more readable, like the traditional translucency we‘re used to. It kills transitions though…](https://x.com/branmcconnell/status/1932447217513537786)
-- [Redesigned Vercel Projects dashboard 🤩 @vercel COOKED big-time 🔥🔥](https://x.com/branmcconnell/status/1931819049807430139)
-- [Just a thought — if @Nintendo uses Tailwind CSS on the Switch 2, it’s plausible they natively support DOM rendering. Could we ship web-based games and UI soon? Three.js, React Fiber, etc. Imagine a section of the Store for community apps. Game changer 👋 @NintendoAmerica](https://x.com/branmcconnell/status/1931785368434520338)
+- [Redesigned Vercel Projects dashboard 🤩@vercel COOKED big-time 🔥🔥](https://x.com/branmcconnell/status/1931819049807430139)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
