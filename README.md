@@ -56,7 +56,7 @@
 - [how do i even pick which shirt to wear day 1 of a conf? feat @trashh_dev / @RenderATL #renderatl](https://x.com/branmcconnell/status/1932821250616758718)
 - [And yes… I have a lot of apps](https://x.com/branmcconnell/status/1932448173613601187)
 - [Want to get rid of the distracting liquid glass style on @Apple iOS 26? Turn on “Reduce Motion” on your iPhone under Settings &gt; Accessibility &gt; Motion. Everything becomes simpler and more readable, like the traditional translucency we‘re used to. It kills transitions though…](https://x.com/branmcconnell/status/1932447217513537786)
-- [Redesigned Vercel Projects dashboard 🤩 @vercel COOKED big-time 🔥🔥](https://x.com/branmcconnell/status/1931819049807430139)
+- [Redesigned Vercel Projects dashboard 🤩@vercel COOKED big-time 🔥🔥](https://x.com/branmcconnell/status/1931819049807430139)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
