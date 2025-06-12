@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [Feels great to support projects that make my life easier! I&#39;m proud to sponsor @amanvarshney01, the genius behind better-t-stack, the BEST way to scaffold new projects quickly with your preferred tools. This will soon be the industry default. 👉 better-t-stack.dev 👈](https://x.com/branmcconnell/status/1933216760896934060)
 - [.@shadcn I’d like to add some features to the registry, but they’d require arguments for proper configuration. Do you support something like this? pnpx shadcn add my-component --data-source postgres://… --theme https://….json](https://x.com/branmcconnell/status/1933178464636448966)
 - [If you had followed Apple&#39;s progress from iOS 19, 20, 21, 22, 23, 24, and 25, you&#39;d see that the iOS 26 design is the next logical step in terms of design No… they weren&#39;t ✌️actual✌️ releases, but you betcha&#39; there was a Sketch layer for each one](https://x.com/branmcconnell/status/1932974244159431016)
 - [You can think of a spoon as a “soft fork” You include the original package as a dev dependency, and its files all magically appear in your repo as “phantom files” until you patch them. I haven’t thoroughly thought through this. Don’t @ me lol](https://x.com/branmcconnell/status/1932966098548502764)
 - [Radical @GitHub idea 💡 ❌ Forking repos ✅ Spooning repos 🥄 this started as a joke but hear me out… Declare your repo as a spoon of another, and only include files you want to overwrite. No full clone, just patches. Smaller. Simpler. Easier to maintain.](https://x.com/branmcconnell/status/1932966087307718691)
-- [new dewrinkling technique achieved internally](https://x.com/branmcconnell/status/1932886022573924449)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
