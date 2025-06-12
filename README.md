@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [.@shadcn I’d like to add some features to the registry, but they’d require arguments for proper configuration. Do you support something like this? pnpx shadcn add my-component --data-source postgres://… --theme https://….json](https://x.com/branmcconnell/status/1933178464636448966)
 - [If you had followed Apple&#39;s progress from iOS 19, 20, 21, 22, 23, 24, and 25, you&#39;d see that the iOS 26 design is the next logical step in terms of design No… they weren&#39;t ✌️actual✌️ releases, but you betcha&#39; there was a Sketch layer for each one](https://x.com/branmcconnell/status/1932974244159431016)
 - [You can think of a spoon as a “soft fork” You include the original package as a dev dependency, and its files all magically appear in your repo as “phantom files” until you patch them. I haven’t thoroughly thought through this. Don’t @ me lol](https://x.com/branmcconnell/status/1932966098548502764)
 - [Radical @GitHub idea 💡 ❌ Forking repos ✅ Spooning repos 🥄 this started as a joke but hear me out… Declare your repo as a spoon of another, and only include files you want to overwrite. No full clone, just patches. Smaller. Simpler. Easier to maintain.](https://x.com/branmcconnell/status/1932966087307718691)
 - [new dewrinkling technique achieved internally](https://x.com/branmcconnell/status/1932886022573924449)
-- [For custom utilities, I sometimes depend on the raw decimal values in plugins. Other times, I want the bare value. More critically, `prop-[--value]` should typically be preserved &lpar;except migrating v3 ➞ v4&rpar;, for custom ident values like `anchor-name’ and `view-transition-name`.](https://x.com/branmcconnell/status/1932828712778465499)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
