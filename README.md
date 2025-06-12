@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [If you had followed Apple&#39;s progress from iOS 19, 20, 21, 22, 23, 24, and 25, you&#39;d see that the iOS 26 design is the next logical step in terms of design No… they weren&#39;t ✌️actual✌️ releases, but you betcha&#39; there was a Sketch layer for each one](https://x.com/branmcconnell/status/1932974244159431016)
 - [new dewrinkling technique achieved internally](https://x.com/branmcconnell/status/1932886022573924449)
 - [For custom utilities, I sometimes depend on the raw decimal values in plugins. Other times, I want the bare value. More critically, `prop-[--value]` should typically be preserved &lpar;except migrating v3 ➞ v4&rpar;, for custom ident values like `anchor-name’ and `view-transition-name`.](https://x.com/branmcconnell/status/1932828712778465499)
 - [how do i even pick which shirt to wear day 1 of a conf? feat @trashh_dev / @RenderATL #renderatl](https://x.com/branmcconnell/status/1932821250616758718)
 - [And yes… I have a lot of apps](https://x.com/branmcconnell/status/1932448173613601187)
-- [Want to get rid of the distracting liquid glass style on @Apple iOS 26? Turn on “Reduce Motion” on your iPhone under Settings &gt; Accessibility &gt; Motion. Everything becomes simpler and more readable, like the traditional translucency we‘re used to. It kills transitions though…](https://x.com/branmcconnell/status/1932447217513537786)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
