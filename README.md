@@ -55,7 +55,7 @@
 - [everyone’s saying my shirt looks like trash WHAT DID I DO TO YOU PEOPLE?](https://x.com/branmcconnell/status/1933668276246098099)
 - [ohh that&#39;s why my code has been so good lately](https://x.com/branmcconnell/status/1933300636331696533)
 - [Oh snap. Did @liveblocks just get acquired by @vercel? or @supabase? or @databricks? or maybe they’re acquiring/partnering? I’m not sweating… 🥵](https://x.com/branmcconnell/status/1933223794455556437)
-- [Feels great to support projects that make my life easier! I&#39;m proud to sponsor @amanvarshney01, the genius behind better-t-stack, the BEST way to scaffold new projects quickly with your preferred tools. This will soon be the industry default. 👉 better-t-stack.dev 👈](https://x.com/branmcconnell/status/1933216760896934060)
+- [Feels great to support projects that make my life easier! I&#39;m proud to sponsor @amanvarshney01, the genius behind better-t-stack, the BEST way to scaffold new projects quickly with your preferred tools. This will soon be the industry default. 👉  👈](https://x.com/branmcconnell/status/1933216760896934060)
 - [.@shadcn I’d like to add some features to the registry, but they’d require arguments for proper configuration. Do you support something like this? pnpx shadcn add my-component --data-source postgres://… --theme https://….json](https://x.com/branmcconnell/status/1933178464636448966)
 <!-- TWITTER:END -->
 
