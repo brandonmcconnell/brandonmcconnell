@@ -53,10 +53,10 @@
 ### My latest tweets
 <!-- TWITTER:START -->
 - [If you’ve been on the sidelines wondering how to get started with @shadcn to 10x your UI prototyping speeds &lpar;design or dev&rpar;, this is the course for you. 💯 I’ve been using shadcn-ui for a long time, and following @matsugfx’s design patterns, I’ve never moved faster.](https://x.com/branmcconnell/status/1935331896835428371)
-- [o3 is the new Gemini 2.5 Pro 🤦🏻‍♂️ For the past 5 messages, I&#39;ve asked o3 to &quot;make the change,&quot; and it keeps explaining what it will do, and then not doing it probably another case of &quot;we didn&#39;t change o3&quot; attn @cursor_ai @OpenAI x.com/iangrayhazzard…](https://x.com/branmcconnell/status/1935193692899279217)
-- [&lpar;TIL&rpar; Favicon finding 🌉 TIL you can pull the favicon for any domain using this simple URL structure google.com/s2/favicons?sz… The &quot;URL_HERE&quot; portion here accepts domains as well as specific URLs &lpar;helpful for domains with URL-specific favicons&rpar; The `sz` property controls the…](https://x.com/branmcconnell/status/1935137952763363515)
-- [my daughter waited eight months to say “dada” and then said it yesterday, the day BEFORE father’s day she just couldn’t hold it in another 24 hours. can i blame her?](https://x.com/branmcconnell/status/1934267053424435319)
-- [what every dad wants. vitamins.](https://x.com/branmcconnell/status/1933960094787469609)
+- [At the risk of human life, it attempts to make some changes but admits to leaving them half finished.](https://x.com/branmcconnell/status/1935198679964553263)
+- [It just keeps going and going, refusing to do the work](https://x.com/branmcconnell/status/1935198557419548864)
+- [@cursor_ai what is going on? Request ID: a6972203-4a2a-444d-999c-5470ff5a4108 cc @mntruell @sualehasif996 @ericzakariasson](https://x.com/branmcconnell/status/1935196165592469893)
+- [o3 is the new Gemini 2.5 Pro 🤦🏻‍♂️ For the past 5 messages, I&#39;ve asked o3 to &quot;make the change,&quot; and it keeps explaining what it will do, and then not doing it probably another case of &quot;we didn&#39;t change o3&quot; attn @cursor_ai @OpenAI](https://x.com/branmcconnell/status/1935193692899279217)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
