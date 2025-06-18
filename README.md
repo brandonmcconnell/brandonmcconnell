@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [If you’ve been on the sidelines wondering how to get started with @shadcn to 10x your UI prototyping speeds &lpar;design or dev&rpar;, this is the course for you. 💯 I’ve been using shadcn-ui for a long time, and following @matsugfx’s design patterns, I’ve never moved faster.](https://x.com/branmcconnell/status/1935331896835428371)
 - [o3 is the new Gemini 2.5 Pro 🤦🏻‍♂️ For the past 5 messages, I&#39;ve asked o3 to &quot;make the change,&quot; and it keeps explaining what it will do, and then not doing it probably another case of &quot;we didn&#39;t change o3&quot; attn @cursor_ai @OpenAI x.com/iangrayhazzard…](https://x.com/branmcconnell/status/1935193692899279217)
 - [&lpar;TIL&rpar; Favicon finding 🌉 TIL you can pull the favicon for any domain using this simple URL structure google.com/s2/favicons?sz… The &quot;URL_HERE&quot; portion here accepts domains as well as specific URLs &lpar;helpful for domains with URL-specific favicons&rpar; The `sz` property controls the…](https://x.com/branmcconnell/status/1935137952763363515)
 - [my daughter waited eight months to say “dada” and then said it yesterday, the day BEFORE father’s day she just couldn’t hold it in another 24 hours. can i blame her?](https://x.com/branmcconnell/status/1934267053424435319)
 - [what every dad wants. vitamins.](https://x.com/branmcconnell/status/1933960094787469609)
-- [everyone’s saying my shirt looks like trash WHAT DID I DO TO YOU PEOPLE?](https://x.com/branmcconnell/status/1933668276246098099)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
