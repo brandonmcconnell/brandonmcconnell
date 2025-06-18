@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [Just switched back from o3-pro to o3 Man… what an upgrade ⚡💰](https://x.com/branmcconnell/status/1935422412126134483)
+- [o3 📈 o3-pro 📉 I&#39;ve been using OpenAI o3-pro nonstop for coding for the past 2 days 💸 Compared to o3, it feels… 10x slower, 10x pricier, 10x less competent OpenAI o3 &lpar;not o3-pro&rpar;, on the other hand, is easily a mid/senior-level for most daily tasks I work on.](https://x.com/branmcconnell/status/1935418893042074060)
 - [If you’ve been on the sidelines wondering how to get started with @shadcn to 10x your UI prototyping speeds &lpar;design or dev&rpar;, this is the course for you. 💯 I’ve been using shadcn-ui for a long time, and following @matsugfx’s design patterns, I’ve never moved faster.](https://x.com/branmcconnell/status/1935331896835428371)
 - [At the risk of human life, it attempts to make some changes but admits to leaving them half finished.](https://x.com/branmcconnell/status/1935198679964553263)
 - [It just keeps going and going, refusing to do the work](https://x.com/branmcconnell/status/1935198557419548864)
-- [@cursor_ai what is going on? Request ID: a6972203-4a2a-444d-999c-5470ff5a4108 cc @mntruell @sualehasif996 @ericzakariasson](https://x.com/branmcconnell/status/1935196165592469893)
-- [o3 is the new Gemini 2.5 Pro 🤦🏻‍♂️ For the past 5 messages, I&#39;ve asked o3 to &quot;make the change,&quot; and it keeps explaining what it will do, and then not doing it probably another case of &quot;we didn&#39;t change o3&quot; attn @cursor_ai @OpenAI](https://x.com/branmcconnell/status/1935193692899279217)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
