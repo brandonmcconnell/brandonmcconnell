@@ -54,9 +54,9 @@
 <!-- TWITTER:START -->
 - [so far Claude 4 is really good. feels similarly to how o3 felt in the early days before they ✌️didn’t nerf it✌️](https://x.com/branmcconnell/status/1936204010375028908)
 - [One @cursor_ai rule I would highly suggest adding to your .cursorrules: &quot;Do not use the `any` TS type anywhere explicitly or implicitly. Do not use the `ZodTypeAny` type.&quot; Too often, I&#39;ve had to immediately double up on requests just to fix loose types that got generated.](https://x.com/branmcconnell/status/1936118781757034514)
+- [A browser extension to make this manageable from GitHub would be huge. If anyone&#39;s reading this and wants to build this, let me know. I&#39;d be happy to chat about it. Set parameters and preferences and release it. You can even set up tests for the feature to satisfy.](https://x.com/branmcconnell/status/1935849928292503675)
+- [Idea 💡 — Bounty system for git issues 💰 &lpar;I would pay for this in a heartbeat&rpar; Slap a bounty on a GitHub issue and have someone fix it. They can use AI, as long as it works. Backstory: I have open issues across many packages and not enough time to actively fix them all.](https://x.com/branmcconnell/status/1935849927042613549)
 - [classic o3 🤭](https://x.com/branmcconnell/status/1935774728754807076)
-- [TypeStack 2025 Next.ts Typewindcss Shadts Honotype Bunts Tsrepo Bettertypes Tsizzle PostgreTS](https://x.com/branmcconnell/status/1935452533150937229)
-- [Just switched back from o3-pro to o3 Man… what an upgrade ⚡💰](https://x.com/branmcconnell/status/1935422412126134483)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
