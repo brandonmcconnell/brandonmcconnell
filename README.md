@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [so far Claude 4 is really good. feels similarly to how o3 felt in the early days before they ✌️didn’t nerf it✌️](https://x.com/branmcconnell/status/1936204010375028908)
 - [One @cursor_ai rule I would highly suggest adding to your .cursorrules: &quot;Do not use the `any` TS type anywhere explicitly or implicitly. Do not use the `ZodTypeAny` type.&quot; Too often, I&#39;ve had to immediately double up on requests just to fix loose types that got generated.](https://x.com/branmcconnell/status/1936118781757034514)
 - [classic o3 🤭](https://x.com/branmcconnell/status/1935774728754807076)
 - [TypeStack 2025 Next.ts Typewindcss Shadts Honotype Bunts Tsrepo Bettertypes Tsizzle PostgreTS](https://x.com/branmcconnell/status/1935452533150937229)
 - [Just switched back from o3-pro to o3 Man… what an upgrade ⚡💰](https://x.com/branmcconnell/status/1935422412126134483)
-- [o3 📈 o3-pro 📉 I&#39;ve been using OpenAI o3-pro nonstop for coding for the past 2 days 💸 Compared to o3, it feels… 10x slower, 10x pricier, 10x less competent OpenAI o3 &lpar;not o3-pro&rpar;, on the other hand, is easily a mid/senior-level for most daily tasks I work on.](https://x.com/branmcconnell/status/1935418893042074060)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
