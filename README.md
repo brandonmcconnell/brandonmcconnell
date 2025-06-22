@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [.@cursor_ai is down. looks like i actually have to sleep tonight](https://x.com/branmcconnell/status/1936684101790011444)
 - [I left my maxed out M3 Max computer out for an hour during dinner for about an hour, at ~90%. I came back and it&#39;s now at 15%. What the heck, @Apple?](https://x.com/branmcconnell/status/1936594063534297390)
 - [Sometimes I ask AI to build a feature for me using a specific @shadcn component I haven&#39;t installed yet. Then the race is off to see if I can `pnpm dlx` the component name before o3 greps my codebase for it. This usually gives me about 15 sec of thinking time. Peak AIDX](https://x.com/branmcconnell/status/1936568056794505610)
 - [so far Claude 4 is really good. feels similarly to how o3 felt in the early days before they ✌️didn’t nerf it✌️](https://x.com/branmcconnell/status/1936204010375028908)
 - [One @cursor_ai rule I would highly suggest adding to your .cursorrules: &quot;Do not use the `any` TS type anywhere explicitly or implicitly. Do not use the `ZodTypeAny` type.&quot; Too often, I&#39;ve had to immediately double up on requests just to fix loose types that got generated.](https://x.com/branmcconnell/status/1936118781757034514)
-- [A browser extension to make this manageable from GitHub would be huge. If anyone&#39;s reading this and wants to build this, let me know. I&#39;d be happy to chat about it. Set parameters and preferences and release it. You can even set up tests for the feature to satisfy.](https://x.com/branmcconnell/status/1935849928292503675)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
