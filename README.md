@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [No matter how many different ways I phrase my question, o3 insists on adding a random closing brace after my tRPC mutation, even in a fresh new chat. 🤦🏻‍♂️](https://x.com/branmcconnell/status/1937195442304864614)
 - [hey @fuma_nama, official @aisdk integration wen? 🫶 x.com/mintlify/statu…](https://x.com/branmcconnell/status/1937182854347121072)
 - [@imbereket surely there&#39;s some better way to import this type that I&#39;m just not seeing, right? plssayyes](https://x.com/branmcconnell/status/1936923235636891648)
 - [Can someone make this? 🇹🇸 A tool that allows you to select any TS type from a dependency package that isn&#39;t already exported in some obvious way, and it tells you exactly how to infer it This would solve a huge pain point for TS devs Just blew like 20 mins on this 🥲](https://x.com/branmcconnell/status/1936922987787149414)
 - [didn&#39;t expect this to work, but it did 😄 max-w-[calc&lpar;100%---spacing&lpar;9&rpar;&rpar;] ty @tailwindcss @malfaitrobin @jordanpittman](https://x.com/branmcconnell/status/1936721829609058314)
-- [.@cursor_ai is down. looks like i actually have to sleep tonight](https://x.com/branmcconnell/status/1936684101790011444)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
