@@ -56,7 +56,7 @@
 - [I will not create a chatgpt rapper I will not create a chatgpt rapper I will not create a chatgpt rapper I will not create a chatgpt rapper I will not create a chatgpt rapper I will not create a chatgpt rapper I will not create a chatgpt rapper](https://x.com/branmcconnell/status/1937635356117172577)
 - [you can just @shadcn things &lpar;like… anything&rpar;](https://x.com/branmcconnell/status/1937560994399621530)
 - [No matter how many different ways I phrase my question, o3 insists on adding a random closing brace after my tRPC mutation, even in a fresh new chat. 🤦🏻‍♂️](https://x.com/branmcconnell/status/1937195442304864614)
-- [hey @fuma_nama, official @aisdk integration wen? 🫶 x.com/mintlify/statu…](https://x.com/branmcconnell/status/1937182854347121072)
+- [hey @fuma_nama, official @aisdk integration wen? 🫶](https://x.com/branmcconnell/status/1937182854347121072)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
