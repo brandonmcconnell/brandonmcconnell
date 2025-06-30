@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@thdxr how much to rent your house per day?](https://x.com/branmcconnell/status/1939420493771116899)
+- [.@MichelleBakels Hackhouse Miami when? 👀](https://x.com/branmcconnell/status/1939420150798688405)
 - [Great, I made some room for you. I just moved my domains from Cloudflare to Vercel. 😎](https://x.com/branmcconnell/status/1938340576518410652)
 - [@browserbase @Stagehanddev my ideal use case would be to automatically spin up new sessions already logged in using my persisted session cookies, and then give the agent human-like multi-step tasks like “navigate to email with subject line ABC123 and summarize it for me”](https://x.com/branmcconnell/status/1937911562443903155)
 - [I will not create a chatgpt rapper I will not create a chatgpt rapper I will not create a chatgpt rapper I will not create a chatgpt rapper I will not create a chatgpt rapper I will not create a chatgpt rapper I will not create a chatgpt rapper](https://x.com/branmcconnell/status/1937635356117172577)
-- [you can just @shadcn things &lpar;like… anything&rpar;](https://x.com/branmcconnell/status/1937560994399621530)
-- [No matter how many different ways I phrase my question, o3 insists on adding a random closing brace after my tRPC mutation, even in a fresh new chat. 🤦🏻‍♂️](https://x.com/branmcconnell/status/1937195442304864614)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
