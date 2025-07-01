@@ -53,7 +53,7 @@
 ### My latest tweets
 <!-- TWITTER:START -->
 - [bro out here spilling the sauce.](https://x.com/branmcconnell/status/1939778718710353940)
-- [imagine not attending the @vercel AI Accelerator Demo Day.... don&#39;t let that be you. the 40 teams have been COOKING 🧑‍🍳 apply to attend here:](https://x.com/sonofalli/status/1939746008541655130)
+- [imagine not attending the @vercel AI Accelerator Demo Day.... don&#39;t let that be you. the 40 teams have been COOKING 🧑‍🍳 apply to attend here: lu.ma/ix0r7hup](https://x.com/sonofalli/status/1939746008541655130)
 - [@thdxr how much to rent your house per day?](https://x.com/branmcconnell/status/1939420493771116899)
 - [.@MichelleBakels Hackhouse Miami when? 👀](https://x.com/branmcconnell/status/1939420150798688405)
 - [Great, I made some room for you. I just moved my domains from Cloudflare to Vercel. 😎](https://x.com/branmcconnell/status/1938340576518410652)
