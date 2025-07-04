@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [FYI for actual chat functionality and app logic, I&#39;m ofc considering tools like @aisdk and @CopilotKit, but right now, I&#39;m specifically looking for a UI library *only*.](https://x.com/branmcconnell/status/1940846387270504588)
+- [Native support would also be a HUGE plus, so anything extending a lib like React Native Reusables &lpar;RNR&rpar; could be a clear choice.](https://x.com/branmcconnell/status/1940846384787452381)
+- [I&#39;m specifically looking for a headless UI library &lpar;opinionated is fine&rpar;, no batteries included, something super flexible built on good primitives like Radix, BaseUI, React Aria, AriaKit, etc. I&#39;d also consider toolkits built on top of these, similar to @shadcn-ui.](https://x.com/branmcconnell/status/1940846383344329120)
+- [Who&#39;s out here building the definitive AI chat UI library? I&#39;m looking for the shadcn/ui of AI chat-based apps. The closest thing I&#39;ve seen is the Chat SDK template by @vercel, but I&#39;m wondering what else is out there, especially libraries that focus purely on UI.](https://x.com/branmcconnell/status/1940846381603999829)
 - [bro out here spilling the sauce.](https://x.com/branmcconnell/status/1939778718710353940)
-- [imagine not attending the @vercel AI Accelerator Demo Day.... don&#39;t let that be you. the 40 teams have been COOKING 🧑‍🍳 apply to attend here: lu.ma/ix0r7hup](https://x.com/sonofalli/status/1939746008541655130)
-- [@thdxr how much to rent your house per day?](https://x.com/branmcconnell/status/1939420493771116899)
-- [.@MichelleBakels Hackhouse Miami when? 👀](https://x.com/branmcconnell/status/1939420150798688405)
-- [Great, I made some room for you. I just moved my domains from Cloudflare to Vercel. 😎](https://x.com/branmcconnell/status/1938340576518410652)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
