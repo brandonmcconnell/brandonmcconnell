@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [OH SNAP. i was literally just saying we a better bounty platform two weeks ago y’all keep your eyes on sergio 🔥](https://x.com/branmcconnell/status/1941687096063774787)
 - [It’s insane how much the @tailwindcss team is packing into Tailwind CSS Insiders. I signed up instantly 🤣 Love this pattern. Access to a private Discord, pre-release docs, AI rules, themes, Raycast ext, Figma files. Big brain move. 🧠](https://x.com/branmcconnell/status/1941169080670789776)
 - [FYI for actual chat functionality and app logic, I&#39;m ofc considering tools like @aisdk and @CopilotKit, but right now, I&#39;m specifically looking for a UI library *only*.](https://x.com/branmcconnell/status/1940846387270504588)
 - [Native support would also be a HUGE plus, so anything extending a lib like React Native Reusables &lpar;RNR&rpar; could be a clear choice.](https://x.com/branmcconnell/status/1940846384787452381)
 - [I&#39;m specifically looking for a headless UI library &lpar;opinionated is fine&rpar;, no batteries included, something super flexible built on good primitives like Radix, BaseUI, React Aria, AriaKit, etc. I&#39;d also consider toolkits built on top of these, similar to @shadcn-ui.](https://x.com/branmcconnell/status/1940846383344329120)
-- [Who&#39;s out here building the definitive AI chat UI library? I&#39;m looking for the shadcn/ui of AI chat-based apps. The closest thing I&#39;ve seen is the Chat SDK template by @vercel, but I&#39;m wondering what else is out there, especially libraries that focus purely on UI.](https://x.com/branmcconnell/status/1940846381603999829)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
