@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [imagine if email billed by usage &amp; was rate-limited 💸](https://x.com/branmcconnell/status/1942984836253389182)
 - [I&#39;ve been chatting with Aman about some of the new features coming soon to better-t-stack I can&#39;t wait for what&#39;s coming next. Definitely keep an eye on this project. 🔥](https://x.com/branmcconnell/status/1942002028147835004)
 - [OH SNAP. i was literally just saying we a better bounty platform two weeks ago y’all keep your eyes on sergio 🔥](https://x.com/branmcconnell/status/1941687096063774787)
 - [It’s insane how much the @tailwindcss team is packing into Tailwind CSS Insiders. I signed up instantly 🤣 Love this pattern. Access to a private Discord, pre-release docs, AI rules, themes, Raycast ext, Figma files. Big brain move. 🧠](https://x.com/branmcconnell/status/1941169080670789776)
 - [FYI for actual chat functionality and app logic, I&#39;m ofc considering tools like @aisdk and @CopilotKit, but right now, I&#39;m specifically looking for a UI library *only*.](https://x.com/branmcconnell/status/1940846387270504588)
-- [Native support would also be a HUGE plus, so anything extending a lib like React Native Reusables &lpar;RNR&rpar; could be a clear choice.](https://x.com/branmcconnell/status/1940846384787452381)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
