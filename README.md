@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [this instantly became the best way to generate a shadcn/ui theme wow that was fast.](https://x.com/branmcconnell/status/1943423812810478038)
 - [OpenCut @opencutapp &lpar; &rpar; by @mazeincoding &amp; @izadoesdev ⭐ →](https://x.com/branmcconnell/status/1942988248009040342)
 - [Cap @cap &lpar; &rpar; by @richiemcilroy, @brendonovichdev, and Ameer ⭐ →](https://x.com/branmcconnell/status/1942988246633365815)
 - [Prezti @prezti_com &lpar; &rpar; by @YonatanLavy ⭐ →](https://x.com/branmcconnell/status/1942988245270220987)
 - [Fileverse @fileverse &lpar; &rpar; ⭐ →](https://x.com/branmcconnell/status/1942988243818955153)
-- [Nimbus @nimbusdotcloud &lpar; &rpar; by @logscore ⭐ →](https://x.com/branmcconnell/status/1942988242434900179)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
