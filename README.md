@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [fortunately, the 7-Eleven here was open which covers the 5 major food groups 4th meal of champions 💪🏼](https://x.com/branmcconnell/status/1945403670427775339)
+- [my overnight bus from LA to SF got canceled, so I’m camping out at the LAX airport until 6am 🥱](https://x.com/branmcconnell/status/1945403660659306574)
 - [Big things coming.](https://x.com/FontFaceAI/status/1945331375541764402)
 - [HUGE THANK YOU to @vercel for accepting FontFace into the Vercel AI Accelerator. They&#39;ve made this all possible. 🙏](https://x.com/branmcconnell/status/1945330479185715405)
-- [I couldn&#39;t be more excited to demo what we&#39;re working on in a couple of days. If you want to keep up with us &lpar;and get early access soon&rpar;, sign up for the FontFace waitlist at fontface.ai. fontface.ai](https://x.com/branmcconnell/status/1945330477663182868)
-- [For developers, fonts can be effortlessly installed in your apps using our custom kits and adapters, making it easy to use fonts regardless of your tech stack. ⚛️ React/Next.js 🧡 Svelte/SvelteKit ✅ Vue/Nuxt …and many more](https://x.com/branmcconnell/status/1945330475884798406)
-- [FontFace does not use AI ImageGen, diffusion, or tracing. It builds custom fonts vector-first. Iterate the fonts until you&#39;re satisfied, and then export the actual OTF, TTF, or WOFF2 files, so they can be installed and used locally— Word, PDFs, Adobe, Figma, you name it.](https://x.com/branmcconnell/status/1945330473087189370)
+- [I couldn&#39;t be more excited to demo what we&#39;re working on in a couple of days. If you want to keep up with us &lpar;and get early access soon&rpar;, sign up for the FontFace waitlist at](https://x.com/branmcconnell/status/1945330477663182868)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
