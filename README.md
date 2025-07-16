@@ -53,10 +53,10 @@
 ### My latest tweets
 <!-- TWITTER:START -->
 - [Big things coming.](https://x.com/FontFaceAI/status/1945331375541764402)
-- [so good to be back on the west side for the week](https://x.com/branmcconnell/status/1944179459634213279)
-- [this instantly became the best way to generate a shadcn/ui theme wow that was fast.](https://x.com/branmcconnell/status/1943423812810478038)
-- [OpenCut @opencutapp &lpar; &rpar; by @mazeincoding &amp; @izadoesdev ⭐ →](https://x.com/branmcconnell/status/1942988248009040342)
-- [Cap @cap &lpar; &rpar; by @richiemcilroy, @brendonovichdev, and Ameer ⭐ →](https://x.com/branmcconnell/status/1942988246633365815)
+- [HUGE THANK YOU to @vercel for accepting FontFace into the Vercel AI Accelerator. They&#39;ve made this all possible. 🙏](https://x.com/branmcconnell/status/1945330479185715405)
+- [I couldn&#39;t be more excited to demo what we&#39;re working on in a couple of days. If you want to keep up with us &lpar;and get early access soon&rpar;, sign up for the FontFace waitlist at fontface.ai. fontface.ai](https://x.com/branmcconnell/status/1945330477663182868)
+- [For developers, fonts can be effortlessly installed in your apps using our custom kits and adapters, making it easy to use fonts regardless of your tech stack. ⚛️ React/Next.js 🧡 Svelte/SvelteKit ✅ Vue/Nuxt …and many more](https://x.com/branmcconnell/status/1945330475884798406)
+- [FontFace does not use AI ImageGen, diffusion, or tracing. It builds custom fonts vector-first. Iterate the fonts until you&#39;re satisfied, and then export the actual OTF, TTF, or WOFF2 files, so they can be installed and used locally— Word, PDFs, Adobe, Figma, you name it.](https://x.com/branmcconnell/status/1945330473087189370)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
