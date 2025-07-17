@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [bro is out here SF-maxxing. taking zoom calls on the local bus. legend.](https://x.com/branmcconnell/status/1945970407741530200)
+- [Our waitlist is live. First come, first served. 👉 fontface.ai](https://x.com/FontFaceAI/status/1945967653547549074)
 - [fortunately, the 7-Eleven here was open which covers the 5 major food groups 4th meal of champions 💪🏼](https://x.com/branmcconnell/status/1945403670427775339)
 - [my overnight bus from LA to SF got canceled, so I’m camping out at the LAX airport until 6am 🥱](https://x.com/branmcconnell/status/1945403660659306574)
 - [Big things coming.](https://x.com/FontFaceAI/status/1945331375541764402)
-- [HUGE THANK YOU to @vercel for accepting FontFace into the Vercel AI Accelerator. They&#39;ve made this all possible. 🙏](https://x.com/branmcconnell/status/1945330479185715405)
-- [I couldn&#39;t be more excited to demo what we&#39;re working on in a couple of days. If you want to keep up with us &lpar;and get early access soon&rpar;, sign up for the FontFace waitlist at](https://x.com/branmcconnell/status/1945330477663182868)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
