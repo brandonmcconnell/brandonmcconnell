@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [Not surprised by the answer, but impressed how precisely it nailed it.](https://x.com/branmcconnell/status/1946794920141901967)
 - [bro is out here SF-maxxing. taking zoom calls on the local bus. legend.](https://x.com/branmcconnell/status/1945970407741530200)
 - [Our waitlist is live. First come, first served. 👉 fontface.ai](https://x.com/FontFaceAI/status/1945967653547549074)
 - [fortunately, the 7-Eleven here was open which covers the 5 major food groups 4th meal of champions 💪🏼](https://x.com/branmcconnell/status/1945403670427775339)
 - [my overnight bus from LA to SF got canceled, so I’m camping out at the LAX airport until 6am 🥱](https://x.com/branmcconnell/status/1945403660659306574)
-- [Big things coming.](https://x.com/FontFaceAI/status/1945331375541764402)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
