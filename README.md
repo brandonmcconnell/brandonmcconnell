@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [why are people like this](https://x.com/branmcconnell/status/1947456569840722093)
 - [are there really no open source litmus alternatives?????](https://x.com/branmcconnell/status/1947424293337600083)
 - [I’m putting stickers on my laptop for the first time ever If you’ve got cool stickers for your product and want them on full display at random conferences and coffee shops, send ‘em here! 👇🏼 221 N Hogan St STE 414-20875 Jacksonville, FL, 32202 &lpar;it’s a temp mailing address……](https://x.com/branmcconnell/status/1947416802323272139)
 - [Not surprised by the answer, but impressed how precisely it nailed it.](https://x.com/branmcconnell/status/1946794920141901967)
 - [bro is out here SF-maxxing. taking zoom calls on the local bus. legend.](https://x.com/branmcconnell/status/1945970407741530200)
-- [Our waitlist is live. First come, first served. 👉 fontface.ai](https://x.com/FontFaceAI/status/1945967653547549074)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
