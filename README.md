@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [follow snipe bam bam 💥 for the love of OSS, go follow this amazing account &lpar;@ossdotnow&rpar; and submit your projects to oss.now](https://x.com/branmcconnell/status/1947844396990287878)
+- [.@ossdotnow is at 998 followers 😱](https://x.com/branmcconnell/status/1947841871637573982)
 - [These measures and countermeasures will only strengthen the software on either side of the fence to the point where regular, fully qualified candidates can&#39;t get past these assistants. Things are bad enough as they are with AI screening.](https://x.com/branmcconnell/status/1947826849637404876)
 - [why are people like this](https://x.com/branmcconnell/status/1947456569840722093)
 - [are there really no open source litmus alternatives?????](https://x.com/branmcconnell/status/1947424293337600083)
-- [I’m putting stickers on my laptop for the first time ever If you’ve got cool stickers for your product and want them on full display at random conferences and coffee shops, send ‘em here! 👇🏼 221 N Hogan St STE 414-20875 Jacksonville, FL, 32202 &lpar;it’s a temp mailing address……](https://x.com/branmcconnell/status/1947416802323272139)
-- [Not surprised by the answer, but impressed how precisely it nailed it.](https://x.com/branmcconnell/status/1946794920141901967)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
