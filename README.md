@@ -54,7 +54,7 @@
 <!-- TWITTER:START -->
 - [gm to everyone job hunting. hang in there better yet, start building 🫡](https://x.com/branmcconnell/status/1948411603650551879)
 - [tech stack but we are in 2013 wordpress php jquery ajax mysql apache phpmyadmin cpanel whm sublime text filezilla ftp](https://x.com/branmcconnell/status/1948043152344092727)
-- [follow snipe bam bam 💥 for the love of OSS, go follow this amazing account &lpar;@ossdotnow&rpar; and submit your projects to](https://x.com/branmcconnell/status/1947844396990287878)
+- [follow snipe bam bam 💥 for the love of OSS, go follow this amazing account &lpar;@ossdotnow&rpar; and submit your projects to oss.now](https://x.com/branmcconnell/status/1947844396990287878)
 - [.@ossdotnow is at 998 followers 😱](https://x.com/branmcconnell/status/1947841871637573982)
 - [These measures and countermeasures will only strengthen the software on either side of the fence to the point where regular, fully qualified candidates can&#39;t get past these assistants. Things are bad enough as they are with AI screening.](https://x.com/branmcconnell/status/1947826849637404876)
 <!-- TWITTER:END -->
