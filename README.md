@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [i asked “is there really no open source alternative to google tag manager?” today during a space 3 people have tried to claim the idea 👉 @izadoesdev @iblamerohit @bruvimtired but who’s actually gonna BUILD IT? 👀](https://x.com/branmcconnell/status/1949921648674549800)
 - [this would be insane. especially for modern tech stacks.](https://x.com/branmcconnell/status/1949912739800850823)
 - [better-t-stack.dev just keeps getting better and better!](https://x.com/branmcconnell/status/1949907577611145726)
 - [🚩 if a developer still doesn&#39;t use @tailwindcss](https://x.com/letstri/status/1949753045228650497)
 - [I need to know 😅 Hey, @grok, who was the most famous person to visit my profile? It doesn&#39;t need to be a mutual, don&#39;t tag them, just say who it was.](https://x.com/branmcconnell/status/1949436486358847570)
-- [gm to everyone job hunting. hang in there better yet, start building 🫡](https://x.com/branmcconnell/status/1948411603650551879)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
