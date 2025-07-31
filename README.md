@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [in less than 24 hours, @opencutapp now runs on @tailwindcss v4. i move fast… who&#39;s next?](https://x.com/branmcconnell/status/1950962798134956515)
 - [new sticker just came in thanks @mail0dotcom!](https://x.com/branmcconnell/status/1950676980480823619)
 - [Got another special sponsor 🥳 Thank you @branmcconnell! He’s been supporting this project for a long time promoting it, giving feedback, and helping improve Better T Stack more and more 🫡](https://x.com/amanvarshney01/status/1950570302108475758)
 - [honestly surprised this isn’t built into @vercel already. they’ve already got analytics and feature flags. tooling for a/b testing tooling and something similar to google tag manager feels like a no brainer](https://x.com/branmcconnell/status/1949936498360426957)
 - [i asked “is there really no open source alternative to google tag manager?” today during a space 3 people have tried to claim the idea 👉 @izadoesdev @iblamerohit @bruvimtired but who’s actually gonna BUILD IT? 👀](https://x.com/branmcconnell/status/1949921648674549800)
-- [this would be insane. especially for modern tech stacks.](https://x.com/branmcconnell/status/1949912739800850823)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
