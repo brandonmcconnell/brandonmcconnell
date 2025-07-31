@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [I have little to no project management experience It feels so good to hear this from the designer I&#39;ve been working with for a while 🥹](https://x.com/branmcconnell/status/1951016515899212041)
 - [@qwertyu_alex can&#39;t say no to prs from @branmcconnell](https://x.com/mazeincoding/status/1950981655499514091)
 - [in less than 24 hours, @opencutapp now runs on @tailwindcss v4. i move fast… who&#39;s next?](https://x.com/branmcconnell/status/1950962798134956515)
 - [new sticker just came in thanks @mail0dotcom!](https://x.com/branmcconnell/status/1950676980480823619)
 - [Got another special sponsor 🥳 Thank you @branmcconnell! He’s been supporting this project for a long time promoting it, giving feedback, and helping improve Better T Stack more and more 🫡](https://x.com/amanvarshney01/status/1950570302108475758)
-- [honestly surprised this isn’t built into @vercel already. they’ve already got analytics and feature flags. tooling for a/b testing tooling and something similar to google tag manager feels like a no brainer](https://x.com/branmcconnell/status/1949936498360426957)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
