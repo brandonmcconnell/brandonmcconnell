@@ -53,7 +53,7 @@
 ### My latest tweets
 <!-- TWITTER:START -->
 - [I have little to no project management experience It feels so good to hear this from the designer I&#39;ve been working with for a while 🥹](https://x.com/branmcconnell/status/1951016515899212041)
-- [can&#39;t say no to prs from @branmcconnell](https://x.com/mazeincoding/status/1950981655499514091)
+- [@qwertyu_alex can&#39;t say no to prs from @branmcconnell](https://x.com/mazeincoding/status/1950981655499514091)
 - [in less than 24 hours, @opencutapp now runs on @tailwindcss v4. i move fast… who&#39;s next?](https://x.com/branmcconnell/status/1950962798134956515)
 - [@opencutapp now runs on @tailwindcss v4](https://x.com/branmcconnell/status/1950960039058960769)
 - [spoiler. he accepted it the next day. 🔥](https://x.com/branmcconnell/status/1950960037683167335)
