@@ -55,7 +55,7 @@
 - [I have a note in my phone of hundreds of ideas I’ve come up with over the years. I look back over it occasionally, and there are only ~20 I think would be worth my exploration today. Ideally, I’ll narrow down that list even further.](https://x.com/branmcconnell/status/1952368195597197737)
 - [In my experience, this is actually a signal of a company that&#39;s bound for success. I slave over the smallest details. The companies I&#39;ve worked with that support and promote this do exceedingly well. The companies that rage against it don&#39;t get far.](https://x.com/branmcconnell/status/1951750854241042905)
 - [I have little to no project management experience It feels so good to hear this from the designer I&#39;ve been working with for a while 🥹](https://x.com/branmcconnell/status/1951016515899212041)
-- [can&#39;t say no to prs from @branmcconnell](https://x.com/mazeincoding/status/1950981655499514091)
+- [@qwertyu_alex can&#39;t say no to prs from @branmcconnell](https://x.com/mazeincoding/status/1950981655499514091)
 - [in less than 24 hours, @opencutapp now runs on @tailwindcss v4. i move fast… who&#39;s next?](https://x.com/branmcconnell/status/1950962798134956515)
 <!-- TWITTER:END -->
 
