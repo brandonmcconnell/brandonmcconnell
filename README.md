@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [le chat-gpt = the cat-gpt 🐈🇫🇷🥖](https://x.com/branmcconnell/status/1953507383247798461)
+- [can confirm this is what planes look like. thanks gpt-5!](https://x.com/branmcconnell/status/1953505488672358807)
+- [lunch break maxxxing](https://x.com/branmcconnell/status/1953502913256432064)
 - [This is exactly the kind of AI SDK-integrated component library I&#39;ve been asking for for months. Of course @haydenbleasel from @vercel is behind this. Everything he touches is pure gold. Using this ASAP.](https://x.com/branmcconnell/status/1953489723495706826)
 - [t-minus 1 hour till openai o3 turns to 💩](https://x.com/branmcconnell/status/1953489089811882238)
-- [tech twitter these days](https://x.com/branmcconnell/status/1953174631197667533)
-- [reminder to minify your build output](https://x.com/branmcconnell/status/1953166928572264551)
-- [hey there x.com/user/status/19…](https://x.com/branmcconnell/status/1952822665808408673)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
