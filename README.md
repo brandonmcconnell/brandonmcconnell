@@ -55,7 +55,7 @@
 - [tech twitter these days](https://x.com/branmcconnell/status/1953174631197667533)
 - [reminder to minify your build output](https://x.com/branmcconnell/status/1953166928572264551)
 - [hey there x.com/user/status/19…](https://x.com/branmcconnell/status/1952822665808408673)
-- [@mazeincoding imagine all the trolling potential here Your browser is too small Your browser is too old Your browser is too incognito Your browser is too ad-blocked Your browser is too expensive Your browser is too not chrome](https://x.com/branmcconnell/status/1952735705886597517)
+- [imagine all the trolling potential here Your browser is too small Your browser is too old Your browser is too incognito Your browser is too ad-blocked Your browser is too expensive Your browser is too not chrome](https://x.com/branmcconnell/status/1952735705886597517)
 - [I have a note in my phone of hundreds of ideas I’ve come up with over the years. I look back over it occasionally, and there are only ~20 I think would be worth my exploration today. Ideally, I’ll narrow down that list even further.](https://x.com/branmcconnell/status/1952368195597197737)
 <!-- TWITTER:END -->
 
