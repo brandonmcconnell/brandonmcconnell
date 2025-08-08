@@ -52,8 +52,8 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [Serious question: How can I use AI to write something that sounds human but *not* high-IQ/EQ? I&#39;m waiting for a model to come along that&#39;s indistinguishable from an &quot;average Joe&quot;. It would even be useful when crafting personalities to be able to configure temperament,…](https://x.com/branmcconnell/status/1953617646504624381)
-- [.@OpenAI: &quot;We&#39;re giving ChatGPT access to Gmail and Google Calendar.&quot; @mail0dotcom and @analogdotnow:](https://x.com/branmcconnell/status/1953597290566000945)
+- [Serious question: How can I use AI to write something that sounds human but *not* high-IQ/EQ? I&#39;m waiting for a model to come along that&#39;s indistinguishable from an &quot;average Joe&quot;. It would even be useful when crafting personalities to be able to configure temperament,…](https://x.com/branmcconnell/status/1953617646504624381)
+- [.@OpenAI: &quot;We&#39;re giving ChatGPT access to Gmail and Google Calendar.&quot;@mail0dotcom and @analogdotnow:](https://x.com/branmcconnell/status/1953597290566000945)
 - [when gpt-5 one-shots your entire startup in 2 mins](https://x.com/branmcconnell/status/1953520236830802385)
 - [le chat-gpt = the cat-gpt 🐈🇫🇷🥖](https://x.com/branmcconnell/status/1953507383247798461)
 - [can confirm this is what planes look like. thanks gpt-5!](https://x.com/branmcconnell/status/1953505488672358807)
