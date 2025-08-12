@@ -56,7 +56,7 @@
 - [why does the founder of cupola labs not have the @cupolalabs badge?](https://x.com/branmcconnell/status/1954238648020283855)
 - [between fleetline and belli, we have almost all modes of transportation covered by ai-powered storage planning who’s doing this for boats? 🚢 👀 cc @JunejaVeer @sauravml @belli_ai](https://x.com/branmcconnell/status/1953879377483026706)
 - [GTA 6 beta is rolling out and still no GPT-6 😪](https://x.com/branmcconnell/status/1953825065566400809)
-- [Serious question: How can I use AI to write something that sounds human but *not* high-IQ/EQ? I&#39;m waiting for a model to come along that&#39;s indistinguishable from an &quot;average Joe&quot;. It would even be useful when crafting personalities to be able to configure temperament,…](https://x.com/branmcconnell/status/1953617646504624381)
+- [Serious question: How can I use AI to write something that sounds human but *not* high-IQ/EQ? I&#39;m waiting for a model to come along that&#39;s indistinguishable from an &quot;average Joe&quot;. It would even be useful when crafting personalities to be able to configure temperament,…](https://x.com/branmcconnell/status/1953617646504624381)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
