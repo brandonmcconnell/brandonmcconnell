@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [gpt-5 is how you feel inside](https://x.com/theo/status/1956100104546607433)
 - [“this email finds you”](https://x.com/branmcconnell/status/1955390274009715124)
 - [@blakssh @branmcconnell you sound like MKBHD. I thought why is Marcus here](https://x.com/pantharshit007/status/1955349052649779709)
 - [to my uk friends, i suggest switching to fahrenheit 40ºF is actually nice](https://x.com/branmcconnell/status/1955273851660615960)
 - [Actually, I’m at the same applies to the year filter](https://x.com/branmcconnell/status/1954754601372045580)
-- [why does the founder of cupola labs not have the @cupolalabs badge?](https://x.com/branmcconnell/status/1954238648020283855)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
