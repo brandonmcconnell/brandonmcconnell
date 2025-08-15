@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [v0 is out here creating its own currency](https://x.com/branmcconnell/status/1956171341230379275)
 - [gpt-5 is how you feel inside](https://x.com/theo/status/1956100104546607433)
+- [I was mostly joking… but I think there might be some legitimacy to this I would totally use an integration with @Handwrytten. I use them often for handwritten-style letters. @cjbell_ @MikeCarbone 👀](https://x.com/branmcconnell/status/1956035628975403305)
+- [.@knocklabs physical mail when??](https://x.com/branmcconnell/status/1956035175407641086)
 - [“this email finds you”](https://x.com/branmcconnell/status/1955390274009715124)
-- [@blakssh @branmcconnell you sound like MKBHD. I thought why is Marcus here](https://x.com/pantharshit007/status/1955349052649779709)
-- [to my uk friends, i suggest switching to fahrenheit 40ºF is actually nice](https://x.com/branmcconnell/status/1955273851660615960)
-- [Actually, I’m at the same applies to the year filter](https://x.com/branmcconnell/status/1954754601372045580)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
