@@ -54,7 +54,7 @@
 <!-- TWITTER:START -->
 - [v0 is out here creating its own currency](https://x.com/branmcconnell/status/1956171341230379275)
 - [gpt-5 is how you feel inside](https://x.com/theo/status/1956100104546607433)
-- [I was mostly joking… but I think there might be some legitimacy to this I would totally use an integration with @Handwrytten. I use them often for handwritten-style letters. @cjbell_ @MikeCarbone 👀](https://x.com/branmcconnell/status/1956035628975403305)
+- [I was mostly joking… but I think there might be some legitimacy to this I would totally use an integration with @Handwrytten. I use them often for handwritten-style letters.@cjbell_ @MikeCarbone 👀](https://x.com/branmcconnell/status/1956035628975403305)
 - [.@knocklabs physical mail when??](https://x.com/branmcconnell/status/1956035175407641086)
 - [“this email finds you”](https://x.com/branmcconnell/status/1955390274009715124)
 <!-- TWITTER:END -->
