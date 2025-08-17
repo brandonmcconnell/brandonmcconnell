@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [until ai detector software is a failed and hopeless business model, ai is not human-like enough let that sink in](https://x.com/branmcconnell/status/1957105802436554835)
 - [when is coding?](https://x.com/branmcconnell/status/1957087426880393685)
 - [v0 is out here creating its own currency](https://x.com/branmcconnell/status/1956171341230379275)
 - [gpt-5 is how you feel inside](https://x.com/theo/status/1956100104546607433)
 - [I was mostly joking… but I think there might be some legitimacy to this I would totally use an integration with @Handwrytten. I use them often for handwritten-style letters.@cjbell_ @MikeCarbone 👀](https://x.com/branmcconnell/status/1956035628975403305)
-- [.@knocklabs physical mail when??](https://x.com/branmcconnell/status/1956035175407641086)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
