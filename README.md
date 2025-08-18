@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [Many other people believed in this team and the vision of Carevoyance along the way, many of whom I couldn&#39;t find on X to mention. I do appreciate everyone I worked with, so if you&#39;re on that list, thank you. 🫶](https://x.com/branmcconnell/status/1957543524343378121)
+- [the og team @AnatolyG - fearless leader @dimfeld - resident genius @chrisjm - backend/api slinger @techniq35 - ui/data-viz expert @yroowland - data eng guru *‍@dimfeld and I chatted on X years before joining Carevoyance, so don&#39;t underestimate social interactions!](https://x.com/branmcconnell/status/1957543522883547411)
+- [This week marks the end of a 3½ year journey building  &lpar;@H1co_ → @DefinitiveHC&rpar;. 🥹 I&#39;m incredibly grateful for the people I’ve worked with and proud of what we built. Thanks for the memories! Excited to share what’s next soon… 🪁](https://x.com/branmcconnell/status/1957543518135595273)
 - [It bugs me that the ⌘+K menu in @OpenAI @ChatGPTapp is centered to the viewport rather than the main chat area, causing the chat UI to jet out of one side asymmetrically.](https://x.com/branmcconnell/status/1957451636734914925)
 - [until ai detector software is a failed and hopeless business model, ai is not human-like enough let that sink in](https://x.com/branmcconnell/status/1957105802436554835)
-- [when is coding?](https://x.com/branmcconnell/status/1957087426880393685)
-- [v0 is out here creating its own currency](https://x.com/branmcconnell/status/1956171341230379275)
-- [gpt-5 is how you feel inside](https://x.com/theo/status/1956100104546607433)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
