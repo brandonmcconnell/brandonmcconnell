@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- […or join our very…very…early…WIP Discord server:](https://x.com/branmcconnell/status/1957962031409295435)
+- [In the meantime, check out our plugins on GitHub: git.new/toolwind](https://x.com/branmcconnell/status/1957962029664530475)
+- [Join the waitlist at toolwind.com! The vision for Toolwind is to deliver… – the best plugins &amp; tools for supercharging and simplifying how you use Tailwind CSS – codemods &amp; build tools to unlock new functionality – even more… 👀 🗓️ Toolwind launches in Q4.](https://x.com/branmcconnell/status/1957962027932217436)
+- [.@toolwind was accepted into Vercel&#39;s OSS program! Thanks so much, @vercel and @kapehe_ok, for the opportunity. I&#39;m beyond excited to build the definitive registry of Tailwind CSS plugins and tools. Let&#39;s go 🔥](https://x.com/branmcconnell/status/1957962025965089201)
 - [supporting oss projects you care about is so fulfilling love watching these builders scale and succeed oss.now is the future home for finding the best oss projects. i&#39;m so bullish.](https://x.com/branmcconnell/status/1957857422959075545)
-- [i was ooo so i couldnt address this, but this guy @branmcconnell is honestly probably the most selfless person ive met in this small oss community here on twitter. grateful and really appreciate you Brandon 🤍🤍](https://x.com/bruvimtired/status/1957847278112088143)
-- [Many other people believed in this team and the vision of Carevoyance along the way, many of whom I couldn&#39;t find on X to mention. I do appreciate everyone I worked with, so if you&#39;re on that list, thank you. 🫶](https://x.com/branmcconnell/status/1957543524343378121)
-- [the og team @AnatolyG - fearless leader @dimfeld - resident genius @chrisjm - backend/api slinger @techniq35 - ui/data-viz expert @yroowland - data eng guru *‍@dimfeld and I chatted on X years before joining Carevoyance, so don&#39;t underestimate social interactions!](https://x.com/branmcconnell/status/1957543522883547411)
-- [This week marks the end of a 3½ year journey building  &lpar;@H1co_ → @DefinitiveHC&rpar;. 🥹 I&#39;m incredibly grateful for the people I’ve worked with and proud of what we built. Thanks for the memories! Excited to share what’s next soon… 🪁](https://x.com/branmcconnell/status/1957543518135595273)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
