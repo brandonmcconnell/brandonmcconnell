@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [if you’re a design engineer, this will be the role you regret not applying to in a few years.](https://x.com/branmcconnell/status/1958184927364538582)
 - […or join our very…very…early…WIP Discord server:](https://x.com/branmcconnell/status/1957962031409295435)
 - [In the meantime, check out our plugins on GitHub:](https://x.com/branmcconnell/status/1957962029664530475)
 - [Join the waitlist at ! The vision for Toolwind is to deliver… – the best plugins &amp; tools for supercharging and simplifying how you use Tailwind CSS – codemods &amp; build tools to unlock new functionality – even more… 👀 🗓️ Toolwind launches in Q4.](https://x.com/branmcconnell/status/1957962027932217436)
 - [.@toolwind was accepted into Vercel&#39;s OSS program! Thanks so much, @vercel and @kapehe_ok, for the opportunity. I&#39;m beyond excited to build the definitive registry of Tailwind CSS plugins and tools. Let&#39;s go 🔥](https://x.com/branmcconnell/status/1957962025965089201)
-- [supporting oss projects you care about is so fulfilling love watching these builders scale and succeed  is the future home for finding the best oss projects. i&#39;m so bullish.](https://x.com/branmcconnell/status/1957857422959075545)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
