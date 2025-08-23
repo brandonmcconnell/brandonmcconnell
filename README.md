@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [new ai charts are here!](https://x.com/branmcconnell/status/1959125573717958905)
-- [if you’re a design engineer, this will be the role you regret not applying to in a few years.](https://x.com/branmcconnell/status/1958184927364538582)
-- […or join our very…very…early…WIP Discord server:](https://x.com/branmcconnell/status/1957962031409295435)
-- [In the meantime, check out our plugins on GitHub:](https://x.com/branmcconnell/status/1957962029664530475)
-- [Join the waitlist at ! The vision for Toolwind is to deliver… – the best plugins &amp; tools for supercharging and simplifying how you use Tailwind CSS – codemods &amp; build tools to unlock new functionality – even more… 👀 🗓️ Toolwind launches in Q4.](https://x.com/branmcconnell/status/1957962027932217436)
+- [i’d be really curious to chat more about this, test &amp; use it, and even help shape and build it](https://x.com/branmcconnell/status/1959295129820270970)
+- [i considered i could add a custom “integrations” tab via a browser extension to accomplish this as its own product, but for widespread adoption &lpar;both by users and integrations owners&rpar;, first-class support is vital](https://x.com/branmcconnell/status/1959295127458845097)
+- [this would &lpar;1&rpar; reduce context switching, &lpar;2&rpar; surface all project-relevant data &amp; tooling right inside the project, and &lpar;3&rpar; solidify the vercel project page as the primary source of truth for all data related to projects](https://x.com/branmcconnell/status/1959295125361737961)
+- [provider agnostic &lpar;open marketplace or similar&rpar; with some official docs for building inner tab content supplementary to what vercel already provides, some clear use cases and huge value adds would be embedded… – cms – analytics – feature flags – logs – ci/cd](https://x.com/branmcconnell/status/1959295123197415793)
+- [just had an idea for @vercel projects i think could be really useful: custom project tabs for 3rd party integrations](https://x.com/branmcconnell/status/1959295119732949452)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
