@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [i&#39;m more bullish on ag-ui than i ever was on mcp or a2a piped.video/watch?v=BFWviieM…](https://x.com/branmcconnell/status/1960340331246838089)
 - [from youtube prankster to @mail0dotcom founding eng… what a journey](https://x.com/branmcconnell/status/1959716970800263289)
 - [i’d be really curious to chat more about this, test &amp; use it, and even help shape and build it](https://x.com/branmcconnell/status/1959295129820270970)
 - [i considered i could add a custom “integrations” tab via a browser extension to accomplish this as its own product, but for widespread adoption &lpar;both by users and integrations owners&rpar;, first-class support is vital](https://x.com/branmcconnell/status/1959295127458845097)
 - [this would &lpar;1&rpar; reduce context switching, &lpar;2&rpar; surface all project-relevant data &amp; tooling right inside the project, and &lpar;3&rpar; solidify the vercel project page as the primary source of truth for all data related to projects](https://x.com/branmcconnell/status/1959295125361737961)
-- [provider agnostic &lpar;open marketplace or similar&rpar; with some official docs for building inner tab content supplementary to what vercel already provides, some clear use cases and huge value adds would be embedded… – cms – analytics – feature flags – logs – ci/cd](https://x.com/branmcconnell/status/1959295123197415793)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
