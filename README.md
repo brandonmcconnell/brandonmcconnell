@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [officially telling people i was featured on @nextdevfm](https://x.com/branmcconnell/status/1960842624555733098)
 - [all the official docs here 👀](https://x.com/branmcconnell/status/1960342173150249200)
 - [great video covering ag-ui here](https://x.com/branmcconnell/status/1960342170327544281)
 - [i&#39;m more bullish on ag-ui than i ever was on mcp or a2a](https://x.com/branmcconnell/status/1960342168935026944)
 - [i&#39;m more bullish on ag-ui than i ever was on mcp or a2a piped.video/watch?v=BFWviieM…](https://x.com/branmcconnell/status/1960340331246838089)
-- [from youtube prankster to @mail0dotcom founding eng… what a journey](https://x.com/branmcconnell/status/1959716970800263289)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
