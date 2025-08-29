@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [you&#39;re building a new startup and have to choose exactly 3 cofounders who are you picking?](https://x.com/branmcconnell/status/1961537066271215857)
 - [somebody needs to teach fred work-life balance](https://x.com/branmcconnell/status/1961269390252347465)
 - [@BetterStackHQ Have y’all covered AG-UI yet??](https://x.com/branmcconnell/status/1961223877616402901)
 - [@BetterStackHQ you know what to do](https://x.com/branmcconnell/status/1961223136650650095)
 - [BABE WAKE UP react and svelte had a baby](https://x.com/branmcconnell/status/1961222106374398127)
-- [@ersadwork 👋](https://x.com/branmcconnell/status/1961123834704085004)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
