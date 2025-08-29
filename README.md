@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [somebody needs to teach fred work-life balance](https://x.com/branmcconnell/status/1961269390252347465)
 - [@BetterStackHQ Have y’all covered AG-UI yet??](https://x.com/branmcconnell/status/1961223877616402901)
 - [@BetterStackHQ you know what to do](https://x.com/branmcconnell/status/1961223136650650095)
 - [BABE WAKE UP react and svelte had a baby](https://x.com/branmcconnell/status/1961222106374398127)
 - [@ersadwork 👋](https://x.com/branmcconnell/status/1961123834704085004)
-- [.@alignui i&#39;m the guy who upgrades seemingly un-upgradable tailwind v3 codebases to v4 against all odds. …shall we begin?](https://x.com/branmcconnell/status/1961123559314518226)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
