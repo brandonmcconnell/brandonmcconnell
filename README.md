@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@BetterStackHQ Have y’all covered AG-UI yet??](https://x.com/branmcconnell/status/1961223877616402901)
+- [@BetterStackHQ you know what to do](https://x.com/branmcconnell/status/1961223136650650095)
+- [BABE WAKE UP react and svelte had a baby](https://x.com/branmcconnell/status/1961222106374398127)
 - [@ersadwork 👋](https://x.com/branmcconnell/status/1961123834704085004)
 - [.@alignui i&#39;m the guy who upgrades seemingly un-upgradable tailwind v3 codebases to v4 against all odds. …shall we begin?](https://x.com/branmcconnell/status/1961123559314518226)
-- [Excited to see Toolwind get into the OSS Vercel program!🚀 Grateful I got to collaborate with Brandon early on to explore some logo directions🎨 fun process working on those initial concepts](https://x.com/mannyeffect_/status/1961113370586644553)
-- [should we bring brandon on for an official episode?](https://x.com/nextdevfm/status/1961110394610893281)
-- [imagine wiring up these npm repo shorthand syntaxes …only to have literally zero people use them in prod](https://x.com/branmcconnell/status/1960864532298891478)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
