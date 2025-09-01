@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [so pumped to see mediabunny getting the attention it deserves 🐰 been chatting with @vanilagy for the past month or so, and there’s a real chance this will entirely replace how we often use ffmpeg in client apps first @opencutapp and now @Remotion 📈](https://x.com/branmcconnell/status/1962591741875232965)
 - [He&#39;s using his status as a public figure to shield himself, all the while threatening others. This shouldn&#39;t be tolerated or excused. No one is above the law.](https://x.com/branmcconnell/status/1962216597218644214)
 - [Even a public apology at this point would only serve to de-escalate tensions and boycotts impacting him and to help his public image. He is defending his unlawful behavior towards a child. Ideally, I would expect at least some community service, maybe jail time.](https://x.com/branmcconnell/status/1962216595809247554)
 - [@KamilMajchrzakk According to the law &lpar;as I understand it&rpar;, Szczerek committed theft against you since the handoff to the boy was incomplete. Is there anything you can do to help seek justice here? I am a firm believer in mercy whenever possible, but I don&#39;t think it is here.](https://x.com/branmcconnell/status/1962216594525901015)
 - [This is clearly his usual behavior, as Szczerek shows no hesitation or remorse. HE&#39;S DOUBLING DOWN. If he acts like this in front of his wife and towards children in public, in front of cameras, I can&#39;t imagine how he acts off camera and at work.](https://x.com/branmcconnell/status/1962216593049415990)
-- [So the entitled guy who stole the hat from that kid, CEO Piotr Szczerek, is doubling down and threatening anyone who calls him out. Does he not realize he committed theft? He is not above the law.#USOpen2025 #NoChill #viral #majchrzak #usopen #cwaniak #szczerek #cap #stolen](https://x.com/branmcconnell/status/1962216589425533406)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
