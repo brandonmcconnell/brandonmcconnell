@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [👉 Add your nomination too: docs.google.com/forms/d/e/1F… Who would you like to nominate? Bereket Engida What is their email address? bereket[at]better-auth[dot]com Nomination category Outstanding Contribution from a New Arrival](https://x.com/branmcconnell/status/1962935347534561683)
+- [I&#39;m nominating Bereket Engida &lpar;@imbereket&rpar; for “Outstanding Contribution from a New Arrival” in the @openjsf 2025 JavaScriptLandia Awards. Solving authentication beautifully is hard. What Bereket is doing with BetterAuth &lpar;@better_auth&rpar; helps so many. Link to the form below 👇](https://x.com/branmcconnell/status/1962935345835557025)
 - [Excited about s̶n̶o̶w̶ ̶l̶e̶o̶p̶a̶r̶d̶ saru by @wlovedaypowell I had the privilege of chatting with Will about it over lunch in SF while attending @Vercel AI Accelerator demo day in July. Will is both a great founder and a kind person! I may have recommended dropping &quot;Snow&quot; 🤭](https://x.com/branmcconnell/status/1962727010414825825)
 - [so pumped to see mediabunny getting the attention it deserves 🐰 been chatting with @vanilagy for the past month or so, and there’s a real chance this will entirely replace how we often use ffmpeg in client apps first @opencutapp and now @Remotion 📈](https://x.com/branmcconnell/status/1962591741875232965)
 - [He&#39;s using his status as a public figure to shield himself, all the while threatening others. This shouldn&#39;t be tolerated or excused. No one is above the law.](https://x.com/branmcconnell/status/1962216597218644214)
-- [Even a public apology at this point would only serve to de-escalate tensions and boycotts impacting him and to help his public image. He is defending his unlawful behavior towards a child. Ideally, I would expect at least some community service, maybe jail time.](https://x.com/branmcconnell/status/1962216595809247554)
-- [@KamilMajchrzakk According to the law &lpar;as I understand it&rpar;, Szczerek committed theft against you since the handoff to the boy was incomplete. Is there anything you can do to help seek justice here? I am a firm believer in mercy whenever possible, but I don&#39;t think it is here.](https://x.com/branmcconnell/status/1962216594525901015)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
