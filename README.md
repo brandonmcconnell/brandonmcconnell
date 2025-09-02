@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [&quot;AI is coming for our jobs!&quot;](https://x.com/branmcconnell/status/1963010796402729311)
+- [this new @mail0dotcom design hits funny &lpar;…it&#39;s notion mail 🫠&rpar;](https://x.com/branmcconnell/status/1962992619128238216)
 - [TIL .md is a valid domain extension](https://x.com/branmcconnell/status/1962965638365777944)
 - [👉 Add your nomination too:  Who would you like to nominate? Bereket Engida What is their email address? bereket[at]better-auth[dot]com Nomination category Outstanding Contribution from a New Arrival](https://x.com/branmcconnell/status/1962935347534561683)
 - [I&#39;m nominating Bereket Engida &lpar;@imbereket&rpar; for “Outstanding Contribution from a New Arrival” in the @openjsf 2025 JavaScriptLandia Awards. Solving authentication beautifully is hard. What Bereket is doing with BetterAuth &lpar;@better_auth&rpar; helps so many. Link to the form below 👇](https://x.com/branmcconnell/status/1962935345835557025)
-- [Excited about s̶n̶o̶w̶ ̶l̶e̶o̶p̶a̶r̶d̶ saru by @wlovedaypowell I had the privilege of chatting with Will about it over lunch in SF while attending @Vercel AI Accelerator demo day in July. Will is both a great founder and a kind person! I may have recommended dropping &quot;Snow&quot; 🤭](https://x.com/branmcconnell/status/1962727010414825825)
-- [so pumped to see mediabunny getting the attention it deserves 🐰 been chatting with @vanilagy for the past month or so, and there’s a real chance this will entirely replace how we often use ffmpeg in client apps first @opencutapp and now @Remotion 📈](https://x.com/branmcconnell/status/1962591741875232965)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
