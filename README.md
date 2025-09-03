@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [Got my React Miami 2026 ticket locked in 🔥 If you haven’t been to React Miami before, you won’t want to miss this. I attend a lot of conferences, but this one is my favorite. Solid talks, community, food, and more If you have been before… what are you waiting for?? 💸](https://x.com/branmcconnell/status/1963027480597475447)
 - [&quot;AI is coming for our jobs!&quot;](https://x.com/branmcconnell/status/1963010796402729311)
 - [this new @mail0dotcom design hits funny &lpar;…it&#39;s notion mail 🫠&rpar;](https://x.com/branmcconnell/status/1962992619128238216)
 - [TIL .md is a valid domain extension](https://x.com/branmcconnell/status/1962965638365777944)
 - [👉 Add your nomination too:  Who would you like to nominate? Bereket Engida What is their email address? bereket[at]better-auth[dot]com Nomination category Outstanding Contribution from a New Arrival](https://x.com/branmcconnell/status/1962935347534561683)
-- [I&#39;m nominating Bereket Engida &lpar;@imbereket&rpar; for “Outstanding Contribution from a New Arrival” in the @openjsf 2025 JavaScriptLandia Awards. Solving authentication beautifully is hard. What Bereket is doing with BetterAuth &lpar;@better_auth&rpar; helps so many. Link to the form below 👇](https://x.com/branmcconnell/status/1962935345835557025)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
