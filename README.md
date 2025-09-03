@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [Watch the full course for free on YouTube here: piped.video/playlist?list=PL…](https://x.com/branmcconnell/status/1963253327187112232)
+- [If you&#39;ve been sleeping on CSS scroll-driven animations… WAKE UP Bramus&#39;s course breaks down everything you need to know about CSS scroll-driven animations, whether you&#39;re using plain HTML, CSS, and JS or a JavaScript framework like React, Vue, Svelte, etc Thanks @bramus! 🔗👇](https://x.com/branmcconnell/status/1963253325479973207)
 - [@izadoesdev @rohitdoesdev y&#39;all might want to take a look at this](https://x.com/branmcconnell/status/1963044816842785082)
 - [Can&#39;t believe I&#39;m just learning about the &quot;instrumentation-client.js&quot; file supported by @nextjs App Router. This is an instant win for monitoring, analytics, and any other side effects that you want to run before your application is interactive.](https://x.com/branmcconnell/status/1963044700081844520)
 - [Got my React Miami 2026 ticket locked in 🔥 If you haven’t been to React Miami before, you won’t want to miss this. I attend a lot of conferences, but this one is my favorite. Solid talks, community, food, and more If you have been before… what are you waiting for?? 💸](https://x.com/branmcconnell/status/1963027480597475447)
-- [&quot;AI is coming for our jobs!&quot;](https://x.com/branmcconnell/status/1963010796402729311)
-- [this new @mail0dotcom design hits funny &lpar;…it&#39;s notion mail 🫠&rpar;](https://x.com/branmcconnell/status/1962992619128238216)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
