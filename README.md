@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [what happened to the iphone 0](https://x.com/branmcconnell/status/1963617090394341560)
 - [RIP Browser Company. Y’all had a good run …in the beginning, at least 🫡](https://x.com/branmcconnell/status/1963607327572988142)
 - [Watch the full course for free on YouTube here:](https://x.com/branmcconnell/status/1963253327187112232)
 - [If you&#39;ve been sleeping on CSS scroll-driven animations… WAKE UP Bramus&#39;s course breaks down everything you need to know about CSS scroll-driven animations, whether you&#39;re using plain HTML, CSS, and JS or a JavaScript framework like React, Vue, Svelte, etc Thanks @bramus! 🔗👇](https://x.com/branmcconnell/status/1963253325479973207)
 - [@izadoesdev @rohitdoesdev y&#39;all might want to take a look at this](https://x.com/branmcconnell/status/1963044816842785082)
-- [Can&#39;t believe I&#39;m just learning about the &quot;instrumentation-client.js&quot; file supported by @nextjs App Router. This is an instant win for monitoring, analytics, and any other side effects that you want to run before your application is interactive.](https://x.com/branmcconnell/status/1963044700081844520)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
