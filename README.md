@@ -52,7 +52,7 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [For anyone who thinks this is basically just a glorified alias… uhh, yeah basically ✌️ I do have some more ideas for it in the future to build upon this foundational use case.](https://x.com/branmcconnell/status/1963635855785906351)
+- [For anyone who thinks this is basically just a glorified alias… uhh, yeah basically ✌️ I do have some more ideas for it in the future to build upon this foundational use case.](https://x.com/branmcconnell/status/1963635855785906351)
 - [✅ MIT-licensed ✅ Monorepo‑friendly Huge shout-outs to… &lpar;1&rpar; @shadcn of course for building the architecture behind everything shadcn/ui related, and… &lpar;2&rpar; @XavierSOH6 for donating the NPM package name for this THANK YOU BOTH! 🙏](https://x.com/branmcconnell/status/1963635854645051475)
 - [This one `shadd` command works in place of any common uses of `… shadcn add` and automatically detects your package manager, so just `shadd …` and it will add components using the latest version of shadcn by default](https://x.com/branmcconnell/status/1963635853499981954)
 - [Once shadd is installed, you can use it the same way you would `npx shadcn@latest add`, etc. Any of these examples should work: shadd # opens the menu when used without args shadd button shadd avatar badge shadd @8bitcn/accordion](https://x.com/branmcconnell/status/1963635852053025080)
