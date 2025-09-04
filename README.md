@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [Anyone have a better alternative to @superwhisperapp? Many times per day, I manually open the history log to reprocess my audio to get the speech-to-text to work. I haven&#39;t heard back from @neilsuperduper on this, and none of the recent updates have fixed this.](https://x.com/branmcconnell/status/1963715066454245520)
+- [Ok genius idea. Let&#39;s build a wrapper around VSCode, Chrome, and Gmail, and call it &quot;VSChroMail&quot; – $100B easy 💰 Who&#39;s with me?](https://x.com/branmcconnell/status/1963711470178320741)
 - [Calling AI engineers and researchers! Help me learn 👨‍💻 I recently started a new role where I&#39;m working with a number of AI integrations like Mastra, AG2, LangGraph, CrewAI, Pydantic, Agno, LlamaIndex, and others. Learning with AI and vibe coding only gets you so far, and I want to deeply understand each of these platforms. For those of you who work with these tools regularly, what is the best way you&#39;ve found to learn each of them and translate your knowledge between them? I&#39;m open to supplementary docs, videos, courses, etc. Thanks in advance! 🫶](https://x.com/branmcconnell/status/1963709435919954220)
 - [me: here is a tool that saves me time. basically an alias. x: that&#39;s just an alias! me: yes, i said that. x: why would you post this?! how&#39;s your day going? 🙂](https://x.com/branmcconnell/status/1963707478006268229)
 - [For anyone who thinks this is basically just a glorified alias… uhh, yeah basically ✌️ I do have some more ideas for it in the future to build upon this foundational use case.](https://x.com/branmcconnell/status/1963635855785906351)
-- [✅ MIT-licensed ✅ Monorepo‑friendly Huge shout-outs to… &lpar;1&rpar; @shadcn of course for building the architecture behind everything shadcn/ui related, and… &lpar;2&rpar; @XavierSOH6 for donating the NPM package name for this THANK YOU BOTH! 🙏](https://x.com/branmcconnell/status/1963635854645051475)
-- [This one `shadd` command works in place of any common uses of `… shadcn add` and automatically detects your package manager, so just `shadd …` and it will add components using the latest version of shadcn by default](https://x.com/branmcconnell/status/1963635853499981954)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
