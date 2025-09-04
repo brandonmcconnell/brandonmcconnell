@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [what happened to the iphone 0](https://x.com/branmcconnell/status/1963617090394341560)
-- [RIP Browser Company. Y’all had a good run …in the beginning, at least 🫡](https://x.com/branmcconnell/status/1963607327572988142)
-- [Watch the full course for free on YouTube here:](https://x.com/branmcconnell/status/1963253327187112232)
-- [If you&#39;ve been sleeping on CSS scroll-driven animations… WAKE UP Bramus&#39;s course breaks down everything you need to know about CSS scroll-driven animations, whether you&#39;re using plain HTML, CSS, and JS or a JavaScript framework like React, Vue, Svelte, etc Thanks @bramus! 🔗👇](https://x.com/branmcconnell/status/1963253325479973207)
-- [@izadoesdev @rohitdoesdev y&#39;all might want to take a look at this](https://x.com/branmcconnell/status/1963044816842785082)
+- [For anyone who thinks this is basically just a glorified alias… uhh, yeah basically ✌️ I do have some more ideas for it in the future to build upon this foundational use case.](https://x.com/branmcconnell/status/1963635855785906351)
+- [✅ MIT-licensed ✅ Monorepo‑friendly Huge shout-outs to… &lpar;1&rpar; @shadcn of course for building the architecture behind everything shadcn/ui related, and… &lpar;2&rpar; @XavierSOH6 for donating the NPM package name for this THANK YOU BOTH! 🙏](https://x.com/branmcconnell/status/1963635854645051475)
+- [This one `shadd` command works in place of any common uses of `… shadcn add` and automatically detects your package manager, so just `shadd …` and it will add components using the latest version of shadcn by default](https://x.com/branmcconnell/status/1963635853499981954)
+- [Once shadd is installed, you can use it the same way you would `npx shadcn@latest add`, etc. Any of these examples should work: shadd # opens the menu when used without args shadd button shadd avatar badge shadd @8bitcn/accordion](https://x.com/branmcconnell/status/1963635852053025080)
+- [To install shadd globally, run one of these: npm i -g shadd pnpm add -g shadd yarn global add shadd bun add -g shadd Check out and star ⭐ the repo here: git.new/shadd The goal here is to make it dead-simple to add components. Less friction. More shipping.](https://x.com/branmcconnell/status/1963635850308108622)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
