@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [Mediabunny v1.14.0 is out and it&#39;s a huge milestone for the project! 🚀 Mediabunny can now read and write metadata tags &lpar;like title, artist, album, cover art&rpar; for all formats, including ID3v1/v2, iTunes, QuickTime, Matroska, Vorbis, and RIFF-style metadata.](https://x.com/vanilagy/status/1964086851423043772)
 - [I have a generative UI experiment I want to try. Who wants to build with me?](https://x.com/branmcconnell/status/1964066630876500370)
 - [I&#39;m so impressed by @preetsuthar17&#39;s work on @ikiform over the past year. He considered putting it on ice at one point, but I&#39;m so glad he kept building. Forms are one of the core building blocks of any application, and we need a better solution.](https://x.com/branmcconnell/status/1964021571774722335)
 - [loving my new CarPlay unit](https://x.com/branmcconnell/status/1963944680304910428)
 - [you: mom, can i install shadd? mom: we have shadd at home the shadd at home:](https://x.com/branmcconnell/status/1963913123443691611)
-- [oh wait. is it literally just that the new algo likes me?](https://x.com/branmcconnell/status/1963829022204346737)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
