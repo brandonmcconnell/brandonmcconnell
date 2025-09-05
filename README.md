@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [loving my new CarPlay unit](https://x.com/branmcconnell/status/1963944680304910428)
 - [you: mom, can i install shadd? mom: we have shadd at home the shadd at home:](https://x.com/branmcconnell/status/1963913123443691611)
 - [oh wait. is it literally just that the new algo likes me?](https://x.com/branmcconnell/status/1963829022204346737)
 - [i invest $10 in a startup and suddenly all my x friends think i swim in pools of cash](https://x.com/branmcconnell/status/1963822763526754678)
 - [bro is now an angel investor](https://x.com/emirthedev/status/1963821610911043820)
-- [investing in new startups might be more fun than sponsoring open source projects thankfully, this is a bit of both](https://x.com/branmcconnell/status/1963813231522103586)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
