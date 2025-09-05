@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [investing in new startups might be more fun than sponsoring open source projects thankfully, this is a bit of both](https://x.com/branmcconnell/status/1963813231522103586)
 - [Just saw Hamilton in an IMAX. Wow. Felt like seeing it for the first time. I could never dream to be half as smart as that guy.](https://x.com/branmcconnell/status/1963799426826449208)
 - [the algo? oh yeah, the algo and i go way back. the algo and i:](https://x.com/branmcconnell/status/1963792321834516782)
 - [it’s okay y’all. i’m safe. thanks for asking. 😮‍💨](https://x.com/branmcconnell/status/1963790399148823037)
 - [i knew i shouldn’t have taken part in that testosterone study 🤦🏻‍♂️](https://x.com/branmcconnell/status/1963789536762237258)
-- [me to atlassian today](https://x.com/branmcconnell/status/1963786648769937821)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
