@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [I&#39;m so impressed by @preetsuthar17&#39;s work on @ikiform over the past year. He considered putting it on ice at one point, but I&#39;m so glad he kept building. Forms are one of the core building blocks of any application, and we need a better solution.](https://x.com/branmcconnell/status/1964021571774722335)
 - [loving my new CarPlay unit](https://x.com/branmcconnell/status/1963944680304910428)
 - [you: mom, can i install shadd? mom: we have shadd at home the shadd at home:](https://x.com/branmcconnell/status/1963913123443691611)
 - [oh wait. is it literally just that the new algo likes me?](https://x.com/branmcconnell/status/1963829022204346737)
 - [i invest $10 in a startup and suddenly all my x friends think i swim in pools of cash](https://x.com/branmcconnell/status/1963822763526754678)
-- [bro is now an angel investor](https://x.com/emirthedev/status/1963821610911043820)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
