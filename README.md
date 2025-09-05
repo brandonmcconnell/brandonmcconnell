@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [Just saw Hamilton in an IMAX. Wow. Felt like seeing it for the first time. I could never dream to be half as smart as that guy.](https://x.com/branmcconnell/status/1963799426826449208)
 - [the algo? oh yeah, the algo and i go way back. the algo and i:](https://x.com/branmcconnell/status/1963792321834516782)
 - [it’s okay y’all. i’m safe. thanks for asking. 😮‍💨](https://x.com/branmcconnell/status/1963790399148823037)
 - [i knew i shouldn’t have taken part in that testosterone study 🤦🏻‍♂️](https://x.com/branmcconnell/status/1963789536762237258)
 - [me to atlassian today](https://x.com/branmcconnell/status/1963786648769937821)
-- [Anyone have a better alternative to @superwhisperapp? Many times per day, I manually open the history log to reprocess my audio to get the speech-to-text to work. I haven&#39;t heard back from @neilsuperduper on this, and none of the recent updates have fixed this.](https://x.com/branmcconnell/status/1963715066454245520)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
