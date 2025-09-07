@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [it&#39;s gotta me right?](https://x.com/branmcconnell/status/1964737269077872879)
 - [tell me you don’t know what you’re talking about without telling me you don’t know what you’re talking about. browser edition. wrong answers only.](https://x.com/branmcconnell/status/1964370914813829576)
 - [we have to call him burjimtired now](https://x.com/branmcconnell/status/1964338151712780359)
 - [This is a really good explanation by @vanilagy, the author of mediabunny.dev, of its “who/what/why/where/when/how” and clears up misconceptions. If you’re doing video processing on the web, there’s a good chance you could do it better and easier with Mediabunny.](https://x.com/branmcconnell/status/1964333726248174009)
 - [i’m rebranding my llc and need a new name! sell me on your best unused domain name. comment the domain name if you own it, or dm me if it’s available so it doesn’t get sniped if i like it, i’ll pay you $250 for it](https://x.com/branmcconnell/status/1964162640311439798)
-- [Mediabunny v1.14.0 is out and it&#39;s a huge milestone for the project! 🚀 Mediabunny can now read and write metadata tags &lpar;like title, artist, album, cover art&rpar; for all formats, including ID3v1/v2, iTunes, QuickTime, Matroska, Vorbis, and RIFF-style metadata.](https://x.com/vanilagy/status/1964086851423043772)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
