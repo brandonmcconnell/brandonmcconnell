@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [it&#39;s gotta me right?](https://x.com/branmcconnell/status/1964737269077872879)
-- [tell me you don’t know what you’re talking about without telling me you don’t know what you’re talking about. browser edition. wrong answers only.](https://x.com/branmcconnell/status/1964370914813829576)
-- [we have to call him burjimtired now](https://x.com/branmcconnell/status/1964338151712780359)
-- [This is a really good explanation by @vanilagy, the author of mediabunny.dev, of its “who/what/why/where/when/how” and clears up misconceptions. If you’re doing video processing on the web, there’s a good chance you could do it better and easier with Mediabunny.](https://x.com/branmcconnell/status/1964333726248174009)
-- [i’m rebranding my llc and need a new name! sell me on your best unused domain name. comment the domain name if you own it, or dm me if it’s available so it doesn’t get sniped if i like it, i’ll pay you $250 for it](https://x.com/branmcconnell/status/1964162640311439798)
+- [competition and controversy can be good for business and press, but let’s not make enemies of one another. looking to the future, i’d bet on visionaries who are pushing the web platform forward. there are too many to count, never a shortage, with room for me and you.](https://x.com/branmcconnell/status/1964814435182334237)
+- [we are not in the wild wild west anymore. often, things get worse before they get better. the web is no exception. compared to how things were when i started, the tools i use daily are a DELIGHT to work with. i am so excited about what comes next.](https://x.com/branmcconnell/status/1964814433613648308)
+- [i want to make this abundantly clear: my intention is not to shame engineers whose approaches or tech stacks some might consider countercultural. ultimately, we have the same goal: shape the web of tomorrow, push boundaries, make the web &lpar;and software&rpar; better for everyone.](https://x.com/branmcconnell/status/1964814432204382704)
+- [the web has changed, no doubt. it’s not the same as it was, but i firmly believe it’s changed &amp; changing for the better. we’ve seen the rise and fall of many tools, and the tools that have persisted have improved our lives and those of our users.](https://x.com/branmcconnell/status/1964814430945849406)
+- [iterations upon iterations of which technologies we engineers used to build apps, even long before the rise of SPAs and mainstream JavaScript frameworks. in many ways, the web was more like the wild wild west &lpar;hehe still WWW&rpar;.](https://x.com/branmcconnell/status/1964814429704307142)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
