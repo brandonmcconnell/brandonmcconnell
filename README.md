@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [what&#39;s stopping you from coding like this?](https://x.com/branmcconnell/status/1965079456382636244)
 - [hold my tea. these 8bitcn/ui gaming blocks by @theorcdev are really good.](https://x.com/branmcconnell/status/1965073735968608552)
 - [spotify’s new terms feel really dangerous. i get the ai use case, but these new terms will drive away artists from spotify, which will kill its user base. at this rate, i give them 2 years.](https://x.com/branmcconnell/status/1965051093945323661)
 - [Find yourself a designer as cracked as ours](https://x.com/FontFaceAI/status/1965046508090466643)
 - [When you wait till the last minute to get that task done because we live in the age of AI …and then get hit with &quot;Service Unavailable&quot;](https://x.com/branmcconnell/status/1964856393133126021)
-- [We&#39;re in this weird phase where we all… – use AI – encourage others to use AI – battle a stigma about whether AI was used in the making of something We don&#39;t ask mathematicians if they use calculators. Any end to this weird balancing act in sight?](https://x.com/branmcconnell/status/1964853150956855792)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
