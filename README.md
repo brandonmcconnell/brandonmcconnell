@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [One of the best designers I know just opened up his calendar for new projects! 🔥 I&#39;ve worked with Emir on multiple projects, and I already have more lined up. He&#39;s a cracked, thoughtful, and relentless designer, and he&#39;s always a joy to work with.](https://x.com/branmcconnell/status/1964837480634765554)
 - [competition and controversy can be good for business and press, but let’s not make enemies of one another. looking to the future, i’d bet on visionaries who are pushing the web platform forward. there are too many to count, never a shortage, with room for me and you.](https://x.com/branmcconnell/status/1964814435182334237)
 - [we are not in the wild wild west anymore. often, things get worse before they get better. the web is no exception. compared to how things were when i started, the tools i use daily are a DELIGHT to work with. i am so excited about what comes next.](https://x.com/branmcconnell/status/1964814433613648308)
 - [i want to make this abundantly clear: my intention is not to shame engineers whose approaches or tech stacks some might consider countercultural. ultimately, we have the same goal: shape the web of tomorrow, push boundaries, make the web &lpar;and software&rpar; better for everyone.](https://x.com/branmcconnell/status/1964814432204382704)
 - [the web has changed, no doubt. it’s not the same as it was, but i firmly believe it’s changed &amp; changing for the better. we’ve seen the rise and fall of many tools, and the tools that have persisted have improved our lives and those of our users.](https://x.com/branmcconnell/status/1964814430945849406)
-- [iterations upon iterations of which technologies we engineers used to build apps, even long before the rise of SPAs and mainstream JavaScript frameworks. in many ways, the web was more like the wild wild west &lpar;hehe still WWW&rpar;.](https://x.com/branmcconnell/status/1964814429704307142)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
