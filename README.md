@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [Super interesting perspectives on building agents that work with users instead of just for them. @CopilotKit and AG-UI are pushing that frontier.](https://x.com/branmcconnell/status/1965137046785474645)
+- [Awesome opportunity for anyone with a solid background working with different auth setups and providers!](https://x.com/branmcconnell/status/1965131282272354373)
+- [Had a great time talking at @Adobe HQ recently! I shared a bit about @CopilotKit and AG-UI, and wrapped it up with my 12 dos and don’ts for building agentic applications. I&#39;ll release the slides later... but for now here are a few key tips: 1. Don’t wait for perfection - ship when it’s 80% reliable 2. Leverage your users - don’t expect models to intuit user goals 3. Your UI matters - build interfaces that enable collaboration ... The Adobe team asked smart questions like how AI product analytics fit into agent workflows. In my full 12 tips I mentioned exactly that. It’s exciting to see Adobe pushing the frontier of AI apps, including experimenting with CopilotKit. Soon](https://x.com/ataiiam/status/1965113551284322781)
 - [gm](https://x.com/branmcconnell/status/1965099471433596971)
 - [HOLD UP. Michael&#39;s cracked.](https://x.com/branmcconnell/status/1965095943864488331)
-- [if spotify burns for this, it&#39;d be the end of an era… i&#39;ve been a @spotify evangelist since 2011. spotify &gt;&gt;&gt;&gt;&gt;&gt;&gt; everything else &lpar;yes… i&#39;ve tried apple music, tidal, youtube music, amazon music&rpar;](https://x.com/branmcconnell/status/1965095528716517456)
-- [what&#39;s stopping you from coding like this?](https://x.com/branmcconnell/status/1965079456382636244)
-- [hold my tea. these 8bitcn/ui gaming blocks by @theorcdev are really good.](https://x.com/branmcconnell/status/1965073735968608552)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
