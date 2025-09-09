@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [i am not a millionaire and i’d still hire him for all of my design projects. designers like @emirthedev are worth it. go into debt if you have to.](https://x.com/branmcconnell/status/1965428160746648004)
 - [emir&#39;s out here dropping gold 🔥 i can&#39;t believe this is for my app @FontFaceAI i&#39;m so lucky 🥹](https://x.com/branmcconnell/status/1965332763634221176)
 - [5th meal of champs @ 2am wuddup](https://x.com/branmcconnell/status/1965301067261870222)
 - [2x angel investor. AMA If you have any questions, send me a donation instead so I can eat 🫶](https://x.com/branmcconnell/status/1965275165199323202)
 - [Super interesting perspectives on building agents that work with users instead of just for them. @CopilotKit and AG-UI are pushing that frontier.](https://x.com/branmcconnell/status/1965137046785474645)
-- [Awesome opportunity for anyone with a solid background working with different auth setups and providers!](https://x.com/branmcconnell/status/1965131282272354373)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
