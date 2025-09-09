@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [2x angel investor. AMA If you have any questions, send me a donation instead so I can eat 🫶](https://x.com/branmcconnell/status/1965275165199323202)
 - [Super interesting perspectives on building agents that work with users instead of just for them. @CopilotKit and AG-UI are pushing that frontier.](https://x.com/branmcconnell/status/1965137046785474645)
 - [Awesome opportunity for anyone with a solid background working with different auth setups and providers!](https://x.com/branmcconnell/status/1965131282272354373)
 - [Had a great time talking at @Adobe HQ recently! I shared a bit about @CopilotKit and AG-UI, and wrapped it up with my 12 dos and don’ts for building agentic applications. I&#39;ll release the slides later... but for now here are a few key tips: 1. Don’t wait for perfection - ship when it’s 80% reliable 2. Leverage your users - don’t expect models to intuit user goals 3. Your UI matters - build interfaces that enable collaboration ... The Adobe team asked smart questions like how AI product analytics fit into agent workflows. In my full 12 tips I mentioned exactly that. It’s exciting to see Adobe pushing the frontier of AI apps, including experimenting with CopilotKit. Soon](https://x.com/ataiiam/status/1965113551284322781)
 - [gm](https://x.com/branmcconnell/status/1965099471433596971)
-- [HOLD UP. Michael&#39;s cracked.](https://x.com/branmcconnell/status/1965095943864488331)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
