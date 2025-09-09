@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [captures exactly how i&#39;m feeling](https://x.com/branmcconnell/status/1965483330960572712)
+- [did @apple have layoffs in their design dept? who picked these pro colors?? half of iphone air sales can be attributed solely to these awful pro colors](https://x.com/branmcconnell/status/1965479813273325690)
+- [sorry everybody. @paper is mine for the day.](https://x.com/branmcconnell/status/1965479028015726649)
 - [i am not a millionaire and i’d still hire him for all of my design projects. designers like @emirthedev are worth it. go into debt if you have to.](https://x.com/branmcconnell/status/1965428160746648004)
 - [emir&#39;s out here dropping gold 🔥 i can&#39;t believe this is for my app @FontFaceAI i&#39;m so lucky 🥹](https://x.com/branmcconnell/status/1965332763634221176)
-- [5th meal of champs @ 2am wuddup](https://x.com/branmcconnell/status/1965301067261870222)
-- [2x angel investor. AMA If you have any questions, send me a donation instead so I can eat 🫶](https://x.com/branmcconnell/status/1965275165199323202)
-- [Super interesting perspectives on building agents that work with users instead of just for them. @CopilotKit and AG-UI are pushing that frontier.](https://x.com/branmcconnell/status/1965137046785474645)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
