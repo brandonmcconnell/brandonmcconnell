@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [*tim&#39;s cooked](https://x.com/branmcconnell/status/1965527372578652461)
+- [I started investing in startups a few weeks ago, and word has been spreading. I&#39;ve had several early-stage startups reach out. Today, a founder asked me, “why not jump in now?” This made me pause. I took a moment to pinpoint what I was thinking before responding. &lpar;1/3&rpar;](https://x.com/branmcconnell/status/1965521345988755846)
 - [the colors we had were perfect. they ruined it.](https://x.com/branmcconnell/status/1965507244654743780)
 - [uninstalling myself brb](https://x.com/branmcconnell/status/1965498891379638658)
 - [Just my thoughts: – @ them on X and give a 1-2 line elevator pitch &lpar;be nice&rpar; – if there&#39;s interest, set a call for the SAME/NEXT day &lpar;people lose interest quick&rpar;](https://x.com/branmcconnell/status/1965494387527614705)
-- [🚮](https://x.com/branmcconnell/status/1965492741699514574)
-- [worst pro iphone color lineup in the history of iphone](https://x.com/branmcconnell/status/1965490597562843554)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
