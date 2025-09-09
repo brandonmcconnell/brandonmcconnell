@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [worst pro iphone color lineup in the history of iphone](https://x.com/branmcconnell/status/1965490597562843554)
+- [what if the first rule of the algo is you don&#39;t talk about the algo? …oh wait](https://x.com/branmcconnell/status/1965485637601251772)
 - [captures exactly how i&#39;m feeling](https://x.com/branmcconnell/status/1965483330960572712)
 - [did @apple have layoffs in their design dept? who picked these pro colors?? half of iphone air sales can be attributed solely to these awful pro colors](https://x.com/branmcconnell/status/1965479813273325690)
 - [sorry everybody. @paper is mine for the day.](https://x.com/branmcconnell/status/1965479028015726649)
-- [i am not a millionaire and i’d still hire him for all of my design projects. designers like @emirthedev are worth it. go into debt if you have to.](https://x.com/branmcconnell/status/1965428160746648004)
-- [emir&#39;s out here dropping gold 🔥 i can&#39;t believe this is for my app @FontFaceAI i&#39;m so lucky 🥹](https://x.com/branmcconnell/status/1965332763634221176)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
