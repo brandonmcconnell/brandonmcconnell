@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [the colors we had were perfect. they ruined it.](https://x.com/branmcconnell/status/1965507244654743780)
 - [uninstalling myself brb](https://x.com/branmcconnell/status/1965498891379638658)
 - [Just my thoughts: – @ them on X and give a 1-2 line elevator pitch &lpar;be nice&rpar; – if there&#39;s interest, set a call for the SAME/NEXT day &lpar;people lose interest quick&rpar;](https://x.com/branmcconnell/status/1965494387527614705)
 - [🚮](https://x.com/branmcconnell/status/1965492741699514574)
 - [worst pro iphone color lineup in the history of iphone](https://x.com/branmcconnell/status/1965490597562843554)
-- [what if the first rule of the algo is you don&#39;t talk about the algo? …oh wait](https://x.com/branmcconnell/status/1965485637601251772)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
