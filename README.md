@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [i&#39;m cracked. i&#39;m cracked. i&#39;m not cracked.](https://x.com/branmcconnell/status/1965821633186378024)
+- [i can&#39;t wait for 2026.](https://x.com/branmcconnell/status/1965818495851184173)
 - [if this is what i think it is… 👀 …we’re all about to have really nice new mousepads](https://x.com/branmcconnell/status/1965809522372731301)
 - [huh](https://x.com/branmcconnell/status/1965802858240225357)
 - [Man I&#39;ve been following @CopilotKit for a while now and everything they build is pure gold. They&#39;ve tackled the user-agent integration layer better than anyone else.](https://x.com/branmcconnell/status/1965789943697195131)
-- [oh wait. i&#39;m cooked.](https://x.com/branmcconnell/status/1965783628555984945)
-- [oh wait. i&#39;m cracked.](https://x.com/branmcconnell/status/1965783095233384835)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
