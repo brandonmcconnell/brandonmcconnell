@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [2028 can&#39;t come quick enough](https://x.com/branmcconnell/status/1965841053187203488)
 - [i&#39;m cracked. i&#39;m cracked. i&#39;m not cracked.](https://x.com/branmcconnell/status/1965821633186378024)
 - [best things you can do for your business: - talk to @james_r_perkins - hire @branmcconnell - make @nishimiya hunt a badge - switch to @autumnpricing for billing - get it designed by @emirthedev](https://x.com/izadoesdev/status/1965820383778812091)
 - [i can&#39;t wait for 2026.](https://x.com/branmcconnell/status/1965818495851184173)
 - [if this is what i think it is… 👀 …we’re all about to have really nice new mousepads](https://x.com/branmcconnell/status/1965809522372731301)
-- [huh](https://x.com/branmcconnell/status/1965802858240225357)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
