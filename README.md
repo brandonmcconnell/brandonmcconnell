@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [huh](https://x.com/branmcconnell/status/1965802858240225357)
 - [Man I&#39;ve been following @CopilotKit for a while now and everything they build is pure gold. They&#39;ve tackled the user-agent integration layer better than anyone else.](https://x.com/branmcconnell/status/1965789943697195131)
 - [oh wait. i&#39;m cooked.](https://x.com/branmcconnell/status/1965783628555984945)
 - [oh wait. i&#39;m cracked.](https://x.com/branmcconnell/status/1965783095233384835)
 - [ok chat. you&#39;ve had 12 days to think about it. what did you get @bruvimtired for this bday?](https://x.com/branmcconnell/status/1965778837234671873)
-- [help me text my wife!](https://x.com/branmcconnell/status/1965775881764512045)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
