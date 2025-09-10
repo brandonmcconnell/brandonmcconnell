@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [.@warpdotdev Can you please speak to this whole $AGT thing? &lpar;anti-gun something&rpar; Was Ben’s account hacked? If so, why did you repost it? Was it a joke? Please explain.](https://x.com/branmcconnell/status/1965900710047805744)
 - [Praying for Charlie Kirk right now, for his wife and young children, for our country. We need God’s grace. God help us.](https://x.com/prattprattpratt/status/1965865270536478958)
 - [hey @CopilotKit… we should work together 👀](https://x.com/branmcconnell/status/1965864604338356563)
 - [been asking for the perfect bounties platform for git projects for a long time it&#39;s almost here. this will feel more native than any solution that came before it. follow @grimcodes and @bountydotnew and sign up for the waitlist at .](https://x.com/branmcconnell/status/1965853637147849213)
 - [2028 can&#39;t come quick enough](https://x.com/branmcconnell/status/1965841053187203488)
-- [i&#39;m cracked. i&#39;m cracked. i&#39;m not cracked.](https://x.com/branmcconnell/status/1965821633186378024)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
