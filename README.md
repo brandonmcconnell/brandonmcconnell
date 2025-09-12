@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [is this the part where i’m supposed to get easily scammed and then tweet about how i lost so much money but learned so much in the process? just making sure i’m doing this right](https://x.com/branmcconnell/status/1966570369793261873)
 - [it&#39;s the same picture](https://x.com/branmcconnell/status/1966234403627299165)
 - [TIL that if you open an HEIC file in Preview and copy its contents &lpar;⌘A→⌘C&rpar;, it copies those contents as a PNG, no file conversion needed](https://x.com/branmcconnell/status/1966228999333625869)
 - [babe wake up. @theo video for a new js framework by @trueadm just dropped. it&#39;s called @ripple__js. … 1/4 &lpar;vid, website, and github links below&rpar;](https://x.com/branmcconnell/status/1966133761826775532)
 - [i really want *to want* the new iphone 17 pro but i don&#39;t care for any of the colors. for the first time ever, i&#39;m considering not upgrading i have a perfectly adequate desert titanium iphone 16 pro, which is arguably the most beautiful iphone apple&#39;s ever made](https://x.com/branmcconnell/status/1965933606767046792)
-- [.@warpdotdev Can you please speak to this whole $AGT thing? &lpar;anti-gun something&rpar; Was Ben’s account hacked? If so, why did you repost it? Was it a joke? Please explain.](https://x.com/branmcconnell/status/1965900710047805744)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
