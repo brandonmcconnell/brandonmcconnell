@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [just slept in till noon AMA](https://x.com/branmcconnell/status/1967260356650344771)
 - [i see him everywhere](https://x.com/branmcconnell/status/1966969926989811914)
 - [is this the part where i’m supposed to get easily scammed and then tweet about how i lost so much money but learned so much in the process? just making sure i’m doing this right](https://x.com/branmcconnell/status/1966570369793261873)
 - [it&#39;s the same picture](https://x.com/branmcconnell/status/1966234403627299165)
 - [TIL that if you open an HEIC file in Preview and copy its contents &lpar;⌘A→⌘C&rpar;, it copies those contents as a PNG, no file conversion needed](https://x.com/branmcconnell/status/1966228999333625869)
-- [babe wake up. @theo video for a new js framework by @trueadm just dropped. it&#39;s called @ripple__js. … 1/4 &lpar;vid, website, and github links below&rpar;](https://x.com/branmcconnell/status/1966133761826775532)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
