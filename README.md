@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [my “old” iphone has been looking like this all week](https://x.com/branmcconnell/status/1967289557159911866)
+- [iPhold™](https://x.com/branmcconnell/status/1967288626569728330)
+- [when i realize how good my products look simply because i hired an insanely cracked designer, @emirthedev i’ve already got projects queued up with him for the next couple of months 💸](https://x.com/branmcconnell/status/1967287871204962402)
 - [new meme template just dropped](https://x.com/branmcconnell/status/1967276358519886233)
 - [just slept in till noon AMA](https://x.com/branmcconnell/status/1967260356650344771)
-- [i see him everywhere](https://x.com/branmcconnell/status/1966969926989811914)
-- [is this the part where i’m supposed to get easily scammed and then tweet about how i lost so much money but learned so much in the process? just making sure i’m doing this right](https://x.com/branmcconnell/status/1966570369793261873)
-- [it&#39;s the same picture](https://x.com/branmcconnell/status/1966234403627299165)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
