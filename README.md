@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [Welcome to &lpar;Don&#39;t&rpar; Build in Public. Be respectful, share what you&#39;re working on, and help each other out. Spam &amp; disrespect are not tolerated. Lock in. 🫡](https://x.com/branmcconnell/status/1967692808720146797)
 - [some beautiful @v0 easter eggs today on the @vercel/@nextjs conf registration pages 🧵👇](https://x.com/branmcconnell/status/1967623872456642824)
 - [easter egg on @vercel ship announcement page! click near the v0 table to see the 3d scene model](https://x.com/branmcconnell/status/1967623042370310282)
 - [easter egg on @nextjs conf announcement page! click near the v0 table to see the conference pattern generator ▓▒░](https://x.com/branmcconnell/status/1967623035965542736)
 - [my “old” iphone has been looking like this all week](https://x.com/branmcconnell/status/1967289557159911866)
-- [iPhold™](https://x.com/branmcconnell/status/1967288626569728330)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
