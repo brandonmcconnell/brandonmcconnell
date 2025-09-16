@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [if you&#39;ve been sleeping on AG-UI, it&#39;s time to wake up and taste the coffee… it&#39;s time to lock in 👊](https://x.com/branmcconnell/status/1967995311022051357)
 - [Wait. We don&#39;t all click “Keep all ⌘⏎” every time?](https://x.com/branmcconnell/status/1967824466295288198)
 - [claiming npm packages is about to get a lot easier](https://x.com/branmcconnell/status/1967786502466965565)
 - [Welcome to &lpar;Don&#39;t&rpar; Build in Public. Be respectful, share what you&#39;re working on, and help each other out. Spam &amp; disrespect are not tolerated. Lock in. 🫡](https://x.com/branmcconnell/status/1967692808720146797)
 - [some beautiful @v0 easter eggs today on the @vercel/@nextjs conf registration pages 🧵👇](https://x.com/branmcconnell/status/1967623872456642824)
-- [easter egg on @vercel ship announcement page! click near the v0 table to see the 3d scene model](https://x.com/branmcconnell/status/1967623042370310282)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
