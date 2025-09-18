@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [so glad to see more and more people waking up to the gam changer that  is been saying it for a long time, but this will be THE WAY you scaffold almost any new web app pretty soon the future is here](https://x.com/branmcconnell/status/1968743990083117528)
 - [0 users. my ui lib is permanently goated.](https://x.com/branmcconnell/status/1968738791507570744)
 - [AG-UI is popping off 🤯](https://x.com/branmcconnell/status/1968736364301557768)
 - [how do i short a company?](https://x.com/branmcconnell/status/1968462650548904093)
 - [nothing like some leisurely afternoon reading](https://x.com/branmcconnell/status/1968456594909241829)
-- [hey mom, can i code with @theo tonight? no we have theo at home theo at home:](https://x.com/branmcconnell/status/1968312167087976882)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
