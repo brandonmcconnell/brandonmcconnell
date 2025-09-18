@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [0 users. my ui lib is permanently goated.](https://x.com/branmcconnell/status/1968738791507570744)
+- [AG-UI is popping off 🤯](https://x.com/branmcconnell/status/1968736364301557768)
 - [how do i short a company?](https://x.com/branmcconnell/status/1968462650548904093)
 - [nothing like some leisurely afternoon reading](https://x.com/branmcconnell/status/1968456594909241829)
 - [hey mom, can i code with @theo tonight? no we have theo at home theo at home:](https://x.com/branmcconnell/status/1968312167087976882)
-- [Ironically, the managers reacting like this are the same leaders who expect 10x work loads because we “live in the age of AI”](https://x.com/branmcconnell/status/1968012205674336769)
-- [it&#39;s official. the new algo hates me. 💀](https://x.com/branmcconnell/status/1968010834153705762)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
