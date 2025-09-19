@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [This will come as no surprise to anyone who has been following my hype posts over the past couple of weeks. I&#39;ve joined the incredible team at @CopilotKit 🪁 to help shape the future of how we build agentic applications and bridge the gap between agents and users. 🔗👇](https://x.com/branmcconnell/status/1968822573178732945)
 - [so glad to see more and more people waking up to the gam changer that  is been saying it for a long time, but this will be THE WAY you scaffold almost any new web app pretty soon the future is here](https://x.com/branmcconnell/status/1968743990083117528)
 - [0 users. my ui lib is permanently goated.](https://x.com/branmcconnell/status/1968738791507570744)
 - [AG-UI is popping off 🤯](https://x.com/branmcconnell/status/1968736364301557768)
 - [how do i short a company?](https://x.com/branmcconnell/status/1968462650548904093)
-- [nothing like some leisurely afternoon reading](https://x.com/branmcconnell/status/1968456594909241829)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
