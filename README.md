@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [gm to you too nikita](https://x.com/branmcconnell/status/1969420966280265838)
 - [The closer you exist to your integrations, the easier it is for your users to use your application. @CopilotKit is the easiest way to build agentic AI applications, no matter what agent integration/platform you use.](https://x.com/branmcconnell/status/1969145264951775654)
 - [I&#39;m so excited about what @paper is building, so we&#39;re joining their journey as investors and partners to do whatever we can to help make Paper the absolute best design tool in the world for modern web teams. A free-form design tool built around the DOM has so much potential to… pic.](https://x.com/adamwathan/status/1969120861492818267)
 - [spider-man congratulated me on my new role!](https://x.com/branmcconnell/status/1969083526344487214)
 - [More building, sharing, and collaboration. Less engagement bait. Join “&lpar;Don&#39;t&rpar; Build in Public” today. Build how you want. Learn as you go. *many of us are “building in public” – the name is satire of another community by that name. https://](https://x.com/branmcconnell/status/1969066956453196139)
-- [This will come as no surprise to anyone who has been following my hype posts over the past couple of weeks. I&#39;ve joined the incredible team at @CopilotKit 🪁 to help shape the future of how we build agentic applications and bridge the gap between agents and users. 🔗👇](https://x.com/branmcconnell/status/1968822573178732945)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
