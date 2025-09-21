@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [Some AI native fanboys will look at this and be like LGTM](https://x.com/branmcconnell/status/1969850258373967938)
 - [the year is 2032. we gave up on ai speech synthesis. instead, the humans learned gibberlink.](https://x.com/branmcconnell/status/1969598757646860707)
 - [is analytics the bane of your existence? you should @trydatabuddy](https://x.com/branmcconnell/status/1969525722503885254)
 - [gm to you too nikita](https://x.com/branmcconnell/status/1969420966280265838)
 - [Vercel is a gift to the field of software](https://x.com/cap/status/1969417507636228606)
-- [The closer you exist to your integrations, the easier it is for your users to use your application. @CopilotKit is the easiest way to build agentic AI applications, no matter what agent integration/platform you use.](https://x.com/branmcconnell/status/1969145264951775654)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
