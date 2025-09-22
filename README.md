@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [imagine someone… - sitting on the couch - watching a high-speed chase - pausing their tivo](https://x.com/branmcconnell/status/1970242569939419458)
+- [&quot;hey you&#39;re the funeral bday pic guy right?&quot;](https://x.com/branmcconnell/status/1970241958158442500)
 - [the @vercel team killed it with these generative conf tickets the generations it produces are layered 3D parallax experiences you can look around with your cursor 🤯](https://x.com/branmcconnell/status/1970165259349696579)
 - [by the way, thanks to @branmcconnell for everything he literally pushed me to apply and made the whole introductions so grateful to have a friend like him](https://x.com/emirthedev/status/1969921267743731895)
 - [Some AI native fanboys will look at this and be like LGTM](https://x.com/branmcconnell/status/1969850258373967938)
-- [the year is 2032. we gave up on ai speech synthesis. instead, the humans learned gibberlink.](https://x.com/branmcconnell/status/1969598757646860707)
-- [is analytics the bane of your existence? you should @trydatabuddy](https://x.com/branmcconnell/status/1969525722503885254)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
