@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [by the way, thanks to @branmcconnell for everything he literally pushed me to apply and made the whole introductions so grateful to have a friend like him](https://x.com/emirthedev/status/1969921267743731895)
 - [Some AI native fanboys will look at this and be like LGTM](https://x.com/branmcconnell/status/1969850258373967938)
 - [the year is 2032. we gave up on ai speech synthesis. instead, the humans learned gibberlink.](https://x.com/branmcconnell/status/1969598757646860707)
 - [is analytics the bane of your existence? you should @trydatabuddy](https://x.com/branmcconnell/status/1969525722503885254)
 - [gm to you too nikita](https://x.com/branmcconnell/status/1969420966280265838)
-- [Vercel is a gift to the field of software](https://x.com/cap/status/1969417507636228606)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
