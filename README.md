@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [My go-to design partner has 2 open slots for October! No designer will own your project and take it from 0-100 like Emir.](https://x.com/branmcconnell/status/1970554997776523536)
 - [there&#39;s something to admire about a logo you can make in &lt; 10 seconds](https://x.com/branmcconnell/status/1970314976050258079)
 - [imagine someone… - sitting on the couch - watching a high-speed chase - pausing their tivo](https://x.com/branmcconnell/status/1970242569939419458)
 - [&quot;hey you&#39;re the funeral bday pic guy right?&quot;](https://x.com/branmcconnell/status/1970241958158442500)
 - [the @vercel team killed it with these generative conf tickets the generations it produces are layered 3D parallax experiences you can look around with your cursor 🤯](https://x.com/branmcconnell/status/1970165259349696579)
-- [by the way, thanks to @branmcconnell for everything he literally pushed me to apply and made the whole introductions so grateful to have a friend like him](https://x.com/emirthedev/status/1969921267743731895)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
