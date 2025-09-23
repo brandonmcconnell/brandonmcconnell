@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [͏ ͏ ͏ ͏ ͏ Posts are not loading right now. Try again later. ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏](https://x.com/branmcconnell/status/1970624504578609468)
 - [TIL broccoli is from the mustard plant. 😳](https://x.com/branmcconnell/status/1970584597642854520)
 - [My go-to design partner has 2 open slots for October! No designer will own your project and take it from 0-100 like Emir.](https://x.com/branmcconnell/status/1970554997776523536)
 - [there&#39;s something to admire about a logo you can make in &lt; 10 seconds](https://x.com/branmcconnell/status/1970314976050258079)
 - [imagine someone… - sitting on the couch - watching a high-speed chase - pausing their tivo](https://x.com/branmcconnell/status/1970242569939419458)
-- [&quot;hey you&#39;re the funeral bday pic guy right?&quot;](https://x.com/branmcconnell/status/1970241958158442500)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
