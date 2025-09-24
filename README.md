@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [stop the clock. we found the next james bond. somebody tell denis.](https://x.com/branmcconnell/status/1970911527248277944)
 - [can we all agree on this?](https://x.com/branmcconnell/status/1970895910747111738)
-- [@branmcconnell:](https://x.com/TheImmortal007/status/1970887063101956524)
+- [pic.](https://x.com/TheImmortal007/status/1970887063101956524)
 - [y&#39;all i got myself 🤦🏻‍♂️](https://x.com/branmcconnell/status/1970875224934764830)
 - [͏ ͏ ͏ ͏ ͏ Posts are not loading right now. Try again later. ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏](https://x.com/branmcconnell/status/1970624504578609468)
-- [TIL broccoli is from the mustard plant. 😳](https://x.com/branmcconnell/status/1970584597642854520)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
