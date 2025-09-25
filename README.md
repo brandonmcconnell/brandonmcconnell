@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [what if instead of “baby proofing” 300 things in my house… i just “house proofed” my 1 baby? who’s solving this? ready to invest. 💰](https://x.com/branmcconnell/status/1971201240391614955)
+- [YOOOOO i’m on the @v0 mobile beta thanks @vercel 🙏🏼 what should i make first??](https://x.com/branmcconnell/status/1971197130179215586)
 - [how&#39;s your night going?](https://x.com/branmcconnell/status/1971051963967209811)
 - [TIL fkill-cli makes killing ports and processes 200x easier of course it&#39;s by the legend @sindresorhus 💯 npm install --global fkill-cli 🗑️ BEFORE lsof -ti:3000 | xargs -r kill -9 pkill -f chrome ✨ AFTER fkill :3000 fkill chrome](https://x.com/branmcconnell/status/1971009318892748998)
 - [started using fkill-cli to make my life 200x easier of course it&#39;s by the legend @sindresorhus 💯 npm install --global fkill-cli 🗑️ BEFORE lsof -ti:3000 | xargs -r kill -9 pkill -f chrome ✨ AFTER kill ports: fkill :3000 kill processes: fkill chrome](https://x.com/branmcconnell/status/1971001951308370001)
-- [My first ever demo as part of @CopilotKit is out! See how you can use AG-UI to build agentic canvas copilots with Mastra.](https://x.com/branmcconnell/status/1970988617393930253)
-- [You’re absolutely right!](https://x.com/branmcconnell/status/1970938703687340041)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
