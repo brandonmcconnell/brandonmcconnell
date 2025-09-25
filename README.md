@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [⭐ OSS IDEA &lpar;someone please make this&rpar; – a simple drop-in polyfill library that just works™ – adapters for all frameworks – polyfill standardization &lpar;a standard spec every polyfill author can build towards&rpar; could be built by the community or one/all runtimes](https://x.com/branmcconnell/status/1971283003172127225)
 - [I can&#39;t stress enough how powerful Google ADK + AG-UI is going to be for building *actually intelligent* agentic applications. This changes the game 🤯](https://x.com/branmcconnell/status/1971259425496424620)
 - [is there a place i can can see a history of all my @cursor agent conversations, including those from custom workspace configs i didn&#39;t save? just closed cursor and didn&#39;t think twice about saving the workspace. hoping i didn&#39;t lose all those chats. attn @ericzakariasson @ryolu_](https://x.com/branmcconnell/status/1971209372710863036)
 - [what if instead of “baby proofing” 300 things in my house… i just “house proofed” my 1 baby? who’s solving this? ready to invest. 💰](https://x.com/branmcconnell/status/1971201240391614955)
 - [YOOOOO i’m on the @v0 mobile beta thanks @vercel 🙏🏼 what should i make first??](https://x.com/branmcconnell/status/1971197130179215586)
-- [how&#39;s your night going?](https://x.com/branmcconnell/status/1971051963967209811)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
