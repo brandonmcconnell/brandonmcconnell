@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [started using fkill-cli to make my life 200x easier of course it&#39;s by the legend @sindresorhus 💯 npm install --global fkill-cli 🗑️ BEFORE lsof -ti:3000 | xargs -r kill -9 pkill -f chrome ✨ AFTER kill ports: fkill :3000 kill processes: fkill chrome](https://x.com/branmcconnell/status/1971001951308370001)
 - [My first ever demo as part of @CopilotKit is out! See how you can use AG-UI to build agentic canvas copilots with Mastra.](https://x.com/branmcconnell/status/1970988617393930253)
 - [You’re absolutely right!](https://x.com/branmcconnell/status/1970938703687340041)
 - [stop the clock. we found the next james bond. somebody tell denis.](https://x.com/branmcconnell/status/1970911527248277944)
 - [can we all agree on this?](https://x.com/branmcconnell/status/1970895910747111738)
-- [pic.](https://x.com/TheImmortal007/status/1970887063101956524)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
