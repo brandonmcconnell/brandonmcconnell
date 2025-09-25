@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [I can&#39;t stress enough how powerful Google ADK + AG-UI is going to be for building *actually intelligent* agentic applications. This changes the game 🤯](https://x.com/branmcconnell/status/1971259425496424620)
 - [is there a place i can can see a history of all my @cursor agent conversations, including those from custom workspace configs i didn&#39;t save? just closed cursor and didn&#39;t think twice about saving the workspace. hoping i didn&#39;t lose all those chats. attn @ericzakariasson @ryolu_](https://x.com/branmcconnell/status/1971209372710863036)
 - [what if instead of “baby proofing” 300 things in my house… i just “house proofed” my 1 baby? who’s solving this? ready to invest. 💰](https://x.com/branmcconnell/status/1971201240391614955)
 - [YOOOOO i’m on the @v0 mobile beta thanks @vercel 🙏🏼 what should i make first??](https://x.com/branmcconnell/status/1971197130179215586)
 - [how&#39;s your night going?](https://x.com/branmcconnell/status/1971051963967209811)
-- [TIL fkill-cli makes killing ports and processes 200x easier of course it&#39;s by the legend @sindresorhus 💯 npm install --global fkill-cli 🗑️ BEFORE lsof -ti:3000 | xargs -r kill -9 pkill -f chrome ✨ AFTER fkill :3000 fkill chrome](https://x.com/branmcconnell/status/1971009318892748998)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
