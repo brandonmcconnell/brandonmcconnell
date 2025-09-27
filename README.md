@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [i&#39;ve sene it say 2, but has anyone ever seen GPT-4 say there is only 1 r in strawberry before? 🤦🏻‍♂️](https://x.com/branmcconnell/status/1971728723683791242)
 - [nice surprise this morning :&rpar; i was starting to think this day would never come. i can finally put my money where my mouth is… quite literally.](https://x.com/branmcconnell/status/1971633448336097759)
 - [I have met anyone in my life, let alone another LLM model, who changes their mind mid-thought as much as @claudeai does. It’s A. No, actually B. Wait, C. Actually, D. Okay, no, it’s E. It was A. Nope, F 🙂 &lpar;and it’s wrong&rpar; …and that’s before it touches a single line of code.](https://x.com/branmcconnell/status/1971403281881759828)
 - [i&#39;ve been testing the new vercel domains for a while now, and it&#39;s the best and fastest domain search by far. try it 👉  it&#39;s so good, and it&#39;s going to get even better. 👀](https://x.com/branmcconnell/status/1971300025293848934)
 - [⭐ OSS IDEA &lpar;someone please make this&rpar; – a simple drop-in polyfill library that just works™ – adapters for all frameworks – polyfill standardization &lpar;a standard spec every polyfill author can build towards&rpar; could be built by the community or one/all runtimes](https://x.com/branmcconnell/status/1971283003172127225)
-- [I can&#39;t stress enough how powerful Google ADK + AG-UI is going to be for building *actually intelligent* agentic applications. This changes the game 🤯](https://x.com/branmcconnell/status/1971259425496424620)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
