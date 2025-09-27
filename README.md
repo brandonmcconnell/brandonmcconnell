@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [Google temporary rebrand is peak](https://x.com/branmcconnell/status/1972035385267036622)
 - [i can’t believe this number is real 🤯 if you’re not on x’s revenue sharing program yet, it’s definitely something to work toward](https://x.com/branmcconnell/status/1971949979620278345)
 - [Better Auth is arguably the best auth solution there is. Yes, it’s free.](https://x.com/branmcconnell/status/1971824105474478489)
 - [really excited about resend 😱 everything ryan touches is pure gold. imagine the possibilities here.](https://x.com/branmcconnell/status/1971740843183882648)
 - [adding &quot;unconditional yolo&quot; to my daily vernacular](https://x.com/branmcconnell/status/1971740153040588911)
-- [i&#39;ve sene it say 2, but has anyone ever seen GPT-4 say there is only 1 r in strawberry before? 🤦🏻‍♂️](https://x.com/branmcconnell/status/1971728723683791242)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
