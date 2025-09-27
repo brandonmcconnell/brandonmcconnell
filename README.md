@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [Better Auth is arguably the best auth solution there is. Yes, it’s free.](https://x.com/branmcconnell/status/1971824105474478489)
 - [really excited about resend 😱 everything ryan touches is pure gold. imagine the possibilities here.](https://x.com/branmcconnell/status/1971740843183882648)
 - [adding &quot;unconditional yolo&quot; to my daily vernacular](https://x.com/branmcconnell/status/1971740153040588911)
 - [i&#39;ve sene it say 2, but has anyone ever seen GPT-4 say there is only 1 r in strawberry before? 🤦🏻‍♂️](https://x.com/branmcconnell/status/1971728723683791242)
 - [nice surprise this morning :&rpar; i was starting to think this day would never come. i can finally put my money where my mouth is… quite literally.](https://x.com/branmcconnell/status/1971633448336097759)
-- [I have met anyone in my life, let alone another LLM model, who changes their mind mid-thought as much as @claudeai does. It’s A. No, actually B. Wait, C. Actually, D. Okay, no, it’s E. It was A. Nope, F 🙂 &lpar;and it’s wrong&rpar; …and that’s before it touches a single line of code.](https://x.com/branmcconnell/status/1971403281881759828)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
