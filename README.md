@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [Such a cool course for anyone wanting to learn all the ind and out of Auth for Next.js 🔥 Better Auth is also compatible with most JS frameworks](https://x.com/branmcconnell/status/1972663568500703441)
 - [Proudly sponsoring @theorcdev 🫡 One of my proudest sponsorships so far!](https://x.com/branmcconnell/status/1972374547153248680)
 - [Google temporary rebrand is peak](https://x.com/branmcconnell/status/1972035385267036622)
 - [i can’t believe this number is real 🤯 if you’re not on x’s revenue sharing program yet, it’s definitely something to work toward](https://x.com/branmcconnell/status/1971949979620278345)
 - [Better Auth is arguably the best auth solution there is. Yes, it’s free.](https://x.com/branmcconnell/status/1971824105474478489)
-- [really excited about resend 😱 everything ryan touches is pure gold. imagine the possibilities here.](https://x.com/branmcconnell/status/1971740843183882648)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
