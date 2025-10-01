@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [X is better and will continue to be. I guarantee FB has the most users of all, and I never post on there. People don&#39;t realize that the more users Threads gets, the less appealing it becomes &lpar;imo&rpar;. Feels like watching a theme park get congested.](https://x.com/branmcconnell/status/1973487404620427450)
 - [One more standard schema question 👀 @FabianHiller @colinhacks @ssalbdivad Are there any libraries that simplify the process of specifying standard schemas? e.g. I define a schema using my preferred validation lib but have it accept any standardized schema that matches?](https://x.com/branmcconnell/status/1973393711565299978)
 - [Standard schema question! @FabianHiller @colinhacks @ssalbdivad If I want to allow my users to use their preferred validation lib but some dependencies of my lib expect Zod schemas, is there a best practice way to convert from standard schema back to a specific validation lib?](https://x.com/branmcconnell/status/1973391846517719090)
 - [reminder: if you refuse to associate with anyone who believes differently from you, you’ll end up isolated &lpar;or in a cult&rpar;](https://x.com/branmcconnell/status/1973229057635655816)
 - [in what world does $6.99+$99.99=$120.14? 🤨 and no, no fees were shown during checkout either](https://x.com/branmcconnell/status/1972748967244148980)
-- [.@theorcdev is such a solid architect. 8bitcn is such a cool project, and that&#39;s just one of many things he&#39;s working on. Give him a follow and check out his libs!](https://x.com/branmcconnell/status/1972699278469435844)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
