@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [reminder: if you refuse to associate with anyone who believes differently from you, you’ll end up isolated &lpar;or in a cult&rpar;](https://x.com/branmcconnell/status/1973229057635655816)
 - [in what world does $6.99+$99.99=$120.14? 🤨 and no, no fees were shown during checkout either](https://x.com/branmcconnell/status/1972748967244148980)
 - [.@theorcdev is such a solid architect. 8bitcn is such a cool project, and that&#39;s just one of many things he&#39;s working on. Give him a follow and check out his libs!](https://x.com/branmcconnell/status/1972699278469435844)
 - [Such a cool course for anyone wanting to learn all the ind and out of Auth for Next.js 🔥 Better Auth is also compatible with most JS frameworks](https://x.com/branmcconnell/status/1972663568500703441)
 - [Proudly sponsoring @theorcdev 🫡 One of my proudest sponsorships so far!](https://x.com/branmcconnell/status/1972374547153248680)
-- [Google temporary rebrand is peak](https://x.com/branmcconnell/status/1972035385267036622)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
