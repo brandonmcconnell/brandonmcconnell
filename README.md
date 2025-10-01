@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [One more standard schema question 👀 @FabianHiller @colinhacks @ssalbdivad Are there any libraries that simplify the process of specifying standard schemas? e.g. I define a schema using my preferred validation lib but have it accept any standardized schema that matches?](https://x.com/branmcconnell/status/1973393711565299978)
+- [Standard schema question! @FabianHiller @colinhacks @ssalbdivad If I want to allow my users to use their preferred validation lib but some dependencies of my lib expect Zod schemas, is there a best practice way to convert from standard schema back to a specific validation lib?](https://x.com/branmcconnell/status/1973391846517719090)
 - [reminder: if you refuse to associate with anyone who believes differently from you, you’ll end up isolated &lpar;or in a cult&rpar;](https://x.com/branmcconnell/status/1973229057635655816)
 - [in what world does $6.99+$99.99=$120.14? 🤨 and no, no fees were shown during checkout either](https://x.com/branmcconnell/status/1972748967244148980)
 - [.@theorcdev is such a solid architect. 8bitcn is such a cool project, and that&#39;s just one of many things he&#39;s working on. Give him a follow and check out his libs!](https://x.com/branmcconnell/status/1972699278469435844)
-- [Such a cool course for anyone wanting to learn all the ind and out of Auth for Next.js 🔥 Better Auth is also compatible with most JS frameworks](https://x.com/branmcconnell/status/1972663568500703441)
-- [Proudly sponsoring @theorcdev 🫡 One of my proudest sponsorships so far!](https://x.com/branmcconnell/status/1972374547153248680)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
