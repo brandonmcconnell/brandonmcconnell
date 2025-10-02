@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [.@fuma_nama Does Fumadocs support &lpar;or plan to support&rpar; a Swagger-like interface for API docs? Would be awesome to let users plug in their own key, view and set param values, and test endpoints, hooks, components, or even AI responses in real-time directly from the docs. 👀](https://x.com/branmcconnell/status/1973770570484576433)
 - [X is better and will continue to be. I guarantee FB has the most users of all, and I never post on there. People don&#39;t realize that the more users Threads gets, the less appealing it becomes &lpar;imo&rpar;. Feels like watching a theme park get congested.](https://x.com/branmcconnell/status/1973487404620427450)
 - [One more standard schema question 👀 @FabianHiller @colinhacks @ssalbdivad Are there any libraries that simplify the process of specifying standard schemas? e.g. I define a schema using my preferred validation lib but have it accept any standardized schema that matches?](https://x.com/branmcconnell/status/1973393711565299978)
 - [Standard schema question! @FabianHiller @colinhacks @ssalbdivad If I want to allow my users to use their preferred validation lib but some dependencies of my lib expect Zod schemas, is there a best practice way to convert from standard schema back to a specific validation lib?](https://x.com/branmcconnell/status/1973391846517719090)
 - [DATABUDDY IS LIVE ON PRODUCTHUNT go upvote, comment and retweet plz 🙏🔥 its important to me](https://x.com/izadoesdev/status/1973292922880794729)
-- [reminder: if you refuse to associate with anyone who believes differently from you, you’ll end up isolated &lpar;or in a cult&rpar;](https://x.com/branmcconnell/status/1973229057635655816)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
