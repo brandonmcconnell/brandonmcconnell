@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [i used to wear this exact outfit all the time. HOW DOES IT KNOW?](https://x.com/branmcconnell/status/1973884274995822660)
 - [i would also like to add my name to this. @branmcconnell is my favourite human on this app](https://x.com/ajrgd/status/1973876913149235368)
 - [i can also vouch. @branmcconnell is my favourite human on this app too](https://x.com/bruvimtired/status/1973873947562422379)
 - [somebody needs to tell these researchers not to go on any flights ASAP](https://x.com/branmcconnell/status/1973873609950310612)
 - [🥹](https://x.com/branmcconnell/status/1973873361001599319)
-- [My favorite human on this app is @branmcconnell This guy is the best](https://x.com/jonahseguin/status/1973871892294676500)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
