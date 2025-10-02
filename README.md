@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [can’t wait till sora gets better at following scripts and speaker assignments right, but this is pretty good 😁 @mail0dotcom mentioned](https://x.com/branmcconnell/status/1973842846974423080)
-- [ok anyone have a sora invite for me?](https://x.com/branmcconnell/status/1973834466196938779)
-- [.@fuma_nama Does Fumadocs support &lpar;or plan to support&rpar; a Swagger-like interface for API docs? Would be awesome to let users plug in their own key, view and set param values, and test endpoints, hooks, components, or even AI responses in real-time directly from the docs. 👀](https://x.com/branmcconnell/status/1973770570484576433)
-- [X is better and will continue to be. I guarantee FB has the most users of all, and I never post on there. People don&#39;t realize that the more users Threads gets, the less appealing it becomes &lpar;imo&rpar;. Feels like watching a theme park get congested.](https://x.com/branmcconnell/status/1973487404620427450)
-- [One more standard schema question 👀 @FabianHiller @colinhacks @ssalbdivad Are there any libraries that simplify the process of specifying standard schemas? e.g. I define a schema using my preferred validation lib but have it accept any standardized schema that matches?](https://x.com/branmcconnell/status/1973393711565299978)
+- [i would also like to add my name to this. @branmcconnell is my favourite human on this app](https://x.com/ajrgd/status/1973876913149235368)
+- [i can also vouch. @branmcconnell is my favourite human on this app too](https://x.com/bruvimtired/status/1973873947562422379)
+- [somebody needs to tell these researchers not to go on any flights ASAP](https://x.com/branmcconnell/status/1973873609950310612)
+- [🥹](https://x.com/branmcconnell/status/1973873361001599319)
+- [My favorite human on this app is @branmcconnell This guy is the best](https://x.com/jonahseguin/status/1973871892294676500)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
