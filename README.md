@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [Sora 2 on launch day vs Sora-2 after 3 days. pic.](https://x.com/ai_for_success/status/1974664416756199866)
 - [.@OpenAI let Sora 2 run wild and free just long enough to top app charts and then nerfed it into a basically unusable app](https://x.com/branmcconnell/status/1974582821143638231)
 - [i used to wear this exact outfit all the time. HOW DOES IT KNOW?](https://x.com/branmcconnell/status/1973884274995822660)
 - [i would also like to add my name to this. @branmcconnell is my favourite human on this app](https://x.com/ajrgd/status/1973876913149235368)
 - [i can also vouch. @branmcconnell is my favourite human on this app too](https://x.com/bruvimtired/status/1973873947562422379)
-- [somebody needs to tell these researchers not to go on any flights ASAP](https://x.com/branmcconnell/status/1973873609950310612)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
