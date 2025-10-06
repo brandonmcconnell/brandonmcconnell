@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [if someone gave you $10 million right now, no strings attached… what would you do with it?](https://x.com/branmcconnell/status/1975247940592804249)
 - [this sora-generated video looks more like me than the legitimate photograph i use for my pfp this is wild](https://x.com/branmcconnell/status/1975231993001746525)
 - [went to school went to college learned some things experienced some things college was a waste of time and money helpful for some, not for all &lpar;not for me&rpar; it set me back financially and career-wise going to university is a nuanced decision](https://x.com/branmcconnell/status/1974977427685417133)
 - [Sora 2 on launch day vs Sora-2 after 3 days. pic.](https://x.com/ai_for_success/status/1974664416756199866)
 - [.@OpenAI let Sora 2 run wild and free just long enough to top app charts and then nerfed it into a basically unusable app](https://x.com/branmcconnell/status/1974582821143638231)
-- [i used to wear this exact outfit all the time. HOW DOES IT KNOW?](https://x.com/branmcconnell/status/1973884274995822660)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
