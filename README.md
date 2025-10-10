@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [i&#39;ve never met a single person who uses ultracite _ obviously joking… if you want to preserve your sanity and any joy you have in life and not constantly wrestle with your linting rules, you should use .](https://x.com/branmcconnell/status/1976706890655481934)
 - [TIL about the best course to learn Effect.ts, taught by Lucas Barake, a phenomenal teacher. 💯 If you want to learn Effect as much as I do, I&#39;d recommend checking out this course too. Check him and the course out at !](https://x.com/branmcconnell/status/1976687441336484055)
 - [You can try it right now in Director, full support for Stagehand is coming soon!](https://x.com/JaySahnan/status/1975974224557912076)
 - [if someone gave you $10 million right now, no strings attached… what would you do with it?](https://x.com/branmcconnell/status/1975247940592804249)
 - [this sora-generated video looks more like me than the legitimate photograph i use for my pfp this is wild](https://x.com/branmcconnell/status/1975231993001746525)
-- [went to school went to college learned some things experienced some things college was a waste of time and money helpful for some, not for all &lpar;not for me&rpar; it set me back financially and career-wise going to university is a nuanced decision](https://x.com/branmcconnell/status/1974977427685417133)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
