@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [i need more friends in sf that let me crash on their couch when i’m in town like… next week 👀](https://x.com/branmcconnell/status/1977320514139107756)
 - [my new favorite place to buy domains is !](https://x.com/branmcconnell/status/1977052259818061836)
 - [i&#39;ve never met a single person who uses ultracite _ obviously joking… if you want to preserve your sanity and any joy you have in life and not constantly wrestle with your linting rules, you should use .](https://x.com/branmcconnell/status/1976706890655481934)
 - [TIL about the best course to learn Effect.ts, taught by Lucas Barake, a phenomenal teacher. 💯 If you want to learn Effect as much as I do, I&#39;d recommend checking out this course too. Check him and the course out at !](https://x.com/branmcconnell/status/1976687441336484055)
 - [You can try it right now in Director, full support for Stagehand is coming soon!](https://x.com/JaySahnan/status/1975974224557912076)
-- [if someone gave you $10 million right now, no strings attached… what would you do with it?](https://x.com/branmcconnell/status/1975247940592804249)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
