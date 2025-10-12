@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [The Tailwind team is so cracked Now imagine how cool it would be if we could move all of those utilities into a separate file to really clean up the source and then link it in somehow I think we’re getting somewhere](https://x.com/branmcconnell/status/1977443954460352902)
 - [i am once again asking for a couch to crash on next week while in sf](https://x.com/branmcconnell/status/1977430363069907306)
 - [Someone&#39;s reply today got me to create and publish a new utility plugin for tailwind I call Tagged Combinators Instead of using * and ** to only target children and descendants respectively, you can tag them to filter them by selectors Try it out:](https://x.com/branmcconnell/status/1977423750841729116)
 - [yup… but rolling so if I move, the standard timezone will just move with me to keep things simple](https://x.com/branmcconnell/status/1977391355950174349)
 - [i need more friends in sf that let me crash on their couch when i’m in town like… next week 👀](https://x.com/branmcconnell/status/1977320514139107756)
-- [my new favorite place to buy domains is !](https://x.com/branmcconnell/status/1977052259818061836)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
