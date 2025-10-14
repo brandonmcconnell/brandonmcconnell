@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [i could fix that in less than 10 mins &lpar;in TS and CSS&rpar; in swift and ai-assisted, probably still less than an hour](https://x.com/branmcconnell/status/1978128287831322998)
 - [thanks @Lantos1618 🥹](https://x.com/branmcconnell/status/1978049553501970449)
 - [just wanted to shout @branmcconnell out he is so cracked at TS, he is also so deep into webdev it is crazy go look at his github.](https://x.com/Lantos1618/status/1978014688047726827)
 - [The Tailwind team is so cracked Now imagine how cool it would be if we could move all of those utilities into a separate file to really clean up the source and then link it in somehow I think we’re getting somewhere](https://x.com/branmcconnell/status/1977443954460352902)
 - [i am once again asking for a couch to crash on next week while in sf](https://x.com/branmcconnell/status/1977430363069907306)
-- [Someone&#39;s reply today got me to create and publish a new utility plugin for tailwind I call Tagged Combinators Instead of using * and ** to only target children and descendants respectively, you can tag them to filter them by selectors Try it out:](https://x.com/branmcconnell/status/1977423750841729116)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
