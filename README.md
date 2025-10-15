@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [5,000 friends and counting! 🥳](https://x.com/branmcconnell/status/1978282505833783465)
 - [has anyone else beat this level? what happens when you reach 5,000?](https://x.com/branmcconnell/status/1978244584158204355)
 - [Speaking the truth can cost you dearly. Still do it.](https://x.com/branmcconnell/status/1978223834592325919)
 - [who’s working on this? ✅ Naxt.js ✅ Next.js ❌ Nixt.js ❌ Noxt.js ✅ Nuxt.js ❌ Nyxt.js](https://x.com/branmcconnell/status/1978179481824047505)
 - [i could fix that in less than 10 mins &lpar;in TS and CSS&rpar; in swift and ai-assisted, probably still less than an hour](https://x.com/branmcconnell/status/1978128287831322998)
-- [thanks @Lantos1618 🥹](https://x.com/branmcconnell/status/1978049553501970449)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
