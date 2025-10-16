@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [TIL that you can pay ~$5k to retire @theo from a night of streaming](https://x.com/branmcconnell/status/1978614692307157174)
+- [Saw that bruvimtired lad today- always a pleasure](https://x.com/shafaqwushu/status/1978579665464746196)
 - [5,000 friends and counting! 🥳](https://x.com/branmcconnell/status/1978282505833783465)
 - [has anyone else beat this level? what happens when you reach 5,000?](https://x.com/branmcconnell/status/1978244584158204355)
 - [Speaking the truth can cost you dearly. Still do it.](https://x.com/branmcconnell/status/1978223834592325919)
-- [who’s working on this? ✅ Naxt.js ✅ Next.js ❌ Nixt.js ❌ Noxt.js ✅ Nuxt.js ❌ Nyxt.js](https://x.com/branmcconnell/status/1978179481824047505)
-- [i could fix that in less than 10 mins &lpar;in TS and CSS&rpar; in swift and ai-assisted, probably still less than an hour](https://x.com/branmcconnell/status/1978128287831322998)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
