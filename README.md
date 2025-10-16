@@ -53,7 +53,7 @@
 ### My latest tweets
 <!-- TWITTER:START -->
 - [TIL that you can pay ~$5k to retire @theo from a night of streaming](https://x.com/branmcconnell/status/1978614692307157174)
-- [Saw that bruvimtired lad today- always a pleasure](https://x.com/shafaqwushu/status/1978579665464746196)
+- [Saw that bruvimtired lad today- always a pleasure pic.](https://x.com/shafaqwushu/status/1978579665464746196)
 - [5,000 friends and counting! 🥳](https://x.com/branmcconnell/status/1978282505833783465)
 - [has anyone else beat this level? what happens when you reach 5,000?](https://x.com/branmcconnell/status/1978244584158204355)
 - [Speaking the truth can cost you dearly. Still do it.](https://x.com/branmcconnell/status/1978223834592325919)
