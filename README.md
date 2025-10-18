@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [Let’s be real. If someone launched an AI update of Earth, it’d be humanity.](https://x.com/branmcconnell/status/1979411372132663621)
+- [been enjoying cursor but just can’t justify the high price tag anymore. i pay $500+ per month. what’s everyone using these days? been hearing lots of people talk about](https://x.com/branmcconnell/status/1979410061047853359)
+- [Give me $10M and I will use it to open the best craft coffee/tea shop in all of SF.](https://x.com/branmcconnell/status/1979408324605964601)
 - [name a browser worse than @comet &lpar;without saying @firefox&rpar;](https://x.com/branmcconnell/status/1979293008555389166)
 - [crazy to think that someday, someone will make something objectively better than github, and we’ll all switch to it](https://x.com/branmcconnell/status/1979055975312109920)
-- [guess the engineer ⁠ ⁠ this oughta’ be fun 🙃](https://x.com/branmcconnell/status/1978929590622941365)
-- [can you please fix some of these cursed keybindings ⌘+N: new file BUT also rejects changes ⌘+⇧+S: saves as new file but also opens agents sidebar just lost some changes](https://x.com/branmcconnell/status/1978840345312965108)
-- [TIL that you can pay ~$5k to retire @theo from a night of streaming](https://x.com/branmcconnell/status/1978614692307157174)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
