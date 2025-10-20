@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [Today is stronger proof than ever that shipping on Vercel is more than “AWS with more steps” 1. Fewer steps 2. AWS went down. Vercel, largely, did not.](https://x.com/branmcconnell/status/1980323667583377736)
 - [y&#39;all think aws goes down on purpose every few months to remind us how important they are?](https://x.com/branmcconnell/status/1980308842912358725)
 - [remember sora?](https://x.com/branmcconnell/status/1980299272835998024)
 - [one of my proudest domains is  - the best domains experience on the web](https://x.com/branmcconnell/status/1979427668496904694)
 - [Let’s be real. If someone launched an AI update of Earth, it’d be humanity.](https://x.com/branmcconnell/status/1979411372132663621)
-- [been enjoying cursor but just can’t justify the high price tag anymore. i pay $500+ per month. what’s everyone using these days? been hearing lots of people talk about](https://x.com/branmcconnell/status/1979410061047853359)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
