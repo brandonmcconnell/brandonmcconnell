@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [Just when I thought Datadog couldn’t get any better](https://x.com/branmcconnell/status/1980710439215595902)
 - [everyone okay?](https://x.com/branmcconnell/status/1980607145314853067)
 - [Today is stronger proof than ever that shipping on Vercel is more than “AWS with more steps” 1. Fewer steps 2. AWS went down. Vercel, largely, did not.](https://x.com/branmcconnell/status/1980323667583377736)
 - [y&#39;all think aws goes down on purpose every few months to remind us how important they are?](https://x.com/branmcconnell/status/1980308842912358725)
 - [remember sora?](https://x.com/branmcconnell/status/1980299272835998024)
-- [one of my proudest domains is  - the best domains experience on the web](https://x.com/branmcconnell/status/1979427668496904694)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
