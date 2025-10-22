@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [i wore black to the blue day am i cooked?](https://x.com/branmcconnell/status/1981020817715867870)
+- [SF talk for dummies “Series A-I’m walkin’ here” “Series B right there dude” “Series C you later fellas” “Series D-city is quite nice”](https://x.com/branmcconnell/status/1981018626883985643)
+- [legend says he stepped off the plane and was immediately accepted into yc](https://x.com/branmcconnell/status/1981017174161662004)
 - [WHAT WAS I THINKING](https://x.com/branmcconnell/status/1980995675421847717)
 - [obligatory “sf i am in you” post that i’ll cringe at tomorrow](https://x.com/branmcconnell/status/1980821438669246499)
-- [from “cto” to “tweet connoisseur”](https://x.com/branmcconnell/status/1980741228611424666)
-- [new pfp by none other than @brandbydan this man is a legend](https://x.com/branmcconnell/status/1980739399311675711)
-- [shh the master is working @brandbydan](https://x.com/branmcconnell/status/1980722810302656530)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
