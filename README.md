@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [the man. the myth. the legend. @RhysSullivan](https://x.com/branmcconnell/status/1981067200707645656)
+- [If you love tailwind, come talk to me. If you hate tailwind, come talk to me. I’m in SF all week at the @vercel events.](https://x.com/branmcconnell/status/1981065123776389322)
+- [how long till AI can generate audiobooks for me in @simeonGriggs’ voice this talk is off to a great start](https://x.com/branmcconnell/status/1981062603771433257)
+- [The new Next.js `cacheComponents` feature by @vercel is blowing my mind. The ideal solution to an age old problem of hybrid rendering. It nails partial prerendering. @aurorascharff is killing it on this demo.](https://x.com/branmcconnell/status/1981060507269550226)
 - [do you pronounce it vercel or vercel?](https://x.com/branmcconnell/status/1981041437409235308)
-- [i wore black to the blue day am i cooked?](https://x.com/branmcconnell/status/1981020817715867870)
-- [SF talk for dummies “Series A-I’m walkin’ here” “Series B right there dude” “Series C you later fellas” “Series D-city is quite nice”](https://x.com/branmcconnell/status/1981018626883985643)
-- [legend says he stepped off the plane and was immediately accepted into yc](https://x.com/branmcconnell/status/1981017174161662004)
-- [WHAT WAS I THINKING](https://x.com/branmcconnell/status/1980995675421847717)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
