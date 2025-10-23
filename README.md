@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [AI Elements on full display today @haydenbleasel cooked 🔥](https://x.com/branmcconnell/status/1981411298421428333)
+- [Fear is a tool. When that light hits the sky, it&#39;s not just a call. It&#39;s a warning.](https://x.com/branmcconnell/status/1981410436139581855)
 - [hold up. they just called it gif instead of gif.](https://x.com/branmcconnell/status/1981405779409457321)
 - [fatties rolling up on @vercel ship ai](https://x.com/branmcconnell/status/1981389333820297222)
 - [no chance this was actually @ryandavogel’s first talk, right? so good better prompting. faster. cheaper.](https://x.com/branmcconnell/status/1981130433728537046)
-- [the man. the myth. the legend. @RhysSullivan](https://x.com/branmcconnell/status/1981067200707645656)
-- [If you love tailwind, come talk to me. If you hate tailwind, come talk to me. I’m in SF all week at the @vercel events.](https://x.com/branmcconnell/status/1981065123776389322)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
