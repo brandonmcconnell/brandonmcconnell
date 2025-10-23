@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [fatties rolling up on @vercel ship ai](https://x.com/branmcconnell/status/1981389333820297222)
 - [no chance this was actually @ryandavogel’s first talk, right? so good better prompting. faster. cheaper.](https://x.com/branmcconnell/status/1981130433728537046)
 - [the man. the myth. the legend. @RhysSullivan](https://x.com/branmcconnell/status/1981067200707645656)
 - [If you love tailwind, come talk to me. If you hate tailwind, come talk to me. I’m in SF all week at the @vercel events.](https://x.com/branmcconnell/status/1981065123776389322)
 - [how long till AI can generate audiobooks for me in @simeonGriggs’ voice this talk is off to a great start](https://x.com/branmcconnell/status/1981062603771433257)
-- [The new Next.js `cacheComponents` feature by @vercel is blowing my mind. The ideal solution to an age old problem of hybrid rendering. It nails partial prerendering. @aurorascharff is killing it on this demo.](https://x.com/branmcconnell/status/1981060507269550226)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
