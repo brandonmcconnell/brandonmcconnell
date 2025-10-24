@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [&quot;use sorcerer&quot;](https://x.com/branmcconnell/status/1981735871645917293)
 - [.@rauchg has dubbed @nicoalbanese10 as his favorite italian. i’m rebranding as scottish.](https://x.com/branmcconnell/status/1981452792322765284)
 - [AI Elements on full display today @haydenbleasel cooked 🔥](https://x.com/branmcconnell/status/1981411298421428333)
 - [Fear is a tool. When that light hits the sky, it&#39;s not just a call. It&#39;s a warning.](https://x.com/branmcconnell/status/1981410436139581855)
 - [hold up. they just called it gif instead of gif.](https://x.com/branmcconnell/status/1981405779409457321)
-- [fatties rolling up on @vercel ship ai](https://x.com/branmcconnell/status/1981389333820297222)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
