@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [what if we *behaviorally* trained an ai model on psychology and human behavior …to allow it to be less polished, less perfect, more flawed, more… human](https://x.com/branmcconnell/status/1981876174155657404)
+- [To anyone who knows— do @vercel workflows support remote invalidation via webhooks, etc.? It’d be awesome to cache content indefinitely, then invalidate that cache when events occur &lpar;e.g. new subscribers/likes, etc.&rpar; @pranaygp @nishimiya @haydenbleasel @rauchg](https://x.com/branmcconnell/status/1981866324218548693)
 - [i’m at the sfo airport and my flight isn’t for another 8 hours. give me one good reason to come back into the city.](https://x.com/branmcconnell/status/1981858197897200120)
 - [pov: the morning after conf week](https://x.com/branmcconnell/status/1981744483495743559)
 - [&quot;use sorcerer&quot;](https://x.com/branmcconnell/status/1981735871645917293)
-- [.@rauchg has dubbed @nicoalbanese10 as his favorite italian. i’m rebranding as scottish.](https://x.com/branmcconnell/status/1981452792322765284)
-- [AI Elements on full display today @haydenbleasel cooked 🔥](https://x.com/branmcconnell/status/1981411298421428333)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
