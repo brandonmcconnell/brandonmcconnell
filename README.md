@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [“I have a $1 billion idea” an agentic browser. without any browsing. just talk to the agent. it browses heedlessly. pure i/o info stream. congrats! you’ve reinvented ChatGPT](https://x.com/branmcconnell/status/1982518113020342438)
 - [wow. can attest this works.](https://x.com/branmcconnell/status/1982513076168720471)
 - [anyone know how to stop playing comet? cant find the off switch](https://x.com/branmcconnell/status/1982447923930485157)
 - [my wife is so cool](https://x.com/branmcconnell/status/1981918222405562529)
 - [what if we *behaviorally* trained an ai model on psychology and human behavior …to allow it to be less polished, less perfect, more flawed, more… human](https://x.com/branmcconnell/status/1981876174155657404)
-- [To anyone who knows— do @vercel workflows support remote invalidation via webhooks, etc.? It’d be awesome to cache content indefinitely, then invalidate that cache when events occur &lpar;e.g. new subscribers/likes, etc.&rpar; @pranaygp @nishimiya @haydenbleasel @rauchg](https://x.com/branmcconnell/status/1981866324218548693)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
