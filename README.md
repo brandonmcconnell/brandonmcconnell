@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [anyone know how to stop playing comet? cant find the off switch](https://x.com/branmcconnell/status/1982447923930485157)
 - [my wife is so cool](https://x.com/branmcconnell/status/1981918222405562529)
 - [what if we *behaviorally* trained an ai model on psychology and human behavior …to allow it to be less polished, less perfect, more flawed, more… human](https://x.com/branmcconnell/status/1981876174155657404)
 - [To anyone who knows— do @vercel workflows support remote invalidation via webhooks, etc.? It’d be awesome to cache content indefinitely, then invalidate that cache when events occur &lpar;e.g. new subscribers/likes, etc.&rpar; @pranaygp @nishimiya @haydenbleasel @rauchg](https://x.com/branmcconnell/status/1981866324218548693)
 - [i’m at the sfo airport and my flight isn’t for another 8 hours. give me one good reason to come back into the city.](https://x.com/branmcconnell/status/1981858197897200120)
-- [pov: the morning after conf week](https://x.com/branmcconnell/status/1981744483495743559)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
