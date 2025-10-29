@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [31](https://x.com/branmcconnell/status/1983591558021603684)
 - [y&#39;all make this too easy @dominikdoesdev @dom_scholz thankful for you brothers 👊](https://x.com/branmcconnell/status/1983584562455203980)
 - [Been using ChatGPT Atlas for 2 days now. I hate it. AMA!](https://x.com/branmcconnell/status/1983236935507227113)
 - [If any notable indie hacker released workflows as a standalone package, its praise and adoption would be viral.](https://x.com/branmcconnell/status/1982996969879679325)
 - [we&#39;re so back](https://x.com/branmcconnell/status/1982876085789618399)
-- [“I have a $1 billion idea” an agentic browser. without any browsing. just talk to the agent. it browses heedlessly. pure i/o info stream. congrats! you’ve reinvented ChatGPT](https://x.com/branmcconnell/status/1982518113020342438)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
