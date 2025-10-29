@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [As someone with a bit of info from someone who knows someone who knows someone who knows someone who posts on X…](https://x.com/branmcconnell/status/1983657034773041536)
 - [For everyone who missed out on acquiring this amazing and fully open-source MIT-licensed project… I am officially selling my equally open-source MIT-licensed public fork of the project – kibotron  Bidding starts at $25k. Don&#39;t be shy. 🐯](https://x.com/branmcconnell/status/1983605291695702490)
 - [31](https://x.com/branmcconnell/status/1983591558021603684)
 - [y&#39;all make this too easy @dominikdoesdev @dom_scholz thankful for you brothers 👊](https://x.com/branmcconnell/status/1983584562455203980)
 - [Been using ChatGPT Atlas for 2 days now. I hate it. AMA!](https://x.com/branmcconnell/status/1983236935507227113)
-- [If any notable indie hacker released workflows as a standalone package, its praise and adoption would be viral.](https://x.com/branmcconnell/status/1982996969879679325)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
