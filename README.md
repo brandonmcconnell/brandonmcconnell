@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [computers are cool, but what am i missing? cant u just dig up some rocks and electrify them yourself?](https://x.com/branmcconnell/status/1984019497230201155)
 - [Polar isn&#39;t just another Stripe wrapper. It&#39;s shaking the payments ecosystem and establishing itself as new financial primitive, with features and API quality not viable yet with Stripe standalone. I&#39;m really excited for what Polar is building and how it&#39;s pushing others &lpar;Stripe included&rpar; to reinvent themselves.](https://x.com/branmcconnell/status/1983926450492199212)
 - [s/o to @theorcdev – he&#39;s one of the most creative ui component library authors, building some of the coolest ui libs one notable example is 8bitcn, an 8-bit ui lib perfect for retro app and game development give this guy a follow!](https://x.com/branmcconnell/status/1983923089403498905)
 - [ChatGPT Atlas sucks](https://x.com/branmcconnell/status/1983906087624462796)
 - [Y’ALL AIN’T READY](https://x.com/branmcconnell/status/1983903420017725783)
-- [Hearing stories like this is so fulfilling. We can’t build everything we dream of, but we can help and inspire others to take up the torch.](https://x.com/branmcconnell/status/1983703085299253677)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
