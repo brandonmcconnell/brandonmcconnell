@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [ChatGPT Atlas sucks](https://x.com/branmcconnell/status/1983906087624462796)
 - [Y’ALL AIN’T READY](https://x.com/branmcconnell/status/1983903420017725783)
 - [Hearing stories like this is so fulfilling. We can’t build everything we dream of, but we can help and inspire others to take up the torch.](https://x.com/branmcconnell/status/1983703085299253677)
 - [happy birthday to my friend, client and mentor @branmcconnell so happy to know him 🥳 pic.](https://x.com/emirthedev/status/1983662299069202585)
 - [As someone with a bit of info from someone who knows someone who knows someone who knows someone who posts on X…](https://x.com/branmcconnell/status/1983657034773041536)
-- [happy birthday @branmcconnell hes like my mentor and thanks to him im building @osstagdotcom happy 31 pic.](https://x.com/rohitdoesdev/status/1983625134721433933)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
