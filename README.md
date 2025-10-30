@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [happy birthday to my friend, client and mentor @branmcconnell so happy to know him 🥳](https://x.com/emirthedev/status/1983662299069202585)
+- [Hearing stories like this is so fulfilling. We can’t build everything we dream of, but we can help and inspire others to take up the torch.](https://x.com/branmcconnell/status/1983703085299253677)
+- [happy birthday to my friend, client and mentor @branmcconnell so happy to know him 🥳 pic.](https://x.com/emirthedev/status/1983662299069202585)
 - [As someone with a bit of info from someone who knows someone who knows someone who knows someone who posts on X…](https://x.com/branmcconnell/status/1983657034773041536)
 - [happy birthday @branmcconnell hes like my mentor and thanks to him im building @osstagdotcom happy 31 pic.](https://x.com/rohitdoesdev/status/1983625134721433933)
 - [For everyone who missed out on acquiring this amazing and fully open-source MIT-licensed project… I am officially selling my equally open-source MIT-licensed public fork of the project – kibotron  Bidding starts at $25k. Don&#39;t be shy. 🐯](https://x.com/branmcconnell/status/1983605291695702490)
-- [31](https://x.com/branmcconnell/status/1983591558021603684)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
