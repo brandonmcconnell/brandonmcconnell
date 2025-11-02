@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [walmart would have a “blood spill kit” out in the open](https://x.com/branmcconnell/status/1984770867071451499)
 - [svelte is s-tier possibly the best framework. if there was a bigger community and better native support &lpar;iirc being worked on by @sveltejs @SvelteSociety @PaoloRicciuti via @LynxJS_org&rpar;, i&#39;d probably use it for most projects](https://x.com/branmcconnell/status/1984091177097032073)
 - [I&#39;m hesitating to overwrite the last chat in Cursor &lpar;to slim the context usage %&rpar; for sentimental reasons. I&#39;m a message history hoarder. Anyone else relate to this?](https://x.com/branmcconnell/status/1984083925929750751)
 - [computers are cool, but what am i missing? cant u just dig up some rocks and electrify them yourself?](https://x.com/branmcconnell/status/1984019497230201155)
 - [Polar isn&#39;t just another Stripe wrapper. It&#39;s shaking the payments ecosystem and establishing itself as new financial primitive, with features and API quality not viable yet with Stripe standalone. I&#39;m really excited for what Polar is building and how it&#39;s pushing others &lpar;Stripe included&rpar; to reinvent themselves.](https://x.com/branmcconnell/status/1983926450492199212)
-- [s/o to @theorcdev – he&#39;s one of the most creative ui component library authors, building some of the coolest ui libs one notable example is 8bitcn, an 8-bit ui lib perfect for retro app and game development give this guy a follow!](https://x.com/branmcconnell/status/1983923089403498905)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
