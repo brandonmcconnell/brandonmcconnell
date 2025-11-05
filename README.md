@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [running into a critical bug in @cursor_ai after updating today, and there&#39;s no option to downgrade 🤦🏻‍♂️ it just stays stuck in this &quot;Loading chat&quot; state forever, even after restarting cursor and my computer attn @mntruell @ericzakariasson cc @xn1cklas](https://x.com/branmcconnell/status/1986175226711769492)
 - [how can i short databuddy?](https://x.com/branmcconnell/status/1986123084236267613)
 - [this tembo announcement is the most exciting improvement to agentic code in a while](https://x.com/branmcconnell/status/1985767808089678305)
 - [free iphone from @tembo? don&#39;t mind if i do](https://x.com/branmcconnell/status/1985414846440226994)
 - [fuck it - i&#39;m personally giving away the new iphone 17 pro max in anticipation for @tembo&#39;s big launch tomorrow to be entered: -follow @ConnorMPaton and @tembo - like or retweet this post - like or retweet @tembo&#39;s official launch video tomorrow at 9am pst that&#39;s literally… pic.](https://x.com/ConnorMPaton/status/1985382515373171188)
-- [say goodbye to insufficient memory errors what should we call it?](https://x.com/branmcconnell/status/1985143566457266322)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
