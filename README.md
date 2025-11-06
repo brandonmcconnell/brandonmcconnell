@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [In an effort to downgrade from cursor&#39;s buggy new version, I installed the 1.7 from their download page, which… corrupted my installation. Now my chat history with all its context is completely gone, and there wasn&#39;t even an option to back it up first due to the earlier bug. 🤦🏻‍♂️](https://x.com/branmcconnell/status/1986237913504309415)
 - [does anyone have an old version of cursor they can send me? 💀](https://x.com/branmcconnell/status/1986221252722188297)
 - [running into a critical bug in @cursor_ai after updating today, and there&#39;s no option to downgrade 🤦🏻‍♂️ it just stays stuck in this &quot;Loading chat&quot; state forever, even after restarting cursor and my computer attn @mntruell @ericzakariasson cc @xn1cklas](https://x.com/branmcconnell/status/1986175226711769492)
 - [how can i short databuddy?](https://x.com/branmcconnell/status/1986123084236267613)
 - [this tembo announcement is the most exciting improvement to agentic code in a while](https://x.com/branmcconnell/status/1985767808089678305)
-- [Introducing @tembo The unified interface for background coding agents. pic.](https://x.com/benjaminakar/status/1985754174911627546)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
