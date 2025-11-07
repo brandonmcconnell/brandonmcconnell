@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [Consider this required reading for every developer who touches CSS or UI.](https://x.com/branmcconnell/status/1986618540426686934)
 - [𝕏 search tip: You can… - use `from:` to filter by post author - quote terms &lpar;&quot;some words&quot;&rpar; to search phrases - use @ to find mentions of someone `@person` - lots more… GUI at](https://x.com/branmcconnell/status/1986583703238189514)
 - [anyone know how to start a new @Polymarket or @Kalshi bet? i want to bet on @tembo](https://x.com/branmcconnell/status/1986469753989288001)
 - [In an effort to downgrade from cursor&#39;s buggy new version, I installed the 1.7 from their download page, which… corrupted my installation. Now my chat history with all its context is completely gone, and there wasn&#39;t even an option to back it up first due to the earlier bug. 🤦🏻‍♂️](https://x.com/branmcconnell/status/1986237913504309415)
 - [does anyone have an old version of cursor they can send me? 💀](https://x.com/branmcconnell/status/1986221252722188297)
-- [running into a critical bug in @cursor_ai after updating today, and there&#39;s no option to downgrade 🤦🏻‍♂️ it just stays stuck in this &quot;Loading chat&quot; state forever, even after restarting cursor and my computer attn @mntruell @ericzakariasson cc @xn1cklas](https://x.com/branmcconnell/status/1986175226711769492)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
