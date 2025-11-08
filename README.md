@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [Demonstrating the danger of ChatGPT memory. Earlier, in an unrelated conversation, I asked ChatGPT to give me a simple yes/no response when I name something, indicating if it’s edible. Now, hours later, I started a new chat with “french fries.” It responded, “yes.”](https://x.com/branmcconnell/status/1987297554044801488)
 - [there’s a whole generation of kids that grew up without a single installment of GTA](https://x.com/branmcconnell/status/1987131037202456869)
 - [Consider this required reading for every developer who touches CSS or UI.](https://x.com/branmcconnell/status/1986618540426686934)
 - [𝕏 search tip: You can… - use `from:` to filter by post author - quote terms &lpar;&quot;some words&quot;&rpar; to search phrases - use @ to find mentions of someone `@person` - lots more… GUI at](https://x.com/branmcconnell/status/1986583703238189514)
 - [anyone know how to start a new @Polymarket or @Kalshi bet? i want to bet on @tembo](https://x.com/branmcconnell/status/1986469753989288001)
-- [In an effort to downgrade from cursor&#39;s buggy new version, I installed the 1.7 from their download page, which… corrupted my installation. Now my chat history with all its context is completely gone, and there wasn&#39;t even an option to back it up first due to the earlier bug. 🤦🏻‍♂️](https://x.com/branmcconnell/status/1986237913504309415)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
