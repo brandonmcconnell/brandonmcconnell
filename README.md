@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [vacations are underrated](https://x.com/branmcconnell/status/1987922605094105195)
 - [MSG is like laugh tracks for food](https://x.com/branmcconnell/status/1987681865205981468)
 - [Demonstrating the danger of ChatGPT memory. Earlier, in an unrelated conversation, I asked ChatGPT to give me a simple yes/no response when I name something, indicating if it’s edible. Now, hours later, I started a new chat with “french fries.” It responded, “yes.”](https://x.com/branmcconnell/status/1987297554044801488)
 - [there’s a whole generation of kids that grew up without a single installment of GTA](https://x.com/branmcconnell/status/1987131037202456869)
 - [Consider this required reading for every developer who touches CSS or UI.](https://x.com/branmcconnell/status/1986618540426686934)
-- [𝕏 search tip: You can… - use `from:` to filter by post author - quote terms &lpar;&quot;some words&quot;&rpar; to search phrases - use @ to find mentions of someone `@person` - lots more… GUI at](https://x.com/branmcconnell/status/1986583703238189514)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
