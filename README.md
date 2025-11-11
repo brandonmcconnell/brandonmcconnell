@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [me: my lower back hurts wife: why do you think your lower back hurts? me: because my lower back hurts](https://x.com/branmcconnell/status/1988102764543787274)
 - [Made it to the UK. Where’s @bruvimtired?](https://x.com/branmcconnell/status/1987966381401202988)
 - [vacations are underrated](https://x.com/branmcconnell/status/1987922605094105195)
 - [MSG is like laugh tracks for food](https://x.com/branmcconnell/status/1987681865205981468)
 - [Demonstrating the danger of ChatGPT memory. Earlier, in an unrelated conversation, I asked ChatGPT to give me a simple yes/no response when I name something, indicating if it’s edible. Now, hours later, I started a new chat with “french fries.” It responded, “yes.”](https://x.com/branmcconnell/status/1987297554044801488)
-- [there’s a whole generation of kids that grew up without a single installment of GTA](https://x.com/branmcconnell/status/1987131037202456869)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
