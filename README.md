@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [I&#39;m having one of the worst agent sessions of my life using GPT 5.1 Codex High on Cursor. It&#39;s hallucinating variable names that are clearly documented and included verbatim in the chat. Even with excessive steering, it keeps hallucinating different names over and over.](https://x.com/branmcconnell/status/1989849597875716599)
 - [thanks @toolwind 🔥](https://x.com/branmcconnell/status/1989773818433306908)
 - [what product is this?](https://x.com/branmcconnell/status/1988681885191672061)
 - [NO WAY I just won a new iPhone 17 Pro 🤯 Thank you @tembo 🙏🏼 If you’re reading this, this is your sign to go use  right now!!!!!](https://x.com/branmcconnell/status/1988677361550922226)
 - [me: my lower back hurts wife: why do you think your lower back hurts? me: because my lower back hurts](https://x.com/branmcconnell/status/1988102764543787274)
-- [Made it to the UK. Where’s @bruvimtired?](https://x.com/branmcconnell/status/1987966381401202988)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
