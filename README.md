@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [happy birthday @vanilagy 🥳 one of the most important builders of our time tbh building the fastest browser-first toolkit for reading and writing media files at !](https://x.com/branmcconnell/status/1990543622794531289)
 - [$3.7B net worth](https://x.com/branmcconnell/status/1990495974570258737)
 - [It&#39;s been 2 weeks since I upgraded to Cursor 2.0, and I still see this issue with new chats, where a day or so after starting a chat, I can no longer access it. It gets stuck loading. I reported this to the Cursor team, and still no updates. @cursor_ai @ericzakariasson](https://x.com/branmcconnell/status/1990463587471466941)
 - [fyi repeatedly following and unfollowing me is not the best way to get me to follow you back. you know who you are.](https://x.com/branmcconnell/status/1990400099852120397)
 - [don’t you mean… seasons X postings?](https://x.com/branmcconnell/status/1990072269956133149)
-- [gotta love the parody here but they’re right. csv is all you need if you’re really worried about tokens.](https://x.com/branmcconnell/status/1989948300234313970)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
