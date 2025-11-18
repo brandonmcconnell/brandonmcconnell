@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [ok i&#39;ve been trashing TOON since I first saw it &lpar;e.g. “just use CSV”, etc.&rpar;… but TOON generally beats CSV at nested structures, better JSON parity, and greater model reliability nice work @jschopplich 👌 gonna have to take it for a spin. some relevant links 🧵](https://x.com/branmcconnell/status/1990841777469661657)
 - [canceling @YouTube Premium for {insert cancellation reason here}](https://x.com/branmcconnell/status/1990804731350970862)
 - [here i thought validation libraries had peaked](https://x.com/branmcconnell/status/1990796007245037759)
 - [i guess the objects weren’t as durable as we thought](https://x.com/branmcconnell/status/1990788182565400883)
 - [are we back up?](https://x.com/branmcconnell/status/1990786976535228838)
-- […what if gta 6 is just filibustering until ai is good enough to generate the game for them?](https://x.com/branmcconnell/status/1990609046177472962)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
