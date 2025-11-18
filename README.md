@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [i guess the objects weren’t as durable as we thought](https://x.com/branmcconnell/status/1990788182565400883)
+- [are we back up?](https://x.com/branmcconnell/status/1990786976535228838)
 - […what if gta 6 is just filibustering until ai is good enough to generate the game for them?](https://x.com/branmcconnell/status/1990609046177472962)
 - [just think. when AI inevitably takes all our jobs and solves world hunger… we can finally go back to just programming for fun.](https://x.com/branmcconnell/status/1990576633091137748)
 - [happy birthday @vanilagy 🥳 one of the most important builders of our time tbh building the fastest browser-first toolkit for reading and writing media files at !](https://x.com/branmcconnell/status/1990543622794531289)
-- [$3.7B net worth](https://x.com/branmcconnell/status/1990495974570258737)
-- [It&#39;s been 2 weeks since I upgraded to Cursor 2.0, and I still see this issue with new chats, where a day or so after starting a chat, I can no longer access it. It gets stuck loading. I reported this to the Cursor team, and still no updates. @cursor_ai @ericzakariasson](https://x.com/branmcconnell/status/1990463587471466941)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
