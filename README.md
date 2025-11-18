@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [canceling @YouTube Premium for {insert cancellation reason here}](https://x.com/branmcconnell/status/1990804731350970862)
+- [here i thought validation libraries had peaked](https://x.com/branmcconnell/status/1990796007245037759)
 - [i guess the objects weren’t as durable as we thought](https://x.com/branmcconnell/status/1990788182565400883)
 - [are we back up?](https://x.com/branmcconnell/status/1990786976535228838)
 - […what if gta 6 is just filibustering until ai is good enough to generate the game for them?](https://x.com/branmcconnell/status/1990609046177472962)
-- [just think. when AI inevitably takes all our jobs and solves world hunger… we can finally go back to just programming for fun.](https://x.com/branmcconnell/status/1990576633091137748)
-- [happy birthday @vanilagy 🥳 one of the most important builders of our time tbh building the fastest browser-first toolkit for reading and writing media files at !](https://x.com/branmcconnell/status/1990543622794531289)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
