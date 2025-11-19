@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [who needs photoshop? just design your logo in css](https://x.com/branmcconnell/status/1991224369733931448)
 - [cant believe you actually did it](https://x.com/LukeberryPi/status/1991201266358194470)
 - [now matter how bad it gets, just remember… someone decided that biweekly means both &quot;every 2 weeks&quot; AND &quot;2x per week&quot;](https://x.com/branmcconnell/status/1991167272111788494)
 - [goated](https://x.com/jonahseguin/status/1991136875881406976)
 - [brandon cooked](https://x.com/dominikdoesdev/status/1991136637519036604)
-- [Brandon is at it with his insane @tailwindcss shenanigans again. Squircles in tailwind!!!](https://x.com/bruvimtired/status/1991133608002646153)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
