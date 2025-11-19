@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [now matter how bad it gets, just remember… someone decided that biweekly means both &quot;every 2 weeks&quot; AND &quot;2x per week&quot;](https://x.com/branmcconnell/status/1991167272111788494)
 - [goated](https://x.com/jonahseguin/status/1991136875881406976)
 - [brandon cooked](https://x.com/dominikdoesdev/status/1991136637519036604)
 - [Brandon is at it with his insane @tailwindcss shenanigans again. Squircles in tailwind!!!](https://x.com/bruvimtired/status/1991133608002646153)
 - [chat he actually did it](https://x.com/ryandavogel/status/1991133109547388985)
-- [i can finally have a squircle](https://x.com/izadoesdev/status/1991131881656529245)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
