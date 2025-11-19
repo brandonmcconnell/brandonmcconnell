@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [sorry for the terrible audio quality on these temporary headphones …but I HAD TO drop a clip about @ryanvogel&#39;s new tool that gives you full GitHub PR context in markdown format. just swap  for  🤯 token wins are HUGE wins](https://x.com/branmcconnell/status/1991266510413726061)
 - [who needs photoshop? just design your logo in css](https://x.com/branmcconnell/status/1991224369733931448)
 - [cant believe you actually did it](https://x.com/LukeberryPi/status/1991201266358194470)
 - [now matter how bad it gets, just remember… someone decided that biweekly means both &quot;every 2 weeks&quot; AND &quot;2x per week&quot;](https://x.com/branmcconnell/status/1991167272111788494)
 - [goated](https://x.com/jonahseguin/status/1991136875881406976)
-- [brandon cooked](https://x.com/dominikdoesdev/status/1991136637519036604)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
