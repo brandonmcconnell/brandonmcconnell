@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [REAL squircles are *finally* here 🔶🔵✨ Just CSS. No fuss. No hacks. No-config. It just works™ Start using @toolwind/corner-shape in your Tailwind app today to try it out. 1. Install via `npm i @toolwind/corner-shape`. 2. Add it to your tailwind config. 3. Use immediately.](https://x.com/branmcconnell/status/1991131527548162141)
-- [Do I have any friends at @X/@XHandles who can help me with an inquiry I have adjacent to the handle acquisition?](https://x.com/branmcconnell/status/1990979877592248356)
-- [ok i&#39;ve been trashing TOON since I first saw it &lpar;e.g. “just use CSV”, etc.&rpar;… but TOON generally beats CSV at nested structures, better JSON parity, and greater model reliability nice work @jschopplich 👌 gonna have to take it for a spin. some relevant links 🧵](https://x.com/branmcconnell/status/1990841777469661657)
-- [canceling @YouTube Premium for {insert cancellation reason here}](https://x.com/branmcconnell/status/1990804731350970862)
-- [here i thought validation libraries had peaked](https://x.com/branmcconnell/status/1990796007245037759)
+- [goated](https://x.com/jonahseguin/status/1991136875881406976)
+- [brandon cooked](https://x.com/dominikdoesdev/status/1991136637519036604)
+- [Brandon is at it with his insane @tailwindcss shenanigans again. Squircles in tailwind!!!](https://x.com/bruvimtired/status/1991133608002646153)
+- [chat he actually did it](https://x.com/ryandavogel/status/1991133109547388985)
+- [i can finally have a squircle](https://x.com/izadoesdev/status/1991131881656529245)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
