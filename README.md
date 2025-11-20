@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [In terms of AI adoption… - are we early to general populous adoption? yes. - are there many untapped markets? yes. …but if you’re sleeping on AI and planning mosey on in later and have an equal/greater impact, you might be disappointed.](https://x.com/branmcconnell/status/1991571249945096429)
 - [people are using @toolwind⁠/corner-shape and it looks GOOD](https://x.com/branmcconnell/status/1991546861342380133)
 - [Social Links section. pic.](https://x.com/iamncdai/status/1991365637030179286)
 - [Just applied @toolwind /corner-shape to my portfolio website. Here&#39;s how I handle fallbacks for browsers that don&#39;t support `corner-shape`.](https://x.com/iamncdai/status/1991363998974112092)
 - [X Combinator? I hardly know her!](https://x.com/branmcconnell/status/1991295782318690509)
-- [using gitcom provides nearly 50% token savings when looking directly at the comments i go into it more here, take a quick watch](https://x.com/ryanvogel/status/1991269971826298950)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
