@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [people are using @toolwind⁠/corner-shape and it looks GOOD](https://x.com/branmcconnell/status/1991546861342380133)
+- [Social Links section.](https://x.com/iamncdai/status/1991365637030179286)
+- [Just applied @toolwind /corner-shape to my portfolio website. Here&#39;s how I handle fallbacks for browsers that don&#39;t support `corner-shape`.](https://x.com/iamncdai/status/1991363998974112092)
 - [X Combinator? I hardly know her!](https://x.com/branmcconnell/status/1991295782318690509)
 - [using gitcom provides nearly 50% token savings when looking directly at the comments i go into it more here, take a quick watch](https://x.com/ryanvogel/status/1991269971826298950)
-- [sorry for the terrible audio quality on these temporary headphones …but I HAD TO drop a clip about @ryanvogel&#39;s new tool that gives you full GitHub PR context in markdown format. just swap  for  🤯 token wins are HUGE wins](https://x.com/branmcconnell/status/1991266510413726061)
-- [who needs photoshop? just design your logo in css](https://x.com/branmcconnell/status/1991224369733931448)
-- [cant believe you actually did it](https://x.com/LukeberryPi/status/1991201266358194470)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
