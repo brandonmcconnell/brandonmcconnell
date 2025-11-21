@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [This is a safe space. You don’t need to type in all lowercase with me.](https://x.com/branmcconnell/status/1991863081904054283)
 - [Incredible blog post about liquid glass that breaks down the mathematics behind the innovation in all its gritty and glorious nuance. SVG displacement maps were only the beginning. Excellent research, write-up, and implementation, @KubeKhrm! I can’t wait to use this.](https://x.com/branmcconnell/status/1991744001855332605)
 - [In terms of AI adoption… - are we early to general populous adoption? yes. - are there many untapped markets? yes. …but if you’re sleeping on AI and planning mosey on in later and have an equal/greater impact, you might be disappointed.](https://x.com/branmcconnell/status/1991571249945096429)
 - [people are using @toolwind⁠/corner-shape and it looks GOOD](https://x.com/branmcconnell/status/1991546861342380133)
 - [Social Links section. pic.](https://x.com/iamncdai/status/1991365637030179286)
-- [Just applied @toolwind /corner-shape to my portfolio website. Here&#39;s how I handle fallbacks for browsers that don&#39;t support `corner-shape`.](https://x.com/iamncdai/status/1991363998974112092)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
