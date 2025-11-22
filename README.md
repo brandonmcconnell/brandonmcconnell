@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [just had a roasted chestnut for the first time. not sure how i feel about this.](https://x.com/branmcconnell/status/1992078280485474778)
 - [don’t sleep on squircles, y’all](https://x.com/branmcconnell/status/1992052888055558446)
 - [Squircles have finally landed in CSS. With our new @toolwind/corner-shape package, you can add squircles in your @tailwindcss projects as simply as `corner-squircle`. Fully compatible with Tailwind CSS v3 and v4.](https://x.com/toolwind/status/1992052394344010190)
 - [This is a safe space. You don’t need to type in all lowercase with me.](https://x.com/branmcconnell/status/1991863081904054283)
 - [Incredible blog post about liquid glass that breaks down the mathematics behind the innovation in all its gritty and glorious nuance. SVG displacement maps were only the beginning. Excellent research, write-up, and implementation, @KubeKhrm! I can’t wait to use this.](https://x.com/branmcconnell/status/1991744001855332605)
-- [In terms of AI adoption… - are we early to general populous adoption? yes. - are there many untapped markets? yes. …but if you’re sleeping on AI and planning mosey on in later and have an equal/greater impact, you might be disappointed.](https://x.com/branmcconnell/status/1991571249945096429)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
