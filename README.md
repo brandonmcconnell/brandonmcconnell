@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [I&#39;m officially a contributor to @biome! I merged a PR to improve compatibility with dynamic routes in TanStack Start @tan_stack](https://x.com/branmcconnell/status/1992350232785670319)
 - [Glad it’s finally gaining some attention, but really unfortunate it made it into stable. These are the same bugs I reported to the Cursor team weeks ago. Totally corrupt chat history was only one of 4-5 bugs I reported. Huge setback. DO NOT UPDATE CURSOR.](https://x.com/branmcconnell/status/1992316766366642184)
 - [just had a roasted chestnut for the first time. not sure how i feel about this.](https://x.com/branmcconnell/status/1992078280485474778)
 - [don’t sleep on squircles, y’all](https://x.com/branmcconnell/status/1992052888055558446)
 - [Squircles have finally landed in CSS. With our new @toolwind/corner-shape package, you can add squircles in your @tailwindcss projects as simply as `corner-squircle`. Fully compatible with Tailwind CSS v3 and v4.](https://x.com/toolwind/status/1992052394344010190)
-- [This is a safe space. You don’t need to type in all lowercase with me.](https://x.com/branmcconnell/status/1991863081904054283)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
