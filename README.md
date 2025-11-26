@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [reminder that @tembo is the best gonna start creating tons of linear tasks and PRs from our user feedback channel this way](https://x.com/branmcconnell/status/1993733199814381829)
+- [Anyone know how to use AI to create Linear issues via a Slack message? Would love this flow: @linear create an issue for this; then hand off to @tembo/@cursor take a stab at it …where those agents communicate directly on that Slack thread and make hand-offs as needed](https://x.com/branmcconnell/status/1993729357026877495)
 - [never deleting this app](https://x.com/branmcconnell/status/1993459754476487070)
 - [It&#39;s amazing to see something you&#39;ve worked on for months get released and be so well received. @Microsoft Agent Framework is fully AG-UI compatible, with a first-class integration with @CopilotKit, and more soon. 👀 Incredible team effort across the board.](https://x.com/branmcconnell/status/1993366688298156097)
 - [the one downside to wearing my @trashh_dev shirt is having to disappoint everyone who thinks i’m him](https://x.com/branmcconnell/status/1993104696345870464)
-- [almost 3 months later and still waiting for @linear to add a “Copy ID as link” option](https://x.com/branmcconnell/status/1992993141016715754)
-- [btw to clarify this… frontend is my strongest skill and my favorite part of the stack by far. what i&#39;m getting at here is that frontend is often seen as being the “easy” part of the stack, when in reality, it often requires the most creativity and finesse.](https://x.com/branmcconnell/status/1992982253224521827)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
