@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [just cause a company pays you more doesn&#39;t mean they care more about you](https://x.com/izadoesdev/status/1994462823674454146)
 - [don’t underestimate the value of good benefits. one of my past roles gave me 5 MONTHS of fully paid parental leave… which I used. that team got acquired by a company with 2 weeks of paid paternity leave. I think about that first role a lot, even though i make $80k more now](https://x.com/branmcconnell/status/1994442359979876397)
 - [Today, AI suggested I add this to my .zshrc file: # pnpm alias pnpm=&quot;pnpm --filter&quot; # pnpm end Is anyone actually using this????](https://x.com/branmcconnell/status/1993792420585111932)
 - [reminder that @tembo is the best gonna start creating tons of linear tasks and PRs from our user feedback channel this way](https://x.com/branmcconnell/status/1993733199814381829)
 - [Anyone know how to use AI to create Linear issues via a Slack message? Would love this flow: @linear create an issue for this; then hand off to @tembo/@cursor take a stab at it …where those agents communicate directly on that Slack thread and make hand-offs as needed](https://x.com/branmcconnell/status/1993729357026877495)
-- [im telling you. post on twitter, share your work, make your repos public. you never know who is watching. write. share your experiences. network. go to events. ive only been here 8-9 months and twitter has changed my life.](https://x.com/bruvimtired/status/1993610781582405936)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
