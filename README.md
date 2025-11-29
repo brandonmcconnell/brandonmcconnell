@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [.@tembo has changed the way i use texting reactions - if someone asks me to do something, i&#39;ll react ⏳ - once it&#39;s complete, i update my reaction to ✅ 👍 is ambiguous and often signifies acknowledgment more than completion. am i alone in this?](https://x.com/branmcconnell/status/1994611013820522879)
 - [.@thehungrybird_ is who-to-bother-at  if you want to get listed on](https://x.com/branmcconnell/status/1994495849888653446)
 - [just added a sponsor page to](https://x.com/thehungrybird_/status/1994495301412151399)
 - [just cause a company pays you more doesn&#39;t mean they care more about you](https://x.com/izadoesdev/status/1994462823674454146)
 - [don’t underestimate the value of good benefits. one of my past roles gave me 5 MONTHS of fully paid parental leave… which I used. that team got acquired by a company with 2 weeks of paid paternity leave. I think about that first role a lot, even though i make $80k more now](https://x.com/branmcconnell/status/1994442359979876397)
-- [Today, AI suggested I add this to my .zshrc file: # pnpm alias pnpm=&quot;pnpm --filter&quot; # pnpm end Is anyone actually using this????](https://x.com/branmcconnell/status/1993792420585111932)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
