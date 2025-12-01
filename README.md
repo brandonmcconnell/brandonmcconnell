@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [finally taking @cursor_ai agent mode for a whirl does it just move agent sessions into a sidebar instead of the top tab bar? anything else? pic.](https://x.com/branmcconnell/status/1995300098436125078)
 - [.@tembo has changed the way i use texting reactions - if someone asks me to do something, i&#39;ll react ⏳ - once it&#39;s complete, i update my reaction to ✅ 👍 is ambiguous and often signifies acknowledgment more than completion. am i alone in this?](https://x.com/branmcconnell/status/1994611013820522879)
 - [i love personal software just used @replit to make an app that previews sherman williams colors on rooms can’t speak to the accuracy without actually painting, but it took like 20m pic.](https://x.com/kenwheeler/status/1994552919249571861)
 - [.@thehungrybird_ is who-to-bother-at  if you want to get listed on](https://x.com/branmcconnell/status/1994495849888653446)
 - [just added a sponsor page to](https://x.com/thehungrybird_/status/1994495301412151399)
-- [just cause a company pays you more doesn&#39;t mean they care more about you](https://x.com/izadoesdev/status/1994462823674454146)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
