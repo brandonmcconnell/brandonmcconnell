@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [what comment is living rent free in your head? i&#39;ll start first](https://x.com/branmcconnell/status/1996053884301901909)
 - [i need 10x engineer advice if i update the docs as a routine cleanup/chore… should the branch be a &quot;chore/&quot; or a &quot;docs/&quot;?](https://x.com/branmcconnell/status/1995969364567408694)
 - [what is up with the timeline 👀 really curious to see what anthropic has in mind. maybe an AI-first runtime… but what would that even mean?](https://x.com/branmcconnell/status/1995924322939273709)
 - [tfw you check @vercel analytics on your personal blog](https://x.com/branmcconnell/status/1995586169795740033)
 - [finally taking @cursor_ai agent mode for a whirl does it just move agent sessions into a sidebar instead of the top tab bar? anything else? pic.](https://x.com/branmcconnell/status/1995300098436125078)
-- [.@tembo has changed the way i use texting reactions - if someone asks me to do something, i&#39;ll react ⏳ - once it&#39;s complete, i update my reaction to ✅ 👍 is ambiguous and often signifies acknowledgment more than completion. am i alone in this?](https://x.com/branmcconnell/status/1994611013820522879)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
