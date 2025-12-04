@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [Great opportunity to grow with one of the best startups scaling right now, completely shaking the email landscape. If you’re looking, don’t pass this up!](https://x.com/branmcconnell/status/1996641988129800670)
 - [did you know you can prompt your terminal to check if a repo is compromised by shai hulud? just did this on Warp 👉  took less than a minute to run](https://x.com/branmcconnell/status/1996332421227159885)
 - [bun joined anthropic yesterday **the same day** claude died COINCIDENCE??!?!](https://x.com/branmcconnell/status/1996227613082210582)
 - [what comment is living rent free in your head? i&#39;ll start first](https://x.com/branmcconnell/status/1996053884301901909)
 - [i need 10x engineer advice if i update the docs as a routine cleanup/chore… should the branch be a &quot;chore/&quot; or a &quot;docs/&quot;?](https://x.com/branmcconnell/status/1995969364567408694)
-- [what is up with the timeline 👀 really curious to see what anthropic has in mind. maybe an AI-first runtime… but what would that even mean?](https://x.com/branmcconnell/status/1995924322939273709)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
