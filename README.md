@@ -54,8 +54,8 @@
 <!-- TWITTER:START -->
 - [i need to commit more often](https://x.com/branmcconnell/status/1996949505460109480)
 - [Great opportunity to grow with one of the best startups scaling right now, completely shaking the email landscape. If you’re looking, don’t pass this up!](https://x.com/branmcconnell/status/1996641988129800670)
-- [thanks @JustinBeckwith for letting me use your repo as a test subject excited to start using linkinator with peace of mind, to check my projects for broken links 😁](https://x.com/branmcconnell/status/1996332423408197838)
-- [did you know you can prompt your terminal to check if a repo is compromised by shai hulud? just did this on Warp 👉  took less than a minute to run](https://x.com/branmcconnell/status/1996332421227159885)
+- [thanks @JustinBeckwith for letting me use your repo as a test subject excited to start using linkinator with peace of mind, to check my projects for broken links 😁 github.com/JustinBeckwith/li…](https://x.com/branmcconnell/status/1996332423408197838)
+- [did you know you can prompt your terminal to check if a repo is compromised by shai hulud? just did this on Warp 👉 warp.dev took less than a minute to run](https://x.com/branmcconnell/status/1996332421227159885)
 - [bun joined anthropic yesterday **the same day** claude died COINCIDENCE??!?!](https://x.com/branmcconnell/status/1996227613082210582)
 <!-- TWITTER:END -->
 
