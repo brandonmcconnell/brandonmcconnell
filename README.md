@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [Lots of hands working on this and testing over the past few weeks. Super proud of this @CopilotKit 🪁 team!](https://x.com/branmcconnell/status/1999184767116300405)
+- [One of our biggest launch days EVER. The highlight of our new v1.50 release is useAgent&lpar;&rpar;, a first-of-its-kind primitive that connects ANY agent directly to your frontend. One hook, bi-directional, real-time. Building agentic apps just got a whole lot easier.](https://x.com/branmcconnell/status/1999184763999908307)
+- [Here’s the full CopilotKit v1.50 announcement ↓](https://x.com/branmcconnell/status/1999184765627347113)
 - [“are you getting it?”](https://x.com/branmcconnell/status/1999175079176077663)
 - [✨ Introducing useAgent&lpar;&rpar; A new primitive for the agentic application age. Connect ANY agent with your Frontend application. Drive intelligent interfaces &amp; collaborative agents. pic.](https://x.com/CopilotKit/status/1999152146521174493)
-- [ChatGPT Wrapped 2️⃣0️⃣2️⃣5️⃣ Prompt here 👇 Create a ChatGPT Wrapped report similar in spirit to Spotify Wrapped. Include my top three days of ChatGPT usage this year based on number of conversations, a chart showing my usage over time, the stupidest questions I asked &lpar;use the word “stupid” playfully&rpar;, the top five topics I asked about ranked, predictions for the questions I’m most likely to ask next year, and a TLDR summary of my life based on ChatGPT’s understanding of me. Also include these additional sections: my most overused phrases, the wildest rabbit holes I went down, the biggest plot twists in my year according to ChatGPT, and a “you in three emojis” section. Make this a full repor](https://x.com/branmcconnell/status/1999121487265947845)
-- [i need to commit more often](https://x.com/branmcconnell/status/1996949505460109480)
-- [Great opportunity to grow with one of the best startups scaling right now, completely shaking the email landscape. If you’re looking, don’t pass this up!](https://x.com/branmcconnell/status/1996641988129800670)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
