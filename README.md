@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [just realized i&#39;m permanently ineligible for forbes 30 under 30 &lpar;no, it&#39;s not my bday&rpar; …who&#39;s doing making 40 under 40?](https://x.com/branmcconnell/status/1999202761628381229)
+- [[No Title] - 1999201163049161078](https://x.com/branmcconnell/status/1999201163049161078)
+- [wakey wakey… @CopilotKit v1.50 with a side of useAgent&lpar;&rpar; 🤤](https://x.com/branmcconnell/status/1999201161149125103)
 - [Lots of hands working on this and testing over the past few weeks. Super proud of this @CopilotKit 🪁 team!](https://x.com/branmcconnell/status/1999184767116300405)
 - [One of our biggest launch days EVER. The highlight of our new v1.50 release is useAgent&lpar;&rpar;, a first-of-its-kind primitive that connects ANY agent directly to your frontend. One hook, bi-directional, real-time. Building agentic apps just got a whole lot easier.](https://x.com/branmcconnell/status/1999184763999908307)
-- [Here’s the full CopilotKit v1.50 announcement ↓ copilotkit.ai/blog/copilotki…](https://x.com/branmcconnell/status/1999184765627347113)
-- [“are you getting it?”](https://x.com/branmcconnell/status/1999175079176077663)
-- [✨ Introducing useAgent&lpar;&rpar; A new primitive for the agentic application age. Connect ANY agent with your Frontend application. Drive intelligent interfaces &amp; collaborative agents.](https://x.com/CopilotKit/status/1999152146521174493)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
