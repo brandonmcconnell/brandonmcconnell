@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [there are tons of talented developers building great technical products but can’t &lpar;and shouldn’t&rpar; pay much for reach this is what we’re trying to solve with sorcerer. we must help people get the right reach at the lowest cost possible we shall look at the waitlist for people to use the beta for free depending on product](https://x.com/jia_seed/status/1999805247448113413)
+- [there are tons of talented developers building great technical products but can’t &lpar;and shouldn’t&rpar; pay much for reach this is what we’re trying to solve with sorcerer. we must help people get the right reach at the lowest cost possible we shall look at the waitlist for people… pic.](https://x.com/jia_seed/status/1999805247448113413)
 - [what is he listening to?](https://x.com/branmcconnell/status/1999521113961791513)
 - [they cast jason mamoa as @orcdev nailed it.](https://x.com/branmcconnell/status/1999339260391096590)
 - [wait… did cursor just kill @figma](https://x.com/branmcconnell/status/1999226839177261353)
-- [miraculously, updating to the latest cursor version actually fixed it this time… close one 😮‍💨](https://x.com/branmcconnell/status/1999211592429502670)
+- [miraculously, updating to the latest cursor version actually fixed it this time… close one 😮‍💨](https://x.com/branmcconnell/status/1999211592429502670)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
