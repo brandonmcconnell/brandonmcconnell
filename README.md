@@ -55,7 +55,7 @@
 - [what is he listening to?](https://x.com/branmcconnell/status/1999521113961791513)
 - [they cast jason mamoa as @orcdev nailed it.](https://x.com/branmcconnell/status/1999339260391096590)
 - [wait… did cursor just kill @figma](https://x.com/branmcconnell/status/1999226839177261353)
-- [miraculously, updating to the latest cursor version actually fixed it this time… close one 😮‍💨](https://x.com/branmcconnell/status/1999211592429502670)
+- [miraculously, updating to the latest cursor version actually fixed it this time… close one 😮‍💨](https://x.com/branmcconnell/status/1999211592429502670)
 - [just closed and reopened the agent sidebar in @cursor_ai &lpar;didn&#39;t close or update&rpar; and the same chat I was **actively** using with tons of important context is now completely corrupted and unusable… how does this keep happening?](https://x.com/branmcconnell/status/1999209727905960313)
 <!-- TWITTER:END -->
 
