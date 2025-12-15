@@ -56,7 +56,7 @@
 - [guess who was #1 on @github trending this weekend? that&#39;s right… @CopilotKit. unstoppable. 😁](https://x.com/branmcconnell/status/2000639591041396958)
 - [i can&#39;t tell if this is progress or if we&#39;ve failed as a species.](https://x.com/branmcconnell/status/2000610875473084795)
 - [I’ve reported this bug to @Apple for about 4 years and it’s still happening. Hit one key and iOS types something entirely different. Their solution usually involves doing a factory reset which never fixes the issue. I can’t believe this lack of response for such a critical bug.](https://x.com/branmcconnell/status/1999875291053953071)
-- [there are tons of talented developers building great technical products but can’t &lpar;and shouldn’t&rpar; pay much for reach this is what we’re trying to solve with sorcerer. we must help people get the right reach at the lowest cost possible we shall look at the waitlist for people…](https://x.com/jia_seed/status/1999805247448113413)
+- [there are tons of talented developers building great technical products but can’t &lpar;and shouldn’t&rpar; pay much for reach this is what we’re trying to solve with sorcerer. we must help people get the right reach at the lowest cost possible we shall look at the waitlist for people… pic.](https://x.com/jia_seed/status/1999805247448113413)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
