@@ -54,9 +54,9 @@
 <!-- TWITTER:START -->
 - [Composer 2 confirmed …called it 😁](https://x.com/branmcconnell/status/2001043838916301017)
 - [pov: you realized working is more fun when you don’t care about money](https://x.com/branmcconnell/status/2000944875316056252)
+- [Now with video support thanks to the awesome idea from @branmcconnell! And yes, you can customize the character size, what characters get rendered, and a lot more 👀](https://x.com/davidhdev/status/2000929454835818734)
 - [waiting for undocked chats to land in @cursor_ai cc @ryolu_ @ericzakariasson](https://x.com/branmcconnell/status/2000926617196224947)
 - [AG-UI × A2UI let’s goooo](https://x.com/branmcconnell/status/2000654077638926542)
-- [guess who was #1 on @github trending this weekend? that&#39;s right… @CopilotKit. unstoppable. 😁](https://x.com/branmcconnell/status/2000639591041396958)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
