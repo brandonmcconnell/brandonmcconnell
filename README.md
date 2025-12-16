@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [pov: you realized working is more fun when you don’t care about money](https://x.com/branmcconnell/status/2000944875316056252)
 - [waiting for undocked chats to land in @cursor_ai cc @ryolu_ @ericzakariasson](https://x.com/branmcconnell/status/2000926617196224947)
 - [AG-UI × A2UI let’s goooo](https://x.com/branmcconnell/status/2000654077638926542)
 - [guess who was #1 on @github trending this weekend? that&#39;s right… @CopilotKit. unstoppable. 😁](https://x.com/branmcconnell/status/2000639591041396958)
 - [i can&#39;t tell if this is progress or if we&#39;ve failed as a species.](https://x.com/branmcconnell/status/2000610875473084795)
-- [I’ve reported this bug to @Apple for about 4 years and it’s still happening. Hit one key and iOS types something entirely different. Their solution usually involves doing a factory reset which never fixes the issue. I can’t believe this lack of response for such a critical bug.](https://x.com/branmcconnell/status/1999875291053953071)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
