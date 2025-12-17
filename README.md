@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [just got faster with @biomejs &amp; ultracite 🚀 big thanks to @branmcconnell for pulling this off 🙌](https://x.com/thehungrybird_/status/2001371103839547411)
 - [1 second is way too much latency. I want to speak to the manager.](https://x.com/branmcconnell/status/2001295497156349962)
 - [receipts 😜](https://x.com/branmcconnell/status/2001044083247092097)
 - [Composer 2 confirmed …called it 😁](https://x.com/branmcconnell/status/2001043838916301017)
 - [pov: you realized working is more fun when you don’t care about money](https://x.com/branmcconnell/status/2000944875316056252)
-- [Now with video support thanks to the awesome idea from @branmcconnell! And yes, you can customize the character size, what characters get rendered, and a lot more 👀](https://x.com/davidhdev/status/2000929454835818734)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
