@@ -53,7 +53,7 @@
 ### My latest tweets
 <!-- TWITTER:START -->
 - [bullish on this one. would love to hear @unclebobmartin try to come up with anything not-nice to say about writing SQL queries in tailwind. i&#39;ll wait. tHiS iS tHe fUtUrE 🛸](https://x.com/branmcconnell/status/2002026173761519739)
-- [If you&#39;re a dev who ever builds interfaces, I HIGHLY suggest you check out @Google&#39;s CSS Wrapped 2025. Lots of new features were released this year. I thought I knew them all but was surprised by a few! 🔥 chrome.dev/css-wrapped-2025/](https://x.com/branmcconnell/status/2001770599836774618)
+- [If you&#39;re a dev who ever builds interfaces, I HIGHLY suggest you check out @Google&#39;s CSS Wrapped 2025. Lots of new features were released this year. I thought I knew them all but was surprised by a few! 🔥](https://x.com/branmcconnell/status/2001770599836774618)
 - [just got faster with @biomejs &amp; ultracite 🚀 big thanks to @branmcconnell for pulling this off 🙌](https://x.com/thehungrybird_/status/2001371103839547411)
 - [1 second is way too much latency. I want to speak to the manager.](https://x.com/branmcconnell/status/2001295497156349962)
 - [receipts 😜](https://x.com/branmcconnell/status/2001044083247092097)
