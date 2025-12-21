@@ -53,7 +53,7 @@
 ### My latest tweets
 <!-- TWITTER:START -->
 - [&lpar;no, i didn’t get hacked btw lol&rpar;](https://x.com/branmcconnell/status/2002755611340284262)
-- [This is the first app I’ve tried that might actually dethrone @copilotmoney for budgeting and tracking. Really looking forward to having a fully integrated AI financial advisor. Only $1 for the first year ain’t bad 👀 useorigin.com/referral?refer…](https://x.com/branmcconnell/status/2002755550665462234)
+- [This is the first app I’ve tried that might actually dethrone @copilotmoney for budgeting and tracking. Really looking forward to having a fully integrated AI financial advisor. Only $1 for the first year ain’t bad 👀](https://x.com/branmcconnell/status/2002755550665462234)
 - [Don&#39;t underestimate the power of context when working with coding agents in Cursor @cursor_ai – tag files &amp; directories using @ – provide search terms – use multi-repo workspaces to share context – provide commit SHAs to diff and replicate changes from vs. tagging](https://x.com/branmcconnell/status/2002160592233050620)
 - [bro is always stealing my tweets 🥱](https://x.com/branmcconnell/status/2002098738228297740)
 - [maybe he&#39;ll give away his badge 🤭](https://x.com/branmcconnell/status/2002098276439581044)
