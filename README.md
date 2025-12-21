@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [&lpar;no, i didn’t get hacked btw lol&rpar;](https://x.com/branmcconnell/status/2002755611340284262)
+- [This is the first app I’ve tried that might actually dethrone @copilotmoney for budgeting and tracking. Really looking forward to having a fully integrated AI financial advisor. Only $1 for the first year ain’t bad 👀](https://x.com/branmcconnell/status/2002755550665462234)
 - [Don&#39;t underestimate the power of context when working with coding agents in Cursor @cursor_ai – tag files &amp; directories using @ – provide search terms – use multi-repo workspaces to share context – provide commit SHAs to diff and replicate changes from vs. tagging](https://x.com/branmcconnell/status/2002160592233050620)
 - [bro is always stealing my tweets 🥱](https://x.com/branmcconnell/status/2002098738228297740)
 - [maybe he&#39;ll give away his badge 🤭](https://x.com/branmcconnell/status/2002098276439581044)
-- [The world is realizing how groundbreaking the AG-UI protocol is for bridging the agent-user layer. @CopilotKit AG-UI 🤝 @Google ADK Don&#39;t sleep on this.](https://x.com/branmcconnell/status/2002095824655028416)
-- [YOOOOOOO this is the coolest acquisition i’ve seen in a long time! both teams are killing it. can’t wait to see how cursor utilizes graphite to re-standardize how we and agents work. really hope this normalizes stacked diffs.](https://x.com/branmcconnell/status/2002078983668777252)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
