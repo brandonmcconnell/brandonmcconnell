@@ -52,7 +52,7 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [i think bros onto something @branmcconnell 😭](https://x.com/bruvimtired/status/2003506368654000289)
+- [i think bros onto something @branmcconnell 😭 pic.](https://x.com/bruvimtired/status/2003506368654000289)
 - [this new  &quot;wrapped&quot; theme goes so hard thanks @gt_codes 👏](https://x.com/branmcconnell/status/2003503231369117832)
 - [&lpar;no, i didn’t get hacked btw lol&rpar;](https://x.com/branmcconnell/status/2002755611340284262)
 - [This is the first app I’ve tried that might actually dethrone @copilotmoney for budgeting and tracking. Really looking forward to having a fully integrated AI financial advisor. Only $1 for the first year ain’t bad 👀](https://x.com/branmcconnell/status/2002755550665462234)
