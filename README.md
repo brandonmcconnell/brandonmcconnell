@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [look out 2026. bruv fashion coming atcha.](https://x.com/branmcconnell/status/2006410020456722794)
 - [i think bros onto something @branmcconnell 😭 pic.](https://x.com/bruvimtired/status/2003506368654000289)
 - [this new  &quot;wrapped&quot; theme goes so hard thanks @gt_codes 👏](https://x.com/branmcconnell/status/2003503231369117832)
 - [&lpar;no, i didn’t get hacked btw lol&rpar;](https://x.com/branmcconnell/status/2002755611340284262)
 - [This is the first app I’ve tried that might actually dethrone @copilotmoney for budgeting and tracking. Really looking forward to having a fully integrated AI financial advisor. Only $1 for the first year ain’t bad 👀](https://x.com/branmcconnell/status/2002755550665462234)
-- [Don&#39;t underestimate the power of context when working with coding agents in Cursor @cursor_ai – tag files &amp; directories using @ – provide search terms – use multi-repo workspaces to share context – provide commit SHAs to diff and replicate changes from vs. tagging](https://x.com/branmcconnell/status/2002160592233050620)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
