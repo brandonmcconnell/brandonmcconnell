@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [been saying this. it would be extremely mutually beneficial, especially if it allowed the @tailwindcss team to hire their staff back and focus on growing the framework in the ways they want vs. only things that make money. similar to @vercel’s acquisition of svelte and nuxt](https://x.com/branmcconnell/status/2009267316018532589)
 - [.@orcdev’s true form iykyk](https://x.com/branmcconnell/status/2007659421548327214)
 - [Mitigate linting debt with Ultracite Cloud. ① it automatically opens PRs against your repo with linting fixes, and… ② it can even apply linting fixes to open PRs Good for in-house PRs. Essential for contributor PRs.](https://x.com/branmcconnell/status/2006944460677198115)
 - [Ultracite now supports Oxlint 👀💦 If you were waiting for a sign to start using , this is it. &lpar;&lpar;the real secret sauce here is ultracite cloud tho if you ask me 🤫&rpar;&rpar;](https://x.com/branmcconnell/status/2006942746104479949)
 - [look out 2026. bruv fashion coming atcha.](https://x.com/branmcconnell/status/2006410020456722794)
-- [i think bros onto something @branmcconnell 😭 pic.](https://x.com/bruvimtired/status/2003506368654000289)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
