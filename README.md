@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [You can set up automations in  where when user feedback gets reported to a Slack channel, it… 1&rpar; creates a Linear ticket 2&rpar; assigns it to @tembo 3&rpar; drafts that work in a new branch 4&rpar; opens a PR 5&rpar; reports back to both Linear and Slack](https://x.com/branmcconnell/status/2010516936208076912)
 - [They have a really good individual level “Tailwind Insiders” subscription as well with tons of perks. I recommend this to anyone who uses Tailwind:](https://x.com/branmcconnell/status/2009431098338553948)
 - [been saying this. it would be extremely mutually beneficial, especially if it allowed the @tailwindcss team to hire their staff back and focus on growing the framework in the ways they want vs. only things that make money. similar to @vercel’s acquisition of svelte and nuxt](https://x.com/branmcconnell/status/2009267316018532589)
 - [.@orcdev’s true form iykyk](https://x.com/branmcconnell/status/2007659421548327214)
 - [Mitigate linting debt with Ultracite Cloud. ① it automatically opens PRs against your repo with linting fixes, and… ② it can even apply linting fixes to open PRs Good for in-house PRs. Essential for contributor PRs.](https://x.com/branmcconnell/status/2006944460677198115)
-- [Ultracite now supports Oxlint 👀💦 If you were waiting for a sign to start using , this is it. &lpar;&lpar;the real secret sauce here is ultracite cloud tho if you ask me 🤫&rpar;&rpar;](https://x.com/branmcconnell/status/2006942746104479949)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
