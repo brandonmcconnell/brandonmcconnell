@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [Analytics tools are a dime a dozen these days, but mark my words… Databuddy is the one to watch. ✅ general web analytics ✅ link tracking ✅ custom events ✅ feature flags ✅ LLM observability 👀 maybe soon native This is everything I need.](https://x.com/branmcconnell/status/2012255702006300787)
 - [on my way home from being literally stabbed in the back](https://x.com/branmcconnell/status/2012209394008612890)
 - [on my way home from being literally stabbed in the back](https://x.com/i/status/2012209394008612890)
 - [RT @peer_rich: 20 upvotes missing for #1 lets go chat](https://x.com/i/status/2011977602618057105)
 - [20 upvotes missing for #1 lets go chat pic.](https://x.com/peer_rich/status/2011816977443049653)
-- [RT @flybayer @tembo You can set up automations in where when user feedback gets reported to a Slack…](https://x.com/i/status/2010516980646703572)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
