@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [on my way home from being literally stabbed in the back](https://x.com/branmcconnell/status/2012209394008612890)
 - [on my way home from being literally stabbed in the back](https://x.com/i/status/2012209394008612890)
 - [RT @peer_rich: 20 upvotes missing for #1 lets go chat](https://x.com/i/status/2011977602618057105)
 - [20 upvotes missing for #1 lets go chat pic.](https://x.com/peer_rich/status/2011816977443049653)
 - [RT @flybayer @tembo You can set up automations in where when user feedback gets reported to a Slack…](https://x.com/i/status/2010516980646703572)
-- [You can set up automations in  where when user feedback gets reported to a Slack channel, it… 1&rpar; creates a Linear ticket 2&rpar; assigns it to @tembo 3&rpar; drafts that work in a new branch 4&rpar; opens a PR 5&rpar; reports back to both Linear and Slack](https://x.com/branmcconnell/status/2010516936208076912)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
