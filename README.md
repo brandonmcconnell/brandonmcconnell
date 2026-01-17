@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [i&#39;ve written more rust with opus 4.5 than any other model](https://x.com/branmcconnell/status/2012524921595830462)
 - [@animeposts check it 🙏](https://x.com/branmcconnell/status/2012282700103614902)
 - [Yes, this sounds like a complicated way to do a simple thing but these steps greatly improve output quality](https://x.com/branmcconnell/status/2012282578145869838)
 - [For anyone who doesn’t quite get the hype here, or who might question the obvious discrepancies between the source and generated images here, the AI output is WAY CLOSER to the actual source material style &lpar;manga and anime&rpar; than the fan art](https://x.com/branmcconnell/status/2012282316911935554)
 - [Most of this can be summed up into “ask nano banana to make it photorealistic,” but the addition of online character research and structured JSON improves output quality a TON](https://x.com/branmcconnell/status/2012281191508987949)
-- [2-step AI image generation workflow for GREAT results I’ve been having fun with: 1. AI analyzes source art, researches characters, and consolidates the research and artistic details into structured JSON 2. AI generates a NEW photorealistic image using the source art + JSON](https://x.com/branmcconnell/status/2012280716638208337)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
