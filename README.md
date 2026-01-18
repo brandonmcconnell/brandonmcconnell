@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [this squad 🫶](https://x.com/branmcconnell/status/2012959821704650795)
 - [the timeline is healing](https://x.com/branmcconnell/status/2012892319695929531)
 - [i&#39;ve written more rust with opus 4.5 than any other model](https://x.com/branmcconnell/status/2012524921595830462)
 - [@animeposts check it 🙏](https://x.com/branmcconnell/status/2012282700103614902)
 - [Yes, this sounds like a complicated way to do a simple thing but these steps greatly improve output quality](https://x.com/branmcconnell/status/2012282578145869838)
-- [For anyone who doesn’t quite get the hype here, or who might question the obvious discrepancies between the source and generated images here, the AI output is WAY CLOSER to the actual source material style &lpar;manga and anime&rpar; than the fan art](https://x.com/branmcconnell/status/2012282316911935554)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
