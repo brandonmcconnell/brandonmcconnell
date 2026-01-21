@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [my wife just said she wants to “double click” on our weekend plans. it’s so over.](https://x.com/branmcconnell/status/2014054448973090917)
 - [who can help make this happen? 😔 pic.](https://x.com/bruvimtired/status/2013628725972152629)
 - [Once again, @amazon’s new return policy and support is awful. No help here at all. Both items in question were returned in brand new condition, still sealed, never opened. We never even removed the items from the shipping boxes they arrived in.](https://x.com/branmcconnell/status/2013435833513099608)
 - [Amazon is falling apart 🤦🏻‍♂️ @amazon charged us $200 in damage fees for returning @remarkablepaper tablets, both new, unopened, and in perfect condition They used to be the only marketplace I fully trusted, but at this rate, I may stop using them entirely](https://x.com/branmcconnell/status/2013416123971101135)
 - [this squad 🫶](https://x.com/branmcconnell/status/2012959821704650795)
-- [the timeline is healing](https://x.com/branmcconnell/status/2012892319695929531)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
