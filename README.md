@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [stellar assault wouldn’t be complete without a hardcore @evilrabbit_ mode 🐰](https://x.com/branmcconnell/status/2014488667314614682)
+- [i literally just ONE SHOTTED “stellar assault” on @v0 from MY PHONE 📱 is this the singularity?!!](https://x.com/branmcconnell/status/2014488610465038424)
 - [dang jetblue is breaking up with jsx probably moving to svelte](https://x.com/branmcconnell/status/2014379293854327042)
 - [this feline has exited the bag](https://x.com/branmcconnell/status/2014345884910203214)
 - [good friend of mine &lpar;and great dev&rpar; is looking for new opportunities if you’re hiring for frontend eng, dev ex &lpar;dx&rpar;, or dev rel roles, hit him up at @bruvimtired 🤙🏼](https://x.com/branmcconnell/status/2014345496245014665)
-- [my wife just said she wants to “double click” on our weekend plans. it’s so over.](https://x.com/branmcconnell/status/2014054448973090917)
-- [who can help make this happen? 😔 pic.](https://x.com/bruvimtired/status/2013628725972152629)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
