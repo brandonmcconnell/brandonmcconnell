@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [WHAT. @v0 can make its own custom SOUND EFFECTS?! Crazy = genius. Stellar Assault is about to get SO GOOD. 👾](https://x.com/branmcconnell/status/2014567267233645043)
 - [play it for yourself at  👾](https://x.com/branmcconnell/status/2014490341571703253)
 - [i finally won a round with evil rabbit activated 😱](https://x.com/branmcconnell/status/2014490170033164534)
 - [stellar assault wouldn’t be complete without a hardcore @evilrabbit_ mode 🐰](https://x.com/branmcconnell/status/2014488667314614682)
 - [i literally just ONE SHOTTED “stellar assault” on @v0 from MY PHONE 📱 is this the singularity?!!](https://x.com/branmcconnell/status/2014488610465038424)
-- [dang jetblue is breaking up with jsx probably moving to svelte](https://x.com/branmcconnell/status/2014379293854327042)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
