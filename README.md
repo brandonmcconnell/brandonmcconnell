@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [whoever has the highest score on stellar assault by monday at 11:59pm PT gets $100 🤑](https://x.com/branmcconnell/status/2014885934869655625)
 - [i built a fully working arcade game yesterday in @v0 at  with different modes and leaderboards and everything …but the MOST IMPRESSIVE part to me was that @v0 can generate its own custom MUSIC and SOUND EFFECTS 🎶😱](https://x.com/branmcconnell/status/2014714083124113600)
 - [ayo i suggested this exactly 2 months ago](https://x.com/branmcconnell/status/2014612977702310281)
 - [there&#39;s something really special about getting addicted to something you whipped up in a handful of prompts over a few hours in @v0 play stellar assault here →  SOUND ON 🔊](https://x.com/branmcconnell/status/2014608314202505262)
 - [hardcore &quot;@evilrabbit_&quot; mode is looking great too ↑↑↓↓←→←→BA &lpar;SOUND STILL ON 🔊&rpar;](https://x.com/branmcconnell/status/2014608316320665773)
-- [WHAT. @v0 can make its own custom SOUND EFFECTS?! Crazy = genius. Stellar Assault is about to get SO GOOD. 👾](https://x.com/branmcconnell/status/2014567267233645043)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
