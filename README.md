@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@rauchg have you seen cases of this before? I don’t see my linked redis on either account &lpar;transferred-from/to&rpar;, so creating a new redis for my transferred v0 conversation and project, like v0 is prompting me to do, would likely break the existing db/data.](https://x.com/branmcconnell/status/2015485280086794498)
+- [@EstebanSuarez I transferred a project from my personal @vercel account &lpar;and @v0 its chat&rpar; to my team account, but it completely broke the redis connection and doesn’t allow me to reconnect my prior redis. How can I relink it? Totally halted all development until that’s working.](https://x.com/branmcconnell/status/2015124428254847219)
 - [whoever has the highest score on stellar assault by monday at 11:59pm PT gets $100 🤑](https://x.com/branmcconnell/status/2014885934869655625)
 - [i built a fully working arcade game yesterday in @v0 at  with different modes and leaderboards and everything …but the MOST IMPRESSIVE part to me was that @v0 can generate its own custom MUSIC and SOUND EFFECTS 🎶😱](https://x.com/branmcconnell/status/2014714083124113600)
 - [ayo i suggested this exactly 2 months ago](https://x.com/branmcconnell/status/2014612977702310281)
-- [there&#39;s something really special about getting addicted to something you whipped up in a handful of prompts over a few hours in @v0 play stellar assault here →  SOUND ON 🔊](https://x.com/branmcconnell/status/2014608314202505262)
-- [hardcore &quot;@evilrabbit_&quot; mode is looking great too ↑↑↓↓←→←→BA &lpar;SOUND STILL ON 🔊&rpar;](https://x.com/branmcconnell/status/2014608316320665773)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
