@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [The team @browserbase turned documentation into a ~40x enterprise signal. Here’s how they power AI discovery, support, revenue, and more with Mintlify. pic.](https://x.com/mintlify/status/2018746020281340246)
 - [if you&#39;re a technical product owner and not using … what are you waiting for?](https://x.com/branmcconnell/status/2017426307588714896)
 - [very excited to share that i’ve joined the frontend engineering team at @mintlify! i’ve admired this team for a long time, so it’s surreal to now be building the future of knowledge and documentation alongside this incredibly talented bunch of people](https://x.com/branmcconnell/status/2017426134292697607)
 - [we have a lot of fun …and we&#39;re hiring 😁✌️ 👉👉👉](https://x.com/branmcconnell/status/2017426137065132492)
 - [my new favorite way to approve good lookin&#39; PRs](https://x.com/branmcconnell/status/2017057109968630162)
-- [@rauchg have you seen cases of this before? I don’t see my linked redis on either account &lpar;transferred-from/to&rpar;, so creating a new redis for my transferred v0 conversation and project, like v0 is prompting me to do, would likely break the existing db/data.](https://x.com/branmcconnell/status/2015485280086794498)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
