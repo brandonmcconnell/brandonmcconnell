@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [cc @bulenkov @auduchinok](https://x.com/branmcconnell/status/2018813656914632739)
+- [@jetbrains some of the box drawing characters in JetBrains Mono appear to not align as expected 👋](https://x.com/branmcconnell/status/2018811733608169681)
 - [i was a huge fan of the @browserbase docs even before joining @mintlify. they’re some of the easiest docs to consume, both for humans and agents. when i set up my diff⁠.⁠email experiment about a year ago, browserbase made it incredibly simple to replace a long list of deterministic browser instructions and a complicated browser setup i built on workers with something lightweight, headless, and AI-driven. @browserbase provided the headless browser @stagehand allowed AI to pilot that browser via CUA @vercel hosted the entire architecture and made deployments seamless @mintlify tied the whole experience together and made implementation effortless compared to what i was doing before](https://x.com/branmcconnell/status/2018791130146771223)
 - [The team @browserbase turned documentation into a ~40x enterprise signal. Here’s how they power AI discovery, support, revenue, and more with Mintlify. pic.](https://x.com/mintlify/status/2018746020281340246)
 - [if you&#39;re a technical product owner and not using … what are you waiting for?](https://x.com/branmcconnell/status/2017426307588714896)
-- [very excited to share that i’ve joined the frontend engineering team at @mintlify! i’ve admired this team for a long time, so it’s surreal to now be building the future of knowledge and documentation alongside this incredibly talented bunch of people](https://x.com/branmcconnell/status/2017426134292697607)
-- [we have a lot of fun …and we&#39;re hiring 😁✌️ 👉👉👉](https://x.com/branmcconnell/status/2017426137065132492)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
