@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [y’all thought the exciting news this week was gonna be sonnet 5 but it was actually @bruvimtired 🐐 joining @coderabbitai 🐇 so excited for you my homie 🫶](https://x.com/branmcconnell/status/2019450990827815199)
 - [i still don’t know what a worktree is and at this point i’m too afraid to ask](https://x.com/branmcconnell/status/2018932752092119404)
 - [may i raise: a never scheduled meeting](https://x.com/branmcconnell/status/2018924468618633431)
 - [cc @bulenkov @auduchinok](https://x.com/branmcconnell/status/2018813656914632739)
 - [@jetbrains some of the box drawing characters in JetBrains Mono appear to not align as expected 👋](https://x.com/branmcconnell/status/2018811733608169681)
-- [i was a huge fan of the @browserbase docs even before joining @mintlify. they’re some of the easiest docs to consume, both for humans and agents. when i set up my diff⁠.⁠email experiment about a year ago, browserbase made it incredibly simple to replace a long list of deterministic browser instructions and a complicated browser setup i built on workers with something lightweight, headless, and AI-driven. @browserbase provided the headless browser @stagehand allowed AI to pilot that browser via CUA @vercel hosted the entire architecture and made deployments seamless @mintlify tied the whole experience together and made implementation effortless compared to what i was doing before](https://x.com/branmcconnell/status/2018791130146771223)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
