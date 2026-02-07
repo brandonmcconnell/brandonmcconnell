@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [better hack 2026 by @better_auth is off to a great start pumped to see what everyone builds today @skeptrune and i from @mintlify are out here - come say hi 👋🏼](https://x.com/branmcconnell/status/2020213300940935661)
 - [tap the post!](https://x.com/branmcconnell/status/2020165319306932624)
 - [Pinned: you either die a dev or you live long enough to see yourself become a project manager](https://x.com/branmcconnell/status/2019564119767281706)
 - [y’all thought the exciting news this week was gonna be sonnet 5 but it was actually @bruvimtired 🐐 joining @coderabbitai 🐇 so excited for you my homie 🫶](https://x.com/branmcconnell/status/2019450990827815199)
 - [i still don’t know what a worktree is and at this point i’m too afraid to ask](https://x.com/branmcconnell/status/2018932752092119404)
-- [may i raise: a never scheduled meeting](https://x.com/branmcconnell/status/2018924468618633431)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
