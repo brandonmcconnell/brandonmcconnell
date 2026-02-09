@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [causally seeing @aarondfrancis and @steipete show up in an @OpenAI codex commercial at a non-dev-friend’s house](https://x.com/branmcconnell/status/2020700898398519450)
 - [better hack 2026 by @better_auth is off to a great start pumped to see what everyone builds today @skeptrune and i from @mintlify are out here - come say hi 👋🏼](https://x.com/branmcconnell/status/2020220366053077209)
 - [better hack 2026 by @better_auth is off to a great start pumped to see what everyone builds today @skeptrune and i from @mintlify are out here - come say hi 👋🏼](https://x.com/branmcconnell/status/2020213300940935661)
 - [tap the post!](https://x.com/branmcconnell/status/2020165319306932624)
 - [Pinned: you either die a dev or you live long enough to see yourself become a project manager](https://x.com/branmcconnell/status/2019564119767281706)
-- [y’all thought the exciting news this week was gonna be sonnet 5 but it was actually @bruvimtired 🐐 joining @coderabbitai 🐇 so excited for you my homie 🫶](https://x.com/branmcconnell/status/2019450990827815199)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
