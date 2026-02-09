@@ -52,7 +52,7 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [causally seeing @aarondfrancis and @steipete show up in an @OpenAI codex commercial at a non-dev-friend’s house](https://x.com/branmcconnell/status/2020700898398519450)
+- [causally seeing @aarondfrancis and @steipete show up in an @OpenAI codex commercial at a non-dev-friend’s house pic.](https://x.com/branmcconnell/status/2020700898398519450)
 - [better hack 2026 by @better_auth is off to a great start pumped to see what everyone builds today @skeptrune and i from @mintlify are out here - come say hi 👋🏼](https://x.com/branmcconnell/status/2020220366053077209)
 - [better hack 2026 by @better_auth is off to a great start pumped to see what everyone builds today @skeptrune and i from @mintlify are out here - come say hi 👋🏼](https://x.com/branmcconnell/status/2020213300940935661)
 - [tap the post!](https://x.com/branmcconnell/status/2020165319306932624)
