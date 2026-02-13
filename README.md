@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [if you&#39;re into film, you&#39;ve gotta check out… @mintlify?](https://x.com/branmcconnell/status/2022427634941202638)
 - [interstellar hits different when you realize coop’s kids grew up and died in the span of less than 12 conscious hours for him](https://x.com/branmcconnell/status/2022408519329415494)
 - [Today I learned Phineas and Ferb were actually in pivot hell.](https://x.com/cdxker/status/2021840317968957812)
 - [what&#39;s stopping you from flibbertigibberting like this?](https://x.com/branmcconnell/status/2020737721459978304)
 - [causally seeing @aarondfrancis and @steipete show up in an @OpenAI codex commercial at a non-dev-friend’s house pic.](https://x.com/branmcconnell/status/2020700898398519450)
-- [better hack 2026 by @better_auth is off to a great start pumped to see what everyone builds today @skeptrune and i from @mintlify are out here - come say hi 👋🏼](https://x.com/branmcconnell/status/2020220366053077209)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
