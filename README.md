@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [It’s amazing to be a part of a team like this where not only is everyone absolutely cracked, we all actually care about the problem we’re solving, our customers, and each other. WAGMI. Oh, and we’re hiring 👉  Don’t see a role you like? DM me](https://x.com/branmcconnell/status/2023318018449879343)
 - [Mintlify’s MDX to ProseMirror conversion is something the team has spent countless hours getting just right, carefully crafting every UX interaction to perfect usability. It really is something else. 🤯](https://x.com/branmcconnell/status/2023316600653549955)
 - [I think about this often. It makes future work harder, both for humans and agents. Without proper guidance, many agents continuously add to increasingly large and fragile mounds of tech debt. Some agents are better about this than others, but it is not a non-issue.](https://x.com/branmcconnell/status/2023315207796474359)
 - [my wife just started a return on another item marked as having a “FREE 30-day refund/replacement” and was estimated a $0 refund after marking it as unopened @amazon @AmazonHelp y’all fell off big time](https://x.com/branmcconnell/status/2023249908283936983)
 - [oof @amazon completely denying refunds for Prime items that weren’t even opened for “significant damage” …nice 🫩](https://x.com/branmcconnell/status/2023247241805439103)
-- [so excited to starting jamming. one of the coolest startups i’ve seen rise up recently. @jia_seed is one of my favorite founders. everything she touches is pure gold.](https://x.com/branmcconnell/status/2022866224879927664)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
