@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [my wife just started a return on another item marked as having a “FREE 30-day refund/replacement” and was estimated a $0 refund after marking it as unopened @amazon @AmazonHelp y’all fell off big time](https://x.com/branmcconnell/status/2023249908283936983)
 - [oof @amazon completely denying refunds for Prime items that weren’t even opened for “significant damage” …nice 🫩](https://x.com/branmcconnell/status/2023247241805439103)
 - [so excited to starting jamming. one of the coolest startups i’ve seen rise up recently. @jia_seed is one of my favorite founders. everything she touches is pure gold.](https://x.com/branmcconnell/status/2022866224879927664)
 - [i proposed... introducing jam. you build, jam spreads. pic.](https://x.com/jia_seed/status/2022761948753117393)
 - [Anthropic preparing another cease and desist this week for “ClawCode”](https://x.com/branmcconnell/status/2022735583312073186)
-- [if you&#39;re into film, you&#39;ve gotta check out… @mintlify?](https://x.com/branmcconnell/status/2022427634941202638)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
