@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [custom frontends. finally.](https://x.com/branmcconnell/status/2024589704172327303)
 - [AGI has been achieved internally @mintlify](https://x.com/branmcconnell/status/2024554487663513895)
 - [but in those 15 mins, you finish 1 week of work](https://x.com/branmcconnell/status/2024518538330067365)
 - [This is my general understanding about agents vs. skills I’m either going to find out that I understand the landscape very well or learn exactly where I misunderstand agents and skills. Either way, I’ll be more confident &lpar;and more educated&rpar; about all this tomorrow 😅](https://x.com/branmcconnell/status/2024508183113531814)
 - [The hype around skills &lpar; &rpar; has largely to do with context management. I like to think of skills as a hybrid between an  file and a general llms.txt file. Similar to an llms.txt file and unlike an agents file, a complex skill generally serves as a reference to other files, like a table of contents, officially recommended to only be one-level deep and under 500 lines, to avoid excess token consumption. Unlike an llms.txt file, however, a skill is not only a directory. It should contain a minimal representation of the information for each included reference, so an agent only needs to visit that reference if it needs to d](https://x.com/branmcconnell/status/2024507212530667909)
-- [you can now give @mintlify a github URL and get high quality docs out. we clone your repo and then unleash a headless @opencode agent running on daytona to generate all the content our v1 demo sites are @autumnpricing and @better_auth , check them out 👇 pic.](https://x.com/skeptrune/status/2024277074991861963)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
