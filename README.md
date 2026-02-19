@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [This is my general understanding about agents vs. skills I’m either going to find out that I understand the landscape very well or learn exactly where I misunderstand agents and skills. Either way, I’ll be more confident &lpar;and more educated&rpar; about all this tomorrow 😅](https://x.com/branmcconnell/status/2024508183113531814)
 - [you can now give @mintlify a github URL and get high quality docs out. we clone your repo and then unleash a headless @opencode agent running on daytona to generate all the content our v1 demo sites are @autumnpricing and @better_auth , check them out 👇 pic.](https://x.com/skeptrune/status/2024277074991861963)
 - [1 of the 2 devs in this ad have been hired by OpenAI since @aarondfrancis what are you not telling us?](https://x.com/branmcconnell/status/2024154202226983259)
 - [rumor has it the combined intelligence of everyone in this room is at smart as claude opus 4.6](https://x.com/branmcconnell/status/2023950721599865167)
 - [.@skeptrune and i from @mintlify will be at @vercel’s skills launch party tonight stop by our table if you’re coming, and make sure to pick up some mintlify swag &lpar;while supplies last 😜&rpar;](https://x.com/branmcconnell/status/2023853824327495849)
-- [in one day we&#39;ve had an overwhelmingly positive response to our launch video, and would like to directly thank more of our investors and friends@mercebent @andrewztan @brycent @emily_yu @gracegongGG @branmcconnell @AhresYoussef @klyap_ absolutely amazing people, and here&#39;s…](https://x.com/jia_seed/status/2023480286076694976)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
