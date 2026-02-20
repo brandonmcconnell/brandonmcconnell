@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
-- [ok full transparency i was gonna make a joke about how we *definitely* need yet another observability platform BUT i think this might be the best one i’ve ever seen 😳 i want to try it asap. i want to invest. @shcallaway let me in.](https://x.com/branmcconnell/status/2024867334226407509)
 - [“&lpar;B&rpar;uilding &lpar;O&rpar;utcomes &lpar;B&rpar;eyond &lpar;A&rpar;reas” with team @mintlify 🧋](https://x.com/branmcconnell/status/2024635786113798577)
 - [custom frontends. finally.](https://x.com/branmcconnell/status/2024589704172327303)
 - [AGI has been achieved internally @mintlify](https://x.com/branmcconnell/status/2024554487663513895)
 - [but in those 15 mins, you finish 1 week of work](https://x.com/branmcconnell/status/2024518538330067365)
+- [This is my general understanding about agents vs. skills I’m either going to find out that I understand the landscape very well or learn exactly where I misunderstand agents and skills. Either way, I’ll be more confident &lpar;and more educated&rpar; about all this tomorrow 😅](https://x.com/branmcconnell/status/2024508183113531814)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
