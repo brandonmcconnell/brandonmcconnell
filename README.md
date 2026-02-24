@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [bugbot is down. what are you pushing? 😈](https://x.com/branmcconnell/status/2026428479223504997)
 - [I&#39;ve been dreaming of a unified chatbot SDK like this for ages. Definitely going to be tinkering with this real soon. Out-of-the-box support for Slack, Microsoft Teams, Google Chat, Discord, GitHub, and Linear …and more coming soon it sounds like 👀💦](https://x.com/branmcconnell/status/2026368556053794928)
 - [my favorite part of the day is when i finish a pr and bugbot proceeds to show me all the things i missed](https://x.com/branmcconnell/status/2026105237434749272)
 - [Claude: “I estimate this will take 1-2 weeks to complete” Me: pic.](https://x.com/RhysSullivan/status/2025045498001064357)
 - [can&#39;t believe we literally got ARTIFICIAL INTELLIGENCE before we got comments in JSON](https://x.com/branmcconnell/status/2025022010343260439)
-- [another week, another new hire ghirardelli run!! welcome to the @mintlify gtm team mac &amp; nick! 🍵 pic.](https://x.com/laurenfrailey1/status/2025009000669217258)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
