@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [this code converter from @resend is so good, and a pattern I&#39;d like to see a lot more of one of the biggest factors that stops people from switching to better software is the burden of the switch this makes the hard part effortless](https://x.com/branmcconnell/status/2026694213736530176)
 - [That’s it. I had my doubts, but Apple is finally disrupting the AI industry and releasing the device that quite frankly none of us expected.](https://x.com/branmcconnell/status/2026535083461796261)
 - [That’s it. I had my doubts, but Apple is finally disrupting the AI industry and releasing the device that quite frankly none of us expected.](https://x.com/branmcconnell/status/2026531391257927876)
 - [to everyone calling this anthropic’s openclaw competitor: it is nothing like openclaw. it is cool. it serves a very different use case.](https://x.com/branmcconnell/status/2026528990534730151)
 - [bugbot is down. what are you pushing? 😈](https://x.com/branmcconnell/status/2026428479223504997)
-- [I&#39;ve been dreaming of a unified chatbot SDK like this for ages. Definitely going to be tinkering with this real soon. Out-of-the-box support for Slack, Microsoft Teams, Google Chat, Discord, GitHub, and Linear …and more coming soon it sounds like 👀💦](https://x.com/branmcconnell/status/2026368556053794928)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
