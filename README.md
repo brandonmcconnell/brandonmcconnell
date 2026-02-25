@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [the solution here could very well be moire immersive integration e.g. @linear were to move PR management features directly into their issue view, maybe in a sidebar or another tab, rather than a separate view entirely that 1:1 mirrors the PR &lpar;this current approach feels clunky&rpar;](https://x.com/branmcconnell/status/2026712655554294085)
+- [at this point, most project management solutions have great integrations with git services/providers like github but who is building the project management solution that is perfectly blended with git? @graphite is close, but still detached from this flow](https://x.com/branmcconnell/status/2026712652488257728)
+- [for example: - every project spawns an issue/pr stack - the project thread replaces the pr convo - no needing to sync comments or report between multiple solutions](https://x.com/branmcconnell/status/2026712653805371493)
 - [this code converter from @resend is so good, and a pattern I&#39;d like to see a lot more of one of the biggest factors that stops people from switching to better software is the burden of the switch this makes the hard part effortless](https://x.com/branmcconnell/status/2026694213736530176)
 - [That’s it. I had my doubts, but Apple is finally disrupting the AI industry and releasing the device that quite frankly none of us expected.](https://x.com/branmcconnell/status/2026535083461796261)
-- [That’s it. I had my doubts, but Apple is finally disrupting the AI industry and releasing the device that quite frankly none of us expected.](https://x.com/branmcconnell/status/2026531391257927876)
-- [to everyone calling this anthropic’s openclaw competitor: it is nothing like openclaw. it is cool. it serves a very different use case.](https://x.com/branmcconnell/status/2026528990534730151)
-- [bugbot is down. what are you pushing? 😈](https://x.com/branmcconnell/status/2026428479223504997)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
