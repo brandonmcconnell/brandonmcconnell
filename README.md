@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [“welcome to the g wagon”](https://x.com/branmcconnell/status/2026895898916303313)
 - [hey @cursor_ai team recently, my agent has been pausing when I lock my computer and resumes when I unlock, but it&#39;s a critical flow of mine to have the agent continue running while locked especially because that&#39;s when I&#39;ll get up to grab something or discuss with coworkers and want to leave the agent to work while Im gone doing other work At most companies, we are legally required to keep computers locked when away for SOC2 compliance cc @ericzakariasson @leerob @mntruell](https://x.com/branmcconnell/status/2026765968668754221)
 - [the solution here could very well be moire immersive integration e.g. @linear were to move PR management features directly into their issue view, maybe in a sidebar or another tab, rather than a separate view entirely that 1:1 mirrors the PR &lpar;this current approach feels clunky&rpar;](https://x.com/branmcconnell/status/2026712655554294085)
 - [at this point, most project management solutions have great integrations with git services/providers like github but who is building the project management solution that is perfectly blended with git? @graphite is close, but still detached from this flow](https://x.com/branmcconnell/status/2026712652488257728)
 - [for example: - every project spawns an issue/pr stack - the project thread replaces the pr convo - no needing to sync comments or report between multiple solutions](https://x.com/branmcconnell/status/2026712653805371493)
-- [this code converter from @resend is so good, and a pattern I&#39;d like to see a lot more of one of the biggest factors that stops people from switching to better software is the burden of the switch this makes the hard part effortless](https://x.com/branmcconnell/status/2026694213736530176)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
