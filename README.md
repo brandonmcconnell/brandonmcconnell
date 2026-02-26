@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [petitioning for @cursor_ai to add support for triggering bugbot via &quot;bugbot do yo thang&quot; instead of &quot;run&quot; join the petition by liking this tweet. every vote matters. let your voice be heard. ✊](https://x.com/branmcconnell/status/2027128473190580261)
 - [pov: you ordered an uber black in sf](https://x.com/branmcconnell/status/2026897739297206364)
 - [“welcome to the g wagon”](https://x.com/branmcconnell/status/2026895898916303313)
 - [hey @cursor_ai team recently, my agent has been pausing when I lock my computer and resumes when I unlock, but it&#39;s a critical flow of mine to have the agent continue running while locked especially because that&#39;s when I&#39;ll get up to grab something or discuss with coworkers and want to leave the agent to work while Im gone doing other work At most companies, we are legally required to keep computers locked when away for SOC2 compliance cc @ericzakariasson @leerob @mntruell](https://x.com/branmcconnell/status/2026765968668754221)
 - [the solution here could very well be moire immersive integration e.g. @linear were to move PR management features directly into their issue view, maybe in a sidebar or another tab, rather than a separate view entirely that 1:1 mirrors the PR &lpar;this current approach feels clunky&rpar;](https://x.com/branmcconnell/status/2026712655554294085)
-- [at this point, most project management solutions have great integrations with git services/providers like github but who is building the project management solution that is perfectly blended with git? @graphite is close, but still detached from this flow](https://x.com/branmcconnell/status/2026712652488257728)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
