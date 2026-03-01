@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [I need the whole world to know that I planned and succeeded to nail this $15-for-3-gallons-of-gas trickshot without slowing down the pump at all](https://x.com/branmcconnell/status/2027898452307538343)
 - [blazing fast search now available within the editor experience pic.](https://x.com/hahnbeelee/status/2027145666011771117)
 - [petitioning for @cursor_ai to add support for triggering bugbot via &quot;bugbot do yo thang&quot; instead of &quot;run&quot; join the petition by liking this tweet. every vote matters. let your voice be heard. ✊](https://x.com/branmcconnell/status/2027128473190580261)
 - [pov: you ordered an uber black in sf](https://x.com/branmcconnell/status/2026897739297206364)
 - [“welcome to the g wagon”](https://x.com/branmcconnell/status/2026895898916303313)
-- [hey @cursor_ai team recently, my agent has been pausing when I lock my computer and resumes when I unlock, but it&#39;s a critical flow of mine to have the agent continue running while locked especially because that&#39;s when I&#39;ll get up to grab something or discuss with coworkers and want to leave the agent to work while Im gone doing other work At most companies, we are legally required to keep computers locked when away for SOC2 compliance cc @ericzakariasson @leerob @mntruell](https://x.com/branmcconnell/status/2026765968668754221)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
