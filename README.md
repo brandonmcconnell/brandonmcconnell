@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [i finally understand schrodinger‘s cat](https://x.com/branmcconnell/status/2028279122645188948)
 - [I need the whole world to know that I planned and succeeded to nail this $15-for-3-gallons-of-gas trickshot without slowing down the pump at all](https://x.com/branmcconnell/status/2027898452307538343)
 - [blazing fast search now available within the editor experience pic.](https://x.com/hahnbeelee/status/2027145666011771117)
 - [petitioning for @cursor_ai to add support for triggering bugbot via &quot;bugbot do yo thang&quot; instead of &quot;run&quot; join the petition by liking this tweet. every vote matters. let your voice be heard. ✊](https://x.com/branmcconnell/status/2027128473190580261)
 - [pov: you ordered an uber black in sf](https://x.com/branmcconnell/status/2026897739297206364)
-- [“welcome to the g wagon”](https://x.com/branmcconnell/status/2026895898916303313)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
