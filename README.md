@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [&gt; “Opus was the best model in the world, and now people think it&#39;s dumb/slow/bad.” who feels this way? show of hands. i use opus 4.6 every day. it’s amazing. probably the first model that has given me those “day 1 feels” over and over again.](https://x.com/branmcconnell/status/2028877706310598876)
 - [but do you prompt using gifs?](https://x.com/branmcconnell/status/2028709506214162914)
 - [Replace with on any repo. Get production-quality docs auto-generated from the source code. pic.](https://x.com/mintlify/status/2028545344351707146)
 - [i finally understand schrodinger‘s cat](https://x.com/branmcconnell/status/2028279122645188948)
 - [I need the whole world to know that I planned and succeeded to nail this $15-for-3-gallons-of-gas trickshot without slowing down the pump at all](https://x.com/branmcconnell/status/2027898452307538343)
-- [blazing fast search now available within the editor experience pic.](https://x.com/hahnbeelee/status/2027145666011771117)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
