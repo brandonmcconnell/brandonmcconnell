@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [don&#39;t use skills yet? skill issue.](https://x.com/branmcconnell/status/2029335499643756829)
+- [them’s the rules.](https://x.com/branmcconnell/status/2029335503246639173)
 - [Intelligent software calls for a more intelligent assistant. The Mintlify assistant just got faster, more powerful, and way more accurate. Your product deserves docs this good.](https://x.com/branmcconnell/status/2029325166686474484)
 - [xeeting is a team sport 👯 pic.](https://x.com/skeptrune/status/2029317424663929201)
 - [The assistant just got a lot smarter It&#39;s now much faster and more precise What&#39;s new: → Grep retrieval &lpar;more precise than semantic search&rpar; → Multi-modal &lpar;ask questions about images&rpar; → OpenAPI search &lpar;ask about a specific API endpoint&rpar; pic.](https://x.com/mintlify/status/2029316990746411376)
-- [scorpio](https://x.com/branmcconnell/status/2029097586003722579)
-- [&gt; “Opus was the best model in the world, and now people think it&#39;s dumb/slow/bad.” who feels this way? show of hands. i use opus 4.6 every day. it’s amazing. probably the first model that has given me those “day 1 feels” over and over again.](https://x.com/branmcconnell/status/2028877706310598876)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
