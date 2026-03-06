@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [Introducing workflows for always on self-updating docs. Let workflows handle everything from writing docs when features ship, generating changelogs, and keeping API references in sync. pic.](https://x.com/mintlify/status/2029967141961879976)
 - [cc @stolinski thanks for the share 🙏](https://x.com/branmcconnell/status/2029481710459732163)
 - [Check out my March Mad CSS bracket picks! I WANT THAT JACKET 🏀](https://x.com/branmcconnell/status/2029481597603594598)
 - [don&#39;t use skills yet? skill issue.](https://x.com/branmcconnell/status/2029335499643756829)
 - [them’s the rules.](https://x.com/branmcconnell/status/2029335503246639173)
-- [Intelligent software calls for a more intelligent assistant. The Mintlify assistant just got faster, more powerful, and way more accurate. Your product deserves docs this good.](https://x.com/branmcconnell/status/2029325166686474484)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
