@@ -53,10 +53,10 @@
 ### My latest tweets
 <!-- TWITTER:START -->
 - [pls. learn git.](https://x.com/branmcconnell/status/2030786482638815610)
+- [Not knowing how to code giving you an advantage is absolute nonsense. The more you understand, the better your prompts, the better the feedback you give, the better product you ship. What will change is that the intricacies of syntax, compilers, module systems, the finer…](https://x.com/rauchg/status/2030724069755420764)
 - [This was the final nail in the coffin for me updating docs manually, I have not written a single docs update for any code changes since our team started using this internally.](https://x.com/KyleFinken/status/2029973175476572565)
 - [Introducing workflows for always on self-updating docs. Let workflows handle everything from writing docs when features ship, generating changelogs, and keeping API references in sync. pic.](https://x.com/mintlify/status/2029967141961879976)
 - [Why must you hurt me in this way pic.](https://x.com/saltyAom/status/2029926858385674470)
-- [cc @stolinski thanks for the share 🙏](https://x.com/branmcconnell/status/2029481710459732163)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
