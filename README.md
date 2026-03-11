@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [super convenient to just check a checkbox when something is done vs. having to manually edit the post or use a full-blown canvas github supports exactly this in their editor/posts: checklists are an exception that don&#39;t need to be manually edited to check/uncheck](https://x.com/branmcconnell/status/2031787561501512035)
+- [@SlackHQ can you add support for checklists in regular posts &lpar;already supported in markdown&rpar; i often circle back to my posts in my standup channel and use strikethrough text formatting to mark them as done with makes them harder to read, and I don&#39;t really like overusing ✅](https://x.com/branmcconnell/status/2031787560213893240)
 - [replit agent 4 is kinda nuts at design](https://x.com/branmcconnell/status/2031779005947658381)
 - [Introducing 𝚑𝚒𝚝-𝚊𝚛𝚎𝚊—a collection of @tailwindcss utility classes for expanding the hit area of interactive elements. Small hit areas are a silent UX killer. One class fixes it. Distributed via @shadcn registry - see link below. pic.](https://x.com/kianbazza/status/2031475889356337407)
 - [“‘The people most likely to do damage are most limited by their ability to generate code.’ This is no longer true.” well said by @michael_timbs](https://x.com/branmcconnell/status/2031412126678716699)
-- [pls. learn git.](https://x.com/branmcconnell/status/2030786482638815610)
-- [Not knowing how to code giving you an advantage is absolute nonsense. The more you understand, the better your prompts, the better the feedback you give, the better product you ship. What will change is that the intricacies of syntax, compilers, module systems, the finer…](https://x.com/rauchg/status/2030724069755420764)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
