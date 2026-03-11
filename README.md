@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [replit agent 4 is kinda nuts at design](https://x.com/branmcconnell/status/2031779005947658381)
 - [Introducing 𝚑𝚒𝚝-𝚊𝚛𝚎𝚊—a collection of @tailwindcss utility classes for expanding the hit area of interactive elements. Small hit areas are a silent UX killer. One class fixes it. Distributed via @shadcn registry - see link below. pic.](https://x.com/kianbazza/status/2031475889356337407)
 - [“‘The people most likely to do damage are most limited by their ability to generate code.’ This is no longer true.” well said by @michael_timbs](https://x.com/branmcconnell/status/2031412126678716699)
 - [pls. learn git.](https://x.com/branmcconnell/status/2030786482638815610)
 - [Not knowing how to code giving you an advantage is absolute nonsense. The more you understand, the better your prompts, the better the feedback you give, the better product you ship. What will change is that the intricacies of syntax, compilers, module systems, the finer…](https://x.com/rauchg/status/2030724069755420764)
-- [This was the final nail in the coffin for me updating docs manually, I have not written a single docs update for any code changes since our team started using this internally.](https://x.com/KyleFinken/status/2029973175476572565)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
