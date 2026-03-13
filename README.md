@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [pumped that @KyleFinken got to share all about what we&#39;re working on at mintlify at vercel&#39;s nyc launch party! especially how @mintlify surfaces skills for your docs site](https://x.com/branmcconnell/status/2032509016572834055)
+- [very late posting this, but speaking at vercel skills night in nyc was such a special experience i loved getting to share some of what we’re building at mintlify and how we’ve been thinking about the future of docs as agents become the primary driver of traffic thanks for a… pic.](https://x.com/KyleFinken/status/2032507643932418445)
 - [when claude reminds me that i’m absolutely right for the 7,428,459,364th time today](https://x.com/branmcconnell/status/2032473539144753605)
 - [babe wake up there’s a new meta framework](https://x.com/branmcconnell/status/2032472390685618573)
 - [mintlify is hiring btw. everything from sales reps to developers new roles opening today. come work with us!](https://x.com/skeptrune/status/2032471564491600000)
-- [one piece cast after adapting 100% of the manga](https://x.com/branmcconnell/status/2032469171871920342)
-- [We didn’t invent agents to pay them a living wage 🤦🏻‍♂️](https://x.com/branmcconnell/status/2031887548088533392)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
