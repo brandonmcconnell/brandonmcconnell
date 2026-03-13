@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [one piece cast after adapting 100% of the manga](https://x.com/branmcconnell/status/2032469171871920342)
 - [We didn’t invent agents to pay them a living wage 🤦🏻‍♂️](https://x.com/branmcconnell/status/2031887548088533392)
 - [super convenient to just check a checkbox when something is done vs. having to manually edit the post or use a full-blown canvas github supports exactly this in their editor/posts: checklists are an exception that don&#39;t need to be manually edited to check/uncheck](https://x.com/branmcconnell/status/2031787561501512035)
 - [@SlackHQ can you add support for checklists in regular posts &lpar;already supported in markdown&rpar; i often circle back to my posts in my standup channel and use strikethrough text formatting to mark them as done with makes them harder to read, and I don&#39;t really like overusing ✅](https://x.com/branmcconnell/status/2031787560213893240)
 - [replit agent 4 is kinda nuts at design](https://x.com/branmcconnell/status/2031779005947658381)
-- [Introducing 𝚑𝚒𝚝-𝚊𝚛𝚎𝚊—a collection of @tailwindcss utility classes for expanding the hit area of interactive elements. Small hit areas are a silent UX killer. One class fixes it. Distributed via @shadcn registry - see link below. pic.](https://x.com/kianbazza/status/2031475889356337407)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
