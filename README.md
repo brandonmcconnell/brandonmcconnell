@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [when claude reminds me that i’m absolutely right for the 7,428,459,364th time today](https://x.com/branmcconnell/status/2032473539144753605)
+- [babe wake up there’s a new meta framework](https://x.com/branmcconnell/status/2032472390685618573)
+- [mintlify is hiring btw. everything from sales reps to developers new roles opening today. come work with us!](https://x.com/skeptrune/status/2032471564491600000)
 - [one piece cast after adapting 100% of the manga](https://x.com/branmcconnell/status/2032469171871920342)
 - [We didn’t invent agents to pay them a living wage 🤦🏻‍♂️](https://x.com/branmcconnell/status/2031887548088533392)
-- [super convenient to just check a checkbox when something is done vs. having to manually edit the post or use a full-blown canvas github supports exactly this in their editor/posts: checklists are an exception that don&#39;t need to be manually edited to check/uncheck](https://x.com/branmcconnell/status/2031787561501512035)
-- [@SlackHQ can you add support for checklists in regular posts &lpar;already supported in markdown&rpar; i often circle back to my posts in my standup channel and use strikethrough text formatting to mark them as done with makes them harder to read, and I don&#39;t really like overusing ✅](https://x.com/branmcconnell/status/2031787560213893240)
-- [replit agent 4 is kinda nuts at design](https://x.com/branmcconnell/status/2031779005947658381)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
