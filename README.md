@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [y’all see the new 2027 tesla leaks??](https://x.com/branmcconnell/status/2033134505356370427)
 - [oops i accidentally made something half crescent.. ermm **descent](https://x.com/branmcconnell/status/2033036541581472104)
 - [breaking bad spin-off going down at LIVE &lpar;openclaw docs edition&rpar;](https://x.com/branmcconnell/status/2032997865749098805)
 - [original designer:](https://x.com/branmcconnell/status/2032945748627898511)
 - [logo design is my passion](https://x.com/branmcconnell/status/2032945746253852888)
-- [pumped that @KyleFinken got to share all about what we&#39;re working on at mintlify at vercel&#39;s nyc launch party! especially how @mintlify surfaces skills for your docs site](https://x.com/branmcconnell/status/2032509016572834055)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
