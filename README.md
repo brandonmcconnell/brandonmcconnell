@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [breaking bad spin-off going down at LIVE &lpar;openclaw docs edition&rpar;](https://x.com/branmcconnell/status/2032997865749098805)
 - [original designer:](https://x.com/branmcconnell/status/2032945748627898511)
 - [logo design is my passion](https://x.com/branmcconnell/status/2032945746253852888)
 - [pumped that @KyleFinken got to share all about what we&#39;re working on at mintlify at vercel&#39;s nyc launch party! especially how @mintlify surfaces skills for your docs site](https://x.com/branmcconnell/status/2032509016572834055)
 - [very late posting this, but speaking at vercel skills night in nyc was such a special experience i loved getting to share some of what we’re building at mintlify and how we’ve been thinking about the future of docs as agents become the primary driver of traffic thanks for a… pic.](https://x.com/KyleFinken/status/2032507643932418445)
-- [when claude reminds me that i’m absolutely right for the 7,428,459,364th time today](https://x.com/branmcconnell/status/2032473539144753605)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
