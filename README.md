@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [at this rate, there will be a @vestaboard model i can reasonably afford by 2031 can’t wait!](https://x.com/branmcconnell/status/2033151151999484012)
 - [y’all see the new 2027 tesla leaks??](https://x.com/branmcconnell/status/2033134505356370427)
 - [oops i accidentally made something half crescent.. ermm **descent](https://x.com/branmcconnell/status/2033036541581472104)
 - [breaking bad spin-off going down at LIVE &lpar;openclaw docs edition&rpar;](https://x.com/branmcconnell/status/2032997865749098805)
 - [original designer:](https://x.com/branmcconnell/status/2032945748627898511)
-- [logo design is my passion](https://x.com/branmcconnell/status/2032945746253852888)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
