@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [tbh this is even worse on @Apple than poke this shouldn&#39;t be possible, yet @Apple iMessage somehow made that happen](https://x.com/branmcconnell/status/2033671184219521182)
 - [Warning: Do not adopt any new code editors this month. Beware the IDEs of March.](https://x.com/romanhelmetguy/status/2033230126071079231)
 - [at this rate, there will be a @vestaboard model i can reasonably afford by 2031 can’t wait!](https://x.com/branmcconnell/status/2033151151999484012)
 - [y’all see the new 2027 tesla leaks??](https://x.com/branmcconnell/status/2033134505356370427)
 - [oops i accidentally made something half crescent.. ermm **descent](https://x.com/branmcconnell/status/2033036541581472104)
-- [I don&#39;t think there&#39;s a single terminal ux that handles agent swarms well With slate, you can literally use Opus 4.6 and GPT 5.4 at the exact same time But making it intuitive took a ton of work So heres a thread on how it works and how to actually use it 🧵 pic.](https://x.com/realmcore_/status/2033020007257649473)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
