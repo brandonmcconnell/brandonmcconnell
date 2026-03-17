@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [.@cursor_ai JUST CHARGE ME DOUBLE PLEASE](https://x.com/branmcconnell/status/2034002949534585029)
 - [we got google translate for linkedin before gta 6 pic.](https://x.com/skeptrune/status/2033777577882755249)
 - [tbh this is even worse on @Apple than poke this shouldn&#39;t be possible, yet @Apple iMessage somehow made that happen](https://x.com/branmcconnell/status/2033671184219521182)
 - [Warning: Do not adopt any new code editors this month. Beware the IDEs of March.](https://x.com/romanhelmetguy/status/2033230126071079231)
 - [at this rate, there will be a @vestaboard model i can reasonably afford by 2031 can’t wait!](https://x.com/branmcconnell/status/2033151151999484012)
-- [y’all see the new 2027 tesla leaks??](https://x.com/branmcconnell/status/2033134505356370427)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
