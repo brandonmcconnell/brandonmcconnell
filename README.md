@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [AI-generated commits, AI-resolved merge conflicts... and now we just shipped AI-generated PRs pic.](https://x.com/kaishan_ding/status/2034684693749408040)
 - [uv joins openai. bun joins anthropic The javascript vs python wars rage on. A tale as old as time](https://x.com/cdxker/status/2034676574315053395)
 - [hold up hold up. Composer 2 is better than Opus 4.6 &lpar;high&rpar;, one of the best models on the face of the planet? i gotta try this for myself](https://x.com/branmcconnell/status/2034676486876340285)
 - [.@cursor_ai JUST CHARGE ME DOUBLE PLEASE](https://x.com/branmcconnell/status/2034002949534585029)
 - [we got google translate for linkedin before gta 6 pic.](https://x.com/skeptrune/status/2033777577882755249)
-- [tbh this is even worse on @Apple than poke this shouldn&#39;t be possible, yet @Apple iMessage somehow made that happen](https://x.com/branmcconnell/status/2033671184219521182)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
