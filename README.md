@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [you ever look at how good coding agents are today and wonder if you&#39;re actually in a coma and this is all a delusion bc it&#39;s just too good?](https://x.com/branmcconnell/status/2035040957285245388)
 - […they did warn us about the IDEs of march](https://x.com/branmcconnell/status/2034736573846364384)
 - [excited to annouce the latest scores of OurAgent on OurAgentBench: 1. OurAgent 2. YourAgent arxiv paper in bio](https://x.com/matanSF/status/2034698226016952661)
 - [AI-generated commits, AI-resolved merge conflicts... and now we just shipped AI-generated PRs pic.](https://x.com/kaishan_ding/status/2034684693749408040)
 - [uv joins openai. bun joins anthropic The javascript vs python wars rage on. A tale as old as time](https://x.com/cdxker/status/2034676574315053395)
-- [hold up hold up. Composer 2 is better than Opus 4.6 &lpar;high&rpar;, one of the best models on the face of the planet? i gotta try this for myself](https://x.com/branmcconnell/status/2034676486876340285)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
