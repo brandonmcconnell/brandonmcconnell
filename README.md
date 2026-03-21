@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [always fun to see what @superwhisper picks up when i accidentally start it while in a silent room](https://x.com/branmcconnell/status/2035415421084680662)
 - [the perk in this approach is that every 2 years, more ad space opens up](https://x.com/branmcconnell/status/2035410346488545519)
 - [$33 in sf](https://x.com/branmcconnell/status/2035407863053746513)
 - [you ever look at how good coding agents are today and wonder if you&#39;re actually in a coma and this is all a delusion bc it&#39;s just too good?](https://x.com/branmcconnell/status/2035040957285245388)
 - […they did warn us about the IDEs of march](https://x.com/branmcconnell/status/2034736573846364384)
-- [excited to annouce the latest scores of OurAgent on OurAgentBench: 1. OurAgent 2. YourAgent arxiv paper in bio](https://x.com/matanSF/status/2034698226016952661)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
