@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [OpenClaw Hack and Demo Night ⮑ @mintlify hq TOMORROW ​Come build, experiment, learn, and maybe show off a demo of your OpenClaw bot at a high-energy hack night at Mintlify HQ on March 24 food, drinks, credits, and stickers provided 👏](https://x.com/branmcconnell/status/2036143483099160580)
 - [Nonprofit idea: “For every token you use, we donate one to an indie developer of your choosing”](https://x.com/branmcconnell/status/2035440190198857904)
 - [can’t believe i’m the most recent person to quote tweet this in the entire world](https://x.com/branmcconnell/status/2035431538893193400)
 - [£1,999,999.00 in sf 😳](https://x.com/branmcconnell/status/2035425732793684218)
 - [always fun to see what @superwhisper picks up when i accidentally start it while in a silent room](https://x.com/branmcconnell/status/2035415421084680662)
-- [the perk in this approach is that every 2 years, more ad space opens up](https://x.com/branmcconnell/status/2035410346488545519)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
