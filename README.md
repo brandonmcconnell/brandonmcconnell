@@ -54,9 +54,9 @@
 <!-- TWITTER:START -->
 - [one of those days](https://x.com/branmcconnell/status/2036954949008117865)
 - [fuma toc has been achieved internally at @mintlify 😁 very cool effect and super well written article - my ai agent was able to implement this with minimal interventions in just a few commits](https://x.com/branmcconnell/status/2036893417935147282)
+- [RT @duborges: if your company provides API access, I strongly recommend using mintlify for your docs all the time I have to implement a ne…](https://x.com/branmcconnell/status/2036820305793179668)
 - [if your company provides API access, I strongly recommend using mintlify for your docs all the time I have to implement a new API partner on my fintech, and I see their docs page with the &quot;Ask AI&quot; button, I know it&#39;ll be easier to implement I even interact between my claude… pic.](https://x.com/duborges/status/2036805806415294567)
 - [me whenever i meet a canadian: oh sick! im not canadian but my co-founder is. pull up to canadian demo night - co-hosted by @gumloop &amp; @mintlify 🍁🌱 pic.](https://x.com/hahnbeelee/status/2036525002028429367)
-- [would be great if frontier companies supported this effort and preserved legacy models under new names and prices, so they’re not just forever supported/maintained e.g. gpt-4o would be renamed to gpt-4o--legacy-dangerous and cost way more but be available for research purposes](https://x.com/branmcconnell/status/2036458609719255376)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
