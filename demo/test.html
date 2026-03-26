@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visibility Component - Manual Test</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 0 20px;
+            line-height: 1.6;
+            color: #333;
+        }
+        h1 {
+            color: #5E6AD2;
+            border-bottom: 3px solid #5E6AD2;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #2D3748;
+            margin-top: 40px;
+        }
+        .user-agent-info {
+            background: #f7fafc;
+            border-left: 4px solid #5E6AD2;
+            padding: 15px;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+        .content-box {
+            border: 2px solid #e2e8f0;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 20px 0;
+        }
+        .content-box.for-humans {
+            background: #e6fffa;
+            border-color: #38b2ac;
+        }
+        .content-box.for-agents {
+            background: #fef5e7;
+            border-color: #f59e0b;
+        }
+        .label {
+            font-weight: bold;
+            font-size: 0.875rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin-bottom: 10px;
+        }
+        .for-humans .label {
+            color: #38b2ac;
+        }
+        .for-agents .label {
+            color: #f59e0b;
+        }
+        code {
+            background: #2d3748;
+            color: #68d391;
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-size: 0.875em;
+        }
+        .test-instructions {
+            background: #fff5f5;
+            border: 2px solid #fc8181;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 30px 0;
+        }
+        .test-instructions h3 {
+            color: #c53030;
+            margin-top: 0;
+        }
+        ul {
+            margin: 10px 0;
+        }
+        li {
+            margin: 8px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>🤖 Visibility Component - Manual Test Page</h1>
+    
+    <div class="user-agent-info">
+        <strong>Current User Agent:</strong><br>
+        <code id="user-agent"></code>
+        <br><br>
+        <strong>Detected as:</strong> <span id="detection-result"></span>
+    </div>
+
+    <div class="test-instructions">
+        <h3>📋 How to Test</h3>
+        <p>This page helps you verify that the Visibility component correctly detects AI bots vs. humans.</p>
+        
+        <h4>Method 1: Browser DevTools</h4>
+        <ol>
+            <li>Open DevTools (Press F12)</li>
+            <li>Open Command Palette (Ctrl+Shift+P or Cmd+Shift+P)</li>
+            <li>Type "Show Network conditions" and press Enter</li>
+            <li>Uncheck "Use browser default" under User agent</li>
+            <li>Try different user agents:
+                <ul>
+                    <li><code>GPTBot/1.0</code> (ChatGPT)</li>
+                    <li><code>ClaudeBot/1.0</code> (Claude)</li>
+                    <li><code>PerplexityBot/1.0</code> (Perplexity)</li>
+                    <li><code>Mozilla/5.0</code> (Regular Browser)</li>
+                </ul>
+            </li>
+            <li>Refresh this page after each change</li>
+        </ol>
+
+        <h4>Method 2: Using curl</h4>
+        <pre><code>curl -H "User-Agent: GPTBot/1.0" http://localhost:3000/demo/test.html</code></pre>
+        <pre><code>curl -H "User-Agent: ClaudeBot/1.0" http://localhost:3000/demo/test.html</code></pre>
+        <pre><code>curl -H "User-Agent: Mozilla/5.0" http://localhost:3000/demo/test.html</code></pre>
+    </div>
+
+    <h2>Test Content</h2>
+    
+    <div class="content-box for-humans" id="human-content">
+        <div class="label">👤 For Humans Only</div>
+        <h3>Interactive Pricing Calculator</h3>
+        <p>This is where an interactive pricing slider would appear.</p>
+        <p>AI bots cannot interact with sliders, so they won't see this content.</p>
+        <div style="background: white; padding: 20px; border-radius: 4px; margin-top: 10px;">
+            <p style="margin: 0;"><strong>Drag to adjust:</strong> [Slider Component Would Go Here]</p>
+        </div>
+    </div>
+
+    <div class="content-box for-agents" id="agent-content">
+        <div class="label">🤖 For AI Agents Only</div>
+        <h3>Pricing Plans</h3>
+        <p>This static content is optimized for AI crawlers like ChatGPT, Claude, and Perplexity.</p>
+        <ul>
+            <li><strong>Starter Plan - $29/month</strong>
+                <ul>
+                    <li>5 team members</li>
+                    <li>10GB storage</li>
+                    <li>Basic support</li>
+                </ul>
+            </li>
+            <li><strong>Professional Plan - $99/month</strong>
+                <ul>
+                    <li>25 team members</li>
+                    <li>100GB storage</li>
+                    <li>Priority support</li>
+                    <li>Advanced analytics</li>
+                </ul>
+            </li>
+            <li><strong>Enterprise Plan - $299/month</strong>
+                <ul>
+                    <li>Unlimited team members</li>
+                    <li>1TB storage</li>
+                    <li>24/7 dedicated support</li>
+                    <li>Custom integrations</li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+
+    <h2>Expected Behavior</h2>
+    <ul>
+        <li>✅ <strong>Regular browsers:</strong> Should see "For Humans Only" content (green box)</li>
+        <li>✅ <strong>AI bot user agents:</strong> Should see "For AI Agents Only" content (yellow box)</li>
+        <li>✅ <strong>Detection should be case-insensitive</strong></li>
+        <li>✅ <strong>Detection should work for partial matches</strong> (e.g., "GPTBot/1.0" matches "gptbot")</li>
+    </ul>
+
+    <script>
+        // AI Bot User Agents (matching the component)
+        const AI_BOT_USER_AGENTS = [
+            'gptbot', 'chatgpt-user', 'oai-searchbot',
+            'claudebot', 'anthropic-ai', 'claude-web',
+            'perplexitybot', 'google-extended', 'bard', 'gemini',
+            'deepseekbot', 'deepseek-r1', 'grokbot', 'xai',
+            'mistralai-user', 'cohere-ai', 'bytespider',
+            'bingbot', 'amazonbot', 'duckassistbot', 'ai2bot',
+            'ccbot', 'omgili', 'diffbot', 'facebookbot',
+            'meta-externalagent', 'youbot', 'applebot-extended'
+        ];
+
+        // Detect if current user agent is a bot
+        function isAIBot(userAgent) {
+            if (!userAgent) return false;
+            const lowerUserAgent = userAgent.toLowerCase();
+            return AI_BOT_USER_AGENTS.some(agent => lowerUserAgent.includes(agent));
+        }
+
+        // Display current user agent
+        const userAgent = navigator.userAgent;
+        document.getElementById('user-agent').textContent = userAgent;
+
+        // Display detection result
+        const isBot = isAIBot(userAgent);
+        const detectionResult = document.getElementById('detection-result');
+        if (isBot) {
+            detectionResult.innerHTML = '<strong style="color: #f59e0b;">🤖 AI Bot</strong>';
+        } else {
+            detectionResult.innerHTML = '<strong style="color: #38b2ac;">👤 Human</strong>';
+        }
+
+        // Show/hide content based on detection
+        const humanContent = document.getElementById('human-content');
+        const agentContent = document.getElementById('agent-content');
+
+        if (isBot) {
+            // Show agent content, hide human content
+            humanContent.style.display = 'none';
+            agentContent.style.display = 'block';
+        } else {
+            // Show human content, hide agent content
+            humanContent.style.display = 'block';
+            agentContent.style.display = 'none';
+        }
+
+        // Log to console for debugging
+        console.log('User Agent:', userAgent);
+        console.log('Is AI Bot:', isBot);
+        console.log('Showing content for:', isBot ? 'agents' : 'humans');
+    </script>
+</body>
+</html>

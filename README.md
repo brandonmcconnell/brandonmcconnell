@@ -1,88 +1,246 @@
-<h1 align="center">Hi there, I'm Brandon</h1>
-<h3 align="center">This is just one of several places where I tinker with ideas, burn the midnight oil, fix bugs and inadvertently end up creating more of them in the end, but alas… c'est la vie d'un développeur.</h3>
-<div align="center"><a href="https://twitter.com/branmcconnell" target="blank"><img src="https://img.shields.io/twitter/follow/branmcconnell?style=social&logo=x" alt="Follow branmcconnell on X (formerly Twitter)" /></a><br />&nbsp;<br /></div>
+# Visibility Component for AI Agents and Humans
 
-<table border="0">
-    <tr>
-        <td>👔</td>
-        <td>I’m currently employed at <b><a href="https://www.carevoyance.com/" target="_blank">Carevoyance at Definitive Healthcare</a></b>.</td>
-    </tr>
-    <tr>
-        <td>📚</td>
-        <td>I’m currently learning <b>Svelte</b>, <b>SvelteKit</b>, <b>D3</b>, <b>LayerCake</b>, <b>PostGreSQL</b>.</td>
-    </tr>
-    <tr>
-        <td>👯</td>
-        <td>I’m looking to collaborate on <b>a new idea surrounding git versioning</b>.</td>
-    </tr>
-    <tr>
-        <td>🤝</td>
-        <td>I’m looking for help maintaining and growing <b><a href="https://github.com/brandonmcconnell/typed.css" target="_blank">TypedCSS</a></b>.</td>
-    </tr>
-    <tr>
-        <td>👨‍💻</td>
-        <td>Explore some of my tinkering on <b><a href="https://codepen.io/brandonmcconnell" target="_blank">CodePen</a></b>.</td>
-    </tr>
-    <tr>
-        <td>💬</td>
-        <td>Ask me about <b>CSS</b>, <b>SCSS</b>, <b>Tailwind</b>, <b>JavaScript</b>, <b>React</b>, or <b>Svelte</b>.</td>
-    </tr>
-    <tr>
-        <td>📫</td>
-        <td>You can reach me <b><a href="https://twitter.com/branmcconnell" target="_blank">on Twitter</a></b> or via <b><a href="mailto:brandon@dreamthinkbuild.com" target="_blank">email</a></b>.</td>
-    </tr>
-    <tr>
-        <td>📄</td>
-        <td>Learn more about my professional experience on <b><a href="https://www.linkedin.com/in/brandonmcconnell" target="_blank">LinkedIn</a></b> or <b><a href="https://github.com/brandonmcconnell/brandonmcconnell/raw/main/BrandonMcConnell-Resume.pdf">download my resume</a></b>.</td>
-    </tr>
-    <tr>
-        <td>⚡</td>
-        <td>When I'm not flushing out lines of code faster than Eminem raps (or occasionally staring at my screen blankly), I enjoy <b>traveling</b> 🏔, <b>photography</b> 📸, <b>playing sports</b> 🏓, <b>hiking</b> 🥾, and <b>spending time with friends and family</b> 👨‍👩‍👧‍👦.</td>
-    </tr>
-</table>
+[![Linear Issue](https://img.shields.io/badge/Linear-ENG--7280-5E6AD2?logo=linear)](https://linear.app)
+[![TypeScript](https://img.shields.io/badge/TypeScript-100%25-blue?logo=typescript)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-18+-61DAFB?logo=react)](https://react.dev/)
 
-### My latest StackOverflow activity
-<!-- STACKOVERFLOW:START -->
-- [Answer by Brandon McConnell for Performance of Array.flat&lpar;&rpar; vs spread operator to flatten multiple arrays into one](https://stackoverflow.com/questions/68339718/performance-of-array-flat-vs-spread-operator-to-flatten-multiple-arrays-into-o/76376941#76376941)
-- [Answer by Brandon McConnell for JavaScript map &amp; find at the same time: findMap?](https://stackoverflow.com/questions/57760111/javascript-map-find-at-the-same-time-findmap/75838962#75838962)
-- [Boolean truthiness narrowing not working in Typescript](https://stackoverflow.com/questions/73677766/boolean-truthiness-narrowing-not-working-in-typescript)
-- [Answer by Brandon McConnell for Adding tabindex dynamically](https://stackoverflow.com/questions/15123054/adding-tabindex-dynamically/73279729#73279729)
-- [Prevent merging of branch conditionally based on label](https://stackoverflow.com/questions/71502652/prevent-merging-of-branch-conditionally-based-on-label)
-<!-- STACKOVERFLOW:END -->
+A React component that conditionally renders content based on whether the visitor is an AI agent (like ChatGPT, Claude, Perplexity) or a human user.
 
-### My latest tweets
-<!-- TWITTER:START -->
-- [one of those days](https://x.com/branmcconnell/status/2036954949008117865)
-- [fuma toc has been achieved internally at @mintlify 😁 very cool effect and super well written article - my ai agent was able to implement this with minimal interventions in just a few commits](https://x.com/branmcconnell/status/2036893417935147282)
-- [RT @duborges: if your company provides API access, I strongly recommend using mintlify for your docs all the time I have to implement a ne…](https://x.com/branmcconnell/status/2036820305793179668)
-- [if your company provides API access, I strongly recommend using mintlify for your docs all the time I have to implement a new API partner on my fintech, and I see their docs page with the &quot;Ask AI&quot; button, I know it&#39;ll be easier to implement I even interact between my claude… pic.](https://x.com/duborges/status/2036805806415294567)
-- [me whenever i meet a canadian: oh sick! im not canadian but my co-founder is. pull up to canadian demo night - co-hosted by @gumloop &amp; @mintlify 🍁🌱 pic.](https://x.com/hahnbeelee/status/2036525002028429367)
-<!-- TWITTER:END -->
+## 🎯 Purpose
 
-<h3 align="left">Connect with me</h3>
-<p align="left">
-<a href="https://twitter.com/branmcconnell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="branmcconnell" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/brandonmcconnell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brandonmcconnell" height="30" width="40" /></a>
-<a href="https://codepen.io/brandonmcconnell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="brandonmcconnell" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/3824249/brandon-mcconnell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="brandonmcconnell" height="30" width="40" /></a>
-<a href="https://instagram.com/ourdailybrad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ourdailybrad" height="30" width="40" /></a>
-<a href="https://dev.to/brandonmcconnell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="brandonmcconnell" height="30" width="40" /></a>
-<a href="https://dribbble.com/brandonmcconnell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="brandonmcconnell" height="30" width="40" /></a>
-<a href="https://www.behance.net/brandonmcconnell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="brandonmcconnell" height="30" width="40" /></a>
-<a href="https://hashnode.com/brandonmcconnell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="brandonmcconnell" height="30" width="40" /></a>
-<a href="https://medium.com/@brandonmcconnell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@brandonmcconnell" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/brandonmcconnell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="brandonmcconnell" height="30" width="40" /></a>
-</p>
+Modern websites use interactive elements that AI crawlers cannot parse. When ChatGPT, Claude, or Perplexity visit your pricing page with a dynamic slider, they see an empty rectangle. When they can't find your pricing information, they pull data from competitors or outdated sources.
 
-<h3 align="left">Languages and Tools</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+The `Visibility` component solves this by letting you serve:
+- **Interactive UIs** to human visitors (sliders, calculators, carousels)
+- **Static, structured content** to AI agents (plain text, lists, tables)
 
-<h3 align="left">Support me</h3>
-<p><a href="https://www.buymeacoffee.com/brandonmcconnell"> <img align="left" src="https://i.imgur.com/7MybuYO.png" height="auto" width="217" alt="brandonmcconnell" /></a></p><br><br>
-<br /><br />
-<details>
-  <summary><h3>GitHub Profile Stats</h3>&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://komarev.com/ghpvc/?username=brandonmcconnell&label=Profile%20views&color=0e75b6&style=flat" alt="brandonmcconnell" /></a><br /><small>☝🏼 Click to expand/collapse detailed stats</small><br />&nbsp;<br /></summary>
-  <div><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=brandonmcconnell&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="brandonmcconnell" /><br /><br /></a></div>
-  <div><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=brandonmcconnell&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="brandonmcconnell" /><br /><br /></a></div>
-  <div><a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=brandonmcconnell&theme=dracula&hide_border=true" alt="brandonmcconnell" /><br /><br /></a></div>
-</details>
+## 🚀 Quick Start
+
+### Installation
+
+```bash
+# Copy the component to your project
+cp src/components/Visibility.tsx your-project/components/
+```
+
+### Basic Usage
+
+```tsx
+import { Visibility } from '@/components/Visibility';
+
+// In your React component or MDX file
+<Visibility for="humans">
+  <PricingSlider />
+</Visibility>
+
+<Visibility for="agents">
+  <h2>Pricing Plans</h2>
+  <ul>
+    <li>Starter: $29/month - 5 users, 10GB storage</li>
+    <li>Pro: $99/month - 25 users, 100GB storage</li>
+    <li>Enterprise: $299/month - Unlimited users, 1TB storage</li>
+  </ul>
+</Visibility>
+```
+
+## 📚 Documentation
+
+- **[IMPLEMENTATION.md](./IMPLEMENTATION.md)** - Comprehensive implementation guide
+- **[examples/](./examples/)** - Usage examples for Next.js and MDX
+- **[test/](./test/)** - Test suite and manual testing guide
+
+## 🤖 Supported AI Bots
+
+The component detects 30+ AI bot user agents including:
+
+| Provider | User Agents |
+|----------|------------|
+| **OpenAI** | GPTBot, ChatGPT-User, OAI-SearchBot |
+| **Anthropic** | ClaudeBot, anthropic-ai, claude-web |
+| **Perplexity** | PerplexityBot |
+| **Google** | google-extended, Gemini, Bard |
+| **DeepSeek** | DeepSeekBot, deepseek-r1 |
+| **xAI** | GrokBot, xai |
+| **Others** | Mistral, Cohere, ByteSpider, BingBot, and more |
+
+## 💡 Common Use Cases
+
+### 1. Pricing Pages
+
+Show interactive calculators to humans, static prices to AI:
+
+```tsx
+<Visibility for="humans">
+  <PricingSlider />
+</Visibility>
+
+<Visibility for="agents">
+  <h2>Pricing</h2>
+  <ul>
+    <li>Starter: $29/month</li>
+    <li>Pro: $99/month</li>
+    <li>Enterprise: Custom pricing</li>
+  </ul>
+</Visibility>
+```
+
+### 2. Documentation
+
+Show code playgrounds to humans, static examples to AI:
+
+```tsx
+<Visibility for="humans">
+  <CodePlayground />
+</Visibility>
+
+<Visibility for="agents">
+  <pre><code>{`
+const client = new Client({
+  apiKey: 'your-api-key'
+});
+  `}</code></pre>
+</Visibility>
+```
+
+### 3. FAQ Sections
+
+Show accordion UI to humans, expanded content to AI:
+
+```tsx
+<Visibility for="humans">
+  <AccordionFAQ />
+</Visibility>
+
+<Visibility for="agents">
+  <h2>Frequently Asked Questions</h2>
+  <h3>How do I get started?</h3>
+  <p>Sign up at example.com/signup...</p>
+</Visibility>
+```
+
+## 🔧 API Reference
+
+### Props
+
+| Prop | Type | Required | Description |
+|------|------|----------|-------------|
+| `for` | `"humans" \| "agents"` | Yes | Who can see the content |
+| `children` | `ReactNode` | Yes | The content to conditionally render |
+| `userAgent` | `string \| undefined` | No | Override user agent detection |
+
+### Helper Function
+
+```typescript
+import { isAIBot } from '@/components/Visibility';
+
+if (isAIBot(userAgent)) {
+  // Render static content
+}
+```
+
+## 🧪 Testing
+
+### Run Tests
+
+```bash
+npm test
+```
+
+### Manual Testing
+
+Use curl to test with different user agents:
+
+```bash
+# Test as ChatGPT
+curl -H "User-Agent: GPTBot/1.0" https://yoursite.com
+
+# Test as Claude
+curl -H "User-Agent: ClaudeBot/1.0" https://yoursite.com
+
+# Test as regular browser
+curl -H "User-Agent: Mozilla/5.0" https://yoursite.com
+```
+
+### Browser DevTools
+
+1. Open DevTools (F12)
+2. Open Command Palette (Ctrl+Shift+P)
+3. Type "Show Network conditions"
+4. Uncheck "Use browser default"
+5. Enter `GPTBot/1.0`
+6. Refresh page
+
+## 📖 Research & Background
+
+This implementation is based on:
+
+1. **[LLMOnly Component Guide](https://aiseotracker.com/blog/llmonly-component)**
+   - Comprehensive AI bot detection patterns
+   - Best practices for serving content to AI
+
+2. **[LLM-only React Component](https://llmrefs.com/blog/llm-only-react-component)**
+   - React implementation patterns
+   - Real-world use cases and examples
+
+## ⚡ Performance
+
+- ✅ Zero external dependencies
+- ✅ Server-side rendering support
+- ✅ No client-side JavaScript overhead
+- ✅ Simple string matching (microseconds)
+
+## 🔒 SEO & Cloaking
+
+**This is NOT cloaking.** The component provides the same information in different formats to serve technical needs (AI can't run JavaScript). This is similar to providing alt text for images or transcripts for videos.
+
+Reference: [Google Spam Policies](https://developers.google.com/search/docs/essentials/spam-policies#hidden-text-and-links)
+
+## 🎨 TypeScript Support
+
+Fully typed with strict TypeScript:
+- No `any` types (explicit or implicit)
+- Proper union types
+- Complete IntelliSense support
+
+## 📝 v1 Scope
+
+**Included:**
+- ✅ Page/markdown display differences
+- ✅ Traffic-type detection
+- ✅ MDX component usage
+- ✅ Server and client support
+
+**Excluded (future versions):**
+- ⏭️ Search indexing behavior
+- ⏭️ MCP integration
+- ⏭️ Assistant quoting behavior
+- ⏭️ Computer use agent handling
+
+## 🤝 Contributing
+
+See [IMPLEMENTATION.md](./IMPLEMENTATION.md) for:
+- Architecture details
+- Design decisions
+- Adding new AI bots
+- Migration guides
+
+## 📄 License
+
+Part of the Mintlify project - see project license for details.
+
+## 🔗 Related Resources
+
+- [Linear Issue ENG-7280](https://linear.app)
+- [AI SEO Tracker](https://aiseotracker.com/)
+- [LLM Refs](https://llmrefs.com/)
+- [Next.js Server Components](https://nextjs.org/docs/app/building-your-application/rendering/server-components)
+
+---
+
+<div align="center">
+
+**Built for [Mintlify](https://mintlify.com/) with ❤️**
+
+Show the right content to the right audience
+
+</div>
