@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [say goodbye to reviewing mdx changes introducing visual diffs mode - now you can see your changes exactly where you made them without ever touching the mdx pic.](https://x.com/pqoqubbw/status/2037627473974726837)
 - [love showing up in all sorts of x screenshots and screen recordings i’m everywhere lol](https://x.com/branmcconnell/status/2037349810379034695)
 - [one of those days](https://x.com/branmcconnell/status/2036954949008117865)
 - [fuma toc has been achieved internally at @mintlify 😁 very cool effect and super well written article - my ai agent was able to implement this with minimal interventions in just a few commits](https://x.com/branmcconnell/status/2036893417935147282)
 - [RT @duborges: if your company provides API access, I strongly recommend using mintlify for your docs all the time I have to implement a ne…](https://x.com/branmcconnell/status/2036820305793179668)
-- [if your company provides API access, I strongly recommend using mintlify for your docs all the time I have to implement a new API partner on my fintech, and I see their docs page with the &quot;Ask AI&quot; button, I know it&#39;ll be easier to implement I even interact between my claude… pic.](https://x.com/duborges/status/2036805806415294567)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
