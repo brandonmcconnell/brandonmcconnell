@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [TO EVERYONE SAYING THIS USES LOG SCALE …YOU&#39;RE ABSOLUTELY RIGHT 🏆🫶 log scales are actually an excellent way to track exponential growth in cases like this](https://x.com/branmcconnell/status/2038711737160208612)
+- [we&#39;re hiring btw looking for: - a founding PM - content strategist - senior/staff designer dm me!](https://x.com/hahnbeelee/status/2038696278654431455)
 - [in case anyone is eager to learn pretext by @_chenglou 😁](https://x.com/branmcconnell/status/2038472330251485316)
 - [DUDE!!!! pretext has so much momentum. well deserved, @_chenglou.](https://x.com/branmcconnell/status/2038435578971357233)
 - [Dps, tank, utility, healer](https://x.com/karrisaarinen/status/2038356036390998229)
-- [in case anyone’s curious, i got $72 for this banger](https://x.com/branmcconnell/status/2037701327455985766)
-- [say goodbye to reviewing mdx changes introducing visual diffs mode - now you can see your changes exactly where you made them without ever touching the mdx pic.](https://x.com/pqoqubbw/status/2037627473974726837)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
