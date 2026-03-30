@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [Dps, tank, utility, healer](https://x.com/karrisaarinen/status/2038356036390998229)
 - [in case anyone’s curious, i got $72 for this banger](https://x.com/branmcconnell/status/2037701327455985766)
 - [say goodbye to reviewing mdx changes introducing visual diffs mode - now you can see your changes exactly where you made them without ever touching the mdx pic.](https://x.com/pqoqubbw/status/2037627473974726837)
 - [love showing up in all sorts of x screenshots and screen recordings i’m everywhere lol](https://x.com/branmcconnell/status/2037349810379034695)
 - [one of those days](https://x.com/branmcconnell/status/2036954949008117865)
-- [fuma toc has been achieved internally at @mintlify 😁 very cool effect and super well written article - my ai agent was able to implement this with minimal interventions in just a few commits](https://x.com/branmcconnell/status/2036893417935147282)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
