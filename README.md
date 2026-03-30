@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [i don&#39;t even like flops like this but that swoosh strap got me thinking](https://x.com/branmcconnell/status/2038743377764847619)
 - [TO EVERYONE SAYING THIS USES LOG SCALE …YOU&#39;RE ABSOLUTELY RIGHT 🏆🫶 log scales are actually an excellent way to track exponential growth in cases like this](https://x.com/branmcconnell/status/2038711737160208612)
 - [we&#39;re hiring btw looking for: - a founding PM - content strategist - senior/staff designer dm me!](https://x.com/hahnbeelee/status/2038696278654431455)
 - [in case anyone is eager to learn pretext by @_chenglou 😁](https://x.com/branmcconnell/status/2038472330251485316)
 - [DUDE!!!! pretext has so much momentum. well deserved, @_chenglou.](https://x.com/branmcconnell/status/2038435578971357233)
-- [Dps, tank, utility, healer](https://x.com/karrisaarinen/status/2038356036390998229)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
