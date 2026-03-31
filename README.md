@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [more examples: - three.js → react three fiber](https://x.com/branmcconnell/status/2038853310355271969)
+- [what&#39;s everyone using pretext for besides artsy demos? radix → @shadcn⁠/ui → PROFIT pretext → ???? → PROFIT 👀❓ the best ideas might be those that layer atop pretext as a more refined primitive](https://x.com/branmcconnell/status/2038852304187822512)
 - [between our team and our themes, we probably need our own flag at @mintlify lol… and WE&#39;RE GROWING in all departments &lpar;dm me&rpar; can&#39;t wait to meet the next 50 minties 😁](https://x.com/branmcconnell/status/2038761519484432780)
 - [the advantages of building your docs on mintlify are so much more than meets the eye](https://x.com/branmcconnell/status/2038759498740060601)
 - [i don&#39;t even like flops like this but that swoosh strap got me thinking](https://x.com/branmcconnell/status/2038743377764847619)
-- [TO EVERYONE SAYING THIS USES LOG SCALE …YOU&#39;RE ABSOLUTELY RIGHT 🏆🫶 log scales are actually an excellent way to track exponential growth in cases like this](https://x.com/branmcconnell/status/2038711737160208612)
-- [we&#39;re hiring btw looking for: - a founding PM - content strategist - senior/staff designer dm me!](https://x.com/hahnbeelee/status/2038696278654431455)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
