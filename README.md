@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [we&#39;re hiring btw! some of the available roles: - product software engineer - it systems admin - sales account executive - sales development representative and many more...](https://x.com/skeptrune/status/2039378051696660651)
 - [more examples: - three.js → react three fiber](https://x.com/branmcconnell/status/2038853310355271969)
 - [what&#39;s everyone using pretext for besides artsy demos? radix → @shadcn⁠/ui → PROFIT pretext → ???? → PROFIT 👀❓ the best ideas might be those that layer atop pretext as a more refined primitive](https://x.com/branmcconnell/status/2038852304187822512)
 - [between our team and our themes, we probably need our own flag at @mintlify lol… and WE&#39;RE GROWING in all departments &lpar;dm me&rpar; can&#39;t wait to meet the next 50 minties 😁](https://x.com/branmcconnell/status/2038761519484432780)
 - [the advantages of building your docs on mintlify are so much more than meets the eye](https://x.com/branmcconnell/status/2038759498740060601)
-- [i don&#39;t even like flops like this but that swoosh strap got me thinking](https://x.com/branmcconnell/status/2038743377764847619)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
