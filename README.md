@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [RT @mintlify: We analyzed 30 days of traffic across Mintlify-powered docs. 45% of all requests come from AI agents, nearly tied with brows…](https://x.com/branmcconnell/status/2040127915510391118)
 - [ai voice modes be like](https://x.com/branmcconnell/status/2039806095875867082)
 - [why am i not surprised?](https://x.com/branmcconnell/status/2039802674225578292)
 - [Introducing Mintlify Typing Test &lpar;docs you can actually practice&rpar;](https://x.com/branmcconnell/status/2039449772248203420)
 - [we&#39;re hiring btw! some of the available roles: - product software engineer - it systems admin - sales account executive - sales development representative and many more...](https://x.com/skeptrune/status/2039378051696660651)
-- [more examples: - three.js → react three fiber](https://x.com/branmcconnell/status/2038853310355271969)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
