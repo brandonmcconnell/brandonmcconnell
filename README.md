@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [oop doxxed myself](https://x.com/branmcconnell/status/2040544645852356960)
+- [we’ve &lpar;mostly&rpar; color-coded our bookcase if you’re looking for the hunger games, might i direct you to shelves 2, 4, and 3](https://x.com/branmcconnell/status/2040543475993915714)
 - [join Joan, me and the team to see what&#39;s coming next at @QuiverAI Tuesday 7th](https://x.com/xn1cklas/status/2040474958623908137)
 - [join Joan, me and the team to see what&#39;s coming next at @QuiverAI Tuesday 7th](https://x.com/i/status/2040474958623908137)
 - [RT @mintlify: We analyzed 30 days of traffic across Mintlify-powered docs. 45% of all requests come from AI agents, nearly tied with brows…](https://x.com/branmcconnell/status/2040127915510391118)
-- [ai voice modes be like](https://x.com/branmcconnell/status/2039806095875867082)
-- [why am i not surprised?](https://x.com/branmcconnell/status/2039802674225578292)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
