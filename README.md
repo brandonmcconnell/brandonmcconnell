@@ -56,7 +56,7 @@
 - [ai voice modes be like](https://x.com/branmcconnell/status/2039806095875867082)
 - [why am i not surprised?](https://x.com/branmcconnell/status/2039802674225578292)
 - [Introducing Mintlify Typing Test &lpar;docs you can actually practice&rpar;](https://x.com/branmcconnell/status/2039449772248203420)
-- [we&#39;re hiring btw! some of the available roles: - product software engineer - it systems admin - sales account executive - sales development representative and many more...](https://x.com/skeptrune/status/2039378051696660651)
+- [we&#39;re hiring btw! some of the available roles: - product software engineer - it systems admin - sales account executive - sales development representative and many more...](https://x.com/i/status/2039378051696660651)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
