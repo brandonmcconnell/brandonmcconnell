@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [ok this taco is too big, amirite?](https://x.com/branmcconnell/status/2041233872550281224)
 - [could also totally be something that comes later, just wanted to check](https://x.com/branmcconnell/status/2040708087569633450)
 - [@sentry @wesbos @stolinski hey i purchased the madcss bundle but never received the jacket, only the jacket and water bottle i expected the jacket based on the bundle description and photo, so wanted to sanity check here](https://x.com/branmcconnell/status/2040704586269487598)
 - [oop doxxed myself](https://x.com/branmcconnell/status/2040544645852356960)
 - [we’ve &lpar;mostly&rpar; color-coded our bookcase if you’re looking for the hunger games, might i direct you to shelves 2, 4, and 3](https://x.com/branmcconnell/status/2040543475993915714)
-- [RT @xn1cklas: join Joan, me and the team to see what&#39;s coming next at @QuiverAI Tuesday 7th](https://x.com/branmcconnell/status/2040480962203799668)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
