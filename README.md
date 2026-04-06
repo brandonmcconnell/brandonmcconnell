@@ -56,7 +56,7 @@
 - [@sentry @wesbos @stolinski hey i purchased the madcss bundle but never received the jacket, only the jacket and water bottle i expected the jacket based on the bundle description and photo, so wanted to sanity check here](https://x.com/branmcconnell/status/2040704586269487598)
 - [oop doxxed myself](https://x.com/branmcconnell/status/2040544645852356960)
 - [we’ve &lpar;mostly&rpar; color-coded our bookcase if you’re looking for the hunger games, might i direct you to shelves 2, 4, and 3](https://x.com/branmcconnell/status/2040543475993915714)
-- [join Joan, me and the team to see what&#39;s coming next at @QuiverAI Tuesday 7th](https://x.com/xn1cklas/status/2040474958623908137)
+- [RT @xn1cklas: join Joan, me and the team to see what&#39;s coming next at @QuiverAI Tuesday 7th](https://x.com/branmcconnell/status/2040480962203799668)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
