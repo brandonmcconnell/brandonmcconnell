@@ -53,10 +53,10 @@
 ### My latest tweets
 <!-- TWITTER:START -->
 - [look mom i amm on tv](https://x.com/branmcconnell/status/2041889997788475653)
+- [RT @hahnbeelee: if you&#39;re building saas, you should not be hemorrhaging your users&#39; data, but rather you should be leaning into allowing us…](https://x.com/branmcconnell/status/2041627944058286138)
 - [if you&#39;re building saas, you should not be hemorrhaging your users&#39; data, but rather you should be leaning into allowing users to leverage tools like claude code to interact and analyze the data however they want to. meet your users where they are at.](https://x.com/i/status/2041627051032244459)
 - [if you&#39;re building saas, you should not be hemorrhaging your users&#39; data, but rather you should be leaning into allowing users to leverage tools like claude code to interact and analyze the data however they want to. meet your users where they are at.](https://x.com/hahnbeelee/status/2041627051032244459)
 - [ok this taco is too big, amirite?](https://x.com/branmcconnell/status/2041233872550281224)
-- [could also totally be something that comes later, just wanted to check](https://x.com/branmcconnell/status/2040708087569633450)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
