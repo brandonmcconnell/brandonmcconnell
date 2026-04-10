@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [@InvincibleHQ @nerdyomniman @nocontextnvncbl](https://x.com/branmcconnell/status/2042474152251335065)
+- [every invincible fan after last episode](https://x.com/branmcconnell/status/2042473761103102182)
 - [me using opus to write my commit messages](https://x.com/branmcconnell/status/2042442297489703311)
 - [look mom i amm on tv](https://x.com/branmcconnell/status/2041889997788475653)
 - [RT @hahnbeelee: if you&#39;re building saas, you should not be hemorrhaging your users&#39; data, but rather you should be leaning into allowing us…](https://x.com/branmcconnell/status/2041627944058286138)
-- [if you&#39;re building saas, you should not be hemorrhaging your users&#39; data, but rather you should be leaning into allowing users to leverage tools like claude code to interact and analyze the data however they want to. meet your users where they are at.](https://x.com/i/status/2041627051032244459)
-- [if you&#39;re building saas, you should not be hemorrhaging your users&#39; data, but rather you should be leaning into allowing users to leverage tools like claude code to interact and analyze the data however they want to. meet your users where they are at.](https://x.com/hahnbeelee/status/2041627051032244459)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
