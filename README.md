@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [Today we’re announcing a partnership between Replit and Accenture. Accenture is investing in Replit, adopting it internally, and working with us to bring secure vibecoding to enterprises globally. They’re one of the largest companies in the world, with 700,000+ employees and…](https://x.com/amasad/status/2042622883839520816)
 - [@InvincibleHQ @nerdyomniman @nocontextnvncbl](https://x.com/branmcconnell/status/2042474152251335065)
 - [every invincible fan after last episode](https://x.com/branmcconnell/status/2042473761103102182)
 - [me using opus to write my commit messages](https://x.com/branmcconnell/status/2042442297489703311)
 - [look mom i amm on tv](https://x.com/branmcconnell/status/2041889997788475653)
-- [RT @hahnbeelee: if you&#39;re building saas, you should not be hemorrhaging your users&#39; data, but rather you should be leaning into allowing us…](https://x.com/branmcconnell/status/2041627944058286138)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
