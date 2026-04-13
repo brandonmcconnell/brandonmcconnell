@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [Today, we&#39;re announcing Automations. Build lifecycle sequences and drip campaigns: 🔸 triggers 🔸 personalization 🔸 real-time observability Build in the dashboard or via the API.](https://x.com/i/status/2043694923594281058)
 - [Today, we&#39;re announcing Automations. Build lifecycle sequences and drip campaigns: 🔸 triggers 🔸 personalization 🔸 real-time observability Build in the dashboard or via the API. pic.](https://x.com/resend/status/2043694923594281058)
 - [🌶️ hot take: the world would be a better place if .com domains cost $250 per year i’ve given this a lot of thought](https://x.com/branmcconnell/status/2043072473495920872)
 - [.@HAYDENBLEASEL WHAT DID YOU DO??](https://x.com/branmcconnell/status/2042771199827284446)
 - [Today we’re announcing a partnership between Replit and Accenture. Accenture is investing in Replit, adopting it internally, and working with us to bring secure vibecoding to enterprises globally. They’re one of the largest companies in the world, with 700,000+ employees and](https://x.com/i/status/2042622883839520816)
-- [Today we’re announcing a partnership between Replit and Accenture. Accenture is investing in Replit, adopting it internally, and working with us to bring secure vibecoding to enterprises globally. They’re one of the largest companies in the world, with 700,000+ employees and…](https://x.com/amasad/status/2042622883839520816)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
