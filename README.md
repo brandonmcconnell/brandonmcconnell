@@ -54,7 +54,7 @@
 <!-- TWITTER:START -->
 - [🌶️ hot take: the world would be a better place if .com domains cost $250 per year i’ve given this a lot of thought](https://x.com/branmcconnell/status/2043072473495920872)
 - [.@HAYDENBLEASEL WHAT DID YOU DO??](https://x.com/branmcconnell/status/2042771199827284446)
-- [Today we’re announcing a partnership between Replit and Accenture. Accenture is investing in Replit, adopting it internally, and working with us to bring secure vibecoding to enterprises globally. They’re one of the largest companies in the world, with 700,000+ employees and clients across every part of the economy. The way software gets built is changing. Every company will need to reinvent how they build and operate. This partnership helps accelerate that shift. The future of work is about breaking down barriers, and turning everyone into builders.](https://x.com/i/status/2042622883839520816)
+- [Today we’re announcing a partnership between Replit and Accenture. Accenture is investing in Replit, adopting it internally, and working with us to bring secure vibecoding to enterprises globally. They’re one of the largest companies in the world, with 700,000+ employees and](https://x.com/i/status/2042622883839520816)
 - [Today we’re announcing a partnership between Replit and Accenture. Accenture is investing in Replit, adopting it internally, and working with us to bring secure vibecoding to enterprises globally. They’re one of the largest companies in the world, with 700,000+ employees and…](https://x.com/amasad/status/2042622883839520816)
 - [@InvincibleHQ @nerdyomniman @nocontextnvncbl](https://x.com/branmcconnell/status/2042474152251335065)
 <!-- TWITTER:END -->
