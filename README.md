@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [bro rly got paid 10 mil just to scroll through these ai-native and lowkey aesthetic docs 💀](https://x.com/i/status/2043851407602921961)
 - [bro rly got paid 10 mil just to scroll through these ai-native and lowkey aesthetic docs 💀](https://x.com/leylndd/status/2043851407602921961)
 - [pov: your docs are about to write themselves](https://x.com/branmcconnell/status/2043850314852573682)
 - [Today, we&#39;re announcing Automations. Build lifecycle sequences and drip campaigns: 🔸 triggers 🔸 personalization 🔸 real-time observability Build in the dashboard or via the API.](https://x.com/i/status/2043694923594281058)
 - [Today, we&#39;re announcing Automations. Build lifecycle sequences and drip campaigns: 🔸 triggers 🔸 personalization 🔸 real-time observability Build in the dashboard or via the API. pic.](https://x.com/resend/status/2043694923594281058)
-- [🌶️ hot take: the world would be a better place if .com domains cost $250 per year i’ve given this a lot of thought](https://x.com/branmcconnell/status/2043072473495920872)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
