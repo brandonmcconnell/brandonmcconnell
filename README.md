@@ -53,10 +53,10 @@
 ### My latest tweets
 <!-- TWITTER:START -->
 - [mintlify is now valued at HALF A BILLION dollars 🤯 thankful to be doing the work i love alongside such insanely talented and ambitious builders want to be a part of this amazing team? we&#39;re hiring! →](https://x.com/branmcconnell/status/2044108895816429658)
+- [We just raised a $45M Series B at a $500M valuation led by @a16z and @SalesforceVC to build the knowledge infrastructure for AI](https://x.com/i/status/2044096990729122119)
 - [We just raised a $45M Series B at a $500M valuation led by @a16z and @SalesforceVC to build the knowledge infrastructure for AI pic.](https://x.com/handotdev/status/2044096990729122119)
 - [codechella going hard this year](https://x.com/branmcconnell/status/2044082083279306847)
 - [startup announcement starter pack just dropped](https://x.com/branmcconnell/status/2044080892151562394)
-- [Today, we&#39;re launching the new Resend email editor, extended by AI. When used tastefully, AI can help you: - craft emails that look and sound like you - help you catch mistakes - speed up your workflow](https://x.com/i/status/2044054308157829270)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
