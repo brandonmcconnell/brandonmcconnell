@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [i never learned SQL. first i was too broke, then i was too rich.](https://x.com/branmcconnell/status/2044555113344430196)
 - [learn more here:](https://x.com/branmcconnell/status/2044535875674247275)
 - [curious how works? it&#39;s not just showing/hiding one block vs. another or hinting the agent about what content to prioritize @mintlify unfolds the contents of Visibility conditionally depending on whether the docs are being consumed on web vs. markdown](https://x.com/branmcconnell/status/2044535839666147496)
 - [had fun building and shipping this one! you can now cater specific content for humans vs. agents for the best experience for both](https://x.com/branmcconnell/status/2044505471319769117)
 - [Han and I answered questions about co-founding, pivot hell, late night eats, and a few things that don&#39;t fit in a press release pic.](https://x.com/hahnbeelee/status/2044455863440839101)
-- [mintlify is now valued at HALF A BILLION dollars 🤯 thankful to be doing the work i love alongside such insanely talented and ambitious builders want to be a part of this amazing team? we&#39;re hiring! →](https://x.com/branmcconnell/status/2044108895816429658)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
