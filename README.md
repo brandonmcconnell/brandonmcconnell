@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [Han and I answered questions about co-founding, pivot hell, late night eats, and a few things that don&#39;t fit in a press release pic.](https://x.com/hahnbeelee/status/2044455863440839101)
 - [mintlify is now valued at HALF A BILLION dollars 🤯 thankful to be doing the work i love alongside such insanely talented and ambitious builders want to be a part of this amazing team? we&#39;re hiring! →](https://x.com/branmcconnell/status/2044108895816429658)
 - [RT @handotdev: We just raised a $45M Series B at a $500M valuation led by @a16z and @SalesforceVC to build the knowledge infrastructure for…](https://x.com/branmcconnell/status/2044107735097393334)
 - [We just raised a $45M Series B at a $500M valuation led by @a16z and @SalesforceVC to build the knowledge infrastructure for AI](https://x.com/i/status/2044096990729122119)
 - [We just raised a $45M Series B at a $500M valuation led by @a16z and @SalesforceVC to build the knowledge infrastructure for AI pic.](https://x.com/handotdev/status/2044096990729122119)
-- [codechella going hard this year](https://x.com/branmcconnell/status/2044082083279306847)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
