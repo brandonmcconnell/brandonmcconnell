@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [swag hack: cover your suit jacket in your company&#39;s enamel pins for the gala they&#39;re hosting](https://x.com/branmcconnell/status/2044891249317224851)
 - [it github is willing to ship with this what&#39;s stopping you from shipping today?](https://x.com/branmcconnell/status/2044857548663365736)
 - [@jaredpalmer fyi 🫡](https://x.com/branmcconnell/status/2044857317527871717)
 - [.@github i&#39;d like to report a p0](https://x.com/branmcconnell/status/2044857264696442986)
 - [happy Opus 4.7 day to those who celebrate pic.](https://x.com/pronounsuponly/status/2044802815735054684)
-- [i never learned SQL. first i was too broke, then i was too rich.](https://x.com/branmcconnell/status/2044555113344430196)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
