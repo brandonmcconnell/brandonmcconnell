@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [it github is willing to ship with this what&#39;s stopping you from shipping today?](https://x.com/branmcconnell/status/2044857548663365736)
+- [@jaredpalmer fyi 🫡](https://x.com/branmcconnell/status/2044857317527871717)
+- [.@github i&#39;d like to report a p0](https://x.com/branmcconnell/status/2044857264696442986)
 - [happy Opus 4.7 day to those who celebrate pic.](https://x.com/pronounsuponly/status/2044802815735054684)
 - [i never learned SQL. first i was too broke, then i was too rich.](https://x.com/branmcconnell/status/2044555113344430196)
-- [learn more here:](https://x.com/branmcconnell/status/2044535875674247275)
-- [curious how works? it&#39;s not just showing/hiding one block vs. another or hinting the agent about what content to prioritize @mintlify unfolds the contents of Visibility conditionally depending on whether the docs are being consumed on web vs. markdown](https://x.com/branmcconnell/status/2044535839666147496)
-- [had fun building and shipping this one! you can now cater specific content for humans vs. agents for the best experience for both](https://x.com/branmcconnell/status/2044505471319769117)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
