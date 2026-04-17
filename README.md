@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [had a great time tonight at the @mintlify gala, hanging with so many cool people want to work with us? we’re hiring! →](https://x.com/branmcconnell/status/2045027269073416221)
 - [arrow is years ahead of any perceivable competition @QuiverAI is either gonna exit for billions very soon or eat the entire market](https://x.com/branmcconnell/status/2044935006192378330)
 - [swag hack: cover your suit jacket in your company&#39;s enamel pins for the gala they&#39;re hosting](https://x.com/branmcconnell/status/2044891249317224851)
 - [it github is willing to ship with this what&#39;s stopping you from shipping today?](https://x.com/branmcconnell/status/2044857548663365736)
 - [@jaredpalmer fyi 🫡](https://x.com/branmcconnell/status/2044857317527871717)
-- [.@github i&#39;d like to report a p0](https://x.com/branmcconnell/status/2044857264696442986)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
