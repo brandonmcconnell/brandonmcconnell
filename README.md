@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [mark my words. someone will build an entire business around @resend extensions.](https://x.com/branmcconnell/status/2045369856745488742)
 - [Starting today, agents can now leave feedback to you when reading your docs!](https://x.com/branmcconnell/status/2045206617072054587)
 - […we’re hiring!](https://x.com/branmcconnell/status/2045180043106963722)
 - [had a great time tonight at the @mintlify gala, hanging with so many cool people want to work with us? we’re hiring! →](https://x.com/branmcconnell/status/2045027269073416221)
 - [arrow is years ahead of any perceivable competition @QuiverAI is either gonna exit for billions very soon or eat the entire market](https://x.com/branmcconnell/status/2044935006192378330)
-- [swag hack: cover your suit jacket in your company&#39;s enamel pins for the gala they&#39;re hosting](https://x.com/branmcconnell/status/2044891249317224851)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
