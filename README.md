@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [fantastic read on the state of oss contribution and where It&#39;s headed](https://x.com/branmcconnell/status/2046702522711298456)
 - [it really bothers me that &quot;side note&quot; is 2 words and it&#39;s not just &quot;sidenote&quot;](https://x.com/branmcconnell/status/2046632396599271781)
 - [mark my words. someone will build an entire business around @resend extensions.](https://x.com/branmcconnell/status/2045369856745488742)
 - [Starting today, agents can now leave feedback to you when reading your docs!](https://x.com/branmcconnell/status/2045206617072054587)
 - […we’re hiring!](https://x.com/branmcconnell/status/2045180043106963722)
-- [had a great time tonight at the @mintlify gala, hanging with so many cool people want to work with us? we’re hiring! →](https://x.com/branmcconnell/status/2045027269073416221)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
