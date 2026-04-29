@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [.@SlackHQ if you&#39;re ever at a loss for ideas, just look at my spam @&#39;s to you:](https://x.com/branmcconnell/status/2049276599665860885)
 - [the OGs that changed my life: - @dominikkoch - @bruvimtired - @haydenbleasel - @branmcconnell - @xn1cklas couldn&#39;t be here without these legends 🤍](https://x.com/izadoesdev/status/2048540987660873970)
 - [@nikitabier with so many people getting thousands of dollars in their payouts, i’m pretty confused how this one generated less than $70 👀](https://x.com/branmcconnell/status/2048053283642912916)
 - [i went from mcp hater to power user. mcp is actually really good now. connecting specialized agents unlocks an absurd amount of capability. everything can control everything. but i can’t help but feel orchestration is still grossly lacking, especially when it comes to mcp use.](https://x.com/branmcconnell/status/2047742224499376208)
 - [we have: – tools + agents w/ mcp – shared interfaces – cross-app control but no real coordination layer. &lpar;more than just agent orchestration&rpar; agents don’t share context well. dependencies aren’t understood. work isn’t sequenced intelligently.](https://x.com/branmcconnell/status/2047742225879371783)
-- [draft a spec and upon approval: – plan created → project + issues – agents per task – shared context across deps – code written – code reviewed + ready for final approval – dashboards spun up – team updates posted end-to-end. no babysitting. seems like the natural next step.](https://x.com/branmcconnell/status/2047742227326369909)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
