@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [Oh my oh my. The first government to start catering to clankers.](https://x.com/branmcconnell/status/2049655984331915467)
+- [Oh my oh my. The first government to start catering to clankers.](https://x.com/branmcconnell/status/2049649261818904645)
 - [We released self-updating docs with a lot of toggles and flexibility to control the prompts. After releasing this to users we realized that the vast majority of them did not care to tune the templates. Workflows are now simplified and &quot;one-click&quot;. Try it out today!](https://x.com/hahnbeelee/status/2049596877742718997)
 - [Docs should maintain themselves. Today they do, in one click, with workflows. pic.](https://x.com/mintlify/status/2049593647218462754)
 - [.@SlackHQ if you&#39;re ever at a loss for ideas, just look at my spam @&#39;s to you:](https://x.com/branmcconnell/status/2049276599665860885)
-- [the OGs that changed my life: - @dominikkoch - @bruvimtired - @haydenbleasel - @branmcconnell - @xn1cklas couldn&#39;t be here without these legends 🤍](https://x.com/izadoesdev/status/2048540987660873970)
-- [@nikitabier with so many people getting thousands of dollars in their payouts, i’m pretty confused how this one generated less than $70 👀](https://x.com/branmcconnell/status/2048053283642912916)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
