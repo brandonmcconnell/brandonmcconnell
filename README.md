@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [it’s so frustrating to see someone profiting from others’ work without any credit i’ve noticed this person sharing designs from trusted colleagues and industry leaders i respect, without attribution please think twice before supporting them](https://x.com/branmcconnell/status/2050651245367730648)
 - [image gen is goated for creating dark mode images](https://x.com/branmcconnell/status/2050280091964551438)
 - [i’m so proud](https://x.com/branmcconnell/status/2049683898318422278)
 - [Oh my oh my. The first government to start catering to clankers.](https://x.com/branmcconnell/status/2049655984331915467)
 - [Oh my oh my. The first government to start catering to clankers.](https://x.com/branmcconnell/status/2049649261818904645)
-- [We released self-updating docs with a lot of toggles and flexibility to control the prompts. After releasing this to users we realized that the vast majority of them did not care to tune the templates. Workflows are now simplified and &quot;one-click&quot;. Try it out today!](https://x.com/hahnbeelee/status/2049596877742718997)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
