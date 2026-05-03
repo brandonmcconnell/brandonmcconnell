@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [big git doesn’t want you to know this one secret… amazon already did this and it’s called AWS CodeCommit](https://x.com/branmcconnell/status/2050972408610537503)
 - [It’s 2050. How is AI using you?](https://x.com/branmcconnell/status/2050711735980757008)
 - [i honestly don’t hate it](https://x.com/branmcconnell/status/2050707948742357416)
 - [what if github was built in the 90s](https://x.com/branmcconnell/status/2050703353563525161)
 - [it’s so frustrating to see someone profiting from others’ work without any credit i’ve noticed this person sharing designs from trusted colleagues and industry leaders i respect, without attribution please think twice before supporting them](https://x.com/branmcconnell/status/2050651245367730648)
-- [image gen is goated for creating dark mode images](https://x.com/branmcconnell/status/2050280091964551438)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
