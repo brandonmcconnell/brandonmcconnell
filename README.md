@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [the mintlify help center starter kit is the best way to get started quickly with a new help center we put a lot of time and thought into this one - excited to see how you&#39;ll use it!](https://x.com/branmcconnell/status/2052145405694206457)
+- [our engineering team isn&#39;t using enough ai](https://x.com/skeptrune/status/2052143032498336161)
 - [If you thought mintlify was just for docs… THINK AGAIN Mintlify&#39;s new help center starter kit We put a ton of thought into this. Can&#39;t wait for y&#39;all to try it! 😁](https://x.com/branmcconnell/status/2052133398383300899)
 - [Help centers are the first line of defense for customer support Our new help center starter kit ships with an AI assistant, self-updating articles](https://x.com/mintlify/status/2052131665552760990)
 - [i built themeshot capture your screen in light and dark mode in one shot](https://x.com/kaishan_ding/status/2052106593001714035)
-- [coincidence??!??! i think… MAYBE yeah coincidence](https://x.com/branmcconnell/status/2052068787403555068)
-- [give people a reason not to saaspocalypse your product](https://x.com/branmcconnell/status/2051726183470154212)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
