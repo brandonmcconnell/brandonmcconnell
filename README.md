@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [If you thought mintlify was just for docs… THINK AGAIN Mintlify&#39;s new help center starter kit We put a ton of thought into this. Can&#39;t wait for y&#39;all to try it! 😁](https://x.com/branmcconnell/status/2052133398383300899)
+- [Help centers are the first line of defense for customer support Our new help center starter kit ships with an AI assistant, self-updating articles](https://x.com/mintlify/status/2052131665552760990)
 - [i built themeshot capture your screen in light and dark mode in one shot](https://x.com/kaishan_ding/status/2052106593001714035)
 - [coincidence??!??! i think… MAYBE yeah coincidence](https://x.com/branmcconnell/status/2052068787403555068)
 - [give people a reason not to saaspocalypse your product](https://x.com/branmcconnell/status/2051726183470154212)
-- [this could have been you europe-maxxing this summer but instead you chose to share a 1bdr with four other dudes in sf to walk around the city with your laptop slightly open so your agents won’t stop running.](https://x.com/hamptonism/status/2051289891980636381)
-- [big git doesn’t want you to know this one secret… amazon already did this and it’s called AWS CodeCommit](https://x.com/branmcconnell/status/2050972408610537503)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
