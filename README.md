@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [coincidence??!??! i think… MAYBE yeah coincidence](https://x.com/branmcconnell/status/2052068787403555068)
 - [give people a reason not to saaspocalypse your product](https://x.com/branmcconnell/status/2051726183470154212)
 - [this could have been you europe-maxxing this summer but instead you chose to share a 1bdr with four other dudes in sf to walk around the city with your laptop slightly open so your agents won’t stop running.](https://x.com/hamptonism/status/2051289891980636381)
 - [big git doesn’t want you to know this one secret… amazon already did this and it’s called AWS CodeCommit](https://x.com/branmcconnell/status/2050972408610537503)
 - [&quot;it worked on production just like it did on localhost&quot;](https://x.com/karthikponna19/status/2050931129234940199)
-- [It’s 2050. How is AI using you?](https://x.com/branmcconnell/status/2050711735980757008)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
