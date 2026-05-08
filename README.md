@@ -55,8 +55,8 @@
 - [which is more important, ideation or iteration?](https://x.com/branmcconnell/status/2052787772696711178)
 - [mythos would’ve flagged this in CI](https://x.com/branmcconnell/status/2052412872777720147)
 - [where my lamp stack devs at? 👴](https://x.com/branmcconnell/status/2052262907967312001)
+- [RT @skeptrune: our engineering team isn&#39;t using enough ai](https://x.com/branmcconnell/status/2052147593904521288)
 - [the mintlify help center starter kit is the best way to get started quickly with a new help center we put a lot of time and thought into this one - excited to see how you&#39;ll use it!](https://x.com/branmcconnell/status/2052145405694206457)
-- [our engineering team isn&#39;t using enough ai](https://x.com/skeptrune/status/2052143032498336161)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
