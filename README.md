@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [curious to see how any Paper competitors try to compete with this since there’s nothing else quite like @QuiverAI’s Arrow models in the industry they pretty much own the market of agentic SVG generation](https://x.com/branmcconnell/status/2054622051252777187)
+- [Introducing Mintlify Learn, a free course to help you write better docs for humans and agents. We&#39;ve distilled the most valuable improvements you can make to your docs.](https://x.com/mintlify/status/2053897706134032774)
+- [Introducing Files SDK A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O. An escape hatch when you need the native client. → 18 providers - S3, R2, Vercel Blob, Google Drive, etc. → upload, download, head, delete, copy, list, url →…](https://x.com/haydenbleasel/status/2053883406459740532)
 - [which is more important, ideation or iteration?](https://x.com/branmcconnell/status/2052787772696711178)
 - [mythos would’ve flagged this in CI](https://x.com/branmcconnell/status/2052412872777720147)
-- [where my lamp stack devs at? 👴](https://x.com/branmcconnell/status/2052262907967312001)
-- [RT @skeptrune: our engineering team isn&#39;t using enough ai](https://x.com/branmcconnell/status/2052147593904521288)
-- [the mintlify help center starter kit is the best way to get started quickly with a new help center we put a lot of time and thought into this one - excited to see how you&#39;ll use it!](https://x.com/branmcconnell/status/2052145405694206457)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
