@@ -54,9 +54,9 @@
 <!-- TWITTER:START -->
 - [Files SDK 1.5 → bulk file operations → sftp and ftp adapters → new convex storage adapter → lots of fixes and improvements](https://x.com/haydenbleasel/status/2057868906271064274)
 - [Introducing Workflows, automations to prevent knowledge drift, helping millions of agents understand and use your product without manual upkeep. Stack multiple together or build your own with 1000+ integrations.](https://x.com/mintlify/status/2057471327901270519)
+- [RT @mintlify: Mintlify is now available as an official Claude Connector Search, browser, or edit your documentation directly within Claude…](https://x.com/branmcconnell/status/2056399371294707818)
 - [Mintlify is now available as an official Claude Connector Search, browser, or edit your documentation directly within Claude](https://x.com/mintlify/status/2056396944755540409)
-- [we built an agent panel for the Mintlify editor - write and edit content for you - connect to multiple external sources - reference existing pages - draft and review changes collab with @cdxker @pqoqubbw @jmsbaduor](https://x.com/kaishan_ding/status/2054688550436970844)
-- [curious to see how any Paper competitors try to compete with this since there’s nothing else quite like @QuiverAI’s Arrow models in the industry they pretty much own the market of agentic SVG generation](https://x.com/branmcconnell/status/2054622051252777187)
+- [RT @kaishan_ding: we built an agent panel for the Mintlify editor - write and edit content for you - connect to multiple external sources -…](https://x.com/branmcconnell/status/2054921064493568343)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
