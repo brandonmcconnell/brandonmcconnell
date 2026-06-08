@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [Renewed both my domains thanks again @branmcconnell for sponsoring ❤️](https://x.com/amanvarshney01/status/2064011055685407005)
 - [Files SDK 1.5 → bulk file operations → sftp and ftp adapters → new convex storage adapter → lots of fixes and improvements](https://x.com/haydenbleasel/status/2057868906271064274)
 - [Introducing Workflows, automations to prevent knowledge drift, helping millions of agents understand and use your product without manual upkeep. Stack multiple together or build your own with 1000+ integrations.](https://x.com/mintlify/status/2057471327901270519)
 - [RT @mintlify: Mintlify is now available as an official Claude Connector Search, browser, or edit your documentation directly within Claude…](https://x.com/branmcconnell/status/2056399371294707818)
 - [Mintlify is now available as an official Claude Connector Search, browser, or edit your documentation directly within Claude](https://x.com/mintlify/status/2056396944755540409)
-- [RT @kaishan_ding: we built an agent panel for the Mintlify editor - write and edit content for you - connect to multiple external sources -…](https://x.com/branmcconnell/status/2054921064493568343)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
