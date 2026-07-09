@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [I am building a new team at Mintlify, and I am calling for strong engineers to come join me!! We are looking for folks that want to bring new enterprise product 0-&gt; 1 at Mintlify. Strong builders, and ex-founders are perfect for this role. 👌](https://x.com/justinstorre/status/2074950678724911474)
 - [The year is 2030. You’re sitting in an office. Lo-fi is still somehow a thing. The only sound you hear is the gentle hum of workstations running Fable-27 locally. The weights are hardware-bound and encrypted now. Nobody steals frontier models anymore. You mouth a prompt into the tiny microphone resting beneath your chin. It doesn’t need audible speech anymore, just silent articulation. A pleasant chime plays in your earpiece. Done. You click through the desktop, mobile, tablet, watch, smart ring, AR, and VR experiences. Everything is perfect. Of course it is. It’s always one-shot these days. You let out a quiet chuckle. Everyone looks up. You remember the office’s strict Maximum Audible Outp](https://x.com/branmcconnell/status/2074671217181954135)
 - [i’m not used to ai image generation wowing me these days, but this one caught me by surprise this “image model” did research first, inferred a real product, branded objects accurately, and lowered the photo quality on purpose to make it feel more authentic](https://x.com/branmcconnell/status/2072530730077634841)
 - [this is the most interesting and important wwdc in over a decade bravo @apple](https://x.com/branmcconnell/status/2064044844096659561)
 - [Renewed both my domains thanks again @branmcconnell for sponsoring ❤️](https://x.com/amanvarshney01/status/2064011055685407005)
-- [Files SDK 1.5 → bulk file operations → sftp and ftp adapters → new convex storage adapter → lots of fixes and improvements](https://x.com/haydenbleasel/status/2057868906271064274)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
