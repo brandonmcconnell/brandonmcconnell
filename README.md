@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [if you’re going to yc startup school, join the @mintlify team after day 1 for food, board games, giveaways, and founder-to-founder advice from @hahnbeelee. come hang out with us!](https://x.com/valerieeewong/status/2079365450874691930)
+- [today i&#39;m launching Invisible Details - a course about the invisible stuff that makes interfaces feel right it took me way longer than i hoped, but it&#39;s here](https://x.com/pqoqubbw/status/2079270571242594543)
 - [When we first started Mintlify, we took the bet to be developer-first. It was 1000% the correct bet, because now developer-first = agent-first. We&#39;ll never stop building for developers.](https://x.com/hahnbeelee/status/2075322463895134217)
 - [I am building a new team at Mintlify, and I am calling for strong engineers to come join me!! We are looking for folks that want to bring new enterprise product 0-&gt; 1 at Mintlify. Strong builders, and ex-founders are perfect for this role. 👌](https://x.com/justinstorre/status/2074950678724911474)
 - [The year is 2030. You’re sitting in an office. Lo-fi is still somehow a thing. The only sound you hear is the gentle hum of workstations running Fable-27 locally. The weights are hardware-bound and encrypted now. Nobody steals frontier models anymore. You mouth a prompt into the tiny microphone resting beneath your chin. It doesn’t need audible speech anymore, just silent articulation. A pleasant chime plays in your earpiece. Done. You click through the desktop, mobile, tablet, watch, smart ring, AR, and VR experiences. Everything is perfect. Of course it is. It’s always one-shot these days. You let out a quiet chuckle. Everyone looks up. You remember the office’s strict Maximum Audible Outp](https://x.com/branmcconnell/status/2074671217181954135)
-- [i’m not used to ai image generation wowing me these days, but this one caught me by surprise this “image model” did research first, inferred a real product, branded objects accurately, and lowered the photo quality on purpose to make it feel more authentic](https://x.com/branmcconnell/status/2072530730077634841)
-- [this is the most interesting and important wwdc in over a decade bravo @apple](https://x.com/branmcconnell/status/2064044844096659561)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
