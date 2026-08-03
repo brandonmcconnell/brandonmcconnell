@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [Gif](https://x.com/branmcconnell/status/2084292076695695504)
 - [if she doesn&#39;t support you at vercel․app she doesn&#39;t deserve you at series b](https://x.com/branmcconnell/status/2083439365112639889)
 - [Image](https://x.com/branmcconnell/status/2081810769667031046)
 - [my first successful investment exit! &lpar;on a technicality 🍕&rpar; proud of @interaction and excited for what doors this opens for @cognition](https://x.com/branmcconnell/status/2080686810968068102)
 - [if you’re going to yc startup school, join the @mintlify team after day 1 for food, board games, giveaways, and founder-to-founder advice from @hahnbeelee. come hang out with us!](https://x.com/valerieeewong/status/2079365450874691930)
-- [today i&#39;m launching Invisible Details - a course about the invisible stuff that makes interfaces feel right it took me way longer than i hoped, but it&#39;s here](https://x.com/pqoqubbw/status/2079270571242594543)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
