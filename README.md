@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [.@mintlify exists to empower builders exhibit A:](https://x.com/pronounsuponly/status/2085493175532265671)
 - [pandemic bench](https://x.com/kyanyang_/status/2085490036947239185)
 - [Gif](https://x.com/branmcconnell/status/2084292076695695504)
 - [if she doesn&#39;t support you at vercel․app she doesn&#39;t deserve you at series b](https://x.com/branmcconnell/status/2083439365112639889)
 - [Image](https://x.com/branmcconnell/status/2081810769667031046)
-- [my first successful investment exit! &lpar;on a technicality 🍕&rpar; proud of @interaction and excited for what doors this opens for @cognition](https://x.com/branmcconnell/status/2080686810968068102)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
