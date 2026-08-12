@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [having to /summarize after a banger session](https://x.com/branmcconnell/status/2087367682329030717)
 - [.@mintlify exists to empower builders exhibit A:](https://x.com/pronounsuponly/status/2085493175532265671)
 - [pandemic bench](https://x.com/kyanyang_/status/2085490036947239185)
 - [Introducing the S1 series of models by Superwhisper Built from the ground up, optimized for speed and accuracy⚡️](https://x.com/superwhisper/status/2085440032865742913)
 - [Gif](https://x.com/branmcconnell/status/2084292076695695504)
-- [if she doesn&#39;t support you at vercel․app she doesn&#39;t deserve you at series b](https://x.com/branmcconnell/status/2083439365112639889)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
