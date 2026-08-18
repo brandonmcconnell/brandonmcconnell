@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [if your github grass looks anything like this DM me and I will personally guarantee you an interview](https://x.com/KyleFinken/status/2089789887734259774)
 - [this meeting could&#39;ve been a prompt](https://x.com/branmcconnell/status/2088324365628891428)
 - [our talented designers have too much on their plates so i &lpar;the marketing intern&rpar; was forced to design this myself but we&#39;re hiring more designers and design engs! if you join us youll get to work alongside this phenomenal team: @pqoqubbw @jmsbaduor @faydesignsstuff @jnrkay_x @kaishan_ding](https://x.com/mintlify/status/2087989891875709101)
 - [please help me mog @wachie](https://x.com/branmcconnell/status/2087715065357381835)
 - [if you… - are a talented software eng &lpar;product, frontend, backend, infra, FDE, solutions, security, etc.&rpar; - want to solve really interesting and important problems …apply to join the team at Mintlify!](https://x.com/branmcconnell/status/2087571310570611003)
-- [having to /summarize after a banger session](https://x.com/branmcconnell/status/2087367682329030717)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
