@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [been thinking about this a lot lately](https://x.com/branmcconnell/status/2090113538669088956)
 - [at least they waited till series b](https://x.com/branmcconnell/status/2090088283049234539)
 - [if your github grass looks anything like this DM me and I will personally guarantee you an interview](https://x.com/KyleFinken/status/2089789887734259774)
 - [we&#39;re hiring across sf &amp; ny ┏━━━━━━━━━━━┓ ┃ Applied AI Engineer ┃ ┃ Product Engineer ┃ ┃ Forward Deployed Eng ┃ ┃ AE, SDR, CSM ┃ ┗━━━━━━━━━━━┛ \ &lpar;•‿ •&rpar; / \ / —— | | |_ |_ &amp; more](https://x.com/mintlify/status/2089766405659103520)
 - [this meeting could&#39;ve been a prompt](https://x.com/branmcconnell/status/2088324365628891428)
-- [our talented designers have too much on their plates so i &lpar;the marketing intern&rpar; was forced to design this myself but we&#39;re hiring more designers and design engs! if you join us youll get to work alongside this phenomenal team: @pqoqubbw @jmsbaduor @faydesignsstuff @jnrkay_x @kaishan_ding](https://x.com/mintlify/status/2087989891875709101)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
