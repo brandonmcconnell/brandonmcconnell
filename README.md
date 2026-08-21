@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [“good artists copy, great artists steal”](https://x.com/branmcconnell/status/2090929408857313639)
 - [at least agents read the docs](https://x.com/samlambert/status/2090227360096510135)
 - [got docs? whether you&#39;re setting up docs for the first time or implementing an agent-first workflow, join us.](https://x.com/branmcconnell/status/2090167059711979661)
 - [been thinking about this a lot lately](https://x.com/branmcconnell/status/2090113538669088956)
 - [at least they waited till series b](https://x.com/branmcconnell/status/2090088283049234539)
-- [if your github grass looks anything like this DM me and I will personally guarantee you an interview](https://x.com/KyleFinken/status/2089789887734259774)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
