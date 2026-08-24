@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [i have never deliberated more effectively or booked flights as quickly as i just did with @soarflights on chatgpt via their mcp server no less scanned dozens of routes across different airports and various dates effortlessly](https://x.com/branmcconnell/status/2091670140828201155)
 - [can&#39;t believe i almost overrode my hotkey for converting text to simplified chinese](https://x.com/branmcconnell/status/2091300779647021313)
 - [90s kids will see this and say “sure, here’s my credit card”](https://x.com/branmcconnell/status/2091248547253613028)
 - [“good artists copy, great artists steal”](https://x.com/branmcconnell/status/2090929408857313639)
 - [at least agents read the docs](https://x.com/samlambert/status/2090227360096510135)
-- [got docs? whether you&#39;re setting up docs for the first time or implementing an agent-first workflow, join us.](https://x.com/branmcconnell/status/2090167059711979661)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
