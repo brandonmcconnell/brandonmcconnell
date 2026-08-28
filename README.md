@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [🎉 Mintlify VSCode extension 🎉](https://x.com/justinstorre/status/2093178459438932150)
 - [keiki bots popping off 👀](https://x.com/branmcconnell/status/2092693038414147733)
 - [he should’ve used @calcom](https://x.com/branmcconnell/status/2092082206378528874)
 - [what. 🫪](https://x.com/branmcconnell/status/2091907259437875625)
 - [i have never deliberated more effectively or booked flights as quickly as i just did with @soarflights on chatgpt via their mcp server no less scanned dozens of routes across different airports and various dates effortlessly](https://x.com/branmcconnell/status/2091670140828201155)
-- [can&#39;t believe i almost overrode my hotkey for converting text to simplified chinese](https://x.com/branmcconnell/status/2091300779647021313)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
