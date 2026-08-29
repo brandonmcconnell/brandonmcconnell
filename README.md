@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [a list of the world&#39;s most influential people in artificial intelligence that doesn&#39;t include @JensenHuang? this is so buns](https://x.com/branmcconnell/status/2093599848352342249)
 - [i&#39;m loving my handcrafted github comment format - tags the resolution commit - 1-2 liner summary of the change - collapsible &quot;clanker explanation&quot; - deep link to the clanker comment^ this + some preferences bundled into &quot;/review-pr&quot; how can i make it better?](https://x.com/branmcconnell/status/2093562557428912508)
 - [the pr she told you not to worry about](https://x.com/branmcconnell/status/2093507442198114487)
 - [🎉 Mintlify VSCode extension 🎉](https://x.com/justinstorre/status/2093178459438932150)
 - [keiki bots popping off 👀](https://x.com/branmcconnell/status/2092693038414147733)
-- [he should’ve used @calcom](https://x.com/branmcconnell/status/2092082206378528874)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
