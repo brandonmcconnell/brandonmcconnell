@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [github out here selling snitching at scale](https://x.com/branmcconnell/status/2095228216755863856)
 - [yes we have no bananas](https://x.com/branmcconnell/status/2094149046214840624)
 - [a list of the world&#39;s most influential people in artificial intelligence that doesn&#39;t include @JensenHuang? this is so buns](https://x.com/branmcconnell/status/2093599848352342249)
 - [i&#39;m loving my handcrafted github comment format - tags the resolution commit - 1-2 liner summary of the change - collapsible &quot;clanker explanation&quot; - deep link to the clanker comment^ this + some preferences bundled into &quot;/review-pr&quot; how can i make it better?](https://x.com/branmcconnell/status/2093562557428912508)
 - [the pr she told you not to worry about](https://x.com/branmcconnell/status/2093507442198114487)
-- [🎉 Mintlify VSCode extension 🎉](https://x.com/justinstorre/status/2093178459438932150)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
