@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [is the ai bubble finally popping?](https://x.com/branmcconnell/status/2095543534468403419)
 - [@mintlify is running a cohort for the people always writing notes, docs, and ideas. you&#39;ll get access to our editor and to chat with our team on a consistent basis to make Mintlify the writing tool you&#39;ve always dreamed of. DM me to join](https://x.com/nhalebeed/status/2095289338426974324)
 - [github out here selling snitching at scale](https://x.com/branmcconnell/status/2095228216755863856)
 - [yes we have no bananas](https://x.com/branmcconnell/status/2094149046214840624)
 - [a list of the world&#39;s most influential people in artificial intelligence that doesn&#39;t include @JensenHuang? this is so buns](https://x.com/branmcconnell/status/2093599848352342249)
-- [i&#39;m loving my handcrafted github comment format - tags the resolution commit - 1-2 liner summary of the change - collapsible &quot;clanker explanation&quot; - deep link to the clanker comment^ this + some preferences bundled into &quot;/review-pr&quot; how can i make it better?](https://x.com/branmcconnell/status/2093562557428912508)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
