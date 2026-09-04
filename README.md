@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [former mcp hater here my takeaway is that the more you use mcp, the more realize how goated it is today tool calls especially mixing in custom rules and automations is as close to agi as you can get these days, especially with a good model like fable or astra](https://x.com/branmcconnell/status/2095680340912472350)
 - [Pre-AI: We don&#39;t have enough time and resources to build out every idea. Ideas fizzle out &amp; in turn you get more time to think through the idea. Post-AI: The MVP is cheap &amp; the trade-off of building something ends up becoming whether it&#39;s worth the fluff/distribution push &amp; maintenance cost.](https://x.com/hahnbeelee/status/2095594026099695759)
 - [is the ai bubble finally popping?](https://x.com/branmcconnell/status/2095543534468403419)
 - [@mintlify is running a cohort for the people always writing notes, docs, and ideas. you&#39;ll get access to our editor and to chat with our team on a consistent basis to make Mintlify the writing tool you&#39;ve always dreamed of. DM me to join](https://x.com/nhalebeed/status/2095289338426974324)
 - [github out here selling snitching at scale](https://x.com/branmcconnell/status/2095228216755863856)
-- [yes we have no bananas](https://x.com/branmcconnell/status/2094149046214840624)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
