@@ -53,10 +53,10 @@
 ### My latest tweets
 <!-- TWITTER:START -->
 - [ironic that we get off work on labor day](https://x.com/branmcconnell/status/2096774905987805473)
+- [Image](https://x.com/leylndd/status/2096674054669238473)
 - [chatgpt plus users begging for gpt-6 astra](https://x.com/branmcconnell/status/2096025525164884204)
 - [former mcp hater here my takeaway is that the more you use mcp, the more realize how goated it is today tool calls especially mixing in custom rules and automations is as close to agi as you can get these days, especially with a good model like fable or astra](https://x.com/branmcconnell/status/2095680340912472350)
 - [Pre-AI: We don&#39;t have enough time and resources to build out every idea. Ideas fizzle out &amp; in turn you get more time to think through the idea. Post-AI: The MVP is cheap &amp; the trade-off of building something ends up becoming whether it&#39;s worth the fluff/distribution push &amp; maintenance cost.](https://x.com/hahnbeelee/status/2095594026099695759)
-- [is the ai bubble finally popping?](https://x.com/branmcconnell/status/2095543534468403419)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
