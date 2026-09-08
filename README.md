@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [Won&#39;t be doing css when you&#39;re 30. /goal achieved](https://x.com/cdxker/status/2097143881674653976)
 - [in 2 days, apple will unveil a new iphone you don’t need it, but you’ll buy it the flesh is weak …and the titanium is aerospace grade](https://x.com/branmcconnell/status/2097098937148862879)
 - [humans are cooked](https://x.com/branmcconnell/status/2097013052692652361)
 - [ironic that we get off work on labor day](https://x.com/branmcconnell/status/2096774905987805473)
 - [Image](https://x.com/leylndd/status/2096674054669238473)
-- [chatgpt plus users begging for gpt-6 astra](https://x.com/branmcconnell/status/2096025525164884204)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
