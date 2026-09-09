@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [can confirm](https://x.com/SaaiArora/status/2097800662327398519)
+- [this is all you need to build a $10 billion startup in 2026](https://x.com/branmcconnell/status/2097799959232073986)
+- [cto of replicas uses  btw &lpar;you should too, unless you like torturing yourself with unnecessarily long pr reviews&rpar;](https://x.com/branmcconnell/status/2097799721251393571)
 - [has found pmf internally +1,024 -5 → +11 -3 🫪](https://x.com/branmcconnell/status/2097774395662176644)
 - [your docs never looked so good](https://x.com/branmcconnell/status/2097748137347866846)
-- [Came back after using it for 2 hours. Instantly saved me a ton of time reviewing by hiding generated and test files. Awesome work here. Also, if there is a button that calls the GitHub view API, it would save a lot of time since I use GitHub mobile to review PRs quite often](https://x.com/hariki_rito/status/2097568487950667793)
-- [meet  a browser extension that hides test files in github diffs and prs until you actually want to read them because well... agents write a lot of tests.](https://x.com/branmcconnell/status/2097451538453316068)
-- [Won&#39;t be doing css when you&#39;re 30. /goal achieved](https://x.com/cdxker/status/2097143881674653976)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
