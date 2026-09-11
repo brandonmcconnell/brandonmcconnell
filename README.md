@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [every single ai chat should be an agent endpoint if i want to share some context with @cursor_ai, i want to share a @claudeai link with it and have it either - retrieve its context statically, or - chat with the other agent call it mcp bridge idk](https://x.com/branmcconnell/status/2098210063538381254)
 - [life at mintlify running  for pr reviews +0 -0 lgtm 🚢](https://x.com/branmcconnell/status/2098175075644244373)
 - [is your site ready for iphone duo?](https://x.com/branmcconnell/status/2098106401180783017)
 - [@‍media &lpar;foldable: open&rpar; { body { background: hotpink; transform: skewY&lpar;-10deg&rpar;; } img { content: url&lpar;&quot;doggo.png&quot;&rpar;; position: fixed; top: env&lpar;fold-top&rpar;; left: env&lpar;fold-left&rpar;; } }](https://x.com/branmcconnell/status/2097863007904956539)
 - [taking this nit too personally](https://x.com/branmcconnell/status/2097857792942260575)
-- [just made a 1 line code change by hand to save on a few tokens how did I become such a penny pinching lunatic?](https://x.com/branmcconnell/status/2097842356003430428)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
