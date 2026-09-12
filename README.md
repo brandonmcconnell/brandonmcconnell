@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [them: what do you like about your work? me: the light shows them: the… what?](https://x.com/branmcconnell/status/2098610654844457033)
 - [would you rather have super strength, invisibility, or always get early access to next year’s frontier models before any of your competitors?](https://x.com/branmcconnell/status/2098553755499446308)
 - [me earnestly and repeatedly telling my agents that if they don&#39;t finish the task my grandmother is going to die.](https://x.com/hahnbeelee/status/2098468594573291596)
 - [unlucky](https://x.com/branmcconnell/status/2098447465624334527)
 - [every single ai chat should be an agent endpoint if i want to share some context with @cursor_ai, i want to share a @claudeai link with it and have it either - retrieve its context statically, or - chat with the other agent call it mcp bridge idk](https://x.com/branmcconnell/status/2098210063538381254)
-- [life at mintlify running  for pr reviews +0 -0 lgtm 🚢](https://x.com/branmcconnell/status/2098175075644244373)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
