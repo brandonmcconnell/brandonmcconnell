@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [but why would it lie?](https://x.com/branmcconnell/status/2099367143548862864)
 - [it’s just a fly. what’s the harm in training it? the fly in 2030](https://x.com/branmcconnell/status/2099161145412337680)
 - [every park needs a piano](https://x.com/branmcconnell/status/2098931567251149189)
 - [ngmi if you can&#39;t train the fly on your core product →  🪰](https://x.com/branmcconnell/status/2098879675837870454)
 - [the fly brain has learned markdown](https://x.com/rohandevs/status/2098877254801482206)
-- [them: what do you like about your work? me: the light shows them: the… what?](https://x.com/branmcconnell/status/2098610654844457033)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
