@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [Introducing Arrow 2 Our latest and most advanced models for generating precise, editable vector graphics. Higher quality. Faster outputs. Available now in App and API.](https://x.com/QuiverAI/status/2100295136261349802)
 - [oof](https://x.com/branmcconnell/status/2099912629166944581)
 - [but why would it lie?](https://x.com/branmcconnell/status/2099367143548862864)
 - [it’s just a fly. what’s the harm in training it? the fly in 2030](https://x.com/branmcconnell/status/2099161145412337680)
 - [every park needs a piano](https://x.com/branmcconnell/status/2098931567251149189)
-- [ngmi if you can&#39;t train the fly on your core product →  🪰](https://x.com/branmcconnell/status/2098879675837870454)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
