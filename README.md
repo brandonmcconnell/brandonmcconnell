@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [i don&#39;t think people realize how much of a game changer jev is for near instant routing @typesafeai is cooking](https://x.com/branmcconnell/status/2100797143506419715)
 - [programming in 2026 const assistant = &lpar;q: string&rpar; =&gt; jev&lpar;`boolean? ${q}`&rpar; &gt; 0.5 ? jev&lpar;q&rpar; &gt; 0.5 ? &quot;yes&quot; : &quot;no&quot; : fable&lpar;q&rpar;;](https://x.com/branmcconnell/status/2100786227398193556)
 - [how should your team rethink knowledge when your audience is increasingly acting on it, not just reading it?](https://x.com/branmcconnell/status/2100620936269693134)
 - [@branmcconnell:](https://x.com/hahnbeelee/status/2100619585561256277)
 - [if jev is this good at playing doom, the computer use implications have gotta be insane](https://x.com/branmcconnell/status/2100594974987554911)
-- [Introducing Arrow 2 Our latest and most advanced models for generating precise, editable vector graphics. Higher quality. Faster outputs. Available now in App and API.](https://x.com/QuiverAI/status/2100295136261349802)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
