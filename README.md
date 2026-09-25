@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [is amazing, huge props to whoever built this](https://x.com/leylndd/status/2103194369419612172)
 - [imagine paying $2k for a phone with 2x optical zoom](https://x.com/branmcconnell/status/2101419994420744445)
 - [crazy that dune predicted jev back in the 1960s](https://x.com/branmcconnell/status/2101386579931762733)
 - [i don&#39;t think people realize how much of a game changer jev is for near instant routing @typesafeai is cooking](https://x.com/branmcconnell/status/2100797143506419715)
 - [programming in 2026 const assistant = &lpar;q: string&rpar; =&gt; jev&lpar;`boolean? ${q}`&rpar; &gt; 0.5 ? jev&lpar;q&rpar; &gt; 0.5 ? &quot;yes&quot; : &quot;no&quot; : fable&lpar;q&rpar;;](https://x.com/branmcconnell/status/2100786227398193556)
-- [how should your team rethink knowledge when your audience is increasingly acting on it, not just reading it?](https://x.com/branmcconnell/status/2100620936269693134)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
