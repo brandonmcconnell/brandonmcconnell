@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [a look at we&#39;re working on &amp; what&#39;s ahead at @mintlify should go without saying &lpar;on the roadmap or not&rpar; that we&#39;re always hiring great talent 👉](https://x.com/branmcconnell/status/2105342560332038410)
+- [mintlify.com/roadmap](https://x.com/hahnbeelee/status/2105341577887695347)
 - [does the @github copilot sidebar work for anyone?](https://x.com/branmcconnell/status/2104759724059365868)
 - [is amazing, huge props to whoever built this](https://x.com/leylndd/status/2103194369419612172)
 - [imagine paying $2k for a phone with 2x optical zoom](https://x.com/branmcconnell/status/2101419994420744445)
-- [crazy that dune predicted jev back in the 1960s](https://x.com/branmcconnell/status/2101386579931762733)
-- [i don&#39;t think people realize how much of a game changer jev is for near instant routing @typesafeai is cooking](https://x.com/branmcconnell/status/2100797143506419715)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
