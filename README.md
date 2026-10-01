@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [life is sweeter &lpar;with &rpar;](https://x.com/branmcconnell/status/2105716608845103430)
 - [tesser? i hardly know her -  genius launch by @rohandevs. devboxes on tesser are the simplest way &lpar;by far&rpar; to spin up previews per repo, commit, pr, pr stack, set of parallel branches… tesser handles it all](https://x.com/branmcconnell/status/2105462453568221240)
 - [a look at we&#39;re working on &amp; what&#39;s ahead at @mintlify should go without saying &lpar;on the roadmap or not&rpar; that we&#39;re always hiring great talent 👉](https://x.com/branmcconnell/status/2105342560332038410)
 - [mintlify.com/roadmap](https://x.com/hahnbeelee/status/2105341577887695347)
 - [does the @github copilot sidebar work for anyone?](https://x.com/branmcconnell/status/2104759724059365868)
-- [is amazing, huge props to whoever built this](https://x.com/leylndd/status/2103194369419612172)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
