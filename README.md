@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [Who still has skill issues in 2026?](https://x.com/andrewqu/status/2106581278707589562)
 - [one solid use case we’re all overlooking is helping guys who are terrified of talking to girls build up some reps](https://x.com/branmcconnell/status/2106068052983140383)
 - [.@OpenAI merch going hard](https://x.com/branmcconnell/status/2105866209157951547)
 - [it&#39;s just one pr… how bad could it be?](https://x.com/branmcconnell/status/2105821539665117518)
 - [life is sweeter &lpar;with &rpar;](https://x.com/branmcconnell/status/2105716608845103430)
-- [tesser? i hardly know her -  genius launch by @rohandevs. devboxes on tesser are the simplest way &lpar;by far&rpar; to spin up previews per repo, commit, pr, pr stack, set of parallel branches… tesser handles it all](https://x.com/branmcconnell/status/2105462453568221240)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
