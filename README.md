@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [who says you can’t ship on a plane? thanks @Starlink](https://x.com/branmcconnell/status/2107223564504150290)
 - [my life is about to change @branmcconnell how have I only just discovered this](https://x.com/charlielamb/status/2107148010253914535)
 - [Who still has skill issues in 2026?](https://x.com/andrewqu/status/2106581278707589562)
 - [one solid use case we’re all overlooking is helping guys who are terrified of talking to girls build up some reps](https://x.com/branmcconnell/status/2106068052983140383)
 - [.@OpenAI merch going hard](https://x.com/branmcconnell/status/2105866209157951547)
-- [it&#39;s just one pr… how bad could it be?](https://x.com/branmcconnell/status/2105821539665117518)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
