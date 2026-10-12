@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [hot take: ai is at least 5x better at backend at frontend frontend is the human moat &lpar;for now&rpar;](https://x.com/branmcconnell/status/2109517954799026424)
+- [Yeah, AI is eating frontend. But isn&#39;t it eating backend too? Genuinely curious: What’s the real moat for backend engineers now? Which backend skills are still worth learning deeply?](https://x.com/Huxpro/status/2109453306758373658)
 - [“engineers”](https://x.com/branmcconnell/status/2107974020763361375)
 - [pov: you&#39;re about to change the game forever &lpar;this is  btw&rpar;](https://x.com/branmcconnell/status/2107671189141512687)
 - [by @justinstorre is now GA go tell everybody you know](https://x.com/branmcconnell/status/2107660786349011411)
-- [You can now control agents on your computer from your phone. Check in, reply, or start new tasks from the Cursor iOS app.](https://x.com/cursor_ai/status/2107618653701296162)
-- [team offsite popping off](https://x.com/branmcconnell/status/2107317313469083988)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
