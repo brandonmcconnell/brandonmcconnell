@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [Ultracite v8 just dropped. The linter and formatter for agentic development. → Codex hooks with lint feedback → Config upgrades with Codex → Shared 𝙰𝙶𝙴𝙽𝚃𝚂․𝚖𝚍 rules → Leaner ESLint presets → Git hooks that fix staged files Here&#39;s what&#39;s new ↓](https://x.com/haydenbleasel/status/2109691326229053710)
 - [hot take: ai is at least 5x better at backend at frontend frontend is the human moat &lpar;for now&rpar;](https://x.com/branmcconnell/status/2109517954799026424)
 - [Yeah, AI is eating frontend. But isn&#39;t it eating backend too? Genuinely curious: What’s the real moat for backend engineers now? Which backend skills are still worth learning deeply?](https://x.com/Huxpro/status/2109453306758373658)
 - [“engineers”](https://x.com/branmcconnell/status/2107974020763361375)
 - [pov: you&#39;re about to change the game forever &lpar;this is  btw&rpar;](https://x.com/branmcconnell/status/2107671189141512687)
-- [by @justinstorre is now GA go tell everybody you know](https://x.com/branmcconnell/status/2107660786349011411)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
