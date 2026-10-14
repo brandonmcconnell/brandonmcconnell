@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [design team at @SlackHQ is at it again 🐐](https://x.com/branmcconnell/status/2110445172861685917)
 - [.@hunterchen_7 giving @nytimes visualizations a run for their money with this banger blog post 🔥 see how we &lpar;really all hunter tbh&rpar; made an overall 13x speed improvement on the mintlify editor](https://x.com/branmcconnell/status/2110428546695098785)
 - [dmytro&#39;s website is a work of art agents will be studying this for years to come](https://x.com/branmcconnell/status/2110415698019385726)
 - [If you can&#39;t tell by my last name, I think this is a very good thing.](https://x.com/isquick/status/2110407439619407925)
 - [great ideas often feel silently contagious you come up with a novel idea, build it quickly in isolation, and by the time you’re done, several others have built near identical solutions and even posted about them i chock this phenomenon up to shared pain using today’s tools](https://x.com/branmcconnell/status/2110036337931788458)
-- [Ultracite v8 just dropped. The linter and formatter for agentic development. → Codex hooks with lint feedback → Config upgrades with Codex → Shared 𝙰𝙶𝙴𝙽𝚃𝚂․𝚖𝚍 rules → Leaner ESLint presets → Git hooks that fix staged files Here&#39;s what&#39;s new ↓](https://x.com/haydenbleasel/status/2109691326229053710)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
