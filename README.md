@@ -52,11 +52,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [good morning sf happy vercel day to all who celebrate](https://x.com/branmcconnell/status/2110772694354702810)
 - [anyone know morse code? i think slackbot is trying to tell me something](https://x.com/branmcconnell/status/2110509040963105094)
 - [design team at @SlackHQ is at it again 🐐](https://x.com/branmcconnell/status/2110445172861685917)
 - [.@hunterchen_7 giving @nytimes visualizations a run for their money with this banger blog post 🔥 see how we &lpar;really all hunter tbh&rpar; made an overall 13x speed improvement on the mintlify editor](https://x.com/branmcconnell/status/2110428546695098785)
 - [dmytro&#39;s website is a work of art agents will be studying this for years to come](https://x.com/branmcconnell/status/2110415698019385726)
-- [If you can&#39;t tell by my last name, I think this is a very good thing.](https://x.com/isquick/status/2110407439619407925)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
