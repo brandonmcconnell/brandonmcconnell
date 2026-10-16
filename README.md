@@ -1,4 +1,11 @@
 <h1 align="center">Hi there, I'm Brandon</h1>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://brandonmcconnell.com/profile/desk-dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://brandonmcconnell.com/profile/desk-light.gif">
+    <img alt="ASCII Brandon at his desk, typing his readme while music plays" src="https://brandonmcconnell.com/profile/desk-light.gif" width="704">
+  </picture>
+</p>
 <h3 align="center">This is just one of several places where I tinker with ideas, burn the midnight oil, fix bugs and inadvertently end up creating more of them in the end, but alas… c'est la vie d'un développeur.</h3>
 <div align="center"><a href="https://x.com/branmcconnell" target="blank"><img src="https://img.shields.io/twitter/follow/branmcconnell?style=social&logo=x" alt="Follow branmcconnell on X (formerly Twitter)" /></a><br />&nbsp;<br /></div>
 
