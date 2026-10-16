@@ -63,11 +63,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [it&#39;s &lpar;almost&rpar; time we standardize review bot comments to follow a standardized schema we can iterate for sure, but standardizing is only going to make it easier for tools to understand and grok agent feedback quickly](https://x.com/branmcconnell/status/2110981069357076763)
 - [good morning sf happy vercel day to all who celebrate](https://x.com/branmcconnell/status/2110772694354702810)
 - [anyone know morse code? i think slackbot is trying to tell me something](https://x.com/branmcconnell/status/2110509040963105094)
 - [design team at @SlackHQ is at it again 🐐](https://x.com/branmcconnell/status/2110445172861685917)
 - [.@hunterchen_7 giving @nytimes visualizations a run for their money with this banger blog post 🔥 see how we &lpar;really all hunter tbh&rpar; made an overall 13x speed improvement on the mintlify editor](https://x.com/branmcconnell/status/2110428546695098785)
-- [dmytro&#39;s website is a work of art agents will be studying this for years to come](https://x.com/branmcconnell/status/2110415698019385726)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
