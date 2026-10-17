@@ -63,11 +63,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [just @claudeai claude as model claude as harness claude as agent claude as orchestrator claude as cloud](https://x.com/branmcconnell/status/2111579862628761734)
 - [gm](https://x.com/branmcconnell/status/2111148560091947443)
 - [.@apple&#39;s attention to detail re time-based messaging 🤌](https://x.com/branmcconnell/status/2111000054916092405)
 - [it&#39;s &lpar;almost&rpar; time we standardize review bot comments to follow a standardized schema we can iterate for sure, but standardizing is only going to make it easier for tools to understand and grok agent feedback quickly](https://x.com/branmcconnell/status/2110981069357076763)
 - [good morning sf happy vercel day to all who celebrate](https://x.com/branmcconnell/status/2110772694354702810)
-- [anyone know morse code? i think slackbot is trying to tell me something](https://x.com/branmcconnell/status/2110509040963105094)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
