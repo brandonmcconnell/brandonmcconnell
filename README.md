@@ -63,11 +63,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [pov: markdown is about to get a lot cleaner and more dynamic for a lot of agents any minute now.](https://x.com/branmcconnell/status/2112607312548602293)
 - [Mintlify Autopilot is live in beta merge a feature → get a docs pr ✨ as someone who has written plenty of “docs to follow” in pr descriptions, this one hits close to home](https://x.com/branmcconnell/status/2112577960242987431)
 - [Introducing Autopilot: an always-on agent for your docs. Connect your repo and tools like Slack, turn it on, and Autopilot makes changes as your team ships. You review and merge. It learns from every update. Now available in beta.](https://x.com/mintlify/status/2112570788519747622)
 - [taxes in the 21st century](https://x.com/branmcconnell/status/2112377028439941270)
 - [.@mintlify officially supports OpenAPI 3.2  honestly had a lot of fun exploring and implementing the nuances of this spec version it&#39;s backward compatible with OpenAPI 3.1 so if you&#39;re already on 3.1, just bump your spec version, and it&#39;ll work instantly](https://x.com/branmcconnell/status/2112362138883010715)
-- [hold my oat milk lavender matcha latte…](https://x.com/branmcconnell/status/2112341841760927776)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
