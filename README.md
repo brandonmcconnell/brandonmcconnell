@@ -63,11 +63,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [.@mintlify officially supports OpenAPI 3.2  honestly had a lot of fun exploring and implementing the nuances of this spec version it&#39;s backward compatible with OpenAPI 3.1 so if you&#39;re already on 3.1, just bump your spec version, and it&#39;ll work instantly](https://x.com/branmcconnell/status/2112362138883010715)
 - [hold my oat milk lavender matcha latte…](https://x.com/branmcconnell/status/2112341841760927776)
 - [We rebuilt our MCP from the ground up. Tool calls are faster, more reliable and use fewer tokens.](https://x.com/mintlify/status/2112232623728992363)
 - [y’all they’re naming sf streets after yc founders](https://x.com/branmcconnell/status/2111997737407484165)
 - [just @claudeai claude as model claude as harness claude as agent claude as orchestrator claude as cloud](https://x.com/branmcconnell/status/2111579862628761734)
-- [gm](https://x.com/branmcconnell/status/2111148560091947443)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
