@@ -63,11 +63,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [if quiver ever gets acquired, it&#39;s gonna be a $10b+ acquisition jussayin&#39; this team is so goated](https://x.com/branmcconnell/status/2113332844475122013)
+- [These are all SVG! Something really cool is coming to @QuiverAI around icons, asset families, and styles. Reply for early access.](https://x.com/joanrod_ai/status/2113254300239695958)
 - [his PRs are the best](https://x.com/branmcconnell/status/2113104063223222349)
 - [heard in sf &quot;did you just point your clank at my pr?&quot;](https://x.com/branmcconnell/status/2113085782223474695)
 - [pov: markdown is about to get a lot cleaner and more dynamic for a lot of agents any minute now.](https://x.com/branmcconnell/status/2112607312548602293)
-- [Mintlify Autopilot is live in beta merge a feature → get a docs pr ✨ as someone who has written plenty of “docs to follow” in pr descriptions, this one hits close to home](https://x.com/branmcconnell/status/2112577960242987431)
-- [Introducing Autopilot: an always-on agent for your docs. Connect your repo and tools like Slack, turn it on, and Autopilot makes changes as your team ships. You review and merge. It learns from every update. Now available in beta.](https://x.com/mintlify/status/2112570788519747622)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
