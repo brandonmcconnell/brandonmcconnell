@@ -63,11 +63,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [AI is the ultimate monkey&#39;s paw](https://x.com/branmcconnell/status/2113403096265281965)
 - [&gt; “i&#39;ll have my clank post the evals &gt; &lpar;their words, not mine&rpar;” CMA in 2026](https://x.com/branmcconnell/status/2113378484848599045)
 - [&quot;sign in with claude&quot; is becoming a non-negotiable for getting any meaningful work done at scale these days @capydotai is killing it](https://x.com/branmcconnell/status/2113335131570311330)
 - [if quiver ever gets acquired, it&#39;s gonna be a $10b+ acquisition jussayin&#39; this team is so goated](https://x.com/branmcconnell/status/2113332844475122013)
 - [These are all SVG! Something really cool is coming to @QuiverAI around icons, asset families, and styles. Reply for early access.](https://x.com/joanrod_ai/status/2113254300239695958)
-- [his PRs are the best](https://x.com/branmcconnell/status/2113104063223222349)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
