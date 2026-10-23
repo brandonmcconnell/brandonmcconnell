@@ -63,11 +63,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [heard an engineer say: “it’s crazy that with ai, we’re doing the easiest part of our job now… what&#39;s stopping ai from replacing us?” came here to say, that as an eng, if you’re not doing the hardest part of your job, you may not be doing your job.](https://x.com/branmcconnell/status/2113415390248452362)
 - [AI is the ultimate monkey&#39;s paw](https://x.com/branmcconnell/status/2113403096265281965)
 - [&gt; “i&#39;ll have my clank post the evals &gt; &lpar;their words, not mine&rpar;” CMA in 2026](https://x.com/branmcconnell/status/2113378484848599045)
 - [&quot;sign in with claude&quot; is becoming a non-negotiable for getting any meaningful work done at scale these days @capydotai is killing it](https://x.com/branmcconnell/status/2113335131570311330)
 - [if quiver ever gets acquired, it&#39;s gonna be a $10b+ acquisition jussayin&#39; this team is so goated](https://x.com/branmcconnell/status/2113332844475122013)
-- [These are all SVG! Something really cool is coming to @QuiverAI around icons, asset families, and styles. Reply for early access.](https://x.com/joanrod_ai/status/2113254300239695958)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
