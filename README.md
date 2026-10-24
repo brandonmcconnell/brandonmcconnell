@@ -63,11 +63,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [Anyone know of any cloud agents that run on macOS VM and can do Xcode development? Most cloud agent VMs run on Linux but I would pay EXTRA for Apple support I know I can do this via remote control with my Mac at home, but I don’t want to rely on remote access or my own network](https://x.com/branmcconnell/status/2114093458529132786)
 - [github just killed 72 billion startups](https://x.com/branmcconnell/status/2113775442176164278)
 - [can your docs do that? @mintlify can](https://x.com/branmcconnell/status/2113709218121625833)
 - [.@mintlify agent now runs your own skills](https://x.com/branmcconnell/status/2113699217864806850)
 - [The Mintlify agent now runs your own skills. Upload your style guide, review checklist, or page templates once. The agent loads the right one whenever a task calls for it.](https://x.com/mintlify/status/2113692768115781795)
-- [heard an engineer say: “it’s crazy that with ai, we’re doing the easiest part of our job now… what&#39;s stopping ai from replacing us?” came here to say, that as an eng, if you’re not doing the hardest part of your job, you may not be doing your job.](https://x.com/branmcconnell/status/2113415390248452362)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
