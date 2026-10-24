@@ -63,11 +63,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [github just killed 72 billion startups](https://x.com/branmcconnell/status/2113775442176164278)
 - [can your docs do that? @mintlify can](https://x.com/branmcconnell/status/2113709218121625833)
 - [.@mintlify agent now runs your own skills](https://x.com/branmcconnell/status/2113699217864806850)
 - [The Mintlify agent now runs your own skills. Upload your style guide, review checklist, or page templates once. The agent loads the right one whenever a task calls for it.](https://x.com/mintlify/status/2113692768115781795)
 - [heard an engineer say: “it’s crazy that with ai, we’re doing the easiest part of our job now… what&#39;s stopping ai from replacing us?” came here to say, that as an eng, if you’re not doing the hardest part of your job, you may not be doing your job.](https://x.com/branmcconnell/status/2113415390248452362)
-- [AI is the ultimate monkey&#39;s paw](https://x.com/branmcconnell/status/2113403096265281965)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
