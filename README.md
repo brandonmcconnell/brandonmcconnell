@@ -63,11 +63,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [how is this possible?](https://x.com/branmcconnell/status/2114613295667954024)
 - [my coworker @kaishan_ding built a custom coding agent he runs from slack that outperforms [best frontier model you can think of] in its natural harness even that model admitted his was better. terrible excuse for a benchmark …but i am paying attention](https://x.com/branmcconnell/status/2114567142930866340)
 - [of all the apps Apple could’ve chosen to *NOT optimize* for the iPhone Duo, they chose the Books app??](https://x.com/branmcconnell/status/2114557105789411696)
 - [Anyone know of any cloud agents that run on macOS VM and can do Xcode development? Most cloud agent VMs run on Linux but I would pay EXTRA for Apple support I know I can do this via remote control with my Mac at home, but I don’t want to rely on remote access or my own network](https://x.com/branmcconnell/status/2114093458529132786)
 - [github just killed 72 billion startups](https://x.com/branmcconnell/status/2113775442176164278)
-- [can your docs do that? @mintlify can](https://x.com/branmcconnell/status/2113709218121625833)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
