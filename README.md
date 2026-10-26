@@ -63,11 +63,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [of all the apps Apple could’ve chosen to *NOT optimize* for the iPhone Duo, they chose the Books app??](https://x.com/branmcconnell/status/2114557105789411696)
 - [Anyone know of any cloud agents that run on macOS VM and can do Xcode development? Most cloud agent VMs run on Linux but I would pay EXTRA for Apple support I know I can do this via remote control with my Mac at home, but I don’t want to rely on remote access or my own network](https://x.com/branmcconnell/status/2114093458529132786)
 - [github just killed 72 billion startups](https://x.com/branmcconnell/status/2113775442176164278)
 - [can your docs do that? @mintlify can](https://x.com/branmcconnell/status/2113709218121625833)
 - [.@mintlify agent now runs your own skills](https://x.com/branmcconnell/status/2113699217864806850)
-- [The Mintlify agent now runs your own skills. Upload your style guide, review checklist, or page templates once. The agent loads the right one whenever a task calls for it.](https://x.com/mintlify/status/2113692768115781795)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
