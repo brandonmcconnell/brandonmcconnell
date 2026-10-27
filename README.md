@@ -63,11 +63,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [free idea: an iPhone case that gives AI agents hands prompt from your phone. a remote agent sees the screen and taps, types, and swipes through your apps via a USB-C bridge to iOS developer tools your phone becomes the agent’s workspace](https://x.com/branmcconnell/status/2115124926806200572)
 - [after much internal deliberation, i’ve decided to add one of those obnoxious “used by engineers at ___” logo carousels on the  website the logos are just too good, and in every case, i’ve gotten express permission from a founding/core eng there to use it](https://x.com/branmcconnell/status/2114960302597153156)
 - [how is this possible?](https://x.com/branmcconnell/status/2114613295667954024)
 - [my coworker @kaishan_ding built a custom coding agent he runs from slack that outperforms [best frontier model you can think of] in its natural harness even that model admitted his was better. terrible excuse for a benchmark …but i am paying attention](https://x.com/branmcconnell/status/2114567142930866340)
 - [of all the apps Apple could’ve chosen to *NOT optimize* for the iPhone Duo, they chose the Books app??](https://x.com/branmcconnell/status/2114557105789411696)
-- [Anyone know of any cloud agents that run on macOS VM and can do Xcode development? Most cloud agent VMs run on Linux but I would pay EXTRA for Apple support I know I can do this via remote control with my Mac at home, but I don’t want to rely on remote access or my own network](https://x.com/branmcconnell/status/2114093458529132786)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
