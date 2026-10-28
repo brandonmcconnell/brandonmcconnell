@@ -63,11 +63,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [Just slop forked side chats into @t3codes nightly build. It overwrote the binary to keep it up to date with new releases. I love AI](https://x.com/cdxker/status/2115566119851585651)
 - [who would&#39;ve thought that helping users securely protect, use, and share their secrets would be such a moat. we did. long time users and supporters of @infisical. with all the the security breaches happening, you should be using  too.](https://x.com/branmcconnell/status/2115139254468985298)
 - [your docs. enterprise ready.](https://x.com/branmcconnell/status/2115135777990689278)
 - [Mintlify Enterprise is now available in AWS Marketplace, on infrastructure that has served 2B+ agent visits at 99.999% uptime.](https://x.com/mintlify/status/2115128131048944126)
 - [free idea: an iPhone case that gives AI agents hands prompt from your phone. a remote agent sees the screen and taps, types, and swipes through your apps via a USB-C bridge to iOS developer tools your phone becomes the agent’s workspace](https://x.com/branmcconnell/status/2115124926806200572)
-- [after much internal deliberation, i’ve decided to add one of those obnoxious “used by engineers at ___” logo carousels on the  website the logos are just too good, and in every case, i’ve gotten express permission from a founding/core eng there to use it](https://x.com/branmcconnell/status/2114960302597153156)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
