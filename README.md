@@ -63,11 +63,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [insane. to *TRY TO* log into @google, i had to: 1. enter username 2. enter password 3. enter otp &lpar;should&#39;ve ended here&rpar; 4. scan a qr code with my phone 5. follow the qr code url 6. send an sms message to google 7. return to computer 8. it failed.](https://x.com/branmcconnell/status/2115636518811492373)
 - [@branmcconnell:](https://x.com/patrickrfos/status/2115587699038195966)
 - [Just slop forked side chats into @t3codes nightly build. It overwrote the binary to keep it up to date with new releases. I love AI](https://x.com/cdxker/status/2115566119851585651)
 - [who would&#39;ve thought that helping users securely protect, use, and share their secrets would be such a moat. we did. long time users and supporters of @infisical. with all the the security breaches happening, you should be using  too.](https://x.com/branmcconnell/status/2115139254468985298)
 - [your docs. enterprise ready.](https://x.com/branmcconnell/status/2115135777990689278)
-- [Mintlify Enterprise is now available in AWS Marketplace, on infrastructure that has served 2B+ agent visits at 99.999% uptime.](https://x.com/mintlify/status/2115128131048944126)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
