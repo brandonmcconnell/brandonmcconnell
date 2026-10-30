@@ -63,11 +63,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [a patrick tweet and ARTICLE in 24 hours?! christmas came early](https://x.com/branmcconnell/status/2116222825203966326)
 - [The architecture behind making slopdocs not slop is not 100% not slop Mintlify rebuilt our harness from the ground up, find out how it works here](https://x.com/cdxker/status/2116210005594759195)
 - [at work, we call this the hunter standard very tough numbers to match &lpar;exactly&rpar; but we get close](https://x.com/branmcconnell/status/2115968756367421578)
 - [Mintlify is the best place for humans and agents to write docs Now, it’s built for internal knowledge bases too - realtime multiplayer collaboration - databases - flexible auth - compliance - AI assistant that works where you do &lpar;assistant sidebar, comments, github, slack&rpar;](https://x.com/branmcconnell/status/2115871393812488311)
 - [following a wiki page until a coworker says it changed months ago should not be a rite of passage](https://x.com/branmcconnell/status/2115861567174787121)
-- [aww they remembered 🥰](https://x.com/branmcconnell/status/2115859962085990818)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
