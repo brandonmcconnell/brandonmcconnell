@@ -63,11 +63,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [at work, we call this the hunter standard very tough numbers to match &lpar;exactly&rpar; but we get close](https://x.com/branmcconnell/status/2115968756367421578)
 - [Mintlify is the best place for humans and agents to write docs Now, it’s built for internal knowledge bases too - realtime multiplayer collaboration - databases - flexible auth - compliance - AI assistant that works where you do &lpar;assistant sidebar, comments, github, slack&rpar;](https://x.com/branmcconnell/status/2115871393812488311)
 - [following a wiki page until a coworker says it changed months ago should not be a rite of passage](https://x.com/branmcconnell/status/2115861567174787121)
 - [aww they remembered 🥰](https://x.com/branmcconnell/status/2115859962085990818)
 - [raycast ios keyboard entirely upgrades the os](https://x.com/branmcconnell/status/2115844061622124748)
-- [insane. to *TRY TO* log into @google, i had to: 1. enter username 2. enter password 3. enter otp &lpar;should&#39;ve ended here&rpar; 4. scan a qr code with my phone 5. follow the qr code url 6. send an sms message to google 7. return to computer 8. it failed.](https://x.com/branmcconnell/status/2115636518811492373)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
