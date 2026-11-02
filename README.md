@@ -63,11 +63,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [introducing @tesser_sh &lpar;YC W27&rpar; tesser is the simplest way to offload heavy workloads like dev servers and builds to cloud VMs. every worktree gets its own machines, with automatic port forwarding to your laptop](https://x.com/rohandevs/status/2117297559178023045)
 - [my ai notetaker must think i’m dying](https://x.com/branmcconnell/status/2117127636669591559)
 - [&quot;The goal was to draw closer to what might be called God, to the intelligence that may presumably have designed everything around us.&quot;](https://x.com/branmcconnell/status/2116983212245496146)
 - [i’m an engineer show me your code …](https://x.com/branmcconnell/status/2116924964700131524)
 - [.@SlackHQ could you allow users to use the same formatting tools that agents have access to? especially tables and syntax-highlighted code blocks &lpar;not snippets&rpar; i often have to ask my agents to send messages in order to get tables without resorting to a canvas](https://x.com/branmcconnell/status/2116727515582746988)
-- [a patrick tweet and ARTICLE in 24 hours?! christmas came early](https://x.com/branmcconnell/status/2116222825203966326)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
