@@ -63,11 +63,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [mercury uses !](https://x.com/branmcconnell/status/2117560852778029485)
 - [capy&#39;s shipping game needs to be studied](https://x.com/branmcconnell/status/2117345007774613989)
 - [Captains and Issues are GA! Capy 0.7.0 • Captains: persistent agents, orchestrate hundreds of threads across devices • Issues: filters, full-text search, labels, and due dates • Dock CLI: run Capy headless on any Linux, macOS, or Windows machine](https://x.com/capydotai/status/2117336895818719548)
 - [introducing @tesser_sh &lpar;YC W27&rpar; tesser is the simplest way to offload heavy workloads like dev servers and builds to cloud VMs. every worktree gets its own machines, with automatic port forwarding to your laptop](https://x.com/rohandevs/status/2117297559178023045)
 - [my ai notetaker must think i’m dying](https://x.com/branmcconnell/status/2117127636669591559)
-- [&quot;The goal was to draw closer to what might be called God, to the intelligence that may presumably have designed everything around us.&quot;](https://x.com/branmcconnell/status/2116983212245496146)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
