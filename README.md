@@ -63,11 +63,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [what is the worst that could happen if ai growth sky rockets, becomes so fast that it can&#39;t possibly be measured using today&#39;s tools? …don&#39;t say terminator. but fr, if our society and our tooling can&#39;t keep up, just maybe… they are what needs fixing 🤷🏻‍♂️](https://x.com/branmcconnell/status/2118455003409240146)
 - [so… it&#39;s cool if ai is used to build our products 10x faster? but bad if ai uses ai to make itself 2x faster?](https://x.com/branmcconnell/status/2118450187559694709)
 - [has anyone considered that rebranding AI to SI makes absolutely no sense in terms of naming? ASI → SSI = super super intelligence? ANI → SNI = super narrow intelligence?! 😭](https://x.com/branmcconnell/status/2118420387386274149)
 - [pluribus is just real life, but everyone is a meat proxy 🍖](https://x.com/branmcconnell/status/2117784325546713588)
 - [Five ways to make Mintlify Base work for your team 🧵 Last week, we launched Base, a workspace for agent-human collaboration. Onboarding docs, support playbooks, and engineering specs: every team at Mintlify runs its work through it. Here&#39;s what we&#39;ve learned:](https://x.com/mintlify/status/2117661036241354817)
-- [mercury uses !](https://x.com/branmcconnell/status/2117560852778029485)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
