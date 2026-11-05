@@ -63,11 +63,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [multi-repo pr stacks/queues aren&#39;t that insane when you think about them wish @github would support it. would love to be able to specify: merge infra#1 → client#1 → server#1 → client#2 → server#2 → docs#1 and when all the work is ready, you just send it 🚢](https://x.com/branmcconnell/status/2118475671051886939)
 - [this is so good also, makes cursor drastically more approachable for builders who just want to ship and not worry about the code, repo, prs, etc.](https://x.com/branmcconnell/status/2118472431996465596)
 - [you gotta be kidding me](https://x.com/branmcconnell/status/2118471675557863543)
 - [You can now build live apps in Cursor and share them with a link. Agents have made it easier to write code, but most apps never make it off localhost. Describe the tool you want - Cursor will build it, set up a database, run deterministic and agentic security checks, and deploy.](https://x.com/cursor_ai/status/2118458629091426304)
 - [what is the worst that could happen if ai growth sky rockets, becomes so fast that it can&#39;t possibly be measured using today&#39;s tools? …don&#39;t say terminator. but fr, if our society and our tooling can&#39;t keep up, just maybe… they are what needs fixing 🤷🏻‍♂️](https://x.com/branmcconnell/status/2118455003409240146)
-- [so… it&#39;s cool if ai is used to build our products 10x faster? but bad if ai uses ai to make itself 2x faster?](https://x.com/branmcconnell/status/2118450187559694709)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
