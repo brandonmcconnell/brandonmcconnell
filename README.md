@@ -63,11 +63,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [my imessage app has official been in review with @apple for over 1 week 🫩](https://x.com/branmcconnell/status/2118747739593032096)
 - [is just peak pr overview has never been this cleaned up lol @branmcconnell is peaking](https://x.com/miaugladiator1/status/2118587395322892679)
 - [slack emojis in imessage? yep. download now 👇](https://x.com/branmcconnell/status/2118531262969516406)
 - [your custom slack emojis. now in messages.](https://x.com/branmcconnell/status/2118492729361793289)
 - [multi-repo pr stacks/queues aren&#39;t that insane when you think about them wish @github would support it. would love to be able to specify: merge infra#1 → client#1 → server#1 → client#2 → server#2 → docs#1 and when all the work is ready, you just send it 🚢](https://x.com/branmcconnell/status/2118475671051886939)
-- [this is so good also, makes cursor drastically more approachable for builders who just want to ship and not worry about the code, repo, prs, etc.](https://x.com/branmcconnell/status/2118472431996465596)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
