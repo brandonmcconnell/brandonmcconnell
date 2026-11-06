@@ -63,11 +63,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [slack emojis in imessage? yep. download now 👇](https://x.com/branmcconnell/status/2118531262969516406)
 - [your custom slack emojis. now in messages.](https://x.com/branmcconnell/status/2118492729361793289)
 - [multi-repo pr stacks/queues aren&#39;t that insane when you think about them wish @github would support it. would love to be able to specify: merge infra#1 → client#1 → server#1 → client#2 → server#2 → docs#1 and when all the work is ready, you just send it 🚢](https://x.com/branmcconnell/status/2118475671051886939)
 - [this is so good also, makes cursor drastically more approachable for builders who just want to ship and not worry about the code, repo, prs, etc.](https://x.com/branmcconnell/status/2118472431996465596)
 - [you gotta be kidding me](https://x.com/branmcconnell/status/2118471675557863543)
-- [You can now build live apps in Cursor and share them with a link. Agents have made it easier to write code, but most apps never make it off localhost. Describe the tool you want - Cursor will build it, set up a database, run deterministic and agentic security checks, and deploy.](https://x.com/cursor_ai/status/2118458629091426304)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
