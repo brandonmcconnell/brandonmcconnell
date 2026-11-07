@@ -63,11 +63,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [low-key @github is just copying  at this point](https://x.com/branmcconnell/status/2118982577138925601)
 - [being a florida native myself, there&#39;s one clear tell this isn&#39;t GTA VI …it isn&#39;t absolutely flat.](https://x.com/branmcconnell/status/2118789033799336065)
 - [my imessage app has official been in review with @apple for over 1 week 🫩](https://x.com/branmcconnell/status/2118747739593032096)
 - [is just peak pr overview has never been this cleaned up lol @branmcconnell is peaking](https://x.com/miaugladiator1/status/2118587395322892679)
 - [slack emojis in imessage? yep. download now 👇](https://x.com/branmcconnell/status/2118531262969516406)
-- [your custom slack emojis. now in messages.](https://x.com/branmcconnell/status/2118492729361793289)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
