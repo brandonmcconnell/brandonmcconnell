@@ -63,11 +63,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [let&#39;s test your design intuition… what does the left button do? what about the right? if you said they both do the exact same thing… YOU&#39;RE RIGHT](https://x.com/branmcconnell/status/2120029414939656399)
+- [pov your $500 codex plan resets in 3 hours](https://x.com/branmcconnell/status/2120027842788626876)
 - [nah we just need to be more secure github is right to do this](https://x.com/branmcconnell/status/2119880200330879401)
 - [PSA: github is triggering little temporary outages to warn you of BIG PERMANENT degradation 🚨](https://x.com/branmcconnell/status/2119865573429616690)
 - [new , who dis?](https://x.com/branmcconnell/status/2119214174635168245)
-- [is something you don’t know you need. Once you use it, it becomes a must.](https://x.com/yuvaraj_sai_/status/2119099971505160685)
-- [low-key @github is just copying  at this point](https://x.com/branmcconnell/status/2118982577138925601)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
