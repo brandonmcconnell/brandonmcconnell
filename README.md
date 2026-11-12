@@ -63,11 +63,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [the little things are the big things 💅 nice little ui interaction/animation added in](https://x.com/branmcconnell/status/2120765646959190208)
 - [.@vercel movie when? call it zeitgeist](https://x.com/branmcconnell/status/2120545388021338554)
 - [we need a url pattern that allows fallbacks for deeplinks like `cursor://cursor.com/agents` that falls back to https when the deeplink doesn&#39;t find the referenced app with the condition that the url must be handled by both &lpar;hence the 2 &quot;cursor&quot; strings in that one url&rpar;](https://x.com/branmcconnell/status/2120309027779596678)
 - [let&#39;s test your design intuition… what does the left button do? what about the right? if you said they both do the exact same thing… YOU&#39;RE RIGHT](https://x.com/branmcconnell/status/2120029414939656399)
 - [pov your $500 codex plan resets in 3 hours](https://x.com/branmcconnell/status/2120027842788626876)
-- [nah we just need to be more secure github is right to do this](https://x.com/branmcconnell/status/2119880200330879401)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
