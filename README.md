@@ -12,7 +12,7 @@
 <table border="0">
     <tr>
         <td>👔</td>
-        <td>I’m a frontend engineer at <b><a href="https://mintlify.com" target="_blank">Mintlify</a></b>, working on the docs platform.</td>
+        <td>I was a frontend engineer at <b><a href="https://mintlify.com" target="_blank">Mintlify</a></b> (Jan to Nov 2026), working on the docs platform.</td>
     </tr>
     <tr>
         <td>🧰</td>
