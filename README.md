@@ -12,7 +12,7 @@
 <table border="0">
     <tr>
         <td>🧰</td>
-        <td>I also run <b><a href="https://github.com/toolwind" target="_blank">Toolwind</a></b>, the org behind my Tailwind CSS plugins and a registry of Tailwind tools that Vercel’s OSS program is helping me build.</td>
+        <td>I run <b><a href="https://github.com/toolwind" target="_blank">Toolwind</a></b>, the org behind my Tailwind CSS plugins and a registry of Tailwind tools that Vercel’s OSS program is helping me build.</td>
     </tr>
     <tr>
         <td>🔨</td>
