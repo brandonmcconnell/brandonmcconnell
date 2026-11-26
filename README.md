@@ -59,11 +59,11 @@
 
 ### My latest tweets
 <!-- TWITTER:START -->
+- [who’s making the “build once, use everywhere” toolkit for building and distributing plugins for AI services and applications? — to be clear, I’m not talking about setting up and using your plugins everywhere. @executorsh is the clear winner in that category](https://x.com/branmcconnell/status/2126062160983826725)
 - [Link your Claude Platform organization to Mintlify. No API key to share. Anthropic bills Claude API usage in Mintlify’s assistant, agent, Autopilot, and automations directly to your Claude organization on your existing terms. Available for Enterprise customers on BYOM.](https://x.com/mintlify/status/2122757207511216512)
 - [in terms of code generation, you are the biggest bottleneck in the way of ai shipping as quickly and as much as possible so why do we need humans in the loop? we are the ultimate gate for ensuring quality and security &lpar;for now&rpar;](https://x.com/branmcconnell/status/2121392443006623934)
 - [the little things are the big things 💅 nice little ui interaction/animation added in](https://x.com/branmcconnell/status/2120765646959190208)
 - [.@vercel movie when? call it zeitgeist](https://x.com/branmcconnell/status/2120545388021338554)
-- [we need a url pattern that allows fallbacks for deeplinks like `cursor://cursor.com/agents` that falls back to https when the deeplink doesn&#39;t find the referenced app with the condition that the url must be handled by both &lpar;hence the 2 &quot;cursor&quot; strings in that one url&rpar;](https://x.com/branmcconnell/status/2120309027779596678)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me</h3>
